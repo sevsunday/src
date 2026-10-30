@@ -1,0 +1,10 @@
+program: Instant.dll
+image_base: 4fc00000
+executable_md5: 5117eeb1f06deb75126d4afef215a11c
+executable_sha256: c17c7d1c7fa7a75b87f3350f3b66599e207e9ece580d555b5c7c5051bd7e407d
+ghidra: 12.2
+source_map_api: yes
+functions: 1899 (user 932)
+decompiled: 932 failed: 0
+files: 45
+globals: 14451

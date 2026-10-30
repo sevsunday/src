@@ -1,0 +1,56 @@
+# ---- build outputs (regenerable) ----
+# NOTE: NTFS is case-insensitive, so the output root must not be named "Build"
+#       (it would be the same folder as build/ and get the scripts ignored).
+/out/
+# engine + VSR session logs from the lockstep A/B runs: kept locally only
+/out/parity-logs/
+*.obj
+*.ilk
+*.exp
+*.iobj
+*.ipdb
+*.pch
+*.idb
+*.tlog
+*.log
+# our own build PDBs/DLLs live under out/; the ORIGINAL binaries under original/ are tracked
+/source/**/*.dll
+/source/**/*.pdb
+/source/**/*.lib
+
+# ---- portable tools (downloaded, never committed) ----
+/tools/_local/
+
+# ---- Rebellion SDK: read from %BZCC_DIR% at build time, never redistributed ----
+# (the 1.3-era headers inside reference/ancestor-1.3/Source/fun3d/ are part of
+#  GBD's public source pack and ARE tracked; this guards against copying the
+#  installed game's headers/libs into the tree by mistake)
+/sdk/
+/third_party/sdk/
+/third_party/bzcc/
+/battlezone2.lib
+/ScriptUtils.h
+/AiCmds.h
+
+# ---- scratch ----
+/_scratch/
+/tmp/
+*.tmp
+*.bak
+*.orig
+*.swp
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# ---- editors ----
+/.vs/
+/.vscode/
+/.idea/
+*.user
+*.suo
+
+# ---- python bytecode ----
+__pycache__/
+*.pyc
+

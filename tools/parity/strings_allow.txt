@@ -1,0 +1,1 @@
+# tools/check_strings.py - regex per line; project-approved string deltas (explain each in STATUS.md)

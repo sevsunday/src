@@ -1,0 +1,170 @@
+//////////////////////////////////////////////////////////////////////////////
+//
+// Copyright 1997-98 Activision Studios, Strategy Group
+//
+// Battlezone II - Setup for game mission
+//
+ 
+// Camera views
+Bind("+shift F1", "view.set.cockpit");
+Bind("+shift F2", "view.set.forward");
+Bind("+shift F3", "view.set.chase");
+Bind("+shift F4", "view.cockpit");
+Bind("+shift F5", "view.interface");
+Bind("+shift F9", "view.set.schematic");
+Bind("+shift F10", "view.set.satellite");
+Bind("+shift F12", "view.set.freeeye");
+
+// Group toggle
+Bind("-shift -ctrl F1", "control.group.toggle1");
+Bind("-shift -ctrl F2", "control.group.toggle2");
+Bind("-shift -ctrl F3", "control.group.toggle3");
+Bind("-shift -ctrl F4", "control.group.toggle4");
+Bind("-shift -ctrl F5", "control.group.toggle5");
+Bind("-shift -ctrl F6", "control.group.toggle6");
+Bind("-shift -ctrl F7", "control.group.toggle7");
+Bind("-shift -ctrl F8", "control.group.toggle8");
+Bind("-shift -ctrl F9", "control.group.toggle9");
+Bind("-shift -ctrl F10", "control.group.toggle10");
+
+// Group move
+Bind("-shift +ctrl F1", "control.group.move1");
+Bind("-shift +ctrl F2", "control.group.move2");
+Bind("-shift +ctrl F3", "control.group.move3");
+Bind("-shift +ctrl F4", "control.group.move4");
+Bind("-shift +ctrl F5", "control.group.move5");
+Bind("-shift +ctrl F6", "control.group.move6");
+Bind("-shift +ctrl F7", "control.group.move7");
+Bind("-shift +ctrl F8", "control.group.move8");
+Bind("-shift +ctrl F9", "control.group.move9");
+Bind("-shift +ctrl F10", "control.group.move10");
+
+// Teammate selection
+Bind("-shift -ctrl F10", "control.team.toggle1");
+Bind("-shift -ctrl F9", "control.team.toggle2");
+Bind("-shift -ctrl F8", "control.team.toggle3");
+Bind("-shift -ctrl F7", "control.team.toggle4");
+
+// Teammate send units
+Bind("-shift +ctrl F10", "control.team.moveto1");
+Bind("-shift +ctrl F9", "control.team.moveto2");
+Bind("-shift +ctrl F8", "control.team.moveto3");
+Bind("-shift +ctrl F7", "control.team.moveto4");
+
+// Editor keys
+Bind("+ctrl E", "mission.edit");
+Bind("+ctrl Z", "editor.undo");
+Bind("+ctrl A", "editor.redo");
+
+// Activate chat
+Bind("-shift -ctrl Enter", "network.chatline.activate2");
+Bind("-shift +ctrl Enter", "network.session.togglescores");
+
+// Chat Mode Toggle
+Bind("-ctrl ;", "network.chateditline '/chatall';network.chatline.entered");
+Bind("-ctrl '", "network.chateditline '/chatteam';network.chatline.entered");
+
+// Select all teammates
+Bind("-shift -ctrl F12", "control.team.toggle1");
+Bind("-shift -ctrl F12", "control.team.toggle2");
+Bind("-shift -ctrl F12", "control.team.toggle3");
+Bind("-shift -ctrl F12", "control.team.toggle4");
+
+// Select all teammates except for commander
+Bind("-shift -ctrl F11", "control.team.toggle2");
+Bind("-shift -ctrl F11", "control.team.toggle3");
+Bind("-shift -ctrl F11", "control.team.toggle4");
+
+// Game keys
+Bind("+alt P", "mission.pause");
+Bind("Pause", "mission.pause");
+Bind("+alt X", "mission.exit");
+Bind("+ctrl S", "game.save");
+Bind("+ctrl O", "game.load");
+Bind("+alt F", "vid.framerate");
+Bind("+ctrl T", "game.clearobjectives");
+
+// Escape screen
+Bind("Escape", "mission.escape");
+
+// Debug keys, remove me for release
+//Bind("+alt M", "vid.render.multilayer");
+//Bind("+alt L", "vid.render.lighting");
+//Bind("+alt W", "vid.render.wireterrain");
+//Bind("+alt T", "vid.render.terrainreduce");
+//Bind("+alt V", "vid.nextmode");
+//Bind("+alt K", "vid.xmm");
+//Bind("+alt A", "ai.autopilot");
+//Bind("+alt \", "mono.toggle");
+//Bind("+alt ]", "mono.next");
+//Bind("+alt [", "mono.prev");
+//Bind("+alt +ctrl ]", "mono.pgdn");
+//Bind("+alt +ctrl [", "mono.pgup");
+
+//Cineractive keys
+//Bind("+alt R", "script.start.record");
+//Bind("+alt E", "script.stop.record");
+//Bind("+alt 1", "script.start.vehicle");
+//Bind("+alt 2", "script.stop.vehicle");
+//Bind("+alt 3", "script.play.vehicle");
+//Bind("+alt 4", "script.skip.cin");
+
+// Playback controls
+Bind("+ctrl R", "playback.restart");
+Bind("+ctrl P", "playback.stop");
+
+// Screen grab
+Bind("+ctrl G", "iface.screenshot");
+
+// Single Player Cheat keys
+Bind("+alt h", "game.cheat bzstealth"); //Change user to team 0 (ignored by AI)
+Bind("+alt j", "game.cheat bzbody");    //Infinite Health
+Bind("+alt k", "game.cheat bztnt");     //Infinite Ammo
+Bind("+alt l", "game.cheat bzradar");   //Full Radar
+Bind("+alt ;", "game.cheat bzfree");    //Infinite Scrap Supply
+Bind("+alt '", "game.cheat bzview");    //Free Sat View, hit Shift+F10 to activate
+
+// Toggle Normal Maps
+Bind("b", "bump.toggle");
+
+
+
+/////Newkeys for in-game communication and logistics/////
+
+//Build a pod with Q
+Bind ("-shift -ctrl q", "control.base.set1;control.command.item7.trigger");
+
+//Select Entire Team with F11
+Bind("-shift -ctrl F11", "control.team.toggle1");
+Bind("-shift -ctrl F11", "control.team.toggle2");
+Bind("-shift -ctrl F11", "control.team.toggle3");
+Bind("-shift -ctrl F11", "control.team.toggle4");
+
+//Logistical (row 1 of number pad)
+Bind("-shift Numpad1", "network.chateditline 'Stay together';network.chatline.entered");
+Bind("-shift Numpad2", "network.chateditline 'Help me!';network.chatline.entered");
+Bind("-shift Numpad3", "network.chateditline 'Paint me a target!';network.chatline.entered");
+
+//Defensive (row 2 of number pad)
+Bind("-shift Numpad4", "network.chateditline 'RETREAT!!';network.chatline.entered");
+Bind("-shift Numpad5", "network.chateditline 'Defend this area!';network.chatline.entered");
+Bind("-shift Numpad6", "network.chateditline 'Get back to base!';network.chatline.entered");
+
+//Alerts (row 3 of number pad)
+Bind("-shift Numpad7", "network.chateditline 'INCOMING!!!';network.chatline.entered");
+Bind("-shift Numpad8", "network.chateditline 'Watch out...sniper here!';network.chatline.entered");
+Bind("-shift Numpad9", "network.chateditline '&%$#@!, INBOUND BOMBER!!!';network.chatline.entered");
+
+//Requests and commands (perimeter of number pad)
+Bind("-shift Numpad0", "network.chateditline 'Need 2 Pods!!';network.chatline.entered");
+Bind("-shift Numpad.", "network.chateditline 'I need a scav!';network.chatline.entered");
+Bind("-shift NumpadEnter", "network.chateditline 'CANCEL!!!';network.chatline.entered");
+Bind("-shift Numpad*", "network.chateditline 'Hit their pools!';network.chatline.entered");
+Bind("-shift Numpad/", "network.chateditline 'Hit their base!';network.chatline.entered");
+
+
+// Team Colors
+Bind ("+shift ,", "game.teamcolors 0"); //Off   
+Bind ("+shift .", "game.teamcolors 1"); //Default
+Bind ("+shift /", "game.teamcolors 2"); //Team Play
+Bind ("+shift Non-US/?", "game.teamcolors 2"); //Team Play

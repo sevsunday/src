@@ -1,0 +1,187 @@
+rva	size	section	scope	module	decl	value
+00056a40	8	.rdata	local	gs_report.obj	_EXCEPTION_POINTERS GS_ExceptionPointers	"c0e9c64f10eac64f"
+00056a4c	8	.rdata	global	<globals>	void __cdecl (* const type_info::`vftable'[2])()	["0x4fc3f728", null]
+0005755c	104	.rdata	global	<globals>	void __cdecl (* const Strategy02::`vftable'[26])()	["0x4fc01dd7", "0x4fc4832f", "0x4fc46776", "0x4fc46a20", "0x4fc46991", "0x4fc4616f", "0x4fc460d9", "0x4fc41f90", "0x4fc480e5", "0x4fc41f1e", "0x4fc41ef1", "0x4fc41798", "0x4fc41736", "0x4fc416e2", "0x4fc46762", "0x4fc407db", "0x4fc478ea", "0x4fc47869", "0x4fc4766b", "0x4fc477a0", "0x4fc41614", "0x4fc4745f", "0x4fc473d0", "0x4fc472fe", "0x4fc0fda5", "0x72746e45"]
+000587a0	40	.rdata	global	<globals>	const Hash_GOClass MiscClass[10]	["CLASS_SCRAP", "CLASS_DEPOSIT", "CLASS_NAVBEACON", "CLASS_OBJECTSPAWN", "CLASS_SIGN", "CLASS_SPAWNBUOY", "CLASS_ARTIFACT", "CLASS_FLAG", "CLASS_KINGOFHILL", "CLASS_BOID"]
+000587d0	52	.rdata	global	<globals>	const char* ClassLabelPoweredBuildings[13]	["powered", "turret", "supplydepot", "barracks", "factory", "armory", "shieldtower", "commbunker", "commtower", "sensor", "techcenter", "bomberbay", "teleportal"]
+00058810	44	.rdata	global	<globals>	const Hash_GOClass WeaponClass[11]	["CLASS_MINE_PROXIMITY", "CLASS_MINE_MAGNET", "CLASS_MINE_WEAPON", "CLASS_MINE_TRIP", "CLASS_FLAREMINE", "CLASS_SPRAYBOMB", "CLASS_SPRAYBUILDING", "CLASS_TORPEDO", "CLASS_SEEKER", "CLASS_SATCHELCHARGE", "CLASS_MINE"]
+00058840	84	.rdata	global	<globals>	const char* ClassLabelBuildings[21]	["powered", "turret", "silo", "supplydepot", "barracks", "factory", "armory", "recycler", "shieldtower", "extractor", "commbunker", "commtower", "powerplant", "powerlung", "jammer", "sensor", "techcenter", "bomberbay", "teleportal", "terrain", "i76building"]
+000588a0	3888	.rdata	local	LuaMission.obj	const luaL_Reg LuaBindings::sLuaScriptUtils[486]	["902ec64f60e5c44f", "9c2ec64fa5f5c44f", "a82ec64f38b7c44f", "b42ec64fd907c54f", "c02ec64f8ae2c44f", "d02ec64f54c4c44f", "dc2ec64f7ffcc44f", "e82ec64f1a08c54f", "f42ec64fd8acc44f", "002fc64fa5e5c44f", "0c2fc64f8efdc44f", "142fc64f3d01c54f", "1c2fc64fb7e1c44f", "282fc64f2f1fc54f", "342fc64fa5c8c44f", "482fc64f2acbc44f", "5c2fc64f6aa4c44f", "702fc64f02b8c44f", "802fc64f4ae9c44f", "8c2fc64fd4d6c44f", "9c2fc64fbcd9c44f", "b02fc64f020dc54f", "bc2fc64fe5a2c44f", "c42fc64f310ac54f", "cc2fc64f13d8c44f", "d42fc64ff0e3c44f", "dc2fc64fcedec44f", "e42fc64ffe2cc54f", "ec2fc64ff7eec44f", "f42fc64f3600c54f", "fc2fc64f1b41c54f", "0430c64f9ee7c44f", "0c30c64f8420c54f", "1430c64fa7eac44f", "1c30c64fb9dac44f", "2430c64f3e8ec44f", "2c30c64f453dc54f", "3430c64f1a97c44f", "4030c64f29f1c44f", "4830c64f0d95c44f", "5030c64fae02c54f", "6030c64f42c0c44f", "6830c64f46ebc44f", "7430c64f103ec54f", "8430c64f7edcc44f", "9030c64ffbcec44f", "9c30c64f2e3fc54f", "a830c64f2beec44f", "b430c64f9311c54f", "c430c64ffa3ac54f", "d030c64ff3f4c44f", "dc30c64fcbaac44f", "e430c64f77f1c44f", "f030c64f839ec44f", "0031c64fef09c54f", "1031c64f8eadc44f", "2031c64f6201c54f", "3031c64f59f8c44f", "3c31c64f46fac44f", "4431c64fe0f7c44f", "5031c64f8c21c54f", "5c31c64f74c0c44f", "6831c64fb141c54f", "7431c64fc539c54f", "7c31c64f6f97c44f", "8831c64f2d2ec54f", "9431c64f092ac54f", "a031c64f1816c54f", "ac31c64fdc41c54f", "bc31c64fc59ac44f", "d031c64fafb2c44f", "cc75c54f9519c54f", "e431c64fe3a3c44f", "f431c64f07b0c44f", "fc31c64f3619c54f", "0432c64fe211c54f", "1432c64f3407c54f", "1c32c64fceb8c44f", "2c32c64fc49bc44f", "4032c64f84f8c44f", "5432c64ff924c54f", "6832c64f01a9c44f", "7c32c64fa600c54f", "9032c64f3fbcc44f", "a432c64f6042c54f", "b432c64f94f7c44f", "c832c64f4633c54f", "d432c64f3245c54f", "e032c64fe53dc54f", "f032c64f0dccc44f", "f832c64f77b3c44f", "0c33c64f3eeac44f", "2033c64f9438c54f", "3433c64fb8a5c44f", "4833c64ff7c9c44f", "5833c64fc82bc54f", "6833c64fdfd5c44f", "7c33c64f983dc54f", "8c33c64fe896c44f", "9833c64f4fb0c44f", "a433c64f9a07c54f", "b433c64f0aadc44f", "c433c64f3114c54f", "d433c64f14e9c44f", "e433c64f3b98c44f", "f033c64ff9dcc44f", "0434c64f64dcc44f", "1834c64f1020c54f", "2c34c64f5c31c54f", "3c34c64fed02c54f", "4834c64f99bac44f", "5034c64ffb37c54f", "5c34c64faefdc44f", "6c34c64f1f03c54f", "7834c64f24e0c44f", "8034c64fbeabc44f", "8c34c64fac1dc54f", "9c34c64f20a4c44f", "ac34c64fef1ec54f", "bc34c64f7e06c54f", "d034c64fb3bac44f", "e434c64feed6c44f", "f434c64f85a6c44f", "0035c64ff6c7c44f", "0835c64fe8b7c44f", "1435c64f7dffc44f", "2035c64f65e2c44f", "2c35c64f08c7c44f", "4035c64f533fc54f", "5435c64fd9f1c44f", "6835c64f38a3c44f", "7035c64fc0b5c44f", "7c35c64f32b0c44f", "8c35c64f559bc44f", "a035c64f71fdc44f", "b435c64fa9f1c44f", "c835c64f90b5c44f", "d835c64f53cfc44f", "e835c64f8d01c54f", "fc35c64fd8bcc44f", "1036c64f91c7c44f", "2436c64f81e0c44f", "3c36c64fa226c54f", "5036c64f6045c54f", "6036c64f7d42c54f", "7036c64f9ba5c44f", "8436c64f0d01c54f", "9836c64f5dabc44f", "b036c64fc710c54f", "bc36c64f0037c54f", "c436c64f2fd3c44f", "d036c64fabb8c44f", "e436c64fd6dcc44f", "f836c64f15b7c44f", "1037c64f5b06c54f", "2037c64f6735c54f", "3037c64f12e5c44f", "4037c64fa63fc54f", "5437c64f9df0c44f", "6037c64f0413c54f", "6c37c64f23b3c44f", "7c37c64fefe1c44f", "8437c64f9545c54f", "9437c64f7607c54f", "a437c64f26f4c44f", "b437c64f1bbcc44f", "c037c64f623ac54f", "cc37c64fbfe0c44f", "d837c64fb0cdc44f", "e437c64f582ec54f", "f037c64fe730c54f", "0038c64ffad2c44f", "1038c64ffda1c44f", "2038c64fd7e5c44f", "3438c64f74f6c44f", "4438c64f6793c44f", "5038c64f1ea6c44f", "6038c64f0a11c54f", "6c38c64ffae8c44f", "7c38c64f8cbdc44f", "8c38c64f9046c54f", "a038c64f22f8c44f", "b038c64fd9fdc44f", "c038c64fedb1c44f", "cc38c64feb9dc44f", "e438c64f57e3c44f", "f438c64feab6c44f", "fc38c64f6ea2c44f", "0839c64f78fac44f", "1439c64fcd30c54f", "2439c64f7fc5c44f", "3039c64fadd4c44f", "3839c64feddbc44f", "4839c64f97ffc44f", "5439c64fb1aac44f", "6039c64f60dfc44f", "7039c64fb60ac54f", "7c39c64fcac8c44f", "8839c64f6324c54f", "9c39c64fb812c54f", "ac39c64fb9adc44f", "bc39c64f700dc54f", "d039c64f56a0c44f", "dc39c64fbf0ac54f", "e839c64f5195c44f", "fc39c64f13ffc44f", "0c3ac64fb0dcc44f", "1c3ac64f14f2c44f", "2c3ac64f33e2c44f", "383ac64facfac44f", "483ac64ffc3ec54f", "583ac64f62f0c44f", "643ac64f5c08c54f", "783ac64fd729c54f", "8c3ac64f5fe6c44f", "a03ac64f95cbc44f", "b43ac64f2247c54f", "cc3ac64f21dfc44f", "dc3ac64faf24c54f", "f03ac64fc430c54f", "043bc64f0b21c54f", "143bc64fe2efc44f", "243bc64fe3a1c44f", "303bc64fa6bdc44f", "403bc64f4991c44f", "503bc64f1c92c44f", "643bc64fe108c54f", "743bc64f3593c44f", "883bc64ff506c54f", "983bc64fee3cc54f", "ac3bc64f8e08c54f", "c03bc64f47dcc44f", "cc3bc64f7314c54f", "e03bc64f840ac54f", "ec3bc64fb8b6c44f", "f83bc64f9cdec44f", "043cc64f8df2c44f", "103cc64f70a5c44f", "1c3cc64fd720c54f", "283cc64f6938c54f", "343cc64f3a3bc54f", "403cc64f88a2c44f", "4c3cc64f35e5c44f", "583cc64f2412c54f", "703cc64fe98fc44f", "8c3cc64fbc11c54f", "a83cc64f5e20c54f", "bc3cc64f6119c54f", "c83cc64fc1a5c44f", "d43cc64f3bacc44f", "e03cc64f653bc54f", "ec3cc64f8c19c54f", "043dc64f3c47c54f", "1c3dc64f13d7c44f", "303dc64fab04c54f", "4c3dc64fe42cc54f", "6c3dc64f6ef1c44f", "843dc64fa19bc44f", "903dc64f58f2c44f", "a03dc64ff4e0c44f", "ac3dc64f62d4c44f", "c03dc64f81aac44f", "d43dc64f2bf8c44f", "e83dc64fbe46c54f", "f43dc64f37d6c44f", "fc3dc64ff039c54f", "043ec64ff534c54f", "0c3ec64f66acc44f", "183ec64fb4f3c44f", "283ec64f15dac44f", "383ec64fadc5c44f", "483ec64f458fc44f", "5c3ec64ff4f6c44f", "6c3ec64f06bdc44f", "7c3ec64f7595c44f", "943ec64f59bac44f", "ac3ec64f8db6c44f", "c43ec64f14b4c44f", "dc3ec64fe0b3c44f", "e83ec64f3dadc44f", "fc3ec64f10b6c44f", "0c3fc64fa197c44f", "283fc64fc93fc54f", "443fc64fa9cac44f", "543fc64fe2f1c44f", "6c3fc64ff8cac44f", "7c3fc64f8a35c54f", "8c3fc64f7cb9c44f", "983fc64f1625c54f", "a43fc64fdfd4c44f", "b03fc64feb2bc54f", "c03fc64f9ef8c44f", "cc3fc64f8fa4c44f", "d83fc64fb9cdc44f", "e83fc64f9733c54f", "f43fc64f1632c54f", "0440c64f8ea9c44f", "2440c64f82e3c44f", "3440c64f5898c44f", "4040c64f15e3c44f", "5040c64fce91c44f", "5c40c64fc3cac44f", "6c40c64fb997c44f", "7840c64ffac1c44f", "8840c64fc903c54f", "9840c64fda31c54f", "a840c64fa906c54f", "b440c64fd11ec54f", "c040c64f883fc54f", "cc40c64f92c9c44f", "d840c64f6626c54f", "e040c64f9291c44f", "e840c64f7acdc44f", "0041c64f2adfc44f", "1041c64f9fc0c44f", "2441c64f6da3c44f", "3841c64fb595c44f", "4441c64fb824c54f", "5041c64ff3f0c44f", "6441c64f86a1c44f", "7041c64f0390c44f", "8041c64f3fb4c44f", "9c41c64f6f9dc44f", "a841c64fce1cc54f", "b841c64ffd46c54f", "c441c64fc59ec44f", "d041c64f7aa0c44f", "dc41c64fc706c54f", "ec41c64fd794c44f", "0042c64f7d03c54f", "1442c64f0292c44f", "2842c64fd726c54f", "3842c64f4aefc44f", "5042c64f3e12c54f", "6442c64fbaa0c44f", "7c42c64f0221c54f", "9042c64f0d14c54f", "a442c64f7911c54f", "b442c64f8510c54f", "c042c64f6913c54f", "cc42c64fc5eec44f", "d842c64fe9bbc44f", "e442c64f3d1bc54f", "f042c64fcbe2c44f", "fc42c64fc300c54f", "0843c64f5cbcc44f", "1443c64f15c1c44f", "3043c64faba9c44f", "5443c64ff210c54f", "6843c64fc4c7c44f", "7c43c64fb309c54f", "8843c64fb8f2c44f", "9443c64fe13fc54f", "9c43c64f2702c54f", "a443c64f37ffc44f", "b443c64fc7fec44f", "c443c64ff69bc44f", "d443c64f3aa1c44f", "e443c64ffaeac44f", "f843c64faef7c44f", "0c44c64f4f1ec54f", "2044c64fab13c54f", "2c44c64f49a6c44f", "3c44c64fca3ec54f", "5044c64fb3a2c44f", "6444c64f94f0c44f", "7844c64fa792c44f", "8c44c64f39e1c44f", "a444c64fafccc44f", "bc44c64f9e19c54f", "d044c64f2d38c54f", "d844c64f4db2c44f", "e844c64f16a0c44f", "f444c64f131ec54f", "0845c64f84f3c44f", "1845c64f51c6c44f", "3045c64fb242c54f", "4045c64fc1f0c44f", "5045c64f2baac44f", "5c45c64f8f1cc54f", "7445c64f5127c54f", "8c45c64f20e6c44f", "9845c64f2d20c54f", "a445c64fe7ecc44f", "b845c64f8bb1c44f", "c845c64f9703c54f", "d445c64f29f7c44f", "e045c64fa9d6c44f", "ec45c64fa6bcc44f", "f845c64f3929c54f", "0846c64fadbbc44f", "1446c64fc2e3c44f", "2846c64f133dc54f", "3446c64feca5c44f", "3c46c64fbfcec44f", "4c46c64ff79ac44f", "5c46c64fcaefc44f", "7046c64fc09fc44f", "8046c64feca3c44f", "9046c64f34f6c44f", "a046c64f400dc54f", "b046c64f7141c54f", "c046c64fbdb1c44f", "d846c64f5fc7c44f", "e446c64fc1fcc44f", "f446c64fe1b2c44f", "0047c64f1dcac44f", "1447c64f85a9c44f", "2847c64fe5bac44f", "3047c64f8db2c44f", "4447c64f5bf7c44f", "5047c64f423ec54f", "5c47c64f31c9c44f", "6847c64f9293c44f", "7047c64f7c2ec54f", "8047c64f7edcc44f", "8847c64f2d38c54f", "9047c64ff9dcc44f", "a847c64f15dac44f", "b847c64f700dc54f", "c447c64f56a0c44f", "d047c64fbf0ac54f", "dc47c64f3a2ac54f", "e847c64f19e1c44f", "f847c64f04e0c44f", "0c48c64f13e2c44f", "1848c64fc7ebc44f", "2848c64f77fec44f", "3848c64fe244c54f", "4848c64f7600c54f", "5c48c64fdd13c54f", "7048c64f2d9fc44f", "8048c64f059fc44f", "8c48c64f4af4c44f", "9c48c64ffebac44f", "b048c64f729bc44f", "b848c64f78ebc44f", "c848c64fb19cc44f", "d448c64f26cac44f", "e048c64fe6f2c44f", "f048c64fd11dc54f", "fc48c64fba36c54f", "0449c64f0142c54f", "1449c64ff1fcc44f", "2049c64fe30ac54f", "3449c64f871bc54f", "4049c64f482bc54f", "5449c64f5647c54f", "6049c64fc504c54f", "7849c64f560bc54f", "9449c64f4d94c44f", "ac49c64f05cdc44f", "c449c64fe014c54f", "d849c64f91e6c44f", "ec49c64f1740c54f", "fc49c64f06b9c44f", "144ac64fa13dc54f", "2c4ac64f3db6c44f", "404ac64f911ec54f", "584ac64f52d3c44f", "6c4ac64f0f99c44f", "804ac64fd1fac44f", "944ac64f72b0c44f", "a44ac64f6caec44f", "b84ac64feb42c54f", "c84ac64f9fa6c44f", "dc4ac64f3511c54f", "ec4ac64f6802c54f", "fc4ac64fe12dc54f", "0c4bc64f1030c54f", "204bc64f85f9c44f", "344bc64fd727c54f", "444bc64f58a7c44f", "544bc64fbfd7c44f", "684bc64fd992c44f", "7c4bc64faf2ac54f", "944bc64fd3adc44f", "a84bc64f599ac44f", "bc4bc64f1ea9c44f", "d44bc64fbb01c54f", "e44bc64f8ef6c44f", "f44bc64ffcefc44f", "084cc64f5d9fc44f", "184cc64f46adc44f", "284cc64f2dd7c44f", "0000000000000000"]
+0005a174	12	.rdata	local	Strategy02.obj	Vector LuaBindings::z_axis	"00000000000000000000803f"
+0005a180	12	.rdata	local	Strategy02.obj	Vector LuaBindings::y_axis	"000000000000803f00000000"
+0005a18c	12	.rdata	local	LuaMission.obj	Vector LuaBindings::z_axis	"00000000000000000000803f"
+0005a198	12	.rdata	local	LuaMission.obj	Vector LuaBindings::y_axis	"000000000000803f00000000"
+0005c884	96	.rdata	global	<globals>	void __cdecl (* const DLLBase::`vftable'[24])()	["0x4fc09709", "0x4fc407f8", "0x4fc407f3", "0x4fc407ee", "0x4fc407e9", "0x4fc407e6", "0x4fc407e3", "0x4fc407e2", "0x4fc407e1", "0x4fc407d0", "0x4fc407de", "0x4fc407cb", "0x4fc407ae", "0x4fc40793", "0x4fc4078b", "0x4fc407db", "0x4fc407d8", "0x4fc407d5", "0x4fc40786", "0x4fc40783", "0x4fc4077d", "0x4fc40777", "0x4fc40774", "0x4fc6799c"]
+0005c8e4	104	.rdata	global	<globals>	void __cdecl (* const BZ1Helper::`vftable'[26])()	["0x4fc0b649", "0x4fc407f8", "0x4fc0c58f", "0x4fc0b943", "0x4fc0c1bd", "0x4fc0cbb6", "0x4fc0e0b1", "0x4fc0f04b", "0x4fc407e1", "0x4fc407d0", "0x4fc407de", "0x4fc407cb", "0x4fc407ae", "0x4fc40793", "0x4fc4078b", "0x4fc407db", "0x4fc407d8", "0x4fc407d5", "0x4fc0f75a", "0x4fc0f94b", "0x4fc0fc31", "0x4fc0fca9", "0x4fc40774", "0x4fc0fda5", "0x4fc0fda5", "0x00000001"]
+0005c948	12	.rdata	local	MathUtils.obj	unsigned int next[3]	[1, 2, 0]
+0005d980	12	.rdata	global	<globals>	void __cdecl (* const MorphObjectHelper::`vftable'[3])()	["0x4fc164c9", "0x4fc1762e", "0x52524143"]
+0005e1a4	12	.rdata	global	<globals>	void __cdecl (* const CarrierHelper::`vftable'[3])()	["0x4fc17db1", "0x4fc18e25", null]
+00060d8c	12	.rdata	global	<globals>	void __cdecl (* const DispatchHelper::`vftable'[3])()	["0x4fc1fe02", "0x4fc2375b", "0x49484556"]
+00062e2c	104	.rdata	global	<globals>	void __cdecl (* const LuaMission::`vftable'[26])()	["0x4fc2ae28", "0x4fc4832f", "0x4fc47d92", "0x4fc47f3d", "0x4fc47f1c", "0x4fc48245", "0x4fc481c1", "0x4fc48141", "0x4fc480e5", "0x4fc47cc2", "0x4fc47c41", "0x4fc47b82", "0x4fc47a69", "0x4fc4796b", "0x4fc471e4", "0x4fc407db", "0x4fc478ea", "0x4fc47869", "0x4fc4766b", "0x4fc477a0", "0x4fc47565", "0x4fc4745f", "0x4fc473d0", "0x4fc472fe", "0x4fc0fda5", "0x48746547"]
+0006e020	216	.data	global	<globals>	const char* CommandList[54]	["CMD_NONE", "CMD_SELECT", "CMD_STOP", "CMD_GO", "CMD_ATTACK", "CMD_FOLLOW", "CMD_FORMATION", "CMD_PICKUP", "CMD_DROPOFF", "CMD_UNDEPLOY", "CMD_DEPLOY", "CMD_NO_DEPLOY", "CMD_GET_REPAIR", "CMD_GET_RELOAD", "CMD_GET_WEAPON", "CMD_GET_CAMERA", "CMD_GET_BOMB", "CMD_DEFEND", "CMD_RESCUE", "CMD_RECYCLE", "CMD_SCAVENGE", "CMD_HUNT", "CMD_BUILD", "CMD_PATROL", "CMD_STAGE", "CMD_SEND", "CMD_GET_IN", "CMD_LAY_MINES", "CMD_LOOK_AT", "CMD_SERVICE", "CMD_UPGRADE", "CMD_DEMOLISH", "CMD_POWER", "CMD_BACK", "CMD_DONE", "CMD_CANCEL", "CMD_SET_GROUP", "CMD_SET_TEAM", "CMD_SEND_GROUP", "CMD_TARGET", "CMD_INSPECT", "CMD_SWITCHTEAM", "CMD_INTERFACE", "CMD_LOGOFF", "CMD_AUTOPILOT", "CMD_MESSAGE", "CMD_CLOSE", "CMD_MORPH_SETDEPLOYED", "CMD_MORPH_SETUNDEPLOYED", "CMD_MORPH_UNLOCK", "CMD_BAILOUT", "CMD_BUILD_ROTATE", "CMD_CMDPANEL_SELECT", "CMD_CMDPANEL_DESELECT"]
+0006e0f8	12	.data	global	<globals>	const char* RandomizeTypeList[3]	["Randomize_None", "Randomize_ByRace", "Randomize_Any"]
+0006e104	4	.data	global	<globals>	float CameraTime	-1.0
+0006e108	8	.data	global	<globals>	const char* PreGetInReturnCodesList[2]	["PREGETIN_DENY", "PREGETIN_ALLOW"]
+0006e110	64	.data	global	<globals>	const char* TauntTypesList[16]	["TAUNTS_GameStart", "TAUNTS_NewHuman", "TAUNTS_LeftHuman", "TAUNTS_HumanShipDestroyed", "TAUNTS_HumanRecyDestroyed", "TAUNTS_CPURecyDestroyed", "TAUNTS_Random", "TAUNTS_Category7", "TAUNTS_Category8", "TAUNTS_Category9", "TAUNTS_Category10", "TAUNTS_Category11", "TAUNTS_Category12", "TAUNTS_Category13", "TAUNTS_Category14", "TAUNTS_Category15"]
+0006e150	16	.data	global	<globals>	const char* EjectKillRetCodeList[4]	["EJECTKILLRETCODES_DOEJECTPILOT", "EJECTKILLRETCODES_DORESPAWNSAFEST", "EJECTKILLRETCODES_DLLHANDLED", "EJECTKILLRETCODES_DOGAMEOVER"]
+0006e160	8	.data	global	<globals>	const char* PrePickupPowerupReturnCodesList[2]	["PREPICKUPPOWERUP_DENY", "PREPICKUPPOWERUP_ALLOW"]
+0006e168	8	.data	global	<globals>	const char* PreSnipeReturnCodesList[2]	["PRESNIPE_KILLPILOT", "PRESNIPE_ONLYBULLETHIT"]
+0006e170	32	.data	global	<globals>	const char* DeathmatchGameSubtypesList[8]	["DMSubtype_Normal", "DMSubtype_KOH", "DMSubtype_CTF", "DMSubtype_Loot", "DMSubtype_RESERVED1", "DMSubtype_Race1", "DMSubtype_Race2", "DMSubtype_Normal2"]
+0006e190	16	.data	global	<globals>	const char* TeamRelationshipList[4]	["TEAMRELATIONSHIP_INVALIDHANDLE", "TEAMRELATIONSHIP_SAMETEAM", "TEAMRELATIONSHIP_ALLIEDTEAM", "TEAMRELATIONSHIP_ENEMYTEAM"]
+0006e1a0	64	.data	global	<globals>	int LastTauntPrinted[16]	[-1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0006e1e0	64	.data	local	Strategy02.obj	Matrix Identity_Matrix	"0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000803f"
+0006e220	64	.data	local	BZCScriptUtils.obj	Matrix Identity_Matrix	"0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000803f"
+0006e260	256	.data	local	Taunts.obj	char CPUTeamName[256]	"Team Computer"
+0006e360	64	.data	local	BZ1Helper.obj	Matrix Identity_Matrix	"0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000803f"
+0006e3a0	64	.data	local	AmbientSoundHelper.obj	Matrix Identity_Matrix	"0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000803f"
+0006e3e0	64	.data	local	PowerHelper.obj	Matrix Identity_Matrix	"0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000803f"
+0006e420	64	.data	local	UtilityShipHelper.obj	Matrix Identity_Matrix	"0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000803f"
+0006e460	64	.data	local	GravityHelper.obj	Matrix Identity_Matrix	"0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000803f"
+0006e4a0	64	.data	local	MorphObjectHelper.obj	Matrix Identity_Matrix	"0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000803f"
+0006e4e0	64	.data	local	CarrierHelper.obj	Matrix Identity_Matrix	"0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000803f"
+0006e520	64	.data	local	AttacherHelper.obj	Matrix Identity_Matrix	"0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000803f"
+0006e560	64	.data	local	ProductionClassHelper.obj	Matrix Identity_Matrix	"0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000803f"
+0006e5a0	64	.data	local	UndeployHelper.obj	Matrix Identity_Matrix	"0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000803f"
+0006e5e0	64	.data	local	BuildingHelper.obj	Matrix Identity_Matrix	"0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000803f"
+0006e620	64	.data	local	DispatchHelper.obj	Matrix Identity_Matrix	"0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000803f"
+0006e660	64	.data	local	VehicleHelper.obj	Matrix Identity_Matrix	"0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000803f"
+0006e6a0	64	.data	local	ObjectHelper.obj	Matrix Identity_Matrix	"0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000803f"
+0006e6e0	64	.data	local	PowerupHelper.obj	Matrix Identity_Matrix	"0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000803f"
+0006e720	64	.data	local	AIWeaponHelper.obj	Matrix Identity_Matrix	"0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000803f"
+0006e760	64	.data	local	ScrapHelper.obj	Matrix Identity_Matrix	"0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000803f"
+0006e7a0	64	.data	local	PortalHelper.obj	Matrix Identity_Matrix	"0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000803f"
+0006e7e0	64	.data	local	LuaMission.obj	Matrix Identity_Matrix	"0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000803f"
+0006e820	12	.data	local	LuaBindings.obj	Vector LuaBindings::z_axis	"00000000000000000000803f"
+0006e82c	12	.data	local	LuaBindings.obj	Vector LuaBindings::y_axis	"000000000000803f00000000"
+0006e838	64	.data	local	LuaBindings.obj	Matrix Identity_Matrix	"0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000803f"
+0006e9c0	80	.data	local	gs_report.obj	_EXCEPTION_RECORD GS_ExceptionRecord	"<80 bytes, sha-free hex omitted>"
+0006ea10	716	.data	local	gs_report.obj	_CONTEXT GS_ContextRecord	"<716 bytes, sha-free hex omitted>"
+0006ece8	1	.data	local	utility.obj	bool is_initialized_as_dll	false
+0006ece9	1	.data	local	utility.obj	bool module_local_atexit_table_initialized	false
+0006ecec	12	.data	local	utility.obj	_onexit_table_t module_local_atexit_table	"000000000000000000000000"
+0006ecf8	12	.data	local	utility.obj	_onexit_table_t module_local_at_quick_exit_table	"000000000000000000000000"
+0006ed20	72	.data	global	<globals>	MisnImport misnImport	"<72 bytes, sha-free hex omitted>"
+0006ed68	4	.data	global	<globals>	DLLBase* Mission	
+0006ed6c	4	.data	global	<globals>	int StartingVehicleManager::s_NumStartingVehicleEntries	0
+0006ed70	2048	.data	global	<globals>	char StartingVehicleManager::s_StartingVehicleList[32][64]	["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""]
+0006f570	256	.data	global	<globals>	char CustomAIPNameBase[256]	""
+0006f670	4	.data	global	<globals>	int EasterEggSound	0
+0006f674	4	.data	global	<globals>	_iobuf* LogFile	
+0006f678	1024	.data	global	<globals>	char TempMsgString[1024]	""
+0006fa78	64	.data	global	<globals>	char TempInitialPilotODFName[64]	""
+0006fab8	64	.data	global	<globals>	char TempNextVehicleODF[64]	""
+0006faf8	64	.data	global	<globals>	char TempCombineStrings[64]	""
+0006fb38	64	.data	global	<globals>	char TempGetInfoName[64]	""
+0006fb78	64	.data	global	<globals>	char TempRandomUtilityODFName[64]	""
+0006fbb8	64	.data	global	<globals>	char TempGetConfigODFName[64]	""
+0006fbf8	4	.data	global	<globals>	int TauntHeaderCount	0
+0006fbfc	4	.data	global	<globals>	int TauntRandomHeader	0
+0006fc00	256	.data	global	<globals>	char TempGetUnitName[256]	""
+0006fd00	64	.data	global	<globals>	char TempGetUIScaledCfgName[64]	""
+0006fd40	64	.data	global	<globals>	char TempGetODFName[64]	""
+0006fd80	64	.data	global	<globals>	char TempGetClasslabelString[64]	""
+0006fdc0	64	.data	global	<globals>	char TempGetPilotConfig[64]	""
+0006fe00	64	.data	global	<globals>	char TempRandomDefensiveODFName[64]	""
+0006fe40	64	.data	global	<globals>	char LogFileName[64]	""
+0006fe80	64	.data	global	<globals>	char TempInitialRecyclerODFName[64]	""
+0006fec0	64	.data	global	<globals>	char TempRandomOffensiveODFName[64]	""
+0006ff00	1024	.data	global	<globals>	char TauntHeaders[64][16]	["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""]
+00070300	64	.data	global	<globals>	char* TauntBuffer[16]	[null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null]
+00070340	1	.data	global	<globals>	bool BZ1Helper::AuxGaugeSet	false
+00070341	1	.data	global	<globals>	bool BZ1Helper::DeathCameraOn	false
+00070342	1	.data	global	<globals>	char BZ1Helper::WorldSetting	0
+00070343	1	.data	global	<globals>	bool BZ1Helper::HullGaugeSet	false
+00070344	4	.data	global	<globals>	int BZ1Helper::m_TurnCounter	0
+00070348	4	.data	global	<globals>	float BZ1Helper::CloakGauge	0.0
+0007034c	4	.data	global	<globals>	float BZ1Helper::m_ModVersion	0.0
+00070350	4	.data	global	<globals>	int BZ1Helper::m_GameTPS	0
+00070354	4	.data	global	<globals>	int BZ1Helper::m_GameVersion	0
+00070358	4	.data	global	<globals>	int BZ1Helper::DeathCameraTeam	0
+0007035c	4	.data	global	<globals>	float BZ1Helper::AuxGauge	0.0
+00070360	4	.data	global	<globals>	float BZ1Helper::HullGauge2	0.0
+00070364	4	.data	global	<globals>	int BZ1Helper::TotalMapObjects	0
+00070368	1	.data	global	<globals>	bool BZ1Helper::AmmoGaugeSet	false
+00070369	1	.data	global	<globals>	bool BZ1Helper::Logging	false
+0007036a	1	.data	global	<globals>	bool BZ1Helper::CloakGaugeSet	false
+00070370	64	.data	global	<globals>	int m_SwitchTeamA[16]	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+000703b0	64	.data	global	<globals>	int m_SwitchTeamB[16]	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+000703f0	4	.data	global	<globals>	float BZ1Helper::AmmoGauge2	0.0
+000703f4	4	.data	global	<globals>	int BZ1Helper::DeathCameraTime	0
+000703f8	4	.data	global	<globals>	int BZ1Helper::m_GameType	0
+000703fc	4	.data	global	<globals>	BZ1Helper* BZ1Helper::m_BZ1Helper	
+00070400	12	.data	global	<globals>	Vector BZ1Helper::OffMapPos	"000000000000000000000000"
+0007040c	4	.data	global	<globals>	PowerHelper* PowerHelper::m_PowerHelper	
+00070410	4	.data	global	<globals>	UtilityShipHelper* UtilityShipHelper::m_UtilityShipHelper	
+00070414	4	.data	global	<globals>	MorphObjectHelper* MorphObjectHelper::m_MorphObjectHelper	
+00070418	4	.data	global	<globals>	UndeployHelper* UndeployHelper::m_UndeployHelper	
+0007041c	4	.data	global	<globals>	BuildingHelper* BuildingHelper::m_BuildingHelper	
+00070420	4	.data	global	<globals>	DispatchHelper* DispatchHelper::m_DispatchHelper	
+00070424	4	.data	global	<globals>	PowerupHelper* PowerupHelper::m_PowerupHelper	
+00070428	4	.data	global	<globals>	ScrapHelper* ScrapHelper::m_ScrapHelper	
+0007042c	4	.data	local	Strategy02.obj	const float FLAT_MAX_HEIGHT_DIFF	0.0
+00070430	4	.data	local	BZCScriptUtils.obj	const float FLAT_MAX_HEIGHT_DIFF	0.0
+00070434	12	.data	global	<globals>	std::vector<BZ1Helper::AlignTerrainReplaceClass,std::allocator<BZ1Helper::AlignTerrainReplaceClass> > TempAlignBuffer	"000000000000000000000000"
+00070440	192	.data	global	<globals>	std::vector<char *,std::allocator<char *> > TauntList[16]	["000000000000000000000000", "000000000000000000000000", "000000000000000000000000", "000000000000000000000000", "000000000000000000000000", "000000000000000000000000", "000000000000000000000000", "000000000000000000000000", "000000000000000000000000", "000000000000000000000000", "000000000000000000000000", "000000000000000000000000", "000000000000000000000000", "000000000000000000000000", "000000000000000000000000", "000000000000000000000000"]
+00070500	12	.data	global	<globals>	std::vector<BZ1Helper::BuildAtClass,std::allocator<BZ1Helper::BuildAtClass> > TempBuiltAtBuffer	"000000000000000000000000"
+0007050c	4	.data	local	BZ1Helper.obj	const float FLAT_MAX_HEIGHT_DIFF	0.0
+00070510	72	.data	global	<globals>	BZ1Helper::MapInfo TempMapInfoBuffer	"<72 bytes, sha-free hex omitted>"
+00070558	12	.data	global	<globals>	std::vector<BZ1Helper::DeploySoundClass,std::allocator<BZ1Helper::DeploySoundClass> > TempDeploySoundBuffer	"000000000000000000000000"
+00070564	12	.data	global	<globals>	std::vector<BZ1Helper::DeleteAfterDelayClass,std::allocator<BZ1Helper::DeleteAfterDelayClass> > TempDeleteBuffer	"000000000000000000000000"
+00070570	41280	.data	global	<globals>	BZ1Helper::TeamInfo TempTeamInfoBuffer[16]	["<2580 bytes, sha-free hex omitted>", "<2580 bytes, sha-free hex omitted>", "<2580 bytes, sha-free hex omitted>", "<2580 bytes, sha-free hex omitted>", "<2580 bytes, sha-free hex omitted>", "<2580 bytes, sha-free hex omitted>", "<2580 bytes, sha-free hex omitted>", "<2580 bytes, sha-free hex omitted>", "<2580 bytes, sha-free hex omitted>", "<2580 bytes, sha-free hex omitted>", "<2580 bytes, sha-free hex omitted>", "<2580 bytes, sha-free hex omitted>", "<2580 bytes, sha-free hex omitted>", "<2580 bytes, sha-free hex omitted>", "<2580 bytes, sha-free hex omitted>", "<2580 bytes, sha-free hex omitted>"]
+0007a6b0	4	.data	local	AmbientSoundHelper.obj	const float FLAT_MAX_HEIGHT_DIFF	0.0
+0007a6b4	12	.data	global	<globals>	std::vector<PowerHelper::PowerClass,std::allocator<PowerHelper::PowerClass> > TempPowerBuffer	"000000000000000000000000"
+0007a6c0	3584	.data	global	<globals>	AmbientSoundHelper::AmbientAudioInfo TempAmbientSoundBuffer[32]	["<112 bytes, sha-free hex omitted>", "<112 bytes, sha-free hex omitted>", "<112 bytes, sha-free hex omitted>", "<112 bytes, sha-free hex omitted>", "<112 bytes, sha-free hex omitted>", "<112 bytes, sha-free hex omitted>", "<112 bytes, sha-free hex omitted>", "<112 bytes, sha-free hex omitted>", "<112 bytes, sha-free hex omitted>", "<112 bytes, sha-free hex omitted>", "<112 bytes, sha-free hex omitted>", "<112 bytes, sha-free hex omitted>", "<112 bytes, sha-free hex omitted>", "<112 bytes, sha-free hex omitted>", "<112 bytes, sha-free hex omitted>", "<112 bytes, sha-free hex omitted>", "<112 bytes, sha-free hex omitted>", "<112 bytes, sha-free hex omitted>", "<112 bytes, sha-free hex omitted>", "<112 bytes, sha-free hex omitted>", "<112 bytes, sha-free hex omitted>", "<112 bytes, sha-free hex omitted>", "<112 bytes, sha-free hex omitted>", "<112 bytes, sha-free hex omitted>", "<112 bytes, sha-free hex omitted>", "<112 bytes, sha-free hex omitted>", "<112 bytes, sha-free hex omitted>", "<112 bytes, sha-free hex omitted>", "<112 bytes, sha-free hex omitted>", "<112 bytes, sha-free hex omitted>", "<112 bytes, sha-free hex omitted>", "<112 bytes, sha-free hex omitted>"]
+0007b4c0	4	.data	local	PowerHelper.obj	const float FLAT_MAX_HEIGHT_DIFF	0.0
+0007b4c4	4	.data	local	UtilityShipHelper.obj	const float FLAT_MAX_HEIGHT_DIFF	0.0
+0007b4c8	12	.data	global	<globals>	std::vector<UtilityShipHelper::UtilityShipClass,std::allocator<UtilityShipHelper::UtilityShipClass> > TempUtilityShipBuffer	"000000000000000000000000"
+0007b4d4	4	.data	local	GravityHelper.obj	const float FLAT_MAX_HEIGHT_DIFF	0.0
+0007b4d8	4	.data	local	MorphObjectHelper.obj	const float FLAT_MAX_HEIGHT_DIFF	0.0
+0007b4dc	4	.data	local	CarrierHelper.obj	const float FLAT_MAX_HEIGHT_DIFF	0.0
+0007b4e0	320	.data	global	<globals>	GravityHelper::GravityInfo TempGravityBuffer[16]	["0000000000000000000000000000000000000000", "0000000000000000000000000000000000000000", "0000000000000000000000000000000000000000", "0000000000000000000000000000000000000000", "0000000000000000000000000000000000000000", "0000000000000000000000000000000000000000", "0000000000000000000000000000000000000000", "0000000000000000000000000000000000000000", "0000000000000000000000000000000000000000", "0000000000000000000000000000000000000000", "0000000000000000000000000000000000000000", "0000000000000000000000000000000000000000", "0000000000000000000000000000000000000000", "0000000000000000000000000000000000000000", "0000000000000000000000000000000000000000", "0000000000000000000000000000000000000000"]
+0007b620	12	.data	global	<globals>	std::vector<MorphObjectHelper::MorphObjectClass,std::allocator<MorphObjectHelper::MorphObjectClass> > TempMorphObjectBuffer	"000000000000000000000000"
+0007b62c	12	.data	global	<globals>	std::vector<CarrierHelper::CarrierClass,std::allocator<CarrierHelper::CarrierClass> > TempCarrierBuffer	"000000000000000000000000"
+0007b638	12	.data	global	<globals>	std::vector<CarrierHelper::DroneClass,std::allocator<CarrierHelper::DroneClass> > TempDroneBuffer	"000000000000000000000000"
+0007b644	12	.data	global	<globals>	std::vector<AttacherHelper::AttacherClass,std::allocator<AttacherHelper::AttacherClass> > TempAttacherBuffer	"000000000000000000000000"
+0007b650	4	.data	local	AttacherHelper.obj	const float FLAT_MAX_HEIGHT_DIFF	0.0
+0007b654	4	.data	local	ProductionClassHelper.obj	const float FLAT_MAX_HEIGHT_DIFF	0.0
+0007b658	4	.data	local	UndeployHelper.obj	const float FLAT_MAX_HEIGHT_DIFF	0.0
+0007b65c	12	.data	global	<globals>	std::vector<UndeployHelper::UndeployClass,std::allocator<UndeployHelper::UndeployClass> > TempUndeployBuffer	"000000000000000000000000"
+0007b668	4	.data	local	BuildingHelper.obj	const float FLAT_MAX_HEIGHT_DIFF	0.0
+0007b66c	12	.data	global	<globals>	std::vector<BuildingHelper::BuildingClass,std::allocator<BuildingHelper::BuildingClass> > TempBuildingBuffer	"000000000000000000000000"
+0007b678	12	.data	global	<globals>	std::vector<DispatchHelper::DispatchClass,std::allocator<DispatchHelper::DispatchClass> > TempDispatchBuffer	"000000000000000000000000"
+0007b684	4	.data	local	DispatchHelper.obj	const float FLAT_MAX_HEIGHT_DIFF	0.0
+0007b688	4	.data	local	VehicleHelper.obj	const float FLAT_MAX_HEIGHT_DIFF	0.0
+0007b68c	12	.data	global	<globals>	std::vector<VehicleHelper::VehicleClass,std::allocator<VehicleHelper::VehicleClass> > TempVehicleBuffer	"000000000000000000000000"
+0007b698	12	.data	global	<globals>	std::vector<ObjectHelper::ObjectClass,std::allocator<ObjectHelper::ObjectClass> > TempHandleBuffer	"000000000000000000000000"
+0007b6a4	4	.data	local	ObjectHelper.obj	const float FLAT_MAX_HEIGHT_DIFF	0.0
+0007b6a8	12	.data	global	<globals>	std::vector<PowerupHelper::PowerupClass,std::allocator<PowerupHelper::PowerupClass> > TempPowerupBuffer	"000000000000000000000000"
+0007b6b4	4	.data	local	PowerupHelper.obj	const float FLAT_MAX_HEIGHT_DIFF	0.0
+0007b6b8	4	.data	local	AIWeaponHelper.obj	const float FLAT_MAX_HEIGHT_DIFF	0.0
+0007b6bc	12	.data	global	<globals>	std::vector<ScrapHelper::ScrapClass,std::allocator<ScrapHelper::ScrapClass> > TempScrapBuffer	"000000000000000000000000"
+0007b6c8	4	.data	local	ScrapHelper.obj	const float FLAT_MAX_HEIGHT_DIFF	0.0
+0007b6cc	12	.data	global	<globals>	std::vector<PortalHelper::TeleportTargetClass,std::allocator<PortalHelper::TeleportTargetClass> > TempTeleportTargetBuffer	"000000000000000000000000"
+0007b6d8	4	.data	local	PortalHelper.obj	const float FLAT_MAX_HEIGHT_DIFF	0.0
+0007b6dc	12	.data	global	<globals>	std::vector<PortalHelper::PortalClass,std::allocator<PortalHelper::PortalClass> > TempPortalBuffer	"000000000000000000000000"
+0007b6e8	4	.data	local	LuaMission.obj	const float FLAT_MAX_HEIGHT_DIFF	0.0
+0007b6ec	4	.data	local	LuaBindings.obj	const float FLAT_MAX_HEIGHT_DIFF	0.0
+0007b6f0	4	.data	local	DllBase.obj	int CurrentWorld	0
+0007b6f4	12	.data	local	DllBase.obj	DLLBase* Missions[3]	[null, null, null]
+0007b700	80	.data	local	DllBase.obj	MisnExport misnExport	"<80 bytes, sha-free hex omitted>"
+0007b750	1	.data	local	StartingVehicles.obj	bool StartingVehicleManager::s_bInitialized	false
+0007b751	1	.data	local	Taunts.obj	bool DeterminedCPUTeamName	false
+0007b752	1	.data	local	Taunts.obj	bool ReadTaunts	false
+0007b753	1	.data	local	BZ1Helper.obj	bool GotPaths	false
+0007b754	12	.data	local	Strategy02.obj	Vector LuaBindings::zero	"000000000000000000000000"
+0007b760	64	.data	local	Strategy02.obj	char TempODFName[64]	""
+0007b7a0	12	.data	global	<globals>	Vector CameraPosition	"000000000000000000000000"
+0007b7ac	4	.data	local	Taunts.obj	int* g_pTPS	
+0007b7b0	32	.data	global	<globals>	std::unordered_set<unsigned long,std::hash<unsigned long>,std::equal_to<unsigned long>,std::allocator<unsigned long> > ODFNameBlackListMap	"0000000000000000000000000000000000000000000000000000000000000000"
+0007b7d0	32	.data	global	<globals>	std::unordered_map<unsigned long,ODFName,std::hash<unsigned long>,std::equal_to<unsigned long>,std::allocator<std::pair<unsigned long const ,ODFName> > > ODFNameMap	"0000000000000000000000000000000000000000000000000000000000000000"
+0007b7f0	32	.data	global	<globals>	std::unordered_map<char const *,_iobuf *,std::hash<char const *>,std::equal_to<char const *>,std::allocator<std::pair<char const * const,_iobuf *> > > FileNameMap	"0000000000000000000000000000000000000000000000000000000000000000"
+0007b810	12	.data	global	<globals>	Vector CircleCalculation	"000000000000000000000000"
+0007b81c	4	.data	local	Taunts.obj	int* g_pElapsedTime	
+0007b820	4	.data	local	Taunts.obj	int* g_pLastTauntPrintedAt	
+0007b824	12	.data	local	LuaMission.obj	Vector LuaBindings::zero	"000000000000000000000000"
+0007b830	12	.data	local	LuaBindings.obj	Vector LuaBindings::zero	"000000000000000000000000"
+0007b850	64	.data	local	MorphObjectHelper.obj	char MineObject[64]	""
+0007b890	512	.data	local	Taunts.obj	char TempBuffer[512]	""

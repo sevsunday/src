@@ -1,0 +1,55 @@
+# REPO_REFS — every ref and hash of the full-history preservation mirrors
+# Mirrors made 2026-10-28 with 'git clone --mirror'. Kept outside this repository.
+# Pinned commits used by this project are marked PIN.
+
+==============================================================================
+D1  VSR_Workshop.git
+remote: https://github.com/BlackDragonN001/VSR_Workshop.git
+mirror: VSR_Workshop.git  (bare `git clone --mirror`, kept outside this repository)
+commits (all refs): 341
+objects in pack: 12575
+
+refs:
+  ea4173fbddbeba2b2f97e499bea87967bfbdc147 refs/heads/Lua-Stock-Missions 2026-03-03T17:17:00-06:00  PIN
+  644e79f05d2c6ed4d52889ec1402d446d7edb230 refs/heads/Test_Variant 2026-03-22T13:42:01-05:00  PIN
+  58a5f56c308c152ab25acb8470429351c44eb713 refs/heads/master 2026-10-18T14:00:48-05:00  PIN
+
+pinned commits:
+  58a5f56c308c152ab25acb8470429351c44eb713 2026-10-18T14:00:48-05:00 BlackDragon  Moved a text file from game loaded resources to documents folder.
+  ea4173fbddbeba2b2f97e499bea87967bfbdc147 2026-03-03T17:17:00-06:00 BlackDragon  Lua versions of Strategy/Deathmatch/Instant with some test maps.
+  644e79f05d2c6ed4d52889ec1402d446d7edb230 2026-03-22T13:42:01-05:00 BlackDragon  Test Variant
+
+==============================================================================
+D3  BlackDragonN001-LuaMission.git
+remote: https://github.com/BlackDragonN001/LuaMission.git
+mirror: BlackDragonN001-LuaMission.git  (bare `git clone --mirror`, kept outside this repository)
+commits (all refs): 61
+objects in pack: 583
+
+refs:
+  353698f578e00ea5f9806fea701b5bd7c69d94ce refs/heads/master 2017-10-18T20:06:17-05:00  PIN
+  ea3906bf88e7d53e50a650614595698425958246 refs/pull/3/head 2024-02-27T13:04:00+01:00
+  6fce4949a4083b9ae923b17dab2e8c3ce79fca9f refs/pull/3/merge 2024-02-27T13:09:46+01:00
+
+pinned commits:
+  353698f578e00ea5f9806fea701b5bd7c69d94ce 2017-10-18T20:06:17-05:00 BlackDragonN001  -Fixed copy paste errors.
+
+==============================================================================
+D4  Nielk1-BZ2-LuaMission.git
+remote: https://github.com/Nielk1/BZ2-LuaMission.git
+mirror: Nielk1-BZ2-LuaMission.git  (bare `git clone --mirror`, kept outside this repository)
+commits (all refs): 35
+objects in pack: 473
+
+refs:
+  6fda4f5ab3c2f2aae882ebe22b9ef6180e42f744 refs/heads/BZC-LuaMission-Integration 2015-11-27T19:17:15-06:00  PIN
+  54eca12ef46878ca7b06551814bedcc6a694f5ca refs/heads/master 2015-05-21T23:58:34-05:00
+  96f3722cb0e6240330a0c49ec9654298620fa824 refs/pull/1/head 2015-05-15T12:58:55-05:00
+
+pinned commits:
+  6fda4f5ab3c2f2aae882ebe22b9ef6180e42f744 2015-11-27T19:17:15-06:00 Nielk1  More CLeanup
+
+==============================================================================
+Verify a mirror is intact:   git -C <mirror> fsck --full
+Refresh a mirror:            git -C <mirror> remote update --prune
+Re-check a pin is upstream:  git ls-remote <remote>

@@ -1,0 +1,29 @@
+# Our own text files: normalize to LF in the repo.
+* text=auto eol=lf
+*.cmd text eol=crlf
+*.bat text eol=crlf
+
+# Archived inputs are byte-exact: never touch their line endings.
+original/**                       -text
+reference/ancestor-1.3/**         -text
+reference/ancestor-bz1helper-2015/** -text
+reference/decompiled/**           -text
+reference/engine/**               -text
+third_party/**                    -text
+
+# Binaries
+*.dll  binary
+*.pdb  binary
+*.lib  binary
+*.exe  binary
+*.dds  binary
+*.png  binary
+*.jpg  binary
+*.gz   binary
+*.zip  binary
+*.bzn  binary
+*.ter  binary
+*.msh  binary
+*.wav  binary
+reference/manifest/lua_api_*.tsv  -text
+

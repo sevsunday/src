@@ -1,0 +1,15 @@
+# tools/ghidra/VERSIONS.txt - written by tools/ghidra/install.py
+installed: 2026-10-29 03:15 UTC
+
+ghidra.release: Ghidra_12.2_build
+ghidra.version: 12.2
+ghidra.url: https://github.com/NationalSecurityAgency/ghidra/releases/download/Ghidra_12.2_build/ghidra_12.2_PUBLIC_20261016.zip
+ghidra.zip: ghidra_12.2_PUBLIC_20261016.zip
+ghidra.sha256: 2c2cd776db3c1f6a097ba418922378ac3649cadd5e844a6f5f088ae628a7be67
+ghidra.dir: tools/_local/ghidra
+
+jdk.version: 25.0.5
+jdk.url: https://api.adoptium.net/v3/binary/latest/25/ga/windows/x64/jdk/hotspot/normal/eclipse
+jdk.zip: OpenJDK25U-jdk_x64_windows_hotspot_25.0.5_8.zip
+jdk.sha256: 636bdc13dc649ddc7d5921c5c7d23cca6e44fd19d662b45cc9c02135a6c96c42
+jdk.dir: tools/_local/jdk

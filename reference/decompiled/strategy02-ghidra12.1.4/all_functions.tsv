@@ -1,0 +1,1926 @@
+address	size	user	name	file	minLine	maxLine
+4fc01000	113	Y	`dynamic_initializer_for_'Identity_Matrix''	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.h	625	625
+4fc01071	113	Y	`dynamic_initializer_for_'Identity_Matrix''	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.h	625	625
+4fc010e2	68	Y	`dynamic_initializer_for_'ODFNameMap''	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	24	24
+4fc01126	68	Y	`dynamic_initializer_for_'ODFNameBlackListMap''	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	26	26
+4fc0116a	68	Y	`dynamic_initializer_for_'FileNameMap''	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	28	28
+4fc011ae	38	Y	`dynamic_initializer_for_'TauntList''	/e:/github/vsr_dll_source/missions/shared/taunts.cpp	9	9
+4fc011d4	113	Y	`dynamic_initializer_for_'Identity_Matrix''	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.h	625	625
+4fc01245	12	Y	`dynamic_initializer_for_'TempAlignBuffer''	/e:/github/vsr_dll_source/missions/vsrcore/bz1helper.cpp	100	100
+4fc01251	12	Y	`dynamic_initializer_for_'TempDeleteBuffer''	/e:/github/vsr_dll_source/missions/vsrcore/bz1helper.cpp	101	101
+4fc0125d	12	Y	`dynamic_initializer_for_'TempDeploySoundBuffer''	/e:/github/vsr_dll_source/missions/vsrcore/bz1helper.cpp	102	102
+4fc01269	12	Y	`dynamic_initializer_for_'TempBuiltAtBuffer''	/e:/github/vsr_dll_source/missions/vsrcore/bz1helper.cpp	103	103
+4fc01275	21	Y	`dynamic_initializer_for_'TempTeamInfoBuffer''	/e:/github/vsr_dll_source/missions/vsrcore/bz1helper.cpp	104	104
+4fc0128a	113	Y	`dynamic_initializer_for_'Identity_Matrix''	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.h	625	625
+4fc012fb	21	Y	`dynamic_initializer_for_'TempAmbientSoundBuffer''	/e:/github/vsr_dll_source/missions/vsrcore/ambientsoundhelper.cpp	7	7
+4fc01310	113	Y	`dynamic_initializer_for_'Identity_Matrix''	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.h	625	625
+4fc01381	12	Y	`dynamic_initializer_for_'TempPowerBuffer''	/e:/github/vsr_dll_source/missions/vsrcore/powerhelper.cpp	7	7
+4fc0138d	113	Y	`dynamic_initializer_for_'Identity_Matrix''	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.h	625	625
+4fc013fe	12	Y	`dynamic_initializer_for_'TempUtilityShipBuffer''	/e:/github/vsr_dll_source/missions/vsrcore/utilityshiphelper.cpp	7	7
+4fc0140a	113	Y	`dynamic_initializer_for_'Identity_Matrix''	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.h	625	625
+4fc0147b	21	Y	`dynamic_initializer_for_'TempGravityBuffer''	/e:/github/vsr_dll_source/missions/vsrcore/gravityhelper.cpp	7	7
+4fc01490	113	Y	`dynamic_initializer_for_'Identity_Matrix''	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.h	625	625
+4fc01501	12	Y	`dynamic_initializer_for_'TempMorphObjectBuffer''	/e:/github/vsr_dll_source/missions/vsrcore/morphobjecthelper.cpp	8	8
+4fc0150d	113	Y	`dynamic_initializer_for_'Identity_Matrix''	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.h	625	625
+4fc0157e	12	Y	`dynamic_initializer_for_'TempCarrierBuffer''	/e:/github/vsr_dll_source/missions/vsrcore/carrierhelper.cpp	8	8
+4fc0158a	12	Y	`dynamic_initializer_for_'TempDroneBuffer''	/e:/github/vsr_dll_source/missions/vsrcore/carrierhelper.cpp	9	9
+4fc01596	113	Y	`dynamic_initializer_for_'Identity_Matrix''	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.h	625	625
+4fc01607	12	Y	`dynamic_initializer_for_'TempAttacherBuffer''	/e:/github/vsr_dll_source/missions/vsrcore/attacherhelper.cpp	7	7
+4fc01613	113	Y	`dynamic_initializer_for_'Identity_Matrix''	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.h	625	625
+4fc01684	113	Y	`dynamic_initializer_for_'Identity_Matrix''	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.h	625	625
+4fc016f5	12	Y	`dynamic_initializer_for_'TempUndeployBuffer''	/e:/github/vsr_dll_source/missions/vsrcore/undeployhelper.cpp	7	7
+4fc01701	113	Y	`dynamic_initializer_for_'Identity_Matrix''	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.h	625	625
+4fc01772	12	Y	`dynamic_initializer_for_'TempBuildingBuffer''	/e:/github/vsr_dll_source/missions/vsrcore/buildinghelper.cpp	10	10
+4fc0177e	113	Y	`dynamic_initializer_for_'Identity_Matrix''	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.h	625	625
+4fc017ef	12	Y	`dynamic_initializer_for_'TempDispatchBuffer''	/e:/github/vsr_dll_source/missions/vsrcore/dispatchhelper.cpp	13	13
+4fc017fb	113	Y	`dynamic_initializer_for_'Identity_Matrix''	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.h	625	625
+4fc0186c	12	Y	`dynamic_initializer_for_'TempVehicleBuffer''	/e:/github/vsr_dll_source/missions/vsrcore/vehiclehelper.cpp	5	5
+4fc01878	113	Y	`dynamic_initializer_for_'Identity_Matrix''	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.h	625	625
+4fc018e9	12	Y	`dynamic_initializer_for_'TempHandleBuffer''	/e:/github/vsr_dll_source/missions/vsrcore/objecthelper.cpp	10	10
+4fc018f5	113	Y	`dynamic_initializer_for_'Identity_Matrix''	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.h	625	625
+4fc01966	12	Y	`dynamic_initializer_for_'TempPowerupBuffer''	/e:/github/vsr_dll_source/missions/vsrcore/poweruphelper.cpp	7	7
+4fc01972	113	Y	`dynamic_initializer_for_'Identity_Matrix''	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.h	625	625
+4fc019e3	113	Y	`dynamic_initializer_for_'Identity_Matrix''	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.h	625	625
+4fc01a54	12	Y	`dynamic_initializer_for_'TempScrapBuffer''	/e:/github/vsr_dll_source/missions/vsrcore/scraphelper.cpp	7	7
+4fc01a60	113	Y	`dynamic_initializer_for_'Identity_Matrix''	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.h	625	625
+4fc01ad1	12	Y	`dynamic_initializer_for_'TempPortalBuffer''	/e:/github/vsr_dll_source/missions/vsrcore/portalhelper.cpp	10	10
+4fc01add	12	Y	`dynamic_initializer_for_'TempTeleportTargetBuffer''	/e:/github/vsr_dll_source/missions/vsrcore/portalhelper.cpp	11	11
+4fc01ae9	113	Y	`dynamic_initializer_for_'Identity_Matrix''	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.h	625	625
+4fc01b5a	113	Y	`dynamic_initializer_for_'Identity_Matrix''	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.h	625	625
+4fc01bd0	6	N	__local_stdio_printf_options	/c:/program files (x86)/windows kits/10/include/10.0.10240.0/ucrt/corecrt_stdio_config.h	73	76
+4fc01bd6	42	N	vsprintf_s	/c:/program files (x86)/windows kits/10/include/10.0.10240.0/ucrt/stdio.h	1515	1517
+4fc01c00	27	N	sprintf_s<128>	/c:/program files (x86)/windows kits/10/include/10.0.10240.0/ucrt/stdio.h	1846	1850
+4fc01c1b	25	N	sprintf_s<68>	/c:/program files (x86)/windows kits/10/include/10.0.10240.0/ucrt/stdio.h	1846	1850
+4fc01c34	6	N	__local_stdio_scanf_options	/c:/program files (x86)/windows kits/10/include/10.0.10240.0/ucrt/corecrt_stdio_config.h	82	85
+4fc01c3a	42	N	sscanf_s	/c:/program files (x86)/windows kits/10/include/10.0.10240.0/ucrt/stdio.h	2300	2312
+4fc01c64	67	Y	Matrix::Matrix	/e:/github/vsr_dll_source/source/fun3d/scriptutils.h	181	183
+4fc01ca7	3	N	operator_new	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vcruntime_new.h	185	188
+4fc01caa	43	N	floor	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/cmath	122	124
+4fc01cd5	6	N	std::numeric_limits<int>::max	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/limits	616	618
+4fc01cdb	1	N	std::_Container_base0::_Orphan_all	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/xutility	42	43
+4fc01cdc	3	N	std::_Iterator_base0::_Adopt	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/xutility	53	54
+4fc01cdf	122	Y	Strategy02::ShouldRemoveThugScavengerObject	/e:/github/vsr_dll_source/missions/strategy02/strategy02.h	29	32
+4fc01d59	49	Y	Strategy02::ShouldRemoveThugPilotObject	/e:/github/vsr_dll_source/missions/strategy02/strategy02.h	40	40
+4fc01d8a	42	Y	Strategy02::ShouldRemoveEmptyShipObject	/e:/github/vsr_dll_source/missions/strategy02/strategy02.h	50	50
+4fc01db4	35	Y	Strategy02::ShouldRemoveMorphTankObject	/e:/github/vsr_dll_source/missions/strategy02/strategy02.h	58	58
+4fc01dd7	37	N	Strategy02::`scalar_deleting_destructor'			
+4fc01dfc	34	N	std::vector<Strategy02::CommBunkerClass,std::allocator<Strategy02::CommBunkerClass>_>::~vector<Strategy02::CommBunkerClass,std::allocator<Strategy02::CommBunkerClass>_>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	893	895
+4fc01e1e	42	N	std::vector<Strategy02::EmptyShipClass,std::allocator<Strategy02::EmptyShipClass>_>::~vector<Strategy02::EmptyShipClass,std::allocator<Strategy02::EmptyShipClass>_>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	893	895
+4fc01e48	25	N	sprintf_s<64>	/c:/program files (x86)/windows kits/10/include/10.0.10240.0/ucrt/stdio.h	1846	1850
+4fc01e61	27	N	sprintf_s<256>	/c:/program files (x86)/windows kits/10/include/10.0.10240.0/ucrt/stdio.h	1846	1850
+4fc01e7c	27	N	sprintf_s<1024>	/c:/program files (x86)/windows kits/10/include/10.0.10240.0/ucrt/stdio.h	1846	1850
+4fc01e97	242	N	std::vector<Strategy02::MorphTankClass,std::allocator<Strategy02::MorphTankClass>_>::_Resize<<lambda_426a7d76e79c44efd532c0834072b57e>_>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1428	1472
+4fc01f8a	250	N	std::vector<Strategy02::EmptyShipClass,std::allocator<Strategy02::EmptyShipClass>_>::_Resize<<lambda_4b06d8c16eefdba86b4662f0678c82d0>_>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1428	1472
+4fc02085	44	N	std::_Deallocate<8,0>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/xmemory0	199	208
+4fc020b2	11	N	std::vector<Strategy02::CommBunkerClass,std::allocator<Strategy02::CommBunkerClass>_>::_Xlength	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1925	1926
+4fc020be	10	N	std::_Min_value<unsigned_int>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/utility	23	25
+4fc020c8	63	N	std::_Allocate<8,std::_Default_allocate_traits,0>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/xmemory0	180	194
+4fc02107	35	N	fprintf	/c:/program files (x86)/windows kits/10/include/10.0.10240.0/ucrt/stdio.h	831	838
+4fc0212a	44	N	_vsnprintf_s_l	/c:/program files (x86)/windows kits/10/include/10.0.10240.0/ucrt/stdio.h	1580	1586
+4fc02156	47	N	sprintf_s	/c:/program files (x86)/windows kits/10/include/10.0.10240.0/ucrt/stdio.h	1834	1841
+4fc02185	39	Y	close_enough	/e:/github/vsr_dll_source/missions/vsrcore/mathutils.h	111	111
+4fc021ac	87	Y	close_enough	/e:/github/vsr_dll_source/missions/vsrcore/mathutils.h	112	112
+4fc02203	42	Y	IsNullVector	/e:/github/vsr_dll_source/missions/vsrcore/mathutils.h	116	116
+4fc0222d	43	Y	GetLength3D	/e:/github/vsr_dll_source/missions/vsrcore/mathutils.h	138	138
+4fc02258	38	Y	CameraObject	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.h	883	883
+4fc0227e	59	Y	IsEmpty	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.h	1033	1033
+4fc022b9	45	Y	Hash	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.h	1313	1319
+4fc022e6	67	N	std::_Hash<std::_Umap_traits<unsigned_long,ODFName,std::_Uhash_compare<unsigned_long,std::hash<unsigned_long>,std::equal_to<unsigned_long>_>,std::allocator<std::pair<unsigned_long_const_,ODFName>_>,0>_>::~_Hash<std::_Umap_traits<unsigned_long,ODFName,std::_Uhash_compare<unsigned_long,std::hash<unsigned_long>,std::equal_to<unsigned_long>_>,std::allocator<std::pair<unsigned_long_const_,ODFName>_>,0>_>			
+4fc02329	53	N	std::_Hash<std::_Uset_traits<unsigned_long,std::_Uhash_compare<unsigned_long,std::hash<unsigned_long>,std::equal_to<unsigned_long>_>,std::allocator<unsigned_long>,0>_>::~_Hash<std::_Uset_traits<unsigned_long,std::_Uhash_compare<unsigned_long,std::hash<unsigned_long>,std::equal_to<unsigned_long>_>,std::allocator<unsigned_long>,0>_>			
+4fc0235e	53	N	std::_Hash<std::_Umap_traits<char_const_*,_iobuf_*,std::_Uhash_compare<char_const_*,std::hash<char_const_*>,std::equal_to<char_const_*>_>,std::allocator<std::pair<char_const_*_const,_iobuf_*>_>,0>_>::~_Hash<std::_Umap_traits<char_const_*,_iobuf_*,std::_Uhash_compare<char_const_*,std::hash<char_const_*>,std::equal_to<char_const_*>_>,std::allocator<std::pair<char_const_*_const,_iobuf_*>_>,0>_>			
+4fc02393	195	Y	IsRecycler	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	298	311
+4fc02456	135	Y	HRotateFront	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	615	630
+4fc024dd	140	Y	SetAngle	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	633	641
+4fc02569	361	Y	CameraPos	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	647	673
+4fc026d2	81	Y	CameraOf	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	677	682
+4fc02723	572	Y	Move	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	686	747
+4fc0295f	263	Y	Move	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	750	780
+4fc02a66	493	Y	CameraCircle	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	789	829
+4fc02c53	248	Y	FormatConsoleMessage	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	833	872
+4fc02d4b	308	Y	FileOpen	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	876	936
+4fc02e7f	80	Y	FormatFileMessage	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	940	952
+4fc02ecf	58	Y	CloseOpenFiles	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	967	976
+4fc02f09	333	Y	OpenLogFile	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	987	1012
+4fc03056	341	Y	FormatLogMessage	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	1015	1049
+4fc031ab	120	Y	FormatToMessagesBox	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	1080	1088
+4fc03223	238	Y	FormatFromFile	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	1142	1180
+4fc03311	173	Y	IsObjectFacingObject	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	1278	1286
+4fc033be	187	Y	GetVectorFromPath	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	1379	1399
+4fc03479	350	Y	GetCenterOfMap	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	1403	1437
+4fc035d7	199	Y	GetRandomTeam	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	1441	1475
+4fc0369e	214	Y	GetWindingNumber	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	1480	1503
+4fc03774	247	Y	GetWindingNumber	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	1507	1534
+4fc0386b	33	Y	DoesPathExist	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	1565	1571
+4fc0388c	98	Y	SetAmmo	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	1661	1671
+4fc038ee	570	Y	GiveWeapon	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	1675	1753
+4fc03b28	36	Y	GetObjectByBaseSlot	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	1795	1807
+4fc03b4c	56	Y	GetTapCount	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	1811	1832
+4fc03b84	263	Y	GetTapCount	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	1836	1864
+4fc03c8b	109	Y	SetRandomHeadingAngle2	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	1870	1875
+4fc03cf8	82	Y	TeamFilterCheck	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	1879	1887
+4fc03d4a	549	Y	GetEngageRange	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	1956	2005
+4fc03f6f	534	Y	GetMinFireAmmo	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	2009	2074
+4fc04185	821	Y	GetOrdnanceDamageDealt	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	2078	2209
+4fc044ba	542	Y	GetODFPositionOffset	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	2264	2284
+4fc046d8	360	Y	GetPositionNearOrFar	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	2288	2303
+4fc04840	65	Y	CheckODFName	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	2307	2322
+4fc04881	142	Y	PlayVOMsg	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	2374	2390
+4fc0490f	294	Y	PlayEventVO	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	2394	2417
+4fc04a35	146	Y	IsBuildingOrGunTower	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	2453	2501
+4fc04ac7	141	Y	IsCraft	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	2505	2532
+4fc04b54	104	Y	IsWeapon	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	2563	2583
+4fc04bbc	104	Y	IsMisc	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	2587	2607
+4fc04c24	161	Y	IsFactory	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	2710	2719
+4fc04cc5	161	Y	IsArmory	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	2722	2731
+4fc04d66	112	Y	IsConstructor	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	2734	2753
+4fc04dd6	112	Y	IsServiceTruck	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	2768	2777
+4fc04e46	177	Y	IsPoweredBuilding	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	3024	3054
+4fc04ef7	177	Y	IsBuilding	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	3058	3088
+4fc04fa8	50	Y	GetODFName	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	3126	3137
+4fc04fda	36	Y	GetODFName	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	3141	3154
+4fc04ffe	206	Y	GetAndOpenODFNames	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	3158	3181
+4fc050cc	489	Y	GetClasslabelString	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	3186	3229
+4fc052b5	67	Y	GetPilotConfig	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	3333	3355
+4fc052f8	135	Y	CombineStrings	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	3359	3381
+4fc0537f	202	Y	GetWorldVariantODF	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	3405	3428
+4fc05449	137	Y	GetPilotCost	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	3523	3575
+4fc054d2	137	Y	GetScrapCost	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	3579	3600
+4fc0555b	145	Y	GetScrapValue	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	3604	3638
+4fc055ec	282	Y	GetNumWeapons	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	3642	3680
+4fc05706	97	Y	CheckBuildRequirements_PowerCost	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	3693	3702
+4fc05767	207	Y	GetConfigODF	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	3707	3736
+4fc05836	202	Y	OpenODF2	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	3815	3863
+4fc05900	57	Y	CloseOpenODFs	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	3867	3873
+4fc05939	117	Y	GetODFInt	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	3923	3967
+4fc059ae	121	Y	GetODFFloat	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	4014	4057
+4fc05a27	123	Y	GetODFDouble	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	4059	4102
+4fc05aa2	117	Y	GetODFChar	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	4104	4147
+4fc05b17	117	Y	GetODFBool	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	4149	4192
+4fc05b8c	129	Y	GetODFString	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	4194	4237
+4fc05c0d	132	Y	GetODFVector	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	4284	4327
+4fc05c91	356	Y	GetODFHexInt	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	4332	4360
+4fc05df5	488	Y	GetODFInt	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	4362	4390
+4fc05fdd	488	Y	GetODFLong	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	4392	4420
+4fc061c5	497	Y	GetODFFloat	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	4422	4450
+4fc063b6	370	Y	GetODFDouble	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	4452	4480
+4fc06528	488	Y	GetODFChar	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	4482	4510
+4fc06710	488	Y	GetODFBool	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	4512	4540
+4fc068f8	506	Y	GetODFString	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	4542	4570
+4fc06af2	488	Y	GetODFColor	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	4572	4600
+4fc06cda	527	Y	GetODFVector	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	4602	4630
+4fc06ee9	863	Y	GetBuildItem	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	4635	4775
+4fc07248	2991	Y	ReplaceWeapons	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.cpp	4780	5059
+4fc07df7	57	N	std::list<unsigned_long,std::allocator<unsigned_long>_>::~list<unsigned_long,std::allocator<unsigned_long>_>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/list	981	983
+4fc07e30	94	N	std::_Hash<std::_Uset_traits<unsigned_long,std::_Uhash_compare<unsigned_long,std::hash<unsigned_long>,std::equal_to<unsigned_long>_>,std::allocator<unsigned_long>,0>_>::find	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/xhash	642	644
+4fc07e8e	86	N	std::_Hash<std::_Umap_traits<unsigned_long,ODFName,std::_Uhash_compare<unsigned_long,std::hash<unsigned_long>,std::equal_to<unsigned_long>_>,std::allocator<std::pair<unsigned_long_const_,ODFName>_>,0>_>::find	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/xhash	642	644
+4fc07ee4	57	N	std::list<std::pair<char_const_*_const,_iobuf_*>,std::allocator<std::pair<char_const_*_const,_iobuf_*>_>_>::~list<std::pair<char_const_*_const,_iobuf_*>,std::allocator<std::pair<char_const_*_const,_iobuf_*>_>_>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/list	981	983
+4fc07f1d	86	N	std::_Hash<std::_Umap_traits<char_const_*,_iobuf_*,std::_Uhash_compare<char_const_*,std::hash<char_const_*>,std::equal_to<char_const_*>_>,std::allocator<std::pair<char_const_*_const,_iobuf_*>_>,0>_>::find	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/xhash	642	644
+4fc07f73	59	N	std::unordered_map<char_const_*,_iobuf_*,std::hash<char_const_*>,std::equal_to<char_const_*>,std::allocator<std::pair<char_const_*_const,_iobuf_*>_>_>::operator[]	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/unordered_map	489	491
+4fc07fae	42	N	std::list<std::pair<unsigned_long_const_,ODFName>,std::allocator<std::pair<unsigned_long_const_,ODFName>_>_>::clear	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/list	1381	1395
+4fc07fd8	117	N	std::_Hash<std::_Umap_traits<unsigned_long,ODFName,std::_Uhash_compare<unsigned_long,std::hash<unsigned_long>,std::equal_to<unsigned_long>_>,std::allocator<std::pair<unsigned_long_const_,ODFName>_>,0>_>::_Init	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/xhash	1129	1134
+4fc0804e	19	N	std::allocator<std::_List_unchecked_const_iterator<std::_List_val<std::_List_simple_types<unsigned_long>_>,std::_Iterator_base0>_>::deallocate	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/xmemory0	990	993
+4fc08061	41	N	std::_Hash<std::_Umap_traits<unsigned_long,ODFName,std::_Uhash_compare<unsigned_long,std::hash<unsigned_long>,std::equal_to<unsigned_long>_>,std::allocator<std::pair<unsigned_long_const_,ODFName>_>,0>_>::_Hashval	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/xhash	1124	1126
+4fc0808a	38	N	std::_Hash<std::_Umap_traits<unsigned_long,ODFName,std::_Uhash_compare<unsigned_long,std::hash<unsigned_long>,std::equal_to<unsigned_long>_>,std::allocator<std::pair<unsigned_long_const_,ODFName>_>,0>_>::_End	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/xhash	1052	1060
+4fc080b0	13	N	std::_Hash<std::_Umap_traits<unsigned_long,ODFName,std::_Uhash_compare<unsigned_long,std::hash<unsigned_long>,std::equal_to<unsigned_long>_>,std::allocator<std::pair<unsigned_long_const_,ODFName>_>,0>_>::_Make_iter	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/xhash	366	368
+4fc080bd	344	N	std::vector<std::_List_unchecked_const_iterator<std::_List_val<std::_List_simple_types<unsigned_long>_>,std::_Iterator_base0>,std::allocator<std::_List_unchecked_const_iterator<std::_List_val<std::_List_simple_types<unsigned_long>_>,std::_Iterator_base0>_>_>::assign	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1271	1308
+4fc08216	19	N	std::allocator<VECTOR_2D>::deallocate	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/xmemory0	990	993
+4fc08229	109	N	std::vector<std::_List_unchecked_const_iterator<std::_List_val<std::_List_simple_types<unsigned_long>_>,std::_Iterator_base0>,std::allocator<std::_List_unchecked_const_iterator<std::_List_val<std::_List_simple_types<unsigned_long>_>,std::_Iterator_base0>_>_>::_Buy	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1872	1892
+4fc08297	149	N	std::vector<std::_List_unchecked_const_iterator<std::_List_val<std::_List_simple_types<unsigned_long>_>,std::_Iterator_base0>,std::allocator<std::_List_unchecked_const_iterator<std::_List_val<std::_List_simple_types<unsigned_long>_>,std::_Iterator_base0>_>_>::_Reallocate_exactly	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1497	16707566
+4fc0832c	20	N	Catch@4fc0832c	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1505	1506
+4fc08341	48	N	swprintf_s<2048>	/c:/program files (x86)/windows kits/10/include/10.0.10240.0/ucrt/corecrt_wstdio.h	1548	1553
+4fc08371	88	N	std::_Hash<std::_Umap_traits<char_const_*,_iobuf_*,std::_Uhash_compare<char_const_*,std::hash<char_const_*>,std::equal_to<char_const_*>_>,std::allocator<std::pair<char_const_*_const,_iobuf_*>_>,0>_>::erase<std::_List_iterator<std::_List_val<std::_List_simple_types<std::pair<char_const_*_const,_iobuf_*>_>_>_>,void>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/xhash	598	600
+4fc083c9	26	N	sprintf_s<2048>	/c:/program files (x86)/windows kits/10/include/10.0.10240.0/ucrt/stdio.h	1846	1850
+4fc083e3	307	N	std::vector<VECTOR_2D,std::allocator<VECTOR_2D>_>::_Emplace_reallocate<VECTOR_2D_const_&>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	942	16707566
+4fc08516	20	N	Catch@4fc08516	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	976	977
+4fc08530	53	N	std::list<std::pair<char_const_*_const,_iobuf_*>,std::allocator<std::pair<char_const_*_const,_iobuf_*>_>_>::erase	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/list	1349	1353
+4fc08565	175	N	std::_Hash<std::_Uset_traits<unsigned_long,std::_Uhash_compare<unsigned_long,std::hash<unsigned_long>,std::equal_to<unsigned_long>_>,std::allocator<unsigned_long>,0>_>::_Insert<unsigned_long_const_&,std::_Not_a_node_tag>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/xhash	969	16707566
+4fc08614	26	N	Catch@4fc08614	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/xhash	1014	1014
+4fc0862e	9	N	Catch@4fc0862e	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/xhash	1019	1019
+4fc08638	73	N	std::list<unsigned_long,std::allocator<unsigned_long>_>::_Unchecked_splice	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/list	1761	1770
+4fc08681	169	N	std::_Hash<std::_Uset_traits<unsigned_long,std::_Uhash_compare<unsigned_long,std::hash<unsigned_long>,std::equal_to<unsigned_long>_>,std::allocator<unsigned_long>,0>_>::_Check_size	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/xhash	1137	1150
+4fc0872a	79	N	std::_Hash<std::_Uset_traits<unsigned_long,std::_Uhash_compare<unsigned_long,std::hash<unsigned_long>,std::equal_to<unsigned_long>_>,std::allocator<unsigned_long>,0>_>::_Insert_bucket	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/xhash	1095	1105
+4fc08779	98	N	std::_Hash<std::_Uset_traits<unsigned_long,std::_Uhash_compare<unsigned_long,std::hash<unsigned_long>,std::equal_to<unsigned_long>_>,std::allocator<unsigned_long>,0>_>::erase	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/xhash	603	608
+4fc087db	78	N	std::_List_alloc<std::_List_base_types<unsigned_long,std::allocator<unsigned_long>_>_>::_Buynode0	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/list	609	16707566
+4fc08829	18	N	Catch@4fc08829	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/list	623	624
+4fc0883c	53	N	std::list<unsigned_long,std::allocator<unsigned_long>_>::erase	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/list	1349	1353
+4fc08871	78	N	std::_List_alloc<std::_List_base_types<std::pair<unsigned_long_const_,ODFName>,std::allocator<std::pair<unsigned_long_const_,ODFName>_>_>_>::_Buynode0	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/list	609	16707566
+4fc088bf	18	N	Catch@4fc088bf	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/list	623	624
+4fc088d2	78	N	std::_List_alloc<std::_List_base_types<std::pair<char_const_*_const,_iobuf_*>,std::allocator<std::pair<char_const_*_const,_iobuf_*>_>_>_>::_Buynode0	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/list	609	16707566
+4fc08920	18	N	Catch@4fc08920	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/list	623	624
+4fc08933	15	N	std::allocator<std::_List_node<unsigned_long,void_*>_>::deallocate	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/xmemory0	990	993
+4fc08942	15	N	std::allocator<std::_List_node<std::pair<unsigned_long_const_,ODFName>,void_*>_>::deallocate	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/xmemory0	990	993
+4fc08951	15	N	std::allocator<std::_List_node<std::pair<char_const_*_const,_iobuf_*>,void_*>_>::deallocate	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/xmemory0	990	993
+4fc08960	82	N	std::_Hash<std::_Uset_traits<unsigned_long,std::_Uhash_compare<unsigned_long,std::hash<unsigned_long>,std::equal_to<unsigned_long>_>,std::allocator<unsigned_long>,0>_>::_Buy_if_not_node<unsigned_long_const_&>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/xhash	761	764
+4fc089b2	101	N	std::_Hash<std::_Umap_traits<char_const_*,_iobuf_*,std::_Uhash_compare<char_const_*,std::hash<char_const_*>,std::equal_to<char_const_*>_>,std::allocator<std::pair<char_const_*_const,_iobuf_*>_>,0>_>::emplace<std::piecewise_construct_t_const_&,std::tuple<char_const_*_const_&>,std::tuple<>_>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/xhash	299	302
+4fc08a17	101	N	std::_Hash<std::_Umap_traits<unsigned_long,ODFName,std::_Uhash_compare<unsigned_long,std::hash<unsigned_long>,std::equal_to<unsigned_long>_>,std::allocator<std::pair<unsigned_long_const_,ODFName>_>,0>_>::emplace<std::piecewise_construct_t_const_&,std::tuple<unsigned_long_const_&>,std::tuple<>_>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/xhash	299	302
+4fc08a7c	169	N	std::_Hash<std::_Uset_traits<unsigned_long,std::_Uhash_compare<unsigned_long,std::hash<unsigned_long>,std::equal_to<unsigned_long>_>,std::allocator<unsigned_long>,0>_>::_Insert<unsigned_long_const_&,std::_List_unchecked_const_iterator<std::_List_val<std::_List_simple_types<unsigned_long>_>,std::_Iterator_base0>_>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/xhash	969	16707566
+4fc08b25	13	N	Catch@4fc08b25	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/xhash	998	999
+4fc08b32	35	N	Catch@4fc08b32	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/xhash	1014	1019
+4fc08b56	23	N	std::_Hash<std::_Uset_traits<unsigned_long,std::_Uhash_compare<unsigned_long,std::hash<unsigned_long>,std::equal_to<unsigned_long>_>,std::allocator<unsigned_long>,0>_>::_Destroy_if_node	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/xhash	767	769
+4fc08b6d	248	N	std::_Hash<std::_Umap_traits<char_const_*,_iobuf_*,std::_Uhash_compare<char_const_*,std::hash<char_const_*>,std::equal_to<char_const_*>_>,std::allocator<std::pair<char_const_*_const,_iobuf_*>_>,0>_>::_Insert<std::pair<char_const_*_const,_iobuf_*>_&,std::_List_unchecked_iterator<std::_List_val<std::_List_simple_types<std::pair<char_const_*_const,_iobuf_*>_>_>_>_>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/xhash	969	16707566
+4fc08c65	13	N	Catch@4fc08c65	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/xhash	998	999
+4fc08c72	35	N	Catch@4fc08c72	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/xhash	1014	1019
+4fc08c96	248	N	std::_Hash<std::_Umap_traits<unsigned_long,ODFName,std::_Uhash_compare<unsigned_long,std::hash<unsigned_long>,std::equal_to<unsigned_long>_>,std::allocator<std::pair<unsigned_long_const_,ODFName>_>,0>_>::_Insert<std::pair<unsigned_long_const_,ODFName>_&,std::_List_unchecked_iterator<std::_List_val<std::_List_simple_types<std::pair<unsigned_long_const_,ODFName>_>_>_>_>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/xhash	969	16707566
+4fc08d8e	13	N	Catch@4fc08d8e	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/xhash	998	999
+4fc08d9b	35	N	Catch@4fc08d9b	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/xhash	1014	1019
+4fc08dbf	169	N	std::_Hash<std::_Umap_traits<unsigned_long,ODFName,std::_Uhash_compare<unsigned_long,std::hash<unsigned_long>,std::equal_to<unsigned_long>_>,std::allocator<std::pair<unsigned_long_const_,ODFName>_>,0>_>::_Check_size	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/xhash	1137	1150
+4fc08e68	23	N	std::_Hash<std::_Umap_traits<unsigned_long,ODFName,std::_Uhash_compare<unsigned_long,std::hash<unsigned_long>,std::equal_to<unsigned_long>_>,std::allocator<std::pair<unsigned_long_const_,ODFName>_>,0>_>::_Destroy_if_node	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/xhash	767	769
+4fc08e7f	169	N	std::_Hash<std::_Umap_traits<char_const_*,_iobuf_*,std::_Uhash_compare<char_const_*,std::hash<char_const_*>,std::equal_to<char_const_*>_>,std::allocator<std::pair<char_const_*_const,_iobuf_*>_>,0>_>::_Check_size	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/xhash	1137	1150
+4fc08f28	23	N	std::_Hash<std::_Umap_traits<char_const_*,_iobuf_*,std::_Uhash_compare<char_const_*,std::hash<char_const_*>,std::equal_to<char_const_*>_>,std::allocator<std::pair<char_const_*_const,_iobuf_*>_>,0>_>::_Destroy_if_node	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/xhash	767	769
+4fc08f3f	53	N	std::list<std::pair<unsigned_long_const_,ODFName>,std::allocator<std::pair<unsigned_long_const_,ODFName>_>_>::erase	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/list	1349	1353
+4fc08f74	70	N	std::_List_buy<std::pair<char_const_*_const,_iobuf_*>,std::allocator<std::pair<char_const_*_const,_iobuf_*>_>_>::_Buynode<std::piecewise_construct_t_const_&,std::tuple<char_const_*_const_&>,std::tuple<>_>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/list	711	16707566
+4fc08fba	18	N	Catch@4fc08fba	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/list	720	721
+4fc08fcd	82	N	std::_List_buy<std::pair<unsigned_long_const_,ODFName>,std::allocator<std::pair<unsigned_long_const_,ODFName>_>_>::_Buynode<std::piecewise_construct_t_const_&,std::tuple<unsigned_long_const_&>,std::tuple<>_>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/list	711	16707566
+4fc0901f	18	N	Catch@4fc0901f	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/list	720	721
+4fc09032	88	N	std::_Hash<std::_Umap_traits<unsigned_long,ODFName,std::_Uhash_compare<unsigned_long,std::hash<unsigned_long>,std::equal_to<unsigned_long>_>,std::allocator<std::pair<unsigned_long_const_,ODFName>_>,0>_>::erase<std::_List_iterator<std::_List_val<std::_List_simple_types<std::pair<unsigned_long_const_,ODFName>_>_>_>,void>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/xhash	598	600
+4fc0908a	61	N	std::_List_buy<unsigned_long,std::allocator<unsigned_long>_>::_Buynode<unsigned_long_const_&>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/list	711	16707566
+4fc090c7	18	N	Catch@4fc090c7	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/list	720	721
+4fc090da	805	Y	InitTaunts	/e:/github/vsr_dll_source/missions/shared/taunts.cpp	35	128
+4fc093ff	337	Y	DoTaunt	/e:/github/vsr_dll_source/missions/shared/taunts.cpp	135	204
+4fc09550	44	Y	CleanupTaunts	/e:/github/vsr_dll_source/missions/shared/taunts.cpp	214	220
+4fc0957c	44	N	std::vector<char_*,std::allocator<char_*>_>::push_back	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	931	933
+4fc095a8	26	N	sprintf_s<512>	/c:/program files (x86)/windows kits/10/include/10.0.10240.0/ucrt/stdio.h	1846	1850
+4fc095c2	301	N	std::vector<char_*,std::allocator<char_*>_>::_Emplace_reallocate<char_*_const_&>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	942	16707566
+4fc096ef	20	N	Catch@4fc096ef	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	976	977
+4fc09709	32	N	DLLBase::`scalar_deleting_destructor'			
+4fc09729	42	Y	GetDistance3DSquared	/e:/github/vsr_dll_source/missions/vsrcore/mathutils.h	126	126
+4fc09753	26	Y	FrontToRadian	/e:/github/vsr_dll_source/missions/vsrcore/mathutils.h	144	144
+4fc0976d	26	Y	TerrainFindFloor	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.h	885	885
+4fc09787	12	Y	ObjectHelper::GetNumHandles	/e:/github/vsr_dll_source/missions/vsrcore/objecthelper.h	188	188
+4fc09793	14	Y	BuildingHelper::GetNumBuildingObjects	/e:/github/vsr_dll_source/missions/vsrcore/buildinghelper.h	358	358
+4fc097a1	784	Y	operator==	/e:/github/vsr_dll_source/missions/vsrcore/bz1helper.h	105	208
+4fc09ab1	4554	Y	operator==	/e:/github/vsr_dll_source/missions/vsrcore/bz1helper.h	405	988
+4fc0ac7b	244	Y	operator==	/e:/github/vsr_dll_source/missions/vsrcore/bz1helper.h	1001	1020
+4fc0ad6f	166	Y	operator==	/e:/github/vsr_dll_source/missions/vsrcore/bz1helper.h	1033	1052
+4fc0ae15	280	Y	operator==	/e:/github/vsr_dll_source/missions/vsrcore/bz1helper.h	1070	1118
+4fc0af2d	312	Y	operator==	/e:/github/vsr_dll_source/missions/vsrcore/bz1helper.h	1134	1170
+4fc0b065	20	Y	BZ1Helper::ShouldRemoveAlignTerrainReplace	/e:/github/vsr_dll_source/missions/vsrcore/buildinghelper.h	351	351
+4fc0b079	34	Y	BZ1Helper::ShouldRemoveDeploySound	/e:/github/vsr_dll_source/missions/vsrcore/bz1helper.h	1274	1274
+4fc0b09b	37	Y	BZ1Helper::ShouldRemoveBuildAt	/e:/github/vsr_dll_source/missions/vsrcore/bz1helper.h	1277	1277
+4fc0b0c0	1417	Y	BZ1Helper::BZ1Helper	/e:/github/vsr_dll_source/missions/vsrcore/bz1helper.cpp	109	109
+4fc0b649	34	N	BZ1Helper::`scalar_deleting_destructor'			
+4fc0b66b	728	Y	BZ1Helper::~BZ1Helper	/e:/github/vsr_dll_source/missions/vsrcore/bz1helper.cpp	262	327
+4fc0b943	2170	Y	BZ1Helper::Load	/e:/github/vsr_dll_source/missions/vsrcore/bz1helper.cpp	331	545
+4fc0c1bd	978	Y	BZ1Helper::PostLoad	/e:/github/vsr_dll_source/missions/vsrcore/bz1helper.cpp	549	697
+4fc0c58f	1575	Y	BZ1Helper::Save	/e:/github/vsr_dll_source/missions/vsrcore/bz1helper.cpp	701	811
+4fc0cbb6	5371	Y	BZ1Helper::AddObject	/e:/github/vsr_dll_source/missions/vsrcore/bz1helper.cpp	817	1524
+4fc0e0b1	1199	Y	BZ1Helper::DeleteObject	/e:/github/vsr_dll_source/missions/vsrcore/bz1helper.cpp	1528	1695
+4fc0e560	2407	Y	BZ1Helper::Init	/e:/github/vsr_dll_source/missions/vsrcore/bz1helper.cpp	1699	1988
+4fc0eec7	388	Y	BZ1Helper::Setup	/e:/github/vsr_dll_source/missions/vsrcore/bz1helper.cpp	1992	2025
+4fc0f04b	1807	Y	BZ1Helper::Execute	/e:/github/vsr_dll_source/missions/vsrcore/bz1helper.cpp	2029	2432
+4fc0f75a	497	Y	BZ1Helper::PreSnipe	/e:/github/vsr_dll_source/missions/vsrcore/bz1helper.cpp	2443	2525
+4fc0f94b	742	Y	BZ1Helper::PreOrdnanceHit	/e:/github/vsr_dll_source/missions/vsrcore/bz1helper.cpp	2533	2673
+4fc0fc31	120	Y	BZ1Helper::PreGetIn	/e:/github/vsr_dll_source/missions/vsrcore/bz1helper.cpp	2677	2705
+4fc0fca9	252	Y	BZ1Helper::PrePickupPowerup	/e:/github/vsr_dll_source/missions/vsrcore/bz1helper.cpp	2709	2951
+4fc0fda5	5	Y	BZ1Helper::PostTeleport	/e:/github/vsr_dll_source/missions/vsrcore/bz1helper.cpp	2955	2965
+4fc0fdaa	82	Y	BZ1Helper::DeadObject	/e:/github/vsr_dll_source/missions/vsrcore/bz1helper.cpp	2969	2971
+4fc0fdfc	1273	Y	BZ1Helper::BZ1Interface	/e:/github/vsr_dll_source/missions/vsrcore/bz1helper.cpp	2975	3144
+4fc102f5	427	Y	BZ1Helper::BZ1Lives	/e:/github/vsr_dll_source/missions/vsrcore/bz1helper.cpp	3148	3222
+4fc104a0	37	Y	BZ1Helper::ClearDeathCamera	/e:/github/vsr_dll_source/missions/vsrcore/bz1helper.cpp	3252	3263
+4fc104c5	258	Y	BZ1Helper::PlayDeathCamera	/e:/github/vsr_dll_source/missions/vsrcore/bz1helper.cpp	3267	3291
+4fc105c7	2377	Y	BZ1Helper::SetupClouds	/e:/github/vsr_dll_source/missions/vsrcore/bz1helper.cpp	3392	3586
+4fc10f10	57	Y	BZ1Helper::SetAIPFile	/e:/github/vsr_dll_source/missions/vsrcore/bz1helper.cpp	3698	3712
+4fc10f49	592	Y	BZ1Helper::UpdateTeamAIP	/e:/github/vsr_dll_source/missions/vsrcore/bz1helper.cpp	3714	3749
+4fc11199	43	Y	BZ1Helper::AddToDispatch	/e:/github/vsr_dll_source/missions/vsrcore/bz1helper.cpp	3752	3754
+4fc111c4	115	Y	BZ1Helper::DeleteAfterDelay	/e:/github/vsr_dll_source/missions/vsrcore/bz1helper.cpp	4019	4035
+4fc11237	236	Y	BZ1Helper::GetRandomObject	/e:/github/vsr_dll_source/missions/vsrcore/bz1helper.cpp	4039	4102
+4fc11323	365	Y	BZ1Helper::GetNearestObject	/e:/github/vsr_dll_source/missions/vsrcore/bz1helper.cpp	4163	4221
+4fc11490	98	Y	BZ1Helper::GetNearestObject	/e:/github/vsr_dll_source/missions/vsrcore/bz1helper.cpp	4232	4237
+4fc114f2	309	Y	BZ1Helper::BuildAt	/e:/github/vsr_dll_source/missions/vsrcore/bz1helper.cpp	4734	4767
+4fc11627	445	Y	BZ1Helper::CheckBuildRequirements	/e:/github/vsr_dll_source/missions/vsrcore/bz1helper.cpp	4770	4972
+4fc117e4	607	Y	BZ1Helper::CheckBuildRequirements_RequireCount	/e:/github/vsr_dll_source/missions/vsrcore/bz1helper.cpp	4976	5067
+4fc11a43	1973	Y	BZ1Helper::ReplaceObject	/e:/github/vsr_dll_source/missions/vsrcore/bz1helper.cpp	5071	5248
+4fc121f8	43	N	<lambda_dee307eb94beae9268b6d89c62f4c357>::operator()	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1478	1480
+4fc12223	49	N	<lambda_4d52942989f528cd785dbeae06193644>::operator()	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1478	1480
+4fc12254	40	N	<lambda_1855a80fc533c550b5607d8bf997ad95>::operator()	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1478	1480
+4fc1227c	47	N	std::vector<AttacherHelper::AttacherClass,std::allocator<AttacherHelper::AttacherClass>_>::_Tidy	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1910	1922
+4fc122ab	42	N	std::vector<BZ1Helper::BuildAtClass,std::allocator<BZ1Helper::BuildAtClass>_>::_Tidy	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1910	1922
+4fc122d5	42	N	std::vector<BZ1Helper::DeploySoundClass,std::allocator<BZ1Helper::DeploySoundClass>_>::_Tidy	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1910	1922
+4fc122ff	42	N	std::vector<VehicleHelper::VehicleClass,std::allocator<VehicleHelper::VehicleClass>_>::_Tidy	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1910	1922
+4fc12329	42	N	std::vector<ObjectHelper::ObjectClass,std::allocator<ObjectHelper::ObjectClass>_>::_Tidy	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1910	1922
+4fc12353	20	N	std::allocator<AttacherHelper::AttacherClass>::deallocate	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/xmemory0	990	993
+4fc12367	17	N	std::allocator<BZ1Helper::BuildAtClass>::deallocate	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/xmemory0	990	993
+4fc12378	17	N	std::allocator<BZ1Helper::DeploySoundClass>::deallocate	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/xmemory0	990	993
+4fc12389	19	N	std::allocator<BZ1Helper::AlignTerrainReplaceClass>::deallocate	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/xmemory0	990	993
+4fc1239c	17	N	std::allocator<VehicleHelper::VehicleClass>::deallocate	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/xmemory0	990	993
+4fc123ad	17	N	std::allocator<ObjectHelper::ObjectClass>::deallocate	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/xmemory0	990	993
+4fc123be	16	Y	Squared<float>	/e:/github/vsr_dll_source/missions/vsrcore/mathutils.h	166	166
+4fc123ce	30	N	_snprintf_s<10>	/c:/program files (x86)/windows kits/10/include/10.0.10240.0/ucrt/stdio.h	2064	2070
+4fc123ec	328	N	std::vector<BZ1Helper::BuildAtClass,std::allocator<BZ1Helper::BuildAtClass>_>::_Resize<<lambda_dee307eb94beae9268b6d89c62f4c357>_>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1428	16707566
+4fc12534	20	N	Catch@4fc12534	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1450	1451
+4fc12549	295	N	std::vector<BZ1Helper::DeploySoundClass,std::allocator<BZ1Helper::DeploySoundClass>_>::_Resize<<lambda_4d52942989f528cd785dbeae06193644>_>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1428	16707566
+4fc12670	20	N	Catch@4fc12670	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1450	1451
+4fc12685	305	N	std::vector<BZ1Helper::DeleteAfterDelayClass,std::allocator<BZ1Helper::DeleteAfterDelayClass>_>::_Resize<<lambda_4cef8f5d2e224a10ec5594e33bb09482>_>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1428	16707566
+4fc127b6	20	N	Catch@4fc127b6	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1450	1451
+4fc127cb	290	N	std::vector<BZ1Helper::AlignTerrainReplaceClass,std::allocator<BZ1Helper::AlignTerrainReplaceClass>_>::_Resize<<lambda_1855a80fc533c550b5607d8bf997ad95>_>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1428	16707566
+4fc128ed	20	N	Catch@4fc128ed	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1450	1451
+4fc12902	75	N	std::vector<BZ1Helper::BuildAtClass,std::allocator<BZ1Helper::BuildAtClass>_>::_Calculate_growth	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1853	1869
+4fc1294d	75	N	std::vector<BZ1Helper::DeploySoundClass,std::allocator<BZ1Helper::DeploySoundClass>_>::_Calculate_growth	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1853	1869
+4fc12998	70	N	std::vector<BZ1Helper::DeleteAfterDelayClass,std::allocator<BZ1Helper::DeleteAfterDelayClass>_>::_Calculate_growth	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1853	1869
+4fc129de	70	N	std::vector<BZ1Helper::AlignTerrainReplaceClass,std::allocator<BZ1Helper::AlignTerrainReplaceClass>_>::_Calculate_growth	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1853	1869
+4fc12a24	277	N	std::vector<BZ1Helper::BuildAtClass,std::allocator<BZ1Helper::BuildAtClass>_>::_Assign_range<BZ1Helper::BuildAtClass_*>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1341	1382
+4fc12b3a	277	N	std::vector<BZ1Helper::DeploySoundClass,std::allocator<BZ1Helper::DeploySoundClass>_>::_Assign_range<BZ1Helper::DeploySoundClass_*>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1341	1382
+4fc12c50	206	N	std::vector<BZ1Helper::DeleteAfterDelayClass,std::allocator<BZ1Helper::DeleteAfterDelayClass>_>::_Assign_range<BZ1Helper::DeleteAfterDelayClass_*>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1341	1382
+4fc12d1f	266	N	std::vector<BZ1Helper::AlignTerrainReplaceClass,std::allocator<BZ1Helper::AlignTerrainReplaceClass>_>::_Assign_range<BZ1Helper::AlignTerrainReplaceClass_*>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1341	1382
+4fc12e2a	115	N	std::vector<BZ1Helper::BuildAtClass,std::allocator<BZ1Helper::BuildAtClass>_>::_Buy	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1872	1892
+4fc12e9e	115	N	std::vector<BZ1Helper::DeploySoundClass,std::allocator<BZ1Helper::DeploySoundClass>_>::_Buy	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1872	1892
+4fc12f12	117	N	std::vector<BZ1Helper::DeleteAfterDelayClass,std::allocator<BZ1Helper::DeleteAfterDelayClass>_>::_Buy	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1872	1892
+4fc12f88	117	N	std::vector<BZ1Helper::AlignTerrainReplaceClass,std::allocator<BZ1Helper::AlignTerrainReplaceClass>_>::_Buy	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1872	1892
+4fc12ffe	50	N	std::vector<BZ1Helper::DeleteAfterDelayClass,std::allocator<BZ1Helper::DeleteAfterDelayClass>_>::_Ucopy<BZ1Helper::DeleteAfterDelayClass_*>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1822	1824
+4fc13030	63	Y	Cross_Product	/e:/github/vsr_dll_source/missions/vsrcore/mathutils.cpp	10	16
+4fc1306f	189	Y	Build_Directinal_Matrix	/e:/github/vsr_dll_source/missions/vsrcore/mathutils.cpp	20	52
+4fc1312c	97	Y	Normalize_Vector	/e:/github/vsr_dll_source/missions/vsrcore/mathutils.cpp	56	65
+4fc1318d	325	Y	Interpolate_Quaternion	/e:/github/vsr_dll_source/missions/vsrcore/mathutils.cpp	74	127
+4fc132d2	145	Y	Normalize_Quaternion	/e:/github/vsr_dll_source/missions/vsrcore/mathutils.cpp	130	148
+4fc13363	324	Y	Matrix_to_QuatPos	/e:/github/vsr_dll_source/missions/vsrcore/mathutils.cpp	154	191
+4fc134a7	316	Y	QuatPos_to_Matrix	/e:/github/vsr_dll_source/missions/vsrcore/mathutils.cpp	211	242
+4fc135e3	157	Y	Interpolate_Matrix	/e:/github/vsr_dll_source/missions/vsrcore/mathutils.cpp	247	271
+4fc13680	79	Y	Vector_Rotate	/e:/github/vsr_dll_source/missions/vsrcore/mathutils.cpp	276	284
+4fc136cf	109	Y	Vector_TransformInv	/e:/github/vsr_dll_source/missions/vsrcore/mathutils.cpp	299	311
+4fc1373c	88	Y	Vector_Transform	/e:/github/vsr_dll_source/missions/vsrcore/mathutils.cpp	314	322
+4fc13794	754	Y	Matrix_Multiply	/e:/github/vsr_dll_source/missions/vsrcore/mathutils.cpp	325	351
+4fc13a86	245	Y	Matrix_Inverse	/e:/github/vsr_dll_source/missions/vsrcore/mathutils.cpp	356	391
+4fc13b7b	130	Y	Build_Orthogonal_Matrix	/e:/github/vsr_dll_source/missions/vsrcore/mathutils.cpp	394	414
+4fc13bfd	132	Y	Build_Yaw_Matrix	/e:/github/vsr_dll_source/missions/vsrcore/mathutils.cpp	420	448
+4fc13c81	293	Y	Build_Position_Rotation_Matrix	/e:/github/vsr_dll_source/missions/vsrcore/mathutils.cpp	453	483
+4fc13da6	55	Y	GetRandomInt	/e:/github/vsr_dll_source/missions/vsrcore/mathutils.cpp	511	519
+4fc13ddd	118	Y	GetRandomFloat	/e:/github/vsr_dll_source/missions/vsrcore/mathutils.cpp	522	529
+4fc13e53	42	Y	StartAudio3D	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.h	870	870
+4fc13e7d	410	Y	operator==	/e:/github/vsr_dll_source/missions/vsrcore/ambientsoundhelper.h	30	101
+4fc14017	194	Y	AmbientSoundHelper::Load	/e:/github/vsr_dll_source/missions/vsrcore/ambientsoundhelper.cpp	17	39
+4fc140d9	629	Y	AmbientSoundHelper::LoadAmbientSoundInfo	/e:/github/vsr_dll_source/missions/vsrcore/ambientsoundhelper.cpp	55	94
+4fc1434e	683	Y	AmbientSoundHelper::Execute	/e:/github/vsr_dll_source/missions/vsrcore/ambientsoundhelper.cpp	97	184
+4fc145f9	458	Y	operator==	/e:/github/vsr_dll_source/missions/vsrcore/powerhelper.h	28	96
+4fc147c3	155	Y	PowerHelper::PostLoad	/e:/github/vsr_dll_source/missions/vsrcore/powerhelper.cpp	42	65
+4fc1485e	320	Y	PowerHelper::AddPowerObject	/e:/github/vsr_dll_source/missions/vsrcore/powerhelper.cpp	83	115
+4fc1499e	241	Y	PowerHelper::Execute	/e:/github/vsr_dll_source/missions/vsrcore/powerhelper.cpp	132	165
+4fc14a8f	43	N	<lambda_4736c2bbb992635efbfd8efd81bfd98e>::operator()	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1478	1480
+4fc14aba	42	N	std::vector<PowerHelper::PowerClass,std::allocator<PowerHelper::PowerClass>_>::_Tidy	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1910	1922
+4fc14ae4	17	N	std::allocator<PowerHelper::PowerClass>::deallocate	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/xmemory0	990	993
+4fc14af5	328	N	std::vector<PowerHelper::PowerClass,std::allocator<PowerHelper::PowerClass>_>::_Resize<<lambda_4736c2bbb992635efbfd8efd81bfd98e>_>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1428	16707566
+4fc14c3d	20	N	Catch@4fc14c3d	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1450	1451
+4fc14c52	75	N	std::vector<PowerHelper::PowerClass,std::allocator<PowerHelper::PowerClass>_>::_Calculate_growth	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1853	1869
+4fc14c9d	277	N	std::vector<PowerHelper::PowerClass,std::allocator<PowerHelper::PowerClass>_>::_Assign_range<PowerHelper::PowerClass_*>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1341	1382
+4fc14db3	115	N	std::vector<PowerHelper::PowerClass,std::allocator<PowerHelper::PowerClass>_>::_Buy	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1872	1892
+4fc14e27	51	Y	IsProducer	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.h	1146	1146
+4fc14e5a	434	Y	operator==	/e:/github/vsr_dll_source/missions/vsrcore/utilityshiphelper.h	32	96
+4fc1500c	155	Y	UtilityShipHelper::PostLoad	/e:/github/vsr_dll_source/missions/vsrcore/utilityshiphelper.cpp	43	66
+4fc150a7	1001	Y	UtilityShipHelper::AddUtilityShipObject	/e:/github/vsr_dll_source/missions/vsrcore/utilityshiphelper.cpp	84	200
+4fc15490	570	Y	UtilityShipHelper::Execute	/e:/github/vsr_dll_source/missions/vsrcore/utilityshiphelper.cpp	203	270
+4fc156ca	212	Y	UtilityShipHelper::GetEscortTarget	/e:/github/vsr_dll_source/missions/vsrcore/utilityshiphelper.cpp	273	299
+4fc1579e	320	Y	UtilityShipHelper::FindServiceTruck	/e:/github/vsr_dll_source/missions/vsrcore/utilityshiphelper.cpp	302	366
+4fc158de	49	N	<lambda_c8a4f4cad98f6de524d7658fab4f9ded>::operator()	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1478	1480
+4fc1590f	42	N	std::vector<UtilityShipHelper::UtilityShipClass,std::allocator<UtilityShipHelper::UtilityShipClass>_>::_Tidy	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1910	1922
+4fc15939	17	N	std::allocator<UtilityShipHelper::UtilityShipClass>::deallocate	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/xmemory0	990	993
+4fc1594a	295	N	std::vector<UtilityShipHelper::UtilityShipClass,std::allocator<UtilityShipHelper::UtilityShipClass>_>::_Resize<<lambda_c8a4f4cad98f6de524d7658fab4f9ded>_>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1428	16707566
+4fc15a71	20	N	Catch@4fc15a71	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1450	1451
+4fc15a86	75	N	std::vector<UtilityShipHelper::UtilityShipClass,std::allocator<UtilityShipHelper::UtilityShipClass>_>::_Calculate_growth	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1853	1869
+4fc15ad1	277	N	std::vector<UtilityShipHelper::UtilityShipClass,std::allocator<UtilityShipHelper::UtilityShipClass>_>::_Assign_range<UtilityShipHelper::UtilityShipClass_*>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1341	1382
+4fc15be7	115	N	std::vector<UtilityShipHelper::UtilityShipClass,std::allocator<UtilityShipHelper::UtilityShipClass>_>::_Buy	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1872	1892
+4fc15c5b	191	Y	operator==	/e:/github/vsr_dll_source/missions/vsrcore/gravityhelper.h	25	56
+4fc15d1a	194	Y	GravityHelper::Load	/e:/github/vsr_dll_source/missions/vsrcore/gravityhelper.cpp	17	40
+4fc15ddc	236	Y	GravityHelper::LoadGravityInfo	/e:/github/vsr_dll_source/missions/vsrcore/gravityhelper.cpp	56	73
+4fc15ec8	473	Y	GravityHelper::Execute	/e:/github/vsr_dll_source/missions/vsrcore/gravityhelper.cpp	76	163
+4fc160a1	109	Y	GetDistance3DSquared	/e:/github/vsr_dll_source/missions/vsrcore/mathutils.h	128	128
+4fc1610e	955	Y	operator==	/e:/github/vsr_dll_source/missions/vsrcore/morphobjecthelper.h	41	178
+4fc164c9	31	N	MorphObjectHelper::`scalar_deleting_destructor'			
+4fc164e8	21	Y	MorphObjectHelper::~MorphObjectHelper	/e:/github/vsr_dll_source/missions/vsrcore/morphobjecthelper.cpp	18	20
+4fc164fd	181	Y	MorphObjectHelper::PostLoad	/e:/github/vsr_dll_source/missions/vsrcore/morphobjecthelper.cpp	43	67
+4fc165b2	494	Y	MorphObjectHelper::AddMorphObjectHostObject	/e:/github/vsr_dll_source/missions/vsrcore/morphobjecthelper.cpp	86	133
+4fc167a0	298	Y	MorphObjectHelper::AddMorphObjectToggleObject	/e:/github/vsr_dll_source/missions/vsrcore/morphobjecthelper.cpp	137	177
+4fc168ca	3122	Y	MorphObjectHelper::Execute	/e:/github/vsr_dll_source/missions/vsrcore/morphobjecthelper.cpp	180	514
+4fc174fc	306	Y	MorphObjectHelper::GetSwitchMineODF	/e:/github/vsr_dll_source/missions/vsrcore/morphobjecthelper.cpp	518	542
+4fc1762e	97	Y	MorphObjectHelper::PrePickupPowerup	/e:/github/vsr_dll_source/missions/vsrcore/morphobjecthelper.cpp	546	577
+4fc1768f	54	N	<lambda_6e1c0ab678e9364d699d8dd7ba7d9fb6>::operator()	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1478	1480
+4fc176c5	47	N	std::vector<MorphObjectHelper::MorphObjectClass,std::allocator<MorphObjectHelper::MorphObjectClass>_>::_Tidy	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1910	1922
+4fc176f4	20	N	std::allocator<MorphObjectHelper::MorphObjectClass>::deallocate	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/xmemory0	990	993
+4fc17708	319	N	std::vector<MorphObjectHelper::MorphObjectClass,std::allocator<MorphObjectHelper::MorphObjectClass>_>::_Resize<<lambda_6e1c0ab678e9364d699d8dd7ba7d9fb6>_>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1428	16707566
+4fc17847	20	N	Catch@4fc17847	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1450	1451
+4fc1785c	77	N	std::vector<MorphObjectHelper::MorphObjectClass,std::allocator<MorphObjectHelper::MorphObjectClass>_>::_Calculate_growth	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1853	1869
+4fc178a9	292	N	std::vector<MorphObjectHelper::MorphObjectClass,std::allocator<MorphObjectHelper::MorphObjectClass>_>::_Assign_range<MorphObjectHelper::MorphObjectClass_*>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1341	1382
+4fc179ce	118	N	std::vector<MorphObjectHelper::MorphObjectClass,std::allocator<MorphObjectHelper::MorphObjectClass>_>::_Buy	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1872	1892
+4fc17a45	405	Y	operator==	/e:/github/vsr_dll_source/missions/vsrcore/carrierhelper.h	43	107
+4fc17bda	471	Y	operator==	/e:/github/vsr_dll_source/missions/vsrcore/carrierhelper.h	127	187
+4fc17db1	31	N	CarrierHelper::`scalar_deleting_destructor'			
+4fc17dd0	26	Y	CarrierHelper::~CarrierHelper	/e:/github/vsr_dll_source/missions/vsrcore/carrierhelper.cpp	16	17
+4fc17dea	213	Y	CarrierHelper::Load	/e:/github/vsr_dll_source/missions/vsrcore/carrierhelper.cpp	20	44
+4fc17ebf	300	Y	CarrierHelper::PostLoad	/e:/github/vsr_dll_source/missions/vsrcore/carrierhelper.cpp	47	86
+4fc17feb	163	Y	CarrierHelper::Save	/e:/github/vsr_dll_source/missions/vsrcore/carrierhelper.cpp	89	106
+4fc1808e	771	Y	CarrierHelper::AddCarrierDroneObject	/e:/github/vsr_dll_source/missions/vsrcore/carrierhelper.cpp	109	185
+4fc18391	414	Y	CarrierHelper::AddCarrierObject	/e:/github/vsr_dll_source/missions/vsrcore/carrierhelper.cpp	188	223
+4fc1852f	2294	Y	CarrierHelper::Execute	/e:/github/vsr_dll_source/missions/vsrcore/carrierhelper.cpp	226	475
+4fc18e25	278	Y	CarrierHelper::PreOrdnanceHit	/e:/github/vsr_dll_source/missions/vsrcore/carrierhelper.cpp	478	505
+4fc18f3b	304	Y	CarrierHelper::DroneFindTarget	/e:/github/vsr_dll_source/missions/vsrcore/carrierhelper.cpp	511	562
+4fc1906b	376	Y	CarrierHelper::DroneRecall	/e:/github/vsr_dll_source/missions/vsrcore/carrierhelper.cpp	566	591
+4fc191e3	68	Y	CarrierHelper::DroneActivate	/e:/github/vsr_dll_source/missions/vsrcore/carrierhelper.cpp	595	600
+4fc19227	75	Y	CarrierHelper::DroneDeactivate	/e:/github/vsr_dll_source/missions/vsrcore/carrierhelper.cpp	604	612
+4fc19272	97	Y	CarrierHelper::DroneIdle	/e:/github/vsr_dll_source/missions/vsrcore/carrierhelper.cpp	616	622
+4fc192d3	104	Y	CarrierHelper::DroneAttack	/e:/github/vsr_dll_source/missions/vsrcore/carrierhelper.cpp	626	637
+4fc1933b	49	N	<lambda_87c6343aa49b10f10e6fc064335a8cab>::operator()	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1478	1480
+4fc1936c	42	N	std::vector<CarrierHelper::CarrierClass,std::allocator<CarrierHelper::CarrierClass>_>::_Tidy	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1910	1922
+4fc19396	17	N	std::allocator<CarrierHelper::CarrierClass>::deallocate	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/xmemory0	990	993
+4fc193a7	295	N	std::vector<CarrierHelper::CarrierClass,std::allocator<CarrierHelper::CarrierClass>_>::_Resize<<lambda_87c6343aa49b10f10e6fc064335a8cab>_>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1428	16707566
+4fc194ce	20	N	Catch@4fc194ce	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1450	1451
+4fc194e3	75	N	std::vector<CarrierHelper::CarrierClass,std::allocator<CarrierHelper::CarrierClass>_>::_Calculate_growth	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1853	1869
+4fc1952e	277	N	std::vector<CarrierHelper::DroneClass,std::allocator<CarrierHelper::DroneClass>_>::_Assign_range<CarrierHelper::DroneClass_*>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1341	1382
+4fc19644	277	N	std::vector<CarrierHelper::CarrierClass,std::allocator<CarrierHelper::CarrierClass>_>::_Assign_range<CarrierHelper::CarrierClass_*>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1341	1382
+4fc1975a	115	N	std::vector<CarrierHelper::DroneClass,std::allocator<CarrierHelper::DroneClass>_>::_Buy	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1872	1892
+4fc197ce	115	N	std::vector<CarrierHelper::CarrierClass,std::allocator<CarrierHelper::CarrierClass>_>::_Buy	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1872	1892
+4fc19842	1661	Y	operator==	/e:/github/vsr_dll_source/missions/vsrcore/attacherhelper.h	50	206
+4fc19ebf	189	Y	AttacherHelper::PostLoad	/e:/github/vsr_dll_source/missions/vsrcore/attacherhelper.cpp	35	60
+4fc19f7c	1289	Y	AttacherHelper::AddAttacherObject	/e:/github/vsr_dll_source/missions/vsrcore/attacherhelper.cpp	79	194
+4fc1a485	4403	Y	AttacherHelper::Execute	/e:/github/vsr_dll_source/missions/vsrcore/attacherhelper.cpp	197	686
+4fc1b5b8	54	N	<lambda_7ba5f03559cb281997e133de678b9134>::operator()	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1478	1480
+4fc1b5ee	321	N	std::vector<AttacherHelper::AttacherClass,std::allocator<AttacherHelper::AttacherClass>_>::_Resize<<lambda_7ba5f03559cb281997e133de678b9134>_>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1428	16707566
+4fc1b72f	20	N	Catch@4fc1b72f	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1450	1451
+4fc1b744	77	N	std::vector<AttacherHelper::AttacherClass,std::allocator<AttacherHelper::AttacherClass>_>::_Calculate_growth	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1853	1869
+4fc1b791	235	N	std::vector<AttacherHelper::AttacherClass,std::allocator<AttacherHelper::AttacherClass>_>::_Assign_range<AttacherHelper::AttacherClass_*>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1341	1382
+4fc1b87d	118	N	std::vector<AttacherHelper::AttacherClass,std::allocator<AttacherHelper::AttacherClass>_>::_Buy	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1872	1892
+4fc1b8f4	58	N	std::vector<AttacherHelper::AttacherClass,std::allocator<AttacherHelper::AttacherClass>_>::_Ucopy<AttacherHelper::AttacherClass_*>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1822	1824
+4fc1b92e	1492	Y	ProductionClassHelper::AddProductionClassObject	/e:/github/vsr_dll_source/missions/vsrcore/productionclasshelper.cpp	20	237
+4fc1bf02	2154	Y	ProductionClassHelper::Execute	/e:/github/vsr_dll_source/missions/vsrcore/productionclasshelper.cpp	240	758
+4fc1c76c	228	Y	operator==	/e:/github/vsr_dll_source/missions/vsrcore/undeployhelper.h	22	56
+4fc1c850	152	Y	UndeployHelper::PostLoad	/e:/github/vsr_dll_source/missions/vsrcore/undeployhelper.cpp	42	65
+4fc1c8e8	915	Y	UndeployHelper::AddUndeployObject	/e:/github/vsr_dll_source/missions/vsrcore/undeployhelper.cpp	83	175
+4fc1cc7b	988	Y	UndeployHelper::Execute	/e:/github/vsr_dll_source/missions/vsrcore/undeployhelper.cpp	178	301
+4fc1d057	266	N	std::vector<UndeployHelper::UndeployClass,std::allocator<UndeployHelper::UndeployClass>_>::_Assign_range<UndeployHelper::UndeployClass_*>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1341	1382
+4fc1d162	117	N	std::vector<UndeployHelper::UndeployClass,std::allocator<UndeployHelper::UndeployClass>_>::_Buy	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1872	1892
+4fc1d1d8	2393	Y	operator==	/e:/github/vsr_dll_source/missions/vsrcore/buildinghelper.h	69	341
+4fc1db31	189	Y	BuildingHelper::PostLoad	/e:/github/vsr_dll_source/missions/vsrcore/buildinghelper.cpp	45	70
+4fc1dbee	2224	Y	BuildingHelper::AddBuildingObject	/e:/github/vsr_dll_source/missions/vsrcore/buildinghelper.cpp	88	321
+4fc1e4a1	3266	Y	BuildingHelper::Execute	/e:/github/vsr_dll_source/missions/vsrcore/buildinghelper.cpp	324	765
+4fc1f163	53	Y	BuildingHelper::IsBuildingPowered	/e:/github/vsr_dll_source/missions/vsrcore/buildinghelper.cpp	768	779
+4fc1f198	208	Y	BuildingHelper::GetRandomBuilding	/e:/github/vsr_dll_source/missions/vsrcore/buildinghelper.cpp	798	841
+4fc1f268	131	Y	BuildingHelper::GetNumBuildings	/e:/github/vsr_dll_source/missions/vsrcore/buildinghelper.cpp	845	878
+4fc1f2eb	366	Y	BuildingHelper::GetNearestServiceObject	/e:/github/vsr_dll_source/missions/vsrcore/buildinghelper.cpp	946	1020
+4fc1f459	54	N	<lambda_ec97c231cece026f40cdadd6cbe85fc1>::operator()	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1478	1480
+4fc1f48f	47	N	std::vector<BuildingHelper::BuildingClass,std::allocator<BuildingHelper::BuildingClass>_>::_Tidy	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1910	1922
+4fc1f4be	20	N	std::allocator<BuildingHelper::BuildingClass>::deallocate	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/xmemory0	990	993
+4fc1f4d2	30	Y	GetDistance2DSquared<Vector,Vector>	/e:/github/vsr_dll_source/missions/vsrcore/mathutils.h	131	131
+4fc1f4f0	321	N	std::vector<BuildingHelper::BuildingClass,std::allocator<BuildingHelper::BuildingClass>_>::_Resize<<lambda_ec97c231cece026f40cdadd6cbe85fc1>_>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1428	16707566
+4fc1f631	20	N	Catch@4fc1f631	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1450	1451
+4fc1f646	77	N	std::vector<BuildingHelper::BuildingClass,std::allocator<BuildingHelper::BuildingClass>_>::_Calculate_growth	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1853	1869
+4fc1f693	235	N	std::vector<BuildingHelper::BuildingClass,std::allocator<BuildingHelper::BuildingClass>_>::_Assign_range<BuildingHelper::BuildingClass_*>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1341	1382
+4fc1f77f	118	N	std::vector<BuildingHelper::BuildingClass,std::allocator<BuildingHelper::BuildingClass>_>::_Buy	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1872	1892
+4fc1f7f6	58	N	std::vector<BuildingHelper::BuildingClass,std::allocator<BuildingHelper::BuildingClass>_>::_Ucopy<BuildingHelper::BuildingClass_*>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1822	1824
+4fc1f830	89	Y	GetPositionNearOrFar	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.h	1204	1204
+4fc1f889	1392	Y	operator==	/e:/github/vsr_dll_source/missions/vsrcore/dispatchhelper.h	89	295
+4fc1fdf9	9	Y	ScrapHelper::GetNumScrapObjects	/e:/github/vsr_dll_source/missions/vsrcore/scraphelper.h	47	47
+4fc1fe02	31	N	DispatchHelper::`scalar_deleting_destructor'			
+4fc1fe21	21	Y	DispatchHelper::~DispatchHelper	/e:/github/vsr_dll_source/missions/vsrcore/dispatchhelper.cpp	23	25
+4fc1fe36	189	Y	DispatchHelper::PostLoad	/e:/github/vsr_dll_source/missions/vsrcore/dispatchhelper.cpp	48	73
+4fc1fef3	2392	Y	DispatchHelper::AddToDispatch	/e:/github/vsr_dll_source/missions/vsrcore/dispatchhelper.cpp	91	368
+4fc2084b	94	Y	DispatchHelper::DeleteDispatchObject	/e:/github/vsr_dll_source/missions/vsrcore/dispatchhelper.cpp	371	394
+4fc208a9	11954	Y	DispatchHelper::Execute	/e:/github/vsr_dll_source/missions/vsrcore/dispatchhelper.cpp	397	1857
+4fc2375b	720	Y	DispatchHelper::PreOrdnanceHit	/e:/github/vsr_dll_source/missions/vsrcore/dispatchhelper.cpp	1860	1939
+4fc23a2b	77	Y	DispatchHelper::ReadChanceValues	/e:/github/vsr_dll_source/missions/vsrcore/dispatchhelper.cpp	1942	1948
+4fc23a78	229	Y	DispatchHelper::Cloak	/e:/github/vsr_dll_source/missions/vsrcore/dispatchhelper.cpp	1952	2027
+4fc23b5d	145	Y	DispatchHelper::Decloak	/e:/github/vsr_dll_source/missions/vsrcore/dispatchhelper.cpp	2029	2076
+4fc23bee	77	Y	DispatchHelper::ClearDispatch	/e:/github/vsr_dll_source/missions/vsrcore/dispatchhelper.cpp	2174	2183
+4fc23c3b	19	N	std::_Vector_iterator<std::_Vector_val<std::_Simple_types<DispatchHelper::DispatchClass>_>_>::operator-	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	316	318
+4fc23c4e	3	N	std::_Vector_iterator<std::_Vector_val<std::_Simple_types<DispatchHelper::DispatchClass>_>_>::operator->	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	262	264
+4fc23c51	11	N	std::vector<DispatchHelper::DispatchClass,std::allocator<DispatchHelper::DispatchClass>_>::begin	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1618	1620
+4fc23c5c	56	N	std::vector<DispatchHelper::DispatchClass,std::allocator<DispatchHelper::DispatchClass>_>::erase	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1568	1586
+4fc23c94	11	N	std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<DispatchHelper::DispatchClass>_>_>::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<DispatchHelper::DispatchClass>_>_>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	41	44
+4fc23c9f	119	N	std::remove_if<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<DispatchHelper::DispatchClass>_>_>,bool_(__cdecl*)(DispatchHelper::DispatchClass_const_&)>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/algorithm	2075	2095
+4fc23d16	292	N	std::vector<DispatchHelper::DispatchClass,std::allocator<DispatchHelper::DispatchClass>_>::_Assign_range<DispatchHelper::DispatchClass_*>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1341	1382
+4fc23e3b	118	N	std::vector<DispatchHelper::DispatchClass,std::allocator<DispatchHelper::DispatchClass>_>::_Buy	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1872	1892
+4fc23eb2	678	Y	operator==	/e:/github/vsr_dll_source/missions/vsrcore/vehiclehelper.h	46	164
+4fc24158	155	Y	VehicleHelper::PostLoad	/e:/github/vsr_dll_source/missions/vsrcore/vehiclehelper.cpp	26	47
+4fc241f3	80	Y	VehicleHelper::Save	/e:/github/vsr_dll_source/missions/vsrcore/vehiclehelper.cpp	50	59
+4fc24243	1305	Y	VehicleHelper::Execute	/e:/github/vsr_dll_source/missions/vsrcore/vehiclehelper.cpp	68	310
+4fc2475c	49	N	<lambda_211499e44519ac16b68a02000ccfed01>::operator()	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1478	1480
+4fc2478d	312	N	std::vector<VehicleHelper::VehicleClass,std::allocator<VehicleHelper::VehicleClass>_>::_Emplace_reallocate<>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	942	16707566
+4fc248c5	20	N	Catch@4fc248c5	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	976	977
+4fc248df	199	N	std::vector<VehicleHelper::VehicleClass,std::allocator<VehicleHelper::VehicleClass>_>::_Resize<<lambda_211499e44519ac16b68a02000ccfed01>_>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1428	16707566
+4fc249a6	20	N	Catch@4fc249a6	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1450	1451
+4fc249bb	60	N	std::vector<VehicleHelper::VehicleClass,std::allocator<VehicleHelper::VehicleClass>_>::_Change_array	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1895	1907
+4fc249f7	75	N	std::vector<VehicleHelper::VehicleClass,std::allocator<VehicleHelper::VehicleClass>_>::_Calculate_growth	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1853	1869
+4fc24a42	53	N	std::vector<VehicleHelper::VehicleClass,std::allocator<VehicleHelper::VehicleClass>_>::_Umove_if_noexcept	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1842	1845
+4fc24a77	277	N	std::vector<VehicleHelper::VehicleClass,std::allocator<VehicleHelper::VehicleClass>_>::_Assign_range<VehicleHelper::VehicleClass_*>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1341	1382
+4fc24b8d	115	N	std::vector<VehicleHelper::VehicleClass,std::allocator<VehicleHelper::VehicleClass>_>::_Buy	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1872	1892
+4fc24c01	674	Y	operator==	/e:/github/vsr_dll_source/missions/vsrcore/objecthelper.h	55	174
+4fc24ea3	155	Y	ObjectHelper::PostLoad	/e:/github/vsr_dll_source/missions/vsrcore/objecthelper.cpp	31	52
+4fc24f3e	80	Y	ObjectHelper::Save	/e:/github/vsr_dll_source/missions/vsrcore/objecthelper.cpp	55	64
+4fc24f8e	236	Y	ObjectHelper::Execute	/e:/github/vsr_dll_source/missions/vsrcore/objecthelper.cpp	77	119
+4fc2507a	49	N	<lambda_d4eb94d7f5b88ac3e14105a7a949c756>::operator()	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1478	1480
+4fc250ab	312	N	std::vector<ObjectHelper::ObjectClass,std::allocator<ObjectHelper::ObjectClass>_>::_Emplace_reallocate<>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	942	16707566
+4fc251e3	20	N	Catch@4fc251e3	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	976	977
+4fc251fd	199	N	std::vector<ObjectHelper::ObjectClass,std::allocator<ObjectHelper::ObjectClass>_>::_Resize<<lambda_d4eb94d7f5b88ac3e14105a7a949c756>_>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1428	16707566
+4fc252c4	20	N	Catch@4fc252c4	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1450	1451
+4fc252d9	60	N	std::vector<ObjectHelper::ObjectClass,std::allocator<ObjectHelper::ObjectClass>_>::_Change_array	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1895	1907
+4fc25315	75	N	std::vector<ObjectHelper::ObjectClass,std::allocator<ObjectHelper::ObjectClass>_>::_Calculate_growth	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1853	1869
+4fc25360	53	N	std::vector<ObjectHelper::ObjectClass,std::allocator<ObjectHelper::ObjectClass>_>::_Umove_if_noexcept	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1842	1845
+4fc25395	277	N	std::vector<ObjectHelper::ObjectClass,std::allocator<ObjectHelper::ObjectClass>_>::_Assign_range<ObjectHelper::ObjectClass_*>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1341	1382
+4fc254ab	115	N	std::vector<ObjectHelper::ObjectClass,std::allocator<ObjectHelper::ObjectClass>_>::_Buy	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1872	1892
+4fc2551f	377	Y	operator==	/e:/github/vsr_dll_source/missions/vsrcore/poweruphelper.h	32	90
+4fc25698	206	Y	PowerupHelper::PostLoad	/e:/github/vsr_dll_source/missions/vsrcore/poweruphelper.cpp	42	73
+4fc25766	518	Y	PowerupHelper::AddPowerupObject	/e:/github/vsr_dll_source/missions/vsrcore/poweruphelper.cpp	91	140
+4fc2596c	1040	Y	PowerupHelper::Execute	/e:/github/vsr_dll_source/missions/vsrcore/poweruphelper.cpp	143	192
+4fc25d7c	54	N	<lambda_dcc549f59dec1aad2202dcbd5a8823fa>::operator()	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1478	1480
+4fc25db2	47	N	std::vector<PowerupHelper::PowerupClass,std::allocator<PowerupHelper::PowerupClass>_>::_Tidy	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1910	1922
+4fc25de1	20	N	std::allocator<PowerupHelper::PowerupClass>::deallocate	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/xmemory0	990	993
+4fc25df5	319	N	std::vector<PowerupHelper::PowerupClass,std::allocator<PowerupHelper::PowerupClass>_>::_Resize<<lambda_dcc549f59dec1aad2202dcbd5a8823fa>_>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1428	16707566
+4fc25f34	20	N	Catch@4fc25f34	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1450	1451
+4fc25f49	77	N	std::vector<PowerupHelper::PowerupClass,std::allocator<PowerupHelper::PowerupClass>_>::_Calculate_growth	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1853	1869
+4fc25f96	292	N	std::vector<PowerupHelper::PowerupClass,std::allocator<PowerupHelper::PowerupClass>_>::_Assign_range<PowerupHelper::PowerupClass_*>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1341	1382
+4fc260bb	118	N	std::vector<PowerupHelper::PowerupClass,std::allocator<PowerupHelper::PowerupClass>_>::_Buy	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1872	1892
+4fc26132	1478	Y	AIWeaponHelper::AIGiveWeapons	/e:/github/vsr_dll_source/missions/vsrcore/aiweaponhelper.cpp	10	201
+4fc266f8	58	Y	GetDistance	/e:/github/vsr_dll_source/missions/vsrcore/bzcscriptutils.h	849	849
+4fc26732	262	Y	ScrapHelper::PostLoad	/e:/github/vsr_dll_source/missions/vsrcore/scraphelper.cpp	43	66
+4fc26838	397	Y	ScrapHelper::AddScrapObject	/e:/github/vsr_dll_source/missions/vsrcore/scraphelper.cpp	84	137
+4fc269c5	286	N	std::vector<ScrapHelper::ScrapClass,std::allocator<ScrapHelper::ScrapClass>_>::_Resize<<lambda_5fdf7784746bcf490d41dbfe20fcbd69>_>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1428	16707566
+4fc26ae3	20	N	Catch@4fc26ae3	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1450	1451
+4fc26af8	70	N	std::vector<ScrapHelper::ScrapClass,std::allocator<ScrapHelper::ScrapClass>_>::_Calculate_growth	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1853	1869
+4fc26b3e	206	N	std::vector<ScrapHelper::ScrapClass,std::allocator<ScrapHelper::ScrapClass>_>::_Assign_range<ScrapHelper::ScrapClass_*>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1341	1382
+4fc26c0d	117	N	std::vector<ScrapHelper::ScrapClass,std::allocator<ScrapHelper::ScrapClass>_>::_Buy	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1872	1892
+4fc26c83	66	N	std::vector<ScrapHelper::ScrapClass,std::allocator<ScrapHelper::ScrapClass>_>::_Ucopy<ScrapHelper::ScrapClass_*>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1822	1824
+4fc26cc6	2626	Y	operator==	/e:/github/vsr_dll_source/missions/vsrcore/portalhelper.h	95	421
+4fc27708	340	Y	operator==	/e:/github/vsr_dll_source/missions/vsrcore/portalhelper.h	436	477
+4fc2785c	77	Y	PortalHelper::ShouldRemoveTeleportTarget	/e:/github/vsr_dll_source/missions/vsrcore/portalhelper.h	489	489
+4fc278a9	213	Y	PortalHelper::Load	/e:/github/vsr_dll_source/missions/vsrcore/portalhelper.cpp	26	50
+4fc2797e	336	Y	PortalHelper::PostLoad	/e:/github/vsr_dll_source/missions/vsrcore/portalhelper.cpp	53	101
+4fc27ace	166	Y	PortalHelper::Save	/e:/github/vsr_dll_source/missions/vsrcore/portalhelper.cpp	104	121
+4fc27b74	178	Y	PortalHelper::AddPortalSwitchObject	/e:/github/vsr_dll_source/missions/vsrcore/portalhelper.cpp	124	148
+4fc27c26	2251	Y	PortalHelper::AddPortalObject	/e:/github/vsr_dll_source/missions/vsrcore/portalhelper.cpp	151	359
+4fc284f1	2811	Y	PortalHelper::Execute	/e:/github/vsr_dll_source/missions/vsrcore/portalhelper.cpp	362	839
+4fc28fec	3839	Y	PortalHelper::ExecuteObject	/e:/github/vsr_dll_source/missions/vsrcore/portalhelper.cpp	842	1187
+4fc29eeb	298	Y	PortalHelper::SetPortalEffectStart_Internal	/e:/github/vsr_dll_source/missions/vsrcore/portalhelper.cpp	1234	1333
+4fc2a015	187	Y	PortalHelper::SetPortalEffectOn_Internal	/e:/github/vsr_dll_source/missions/vsrcore/portalhelper.cpp	1351	1409
+4fc2a0d0	73	Y	PortalHelper::SetPortalEffectEnd	/e:/github/vsr_dll_source/missions/vsrcore/portalhelper.cpp	1413	1425
+4fc2a119	240	Y	PortalHelper::SetPortalEffectEnd_Internal	/e:/github/vsr_dll_source/missions/vsrcore/portalhelper.cpp	1427	1514
+4fc2a209	344	Y	PortalHelper::SetPortalEffectVeh_Internal	/e:/github/vsr_dll_source/missions/vsrcore/portalhelper.cpp	1536	1562
+4fc2a361	188	Y	PortalHelper::SetPortalDest	/e:/github/vsr_dll_source/missions/vsrcore/portalhelper.cpp	1603	1643
+4fc2a41d	181	Y	PortalHelper::ShufflePortalDownInternal	/e:/github/vsr_dll_source/missions/vsrcore/portalhelper.cpp	1754	1821
+4fc2a4d2	192	Y	PortalHelper::ShufflePortalUpInternal	/e:/github/vsr_dll_source/missions/vsrcore/portalhelper.cpp	1851	1897
+4fc2a592	52	Y	PortalHelper::ResetPortalDestinations	/e:/github/vsr_dll_source/missions/vsrcore/portalhelper.cpp	1901	1914
+4fc2a5c6	91	Y	PortalHelper::SortCycleList	/e:/github/vsr_dll_source/missions/vsrcore/portalhelper.cpp	1918	1935
+4fc2a621	195	Y	PortalHelper::PlayPortalSoundFx	/e:/github/vsr_dll_source/missions/vsrcore/portalhelper.cpp	1939	1985
+4fc2a6e4	41	N	<lambda_f2c0a61063d8731356913bf41ed3079e>::operator()	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1478	1480
+4fc2a70d	54	N	<lambda_f1b37303f98cb6f7ff8a0c469c587af2>::operator()	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1478	1480
+4fc2a743	42	N	std::vector<PortalHelper::TeleportTargetClass,std::allocator<PortalHelper::TeleportTargetClass>_>::_Tidy	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1910	1922
+4fc2a76d	47	N	std::vector<PortalHelper::PortalClass,std::allocator<PortalHelper::PortalClass>_>::_Tidy	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1910	1922
+4fc2a79c	17	N	std::allocator<PortalHelper::TeleportTargetClass>::deallocate	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/xmemory0	990	993
+4fc2a7ad	20	N	std::allocator<PortalHelper::PortalClass>::deallocate	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/xmemory0	990	993
+4fc2a7c1	317	N	std::vector<PortalHelper::TeleportTargetClass,std::allocator<PortalHelper::TeleportTargetClass>_>::_Resize<<lambda_f2c0a61063d8731356913bf41ed3079e>_>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1428	16707566
+4fc2a8fe	20	N	Catch@4fc2a8fe	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1450	1451
+4fc2a913	321	N	std::vector<PortalHelper::PortalClass,std::allocator<PortalHelper::PortalClass>_>::_Resize<<lambda_f1b37303f98cb6f7ff8a0c469c587af2>_>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1428	16707566
+4fc2aa54	20	N	Catch@4fc2aa54	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1450	1451
+4fc2aa69	75	N	std::vector<PortalHelper::TeleportTargetClass,std::allocator<PortalHelper::TeleportTargetClass>_>::_Calculate_growth	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1853	1869
+4fc2aab4	77	N	std::vector<PortalHelper::PortalClass,std::allocator<PortalHelper::PortalClass>_>::_Calculate_growth	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1853	1869
+4fc2ab01	277	N	std::vector<PortalHelper::TeleportTargetClass,std::allocator<PortalHelper::TeleportTargetClass>_>::_Assign_range<PortalHelper::TeleportTargetClass_*>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1341	1382
+4fc2ac17	235	N	std::vector<PortalHelper::PortalClass,std::allocator<PortalHelper::PortalClass>_>::_Assign_range<PortalHelper::PortalClass_*>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1341	1382
+4fc2ad03	115	N	std::vector<PortalHelper::TeleportTargetClass,std::allocator<PortalHelper::TeleportTargetClass>_>::_Buy	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1872	1892
+4fc2ad77	118	N	std::vector<PortalHelper::PortalClass,std::allocator<PortalHelper::PortalClass>_>::_Buy	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1872	1892
+4fc2adee	58	N	std::vector<PortalHelper::PortalClass,std::allocator<PortalHelper::PortalClass>_>::_Ucopy<PortalHelper::PortalClass_*>	/c:/program files (x86)/microsoft visual studio/2017/community/vc/tools/msvc/14.16.27023/include/vector	1822	1824
+4fc2ae28	37	N	LuaMission::`scalar_deleting_destructor'			
+4fc2ae4d	91	N	FUN_4fc2ae4d			
+4fc2aeb7	113	N	lua_checkstack			
+4fc2af28	62	N	lua_xmove			
+4fc2af66	20	N	lua_version			
+4fc2af7a	33	N	lua_absindex			
+4fc2af9b	55	N	lua_settop			
+4fc2afd2	52	N	lua_remove			
+4fc2b006	57	N	lua_insert			
+4fc2b03f	95	N	FUN_4fc2b03f			
+4fc2b09e	29	N	lua_pushvalue			
+4fc2b0bb	44	N	lua_type			
+4fc2b0e7	8	N	lua_typename			
+4fc2b0ef	46	N	lua_isnumber			
+4fc2b11d	22	N	lua_isstring			
+4fc2b133	109	N	lua_rawequal			
+4fc2b1a0	76	N	lua_tonumberx			
+4fc2b1ec	89	N	lua_tointegerx			
+4fc2b245	89	N	lua_tounsignedx			
+4fc2b29e	35	N	lua_toboolean			
+4fc2b2c1	109	N	lua_tolstring			
+4fc2b32e	74	N	lua_rawlen			
+4fc2b378	56	N	lua_touserdata			
+4fc2b3b0	98	N	lua_topointer			
+4fc2b412	43	N	lua_pushnumber			
+4fc2b43e	42	N	lua_pushunsigned			
+4fc2b468	62	N	lua_pushlstring			
+4fc2b4a6	79	N	lua_pushstring			
+4fc2b4f5	37	N	lua_pushvfstring			
+4fc2b51a	40	N	lua_pushfstring			
+4fc2b542	124	N	lua_pushcclosure			
+4fc2b5be	31	N	lua_pushthread			
+4fc2b5dd	82	N	lua_getglobal			
+4fc2b62f	72	N	lua_getfield			
+4fc2b677	37	N	lua_rawget			
+4fc2b69c	40	N	lua_rawgeti			
+4fc2b6c4	73	N	lua_createtable			
+4fc2b70d	115	N	lua_getmetatable			
+4fc2b780	89	N	lua_setglobal			
+4fc2b7d9	78	N	lua_setfield			
+4fc2b827	131	N	lua_rawset			
+4fc2b8aa	116	N	lua_rawseti			
+4fc2b91e	197	N	lua_setmetatable			
+4fc2b9e3	74	N	lua_setuservalue			
+4fc2ba2d	83	N	lua_callk			
+4fc2ba97	201	N	lua_pcallk			
+4fc2bb60	178	N	lua_load			
+4fc2bc12	19	N	lua_gc			
+4fc2bd22	6	N	lua_error			
+4fc2bd29	44	N	lua_next			
+4fc2bd55	77	N	lua_concat			
+4fc2bda2	85	N	lua_newuserdata			
+4fc2bdf8	145	N	FUN_4fc2bdf8			
+4fc2be89	131	N	lua_setupvalue			
+4fc2bf0c	76	N	lua_upvaluejoin			
+4fc2bf58	192	N	FUN_4fc2bf58			
+4fc2c018	108	N	FUN_4fc2c018			
+4fc2c084	137	N	FUN_4fc2c084			
+4fc2c10d	499	N	luaL_traceback			
+4fc2c300	178	N	luaL_argerror			
+4fc2c3b3	47	N	FUN_4fc2c3b3			
+4fc2c3e3	22	N	FUN_4fc2c3e3			
+4fc2c3f9	111	N	luaL_where			
+4fc2c468	49	N	luaL_error			
+4fc2c499	120	N	luaL_fileresult			
+4fc2c56c	96	N	luaL_newmetatable			
+4fc2c5cc	89	N	luaL_testudata			
+4fc2c625	37	N	luaL_checkudata			
+4fc2c64a	168	N	luaL_checkoption			
+4fc2c6f3	53	N	luaL_checkstack			
+4fc2c729	33	N	luaL_checktype			
+4fc2c74b	35	N	luaL_checkany			
+4fc2c76f	34	N	luaL_checklstring			
+4fc2c792	74	N	luaL_optlstring			
+4fc2c7dc	49	N	luaL_checknumber			
+4fc2c80e	32	N	luaL_optnumber			
+4fc2c82e	42	N	luaL_checkinteger			
+4fc2c859	41	N	luaL_checkunsigned			
+4fc2c883	33	N	luaL_optinteger			
+4fc2c8a4	121	N	luaL_prepbuffsize			
+4fc2c91e	38	N	luaL_addlstring			
+4fc2c944	42	N	luaL_pushresult			
+4fc2c96e	83	N	luaL_addvalue			
+4fc2c9c1	37	N	luaL_buffinitsize			
+4fc2c9e6	78	N	FUN_4fc2c9e6			
+4fc2ca34	76	N	FUN_4fc2ca34			
+4fc2ca80	112	N	FUN_4fc2ca80			
+4fc2caf0	382	N	luaL_loadfilex			
+4fc2cc89	40	N	luaL_loadbufferx			
+4fc2ccb1	59	N	luaL_getmetafield			
+4fc2ccec	80	N	luaL_len			
+4fc2cd3d	211	N	luaL_tolstring			
+4fc2ce10	158	N	luaL_setfuncs			
+4fc2ceae	112	N	luaL_getsubtable			
+4fc2cf1e	129	N	luaL_requiref			
+4fc2cf9f	279	N	luaL_gsub			
+4fc2d117	143	N	luaL_checkversion_			
+4fc2d1a7	41	N	luaE_freeCI			
+4fc2d1d0	121	N	FUN_4fc2d1d0			
+4fc2d249	43	N	FUN_4fc2d249			
+4fc2d274	265	N	FUN_4fc2d274			
+4fc2d37d	53	N	FUN_4fc2d37d			
+4fc2d3b2	184	N	FUN_4fc2d3b2			
+4fc2d46a	341	N	lua_newstate			
+4fc2d5bf	73	N	luaL_openlibs			
+4fc2d608	98	N	FUN_4fc2d608			
+4fc2d66a	196	N	FUN_4fc2d66a			
+4fc2d72e	65	N	FUN_4fc2d72e			
+4fc2d76f	205	N	FUN_4fc2d76f			
+4fc2d83d	171	N	luaH_next			
+4fc2d8e8	40	N	FUN_4fc2d8e8			
+4fc2d910	133	N	FUN_4fc2d910			
+4fc2d995	76	N	FUN_4fc2d995			
+4fc2d9e2	147	N	FUN_4fc2d9e2			
+4fc2da76	275	N	luaH_resize			
+4fc2db8a	300	N	FUN_4fc2db8a			
+4fc2dcb6	46	N	luaH_new			
+4fc2dce4	78	N	luaH_free			
+4fc2dd32	317	N	luaH_newkey			
+4fc2de70	102	N	luaH_getint			
+4fc2ded6	49	N	luaH_getstr			
+4fc2df07	205	N	luaH_get			
+4fc2dfd4	41	N	luaH_set			
+4fc2dffd	80	N	luaH_setint			
+4fc2e04d	165	N	FUN_4fc2e04d			
+4fc2e0f2	79	N	luaH_getn			
+4fc2e141	50	N	_sprintf			
+4fc2e173	82	N	luaV_tonumber			
+4fc2e1c5	111	N	luaV_tostring			
+4fc2e234	226	N	FUN_4fc2e234			
+4fc2e317	169	N	FUN_4fc2e317			
+4fc2e3c0	205	N	luaV_gettable			
+4fc2e48e	310	N	luaV_settable			
+4fc2e5c5	81	N	FUN_4fc2e5c5			
+4fc2e616	163	N	FUN_4fc2e616			
+4fc2e6b9	63	N	FUN_4fc2e6b9			
+4fc2e6f8	82	N	FUN_4fc2e6f8			
+4fc2e74a	130	N	luaV_lessthan			
+4fc2e7cd	159	N	luaV_lessequal			
+4fc2e86d	267	N	luaV_equalobj_			
+4fc2e978	482	N	luaV_concat			
+4fc2eb5a	189	N	luaV_objlen			
+4fc2ec18	111	N	luaV_arith			
+4fc2ec87	321	N	FUN_4fc2ec87			
+4fc2edc8	331	N	luaV_finishOp			
+4fc2ef16	4340	N	luaV_execute			
+4fc300a6	81	N	FUN_4fc300a6			
+4fc300f7	106	N	luaD_throw			
+4fc30162	114	N	luaD_rawrunprotected			
+4fc301d4	123	N	FUN_4fc301d4			
+4fc3024f	96	N	luaD_reallocstack			
+4fc302b0	87	N	luaD_growstack			
+4fc30308	82	N	luaD_shrinkstack			
+4fc3035a	177	N	luaD_hook			
+4fc3040b	131	N	FUN_4fc3040b			
+4fc3048f	595	N	luaD_precall			
+4fc306e2	138	N	luaD_poscall			
+4fc3076c	123	N	luaD_call			
+4fc307e8	128	N	FUN_4fc307e8			
+4fc30868	44	N	FUN_4fc30868			
+4fc3094f	266	N	lua_resume			
+4fc30a59	126	N	luaD_pcall			
+4fc30ad7	62	N	FUN_4fc30ad7			
+4fc30be5	177	N	luaD_protectedparser			
+4fc30c96	45	N	FUN_4fc30c96			
+4fc30cc3	78	N	FUN_4fc30cc3			
+4fc30d11	37	N	luaC_barrier_			
+4fc30d36	64	N	luaC_newobj			
+4fc30d76	225	N	FUN_4fc30d76			
+4fc30e57	45	N	FUN_4fc30e57			
+4fc30e84	43	N	FUN_4fc30e84			
+4fc30eaf	98	N	FUN_4fc30eaf			
+4fc30f11	181	N	FUN_4fc30f11			
+4fc30fc6	329	N	FUN_4fc30fc6			
+4fc3110f	237	N	FUN_4fc3110f			
+4fc311fc	216	N	FUN_4fc311fc			
+4fc312d4	258	N	FUN_4fc312d4			
+4fc313d6	96	N	FUN_4fc313d6			
+4fc31436	86	N	FUN_4fc31436			
+4fc3148c	136	N	FUN_4fc3148c			
+4fc31514	121	N	FUN_4fc31514			
+4fc3158d	20	N	FUN_4fc3158d			
+4fc315a1	58	N	FUN_4fc315a1			
+4fc315db	83	N	FUN_4fc315db			
+4fc3162e	172	N	FUN_4fc3162e			
+4fc316da	164	N	FUN_4fc316da			
+4fc3177e	241	N	FUN_4fc3177e			
+4fc3186f	42	N	FUN_4fc3186f			
+4fc31899	72	N	FUN_4fc31899			
+4fc318f7	280	N	FUN_4fc318f7			
+4fc31a10	70	N	FUN_4fc31a10			
+4fc31a56	140	N	luaC_checkfinalizer			
+4fc31ae2	63	N	FUN_4fc31ae2			
+4fc31b21	64	N	FUN_4fc31b21			
+4fc31b61	65	N	luaC_changemode			
+4fc31ba2	38	N	FUN_4fc31ba2			
+4fc31bc8	380	N	FUN_4fc31bc8			
+4fc31d44	281	N	FUN_4fc31d44			
+4fc31e5d	35	N	luaC_runtilstate			
+4fc31e80	88	N	FUN_4fc31e80			
+4fc31ed8	140	N	FUN_4fc31ed8			
+4fc31f64	65	N	luaC_forcestep			
+4fc31fa5	44	N	luaC_step			
+4fc31fd1	147	N	luaC_fullgc			
+4fc32064	34	N	FUN_4fc32064			
+4fc32086	28	N	FUN_4fc32086			
+4fc320a2	52	N	lua_getstack			
+4fc320d6	160	N	FUN_4fc320d6			
+4fc32176	112	N	lua_getlocal			
+4fc321e6	105	N	FUN_4fc321e6			
+4fc3224f	142	N	FUN_4fc3224f			
+4fc322dd	295	N	FUN_4fc322dd			
+4fc32404	175	N	lua_getinfo			
+4fc324b3	80	N	FUN_4fc324b3			
+4fc32503	192	N	FUN_4fc32503			
+4fc325c3	403	N	FUN_4fc325c3			
+4fc32756	218	N	FUN_4fc32756			
+4fc32893	79	N	FUN_4fc32893			
+4fc328e2	164	N	luaG_typeerror			
+4fc32987	44	N	luaG_concaterror			
+4fc329b4	42	N	luaG_aritherror			
+4fc329df	96	N	luaG_ordererror			
+4fc32a40	109	N	FUN_4fc32a40			
+4fc32aad	94	N	luaG_errormsg			
+4fc32b0b	40	N	luaG_runerror			
+4fc32b33	32	N	luaO_int2fb			
+4fc32b53	30	N	luaO_ceillog2			
+4fc32b71	170	N	luaO_arith			
+4fc32c1b	74	N	FUN_4fc32c1b			
+4fc32c65	318	N	FUN_4fc32c65			
+4fc32da3	129	N	luaO_str2d			
+4fc32e24	36	N	FUN_4fc32e24			
+4fc32e48	496	N	luaO_pushvfstring			
+4fc33039	26	N	luaO_pushfstring			
+4fc33053	257	N	luaO_chunkid			
+4fc33154	54	N	luaF_newLclosure			
+4fc3318a	44	N	luaF_freeupval			
+4fc331b6	206	N	luaF_close			
+4fc33284	75	N	luaF_newproto			
+4fc332cf	132	N	luaF_freeproto			
+4fc33353	61	N	luaF_getlocalname			
+4fc33390	57	N	luaZ_fill			
+4fc333c9	59	N	luaZ_openspace			
+4fc33405	40	N	luaS_eqlngstr			
+4fc3342d	37	N	luaS_eqstr			
+4fc33452	54	N	luaS_hash			
+4fc33488	253	N	luaS_resize			
+4fc33586	68	N	FUN_4fc33586			
+4fc335ca	183	N	FUN_4fc335ca			
+4fc33681	53	N	luaS_newlstr			
+4fc336b7	26	N	luaS_new			
+4fc336d1	29	N	FUN_4fc336d1			
+4fc336ee	22	N	FUN_4fc336ee			
+4fc33704	48	N	FUN_4fc33704			
+4fc33734	61	N	FUN_4fc33734			
+4fc33771	260	N	FUN_4fc33771			
+4fc33875	211	N	FUN_4fc33875			
+4fc33948	194	N	FUN_4fc33948			
+4fc33a0a	39	N	luaT_gettm			
+4fc33a31	115	N	luaT_gettmbyobj			
+4fc33aa4	123	N	luaM_growaux_			
+4fc33b20	11	N	luaM_toobig			
+4fc33b2c	108	N	luaM_realloc_			
+4fc33b99	107	N	FUN_4fc33b99			
+4fc33c05	65	N	luaX_token2str			
+4fc33c46	50	N	FUN_4fc33c46			
+4fc33c78	100	N	FUN_4fc33c78			
+4fc33cdd	9	N	luaX_syntaxerror			
+4fc33ce7	122	N	luaX_newstring			
+4fc33d61	129	N	FUN_4fc33d61			
+4fc33de3	79	N	FUN_4fc33de3			
+4fc33e32	32	N	FUN_4fc33e32			
+4fc33e52	308	N	FUN_4fc33e52			
+4fc33f87	126	N	FUN_4fc33f87			
+4fc34005	375	N	FUN_4fc34005			
+4fc3417d	67	N	FUN_4fc3417d			
+4fc341c1	155	N	FUN_4fc341c1			
+4fc3425c	140	N	FUN_4fc3425c			
+4fc342e8	682	N	FUN_4fc342e8			
+4fc34593	1308	N	FUN_4fc34593			
+4fc34ab0	48	N	luaX_next			
+4fc34b85	156	N	FUN_4fc34b85			
+4fc34c22	75	N	FUN_4fc34c22			
+4fc34c6e	269	N	FUN_4fc34c6e			
+4fc34d7b	171	N	FUN_4fc34d7b			
+4fc34ec9	32	N	FUN_4fc34ec9			
+4fc34ee9	168	N	FUN_4fc34ee9			
+4fc34f91	595	N	FUN_4fc34f91			
+4fc351e5	100	N	FUN_4fc351e5			
+4fc35361	370	N	FUN_4fc35361			
+4fc354d4	96	N	FUN_4fc354d4			
+4fc35583	120	N	FUN_4fc35583			
+4fc355fc	66	N	FUN_4fc355fc			
+4fc3563e	74	N	FUN_4fc3563e			
+4fc356bc	61	N	FUN_4fc356bc			
+4fc356f9	246	N	FUN_4fc356f9			
+4fc3581b	166	N	FUN_4fc3581b			
+4fc358c1	64	N	FUN_4fc358c1			
+4fc35987	79	N	FUN_4fc35987			
+4fc35a2c	170	N	FUN_4fc35a2c			
+4fc35bf9	66	N	FUN_4fc35bf9			
+4fc35c3c	129	N	FUN_4fc35c3c			
+4fc35cbe	126	N	FUN_4fc35cbe			
+4fc35d5e	91	N	FUN_4fc35d5e			
+4fc35db9	165	N	FUN_4fc35db9			
+4fc35e7e	99	N	_luaopen_base			
+4fc35ee1	147	N	FUN_4fc35ee1			
+4fc35f75	108	N	FUN_4fc35f75			
+4fc35fe1	114	N	FUN_4fc35fe1			
+4fc36053	74	N	FUN_4fc36053			
+4fc3609d	176	N	FUN_4fc3609d			
+4fc361b8	308	N	FUN_4fc361b8			
+4fc362ec	122	N	FUN_4fc362ec			
+4fc36366	81	N	FUN_4fc36366			
+4fc363b8	64	N	FUN_4fc363b8			
+4fc36440	127	N	FUN_4fc36440			
+4fc364bf	80	N	FUN_4fc364bf			
+4fc365ac	87	N	FUN_4fc365ac			
+4fc36603	288	N	FUN_4fc36603			
+4fc36817	169	N	FUN_4fc36817			
+4fc368c0	416	N	luaopen_package			
+4fc36b16	81	N	FUN_4fc36b16			
+4fc36b8e	43	N	FUN_4fc36b8e			
+4fc36bb9	34	N	FUN_4fc36bb9			
+4fc36bdb	81	N	FUN_4fc36bdb			
+4fc36c2d	144	N	FUN_4fc36c2d			
+4fc36cbe	622	N	FUN_4fc36cbe			
+4fc36f2c	324	N	FUN_4fc36f2c			
+4fc37070	124	N	FUN_4fc37070			
+4fc371c5	49	N	FUN_4fc371c5			
+4fc371f6	21	N	FUN_4fc371f6			
+4fc37299	128	N	FUN_4fc37299			
+4fc37319	136	N	FUN_4fc37319			
+4fc373a1	136	N	FUN_4fc373a1			
+4fc37429	308	N	FUN_4fc37429			
+4fc37622	150	N	FUN_4fc37622			
+4fc376d0	219	N	FUN_4fc376d0			
+4fc377ac	85	N	FUN_4fc377ac			
+4fc37802	211	N	FUN_4fc37802			
+4fc378d5	113	N	FUN_4fc378d5			
+4fc37946	61	N	FUN_4fc37946			
+4fc37983	75	N	FUN_4fc37983			
+4fc379cf	85	N	FUN_4fc379cf			
+4fc37a24	63	N	FUN_4fc37a24			
+4fc37a64	78	N	FUN_4fc37a64			
+4fc37ab3	85	N	FUN_4fc37ab3			
+4fc37b09	604	N	FUN_4fc37b09			
+4fc37d66	102	N	FUN_4fc37d66			
+4fc37dcc	111	N	FUN_4fc37dcc			
+4fc37e3c	70	N	FUN_4fc37e3c			
+4fc37e82	581	N	FUN_4fc37e82			
+4fc380de	261	N	FUN_4fc380de			
+4fc381e3	73	N	FUN_4fc381e3			
+4fc3822c	197	N	FUN_4fc3822c			
+4fc382f2	256	N	FUN_4fc382f2			
+4fc383f3	513	N	FUN_4fc383f3			
+4fc385f5	322	N	FUN_4fc385f5			
+4fc38737	179	N	FUN_4fc38737			
+4fc387eb	78	N	FUN_4fc387eb			
+4fc38839	873	N	FUN_4fc38839			
+4fc38c30	42	N	FUN_4fc38c30			
+4fc38c5a	40	N	FUN_4fc38c5a			
+4fc38c82	55	N	FUN_4fc38c82			
+4fc38cb9	40	N	FUN_4fc38cb9			
+4fc38ce1	55	N	FUN_4fc38ce1			
+4fc38d18	40	N	FUN_4fc38d18			
+4fc38d40	55	N	FUN_4fc38d40			
+4fc38d77	40	N	FUN_4fc38d77			
+4fc38d9f	40	N	FUN_4fc38d9f			
+4fc38dc7	40	N	FUN_4fc38dc7			
+4fc38def	79	N	FUN_4fc38def			
+4fc38e3e	62	N	FUN_4fc38e3e			
+4fc38e7c	62	N	FUN_4fc38e7c			
+4fc38eba	79	N	FUN_4fc38eba			
+4fc38f09	79	N	FUN_4fc38f09			
+4fc38f58	40	N	FUN_4fc38f58			
+4fc38f80	66	N	FUN_4fc38f80			
+4fc38fc2	138	N	FUN_4fc38fc2			
+4fc3904c	40	N	FUN_4fc3904c			
+4fc39074	43	N	FUN_4fc39074			
+4fc3909f	43	N	FUN_4fc3909f			
+4fc390ca	90	N	FUN_4fc390ca			
+4fc39124	80	N	FUN_4fc39124			
+4fc39174	98	N	FUN_4fc39174			
+4fc391d6	98	N	FUN_4fc391d6			
+4fc39238	304	N	FUN_4fc39238			
+4fc39386	108	N	luaopen_math			
+4fc393f2	35	N	_fscanf			
+4fc39415	86	N	FUN_4fc39415			
+4fc394ad	38	N	FUN_4fc394ad			
+4fc394d4	51	N	FUN_4fc394d4			
+4fc39507	30	N	FUN_4fc39507			
+4fc395b4	75	N	FUN_4fc395b4			
+4fc396d9	103	N	FUN_4fc396d9			
+4fc39775	54	N	FUN_4fc39775			
+4fc397ac	119	N	FUN_4fc397ac			
+4fc3984d	155	N	FUN_4fc3984d			
+4fc399b4	211	N	FUN_4fc399b4			
+4fc39a87	137	N	FUN_4fc39a87			
+4fc39b10	129	N	FUN_4fc39b10			
+4fc39b91	466	N	FUN_4fc39b91			
+4fc39e83	193	N	FUN_4fc39e83			
+4fc39f61	59	N	FUN_4fc39f61			
+4fc39f9c	211	N	FUN_4fc39f9c			
+4fc3a12b	71	N	FUN_4fc3a12b			
+4fc3a172	80	N	FUN_4fc3a172			
+4fc3a1c2	190	N	luaopen_io			
+4fc3a280	37	N	FUN_4fc3a280			
+4fc3a2a6	31	N	FUN_4fc3a2a6			
+4fc3a2c5	48	N	FUN_4fc3a2c5			
+4fc3a334	80	N	FUN_4fc3a334			
+4fc3a384	90	N	FUN_4fc3a384			
+4fc3a3df	59	N	FUN_4fc3a3df			
+4fc3a41a	66	N	FUN_4fc3a41a			
+4fc3a8f1	142	N	FUN_4fc3a8f1			
+4fc3a9a2	116	N	FUN_4fc3a9a2			
+4fc3aa90	137	N	FUN_4fc3aa90			
+4fc3ab1a	125	N	FUN_4fc3ab1a			
+4fc3ab97	73	N	FUN_4fc3ab97			
+4fc3ad14	225	N	FUN_4fc3ad14			
+4fc3afcf	200	N	FUN_4fc3afcf			
+4fc3b11f	112	N	FUN_4fc3b11f			
+4fc3b190	157	N	FUN_4fc3b190			
+4fc3b2b6	156	N	FUN_4fc3b2b6			
+4fc3b353	40	N	FUN_4fc3b353			
+4fc3b39e	53	N	FUN_4fc3b39e			
+4fc3b3eb	40	N	FUN_4fc3b3eb			
+4fc3b413	64	N	FUN_4fc3b413			
+4fc3b453	64	N	FUN_4fc3b453			
+4fc3b4b0	41	N	FUN_4fc3b4b0			
+4fc3b5da	94	N	FUN_4fc3b5da			
+4fc3b639	71	N	FUN_4fc3b639			
+4fc3b680	101	N	FUN_4fc3b680			
+4fc3b708	32	N	FUN_4fc3b708			
+4fc3b729	118	N	FUN_4fc3b729			
+4fc3b7a0	22	N	FUN_4fc3b7a0			
+4fc3b7b6	40	N	FUN_4fc3b7b6			
+4fc3b7df	75	N	FUN_4fc3b7df			
+4fc3b82a	463	N	FUN_4fc3b82a			
+4fc3b9fa	117	N	FUN_4fc3b9fa			
+4fc3ba70	245	N	FUN_4fc3ba70			
+4fc3bb66	158	N	FUN_4fc3bb66			
+4fc3bc05	171	N	FUN_4fc3bc05			
+4fc3bcb1	190	N	luaU_undump			
+4fc3bd6f	39	N	luaU_header			
+4fc3bd96	10	N	FUN_4fc3bd96			
+4fc3bda1	34	N	FUN_4fc3bda1			
+4fc3bdc4	75	N	FUN_4fc3bdc4			
+4fc3be10	18	N	FUN_4fc3be10			
+4fc3be23	83	N	FUN_4fc3be23			
+4fc3be77	28	N	FUN_4fc3be77			
+4fc3be94	62	N	FUN_4fc3be94			
+4fc3bed2	157	N	FUN_4fc3bed2			
+4fc3bf6f	112	N	FUN_4fc3bf6f			
+4fc3bfe0	28	N	FUN_4fc3bfe0			
+4fc3bffc	58	N	FUN_4fc3bffc			
+4fc3c036	200	N	FUN_4fc3c036			
+4fc3c0ff	76	N	FUN_4fc3c0ff			
+4fc3c14b	195	N	FUN_4fc3c14b			
+4fc3c20e	90	N	FUN_4fc3c20e			
+4fc3c268	107	N	FUN_4fc3c268			
+4fc3c2d3	34	N	FUN_4fc3c2d3			
+4fc3c2f6	145	N	FUN_4fc3c2f6			
+4fc3c388	152	N	FUN_4fc3c388			
+4fc3c420	104	N	FUN_4fc3c420			
+4fc3c488	86	N	FUN_4fc3c488			
+4fc3c4de	121	N	FUN_4fc3c4de			
+4fc3c557	54	N	FUN_4fc3c557			
+4fc3c58d	63	N	FUN_4fc3c58d			
+4fc3c5cc	59	N	FUN_4fc3c5cc			
+4fc3c608	233	N	FUN_4fc3c608			
+4fc3c6f1	142	N	FUN_4fc3c6f1			
+4fc3c77f	145	N	FUN_4fc3c77f			
+4fc3c810	397	N	FUN_4fc3c810			
+4fc3c99e	41	N	FUN_4fc3c99e			
+4fc3c9c7	50	N	FUN_4fc3c9c7			
+4fc3c9f9	81	N	FUN_4fc3c9f9			
+4fc3ca4a	55	N	FUN_4fc3ca4a			
+4fc3ca81	206	N	FUN_4fc3ca81			
+4fc3cb50	58	N	FUN_4fc3cb50			
+4fc3cb8b	466	N	FUN_4fc3cb8b			
+4fc3cd5d	145	N	FUN_4fc3cd5d			
+4fc3cdef	206	N	FUN_4fc3cdef			
+4fc3cebd	71	N	FUN_4fc3cebd			
+4fc3cf04	276	N	FUN_4fc3cf04			
+4fc3d019	393	N	FUN_4fc3d019			
+4fc3d1a3	251	N	FUN_4fc3d1a3			
+4fc3d29f	145	N	FUN_4fc3d29f			
+4fc3d330	328	N	FUN_4fc3d330			
+4fc3d478	45	N	FUN_4fc3d478			
+4fc3d4a5	153	N	FUN_4fc3d4a5			
+4fc3d53e	303	N	FUN_4fc3d53e			
+4fc3d66e	84	N	FUN_4fc3d66e			
+4fc3d6c2	87	N	FUN_4fc3d6c2			
+4fc3d719	29	N	FUN_4fc3d719			
+4fc3d736	214	N	FUN_4fc3d736			
+4fc3d80d	143	N	FUN_4fc3d80d			
+4fc3d89c	149	N	FUN_4fc3d89c			
+4fc3d931	67	N	FUN_4fc3d931			
+4fc3d974	245	N	FUN_4fc3d974			
+4fc3da69	213	N	FUN_4fc3da69			
+4fc3db3e	271	N	FUN_4fc3db3e			
+4fc3dc4e	134	N	FUN_4fc3dc4e			
+4fc3dcd5	268	N	FUN_4fc3dcd5			
+4fc3dde1	109	N	FUN_4fc3dde1			
+4fc3de4e	91	N	FUN_4fc3de4e			
+4fc3dea9	127	N	FUN_4fc3dea9			
+4fc3df28	138	N	FUN_4fc3df28			
+4fc3dfb2	118	N	FUN_4fc3dfb2			
+4fc3e029	199	N	FUN_4fc3e029			
+4fc3e0f0	357	N	FUN_4fc3e0f0			
+4fc3e255	377	N	luaY_parser			
+4fc3e3cf	24	N	FUN_4fc3e3cf			
+4fc3e3e7	162	N	luaK_nil			
+4fc3e489	48	N	luaK_jump			
+4fc3e4b9	74	N	FUN_4fc3e4b9			
+4fc3e504	30	N	FUN_4fc3e504			
+4fc3e522	21	N	FUN_4fc3e522			
+4fc3e537	68	N	FUN_4fc3e537			
+4fc3e57b	106	N	FUN_4fc3e57b			
+4fc3e5e5	42	N	FUN_4fc3e5e5			
+4fc3e60f	68	N	FUN_4fc3e60f			
+4fc3e653	29	N	luaK_patchlist			
+4fc3e670	62	N	luaK_patchclose			
+4fc3e6ae	19	N	luaK_patchtohere			
+4fc3e6c1	52	N	luaK_concat			
+4fc3e6f5	165	N	FUN_4fc3e6f5			
+4fc3e79a	30	N	luaK_codeABC			
+4fc3e7b8	71	N	luaK_codek			
+4fc3e7ff	29	N	luaK_checkstack			
+4fc3e81d	54	N	luaK_reserveregs			
+4fc3e853	27	N	FUN_4fc3e853			
+4fc3e86e	331	N	FUN_4fc3e86e			
+4fc3e9b9	130	N	luaK_numberK			
+4fc3ea3b	121	N	luaK_setreturns			
+4fc3eab4	75	N	luaK_setoneret			
+4fc3eaff	142	N	luaK_dischargevars			
+4fc3eb8d	195	N	FUN_4fc3eb8d			
+4fc3ec50	40	N	FUN_4fc3ec50			
+4fc3ec78	244	N	FUN_4fc3ec78			
+4fc3ed6c	49	N	luaK_exp2nextreg			
+4fc3ed9d	65	N	luaK_exp2anyreg			
+4fc3edde	23	N	luaK_exp2val			
+4fc3edf5	169	N	luaK_exp2RK			
+4fc3ee9e	126	N	luaK_storevar			
+4fc3ef1c	57	N	FUN_4fc3ef1c			
+4fc3ef55	109	N	FUN_4fc3ef55			
+4fc3efc2	93	N	luaK_goiftrue			
+4fc3f01f	82	N	luaK_goiffalse			
+4fc3f071	155	N	FUN_4fc3f071			
+4fc3f10c	43	N	luaK_indexed			
+4fc3f137	228	N	FUN_4fc3f137			
+4fc3f21b	117	N	FUN_4fc3f21b			
+4fc3f290	157	N	luaK_prefix			
+4fc3f32d	311	N	luaK_posfix			
+4fc3f464	121	N	luaK_setlist			
+4fc3f4de	17	N	__security_check_cookie	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/eh/i386/secchk.c	53	60
+4fc3f4ef	40	N	__raise_securityfailure	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/gs/gs_report.c	140	161
+4fc3f517	247	N	__report_gsfailure	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/gs/gs_report.c	217	298
+4fc3f610	10	N	__report_rangecheckfailure	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/gs/gs_report.c	555	556
+4fc3f61c	204	N	__report_securityfailure	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/gs/gs_report.c	462	542
+4fc3f6ea	48	N	operator_new	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/heap/new_scalar.cpp	32	54
+4fc3f71a	14	N	operator_delete	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/heap/delete_scalar_size.cpp	30	32
+4fc3f728	35	N	type_info::`scalar_deleting_destructor'			
+4fc3f74b	83	N	dllmain_crt_dispatch	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/startup/dll_dllmain.cpp	135	145
+4fc3f79e	252	N	dllmain_crt_process_attach	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/startup/dll_dllmain.cpp	34	15732480
+4fc3f896	10	N	FUN_4fc3f896	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/startup/dll_dllmain.cpp	71	71
+4fc3f8a8	130	N	dllmain_crt_process_detach	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/startup/dll_dllmain.cpp	92	126
+4fc3f923	15	N	FUN_4fc3f923	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/startup/dll_dllmain.cpp	118	119
+4fc3f93a	226	N	dllmain_dispatch	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/startup/dll_dllmain.cpp	176	233
+4fc3fa40	43	N	dllmain_raw	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/startup/dll_dllmain.cpp	162	15732480
+4fc3fa6b	35	N	_DllMainCRTStartup	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/startup/dll_dllmain.cpp	243	254
+4fc3fa8e	68	N	find_pe_section	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/utility/utility.cpp	61	80
+4fc3fad2	50	N	__scrt_acquire_startup_lock	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/utility/utility.cpp	139	157
+4fc3fb04	43	N	__scrt_dllmain_after_initialize_c	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/utility/utility.cpp	376	392
+4fc3fb2f	14	N	__scrt_dllmain_before_initialize_c	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/utility/utility.cpp	366	373
+4fc3fb3d	31	N	__scrt_dllmain_crt_thread_attach	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/utility/utility.cpp	434	448
+4fc3fb5c	13	N	__scrt_dllmain_crt_thread_detach	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/utility/utility.cpp	451	456
+4fc3fb69	52	N	__scrt_dllmain_exception_filter	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/utility/utility.cpp	350	15732480
+4fc3fb9d	35	N	__scrt_dllmain_uninitialize_c	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/utility/utility.cpp	395	407
+4fc3fbc0	13	N	__scrt_dllmain_uninitialize_critical	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/utility/utility.cpp	410	430
+4fc3fbcd	57	N	__scrt_initialize_crt	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/utility/utility.cpp	185	206
+4fc3fc06	164	N	__scrt_initialize_onexit_tables	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/utility/utility.cpp	296	333
+4fc3fcab	126	N	__scrt_is_nonwritable_in_current_image	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/utility/utility.cpp	88	129
+4fc3fd3f	29	N	__scrt_release_startup_lock	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/utility/utility.cpp	160	173
+4fc3fd5c	40	N	__scrt_uninitialize_crt	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/utility/utility.cpp	209	224
+4fc3fd84	59	N	_onexit	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/utility/utility.cpp	256	271
+4fc3fdbf	21	N	atexit	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/utility/utility.cpp	274	278
+4fc3fdd4	27	N	std::bad_alloc::bad_alloc			
+4fc3fdef	24	N	std::bad_alloc::bad_alloc	/d:/agent/_work/3/s/src/vctools/crt/vcruntime/inc/vcruntime_exception.h	116	118
+4fc3fe07	27	N	std::bad_array_new_length::bad_array_new_length			
+4fc3fe22	24	N	std::bad_array_new_length::bad_array_new_length	/d:/agent/_work/3/s/src/vctools/crt/vcruntime/inc/vcruntime_exception.h	136	138
+4fc3fe3a	44	N	std::exception::exception	/d:/agent/_work/3/s/src/vctools/crt/vcruntime/inc/vcruntime_exception.h	68	70
+4fc3fe66	17	N	std::bad_alloc::~bad_alloc			
+4fc3fe77	45	N	std::bad_alloc::`scalar_deleting_destructor'			
+4fc3fea4	28	N	__scrt_throw_std_bad_alloc	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/heap/throw_bad_alloc.cpp	34	35
+4fc3fec1	28	N	__scrt_throw_std_bad_array_new_length	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/heap/throw_bad_alloc.cpp	39	40
+4fc3fede	13	N	std::exception::what	/d:/agent/_work/3/s/src/vctools/crt/vcruntime/inc/vcruntime_exception.h	90	92
+4fc3feeb	5	N	operator_delete	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/heap/delete_scalar.cpp	32	36
+4fc3fef0	77	N	__get_entropy	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/gs/gs_support.c	90	136
+4fc3ff3d	75	N	__security_init_cookie	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/gs/gs_support.c	158	205
+4fc3ff88	34	N	DllMain	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/startup/dll_dllmain_stub.cpp	21	38
+4fc3ffaa	12	N	__scrt_initialize_type_info	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/eh/tncleanup.cpp	16	18
+4fc3ffb6	12	N	__scrt_uninitialize_type_info	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/eh/tncleanup.cpp	24	26
+4fc3ffc2	29	N	__scrt_initialize_default_local_stdio_options	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/defaults/default_local_stdio_options.cpp	17	20
+4fc3ffdf	6	N	__scrt_get_dyn_tls_init_callback	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/utility/dyn_tls_init.c	19	21
+4fc3ffe5	282	N	__scrt_fastfail	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/utility/utility_desktop.cpp	147	233
+4fc400ff	8	N	_crt_debugger_hook	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/utility/utility_desktop.cpp	126	132
+4fc40107	44	N	_RTC_Initialize	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/rtc/initsect.cpp	38	15732480
+4fc40133	44	N	_RTC_Terminate	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/rtc/initsect.cpp	52	15732480
+4fc40160	70	N	__SEH_prolog4	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/eh/i386/sehprolg4.asm	70	91
+4fc401a6	21	N	__SEH_epilog4	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/eh/i386/sehprolg4.asm	112	123
+4fc401bb	35	N	_except_handler4	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/eh/i386/chandler4gs.c	84	92
+4fc401de	407	N	__isa_available_init	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/misc/i386/cpu_disp.c	52	142
+4fc40375	4	N	_get_startup_argv_mode	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/defaults/argv_mode.cpp	14	16
+4fc40379	12	N	__scrt_is_ucrt_dll_in_use	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/utility/ucrt_detection.c	22	24
+4fc40385	6	N	___CxxFrameHandler3			
+4fc4038b	6	N	___std_exception_copy			
+4fc40391	6	N	___std_exception_destroy			
+4fc40397	6	N	__CxxThrowException@8			
+4fc4039d	6	N	___std_type_info_destroy_list			
+4fc403a3	6	N	memset			
+4fc403a9	6	N	except_handler4_common			
+4fc403af	6	N	free			
+4fc403b5	6	N	malloc			
+4fc403bb	6	N	callnewh			
+4fc403c1	6	N	initterm			
+4fc403c7	6	N	initterm_e			
+4fc403cd	6	N	seh_filter_dll			
+4fc403d3	6	N	configure_narrow_argv			
+4fc403d9	6	N	initialize_narrow_environment			
+4fc403df	6	N	initialize_onexit_table			
+4fc403e5	6	N	register_onexit_function			
+4fc403eb	6	N	execute_onexit_table			
+4fc403f1	6	N	crt_atexit			
+4fc403f7	6	N	cexit			
+4fc403fd	6	N	_IsProcessorFeaturePresent@4			
+4fc40403	3	N	__scrt_stub_for_acrt_initialize	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/utility/ucrt_stubs.cpp	18	40
+4fc40406	3	N	__scrt_stub_for_is_c_termination_complete	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/utility/ucrt_stubs.cpp	43	45
+4fc40409	231	Y	GetMisnAPI	/e:/github/vsr_dll_source/missions/shared/dllbase.cpp	377	402
+4fc404f0	19	Y	SetRandomSeed	/e:/github/vsr_dll_source/missions/shared/dllbase.cpp	369	371
+4fc40503	19	Y	ProcessCommand	/e:/github/vsr_dll_source/missions/shared/dllbase.cpp	364	366
+4fc40516	72	Y	SetWorld	/e:/github/vsr_dll_source/missions/shared/dllbase.cpp	349	361
+4fc4055e	19	Y	GetNextRandomVehicleODF	/e:/github/vsr_dll_source/missions/shared/dllbase.cpp	344	346
+4fc40571	22	Y	ObjectSniped	/e:/github/vsr_dll_source/missions/shared/dllbase.cpp	339	341
+4fc40587	22	Y	ObjectKilled	/e:/github/vsr_dll_source/missions/shared/dllbase.cpp	334	336
+4fc4059d	19	Y	PlayerEjected	/e:/github/vsr_dll_source/missions/shared/dllbase.cpp	329	331
+4fc405b0	19	Y	DeletePlayer	/e:/github/vsr_dll_source/missions/shared/dllbase.cpp	324	326
+4fc405c3	25	Y	AddPlayer	/e:/github/vsr_dll_source/missions/shared/dllbase.cpp	319	321
+4fc405dc	28	Y	PostRun	/e:/github/vsr_dll_source/missions/shared/dllbase.cpp	313	316
+4fc405f8	11	Y	Update	/e:/github/vsr_dll_source/missions/shared/dllbase.cpp	308	309
+4fc40603	19	Y	DeleteObject	/e:/github/vsr_dll_source/missions/shared/dllbase.cpp	303	305
+4fc40616	19	Y	AddObject	/e:/github/vsr_dll_source/missions/shared/dllbase.cpp	298	300
+4fc40629	19	Y	PostLoad	/e:/github/vsr_dll_source/missions/shared/dllbase.cpp	293	295
+4fc4063c	34	Y	Load	/e:/github/vsr_dll_source/missions/shared/dllbase.cpp	286	290
+4fc4065e	19	Y	Save	/e:/github/vsr_dll_source/missions/shared/dllbase.cpp	281	283
+4fc40671	91	Y	InitialSetup	/e:/github/vsr_dll_source/missions/shared/dllbase.cpp	266	278
+4fc406cc	29	Y	DLLBasePostTargetChangedCallback	/e:/github/vsr_dll_source/missions/shared/dllbase.cpp	249	260
+4fc406e9	34	Y	DLLBasePrePickupPowerupCallback	/e:/github/vsr_dll_source/missions/shared/dllbase.cpp	232	244
+4fc4070b	34	Y	DLLBasePreGetInCallback	/e:/github/vsr_dll_source/missions/shared/dllbase.cpp	215	227
+4fc4072d	32	Y	DLLBasePreOrdnanceHitCallback	/e:/github/vsr_dll_source/missions/shared/dllbase.cpp	199	210
+4fc4074d	39	Y	DLLBasePreSnipeCallback	/e:/github/vsr_dll_source/missions/shared/dllbase.cpp	181	193
+4fc40774	3	Y	DLLBase::PostTargetChangedCallback	/e:/github/vsr_dll_source/missions/shared/dllbase.cpp	172	175
+4fc40777	6	Y	DLLBase::PrePickupPowerup	/e:/github/vsr_dll_source/missions/shared/dllbase.cpp	163	168
+4fc4077d	6	Y	DLLBase::PreGetIn	/e:/github/vsr_dll_source/missions/shared/dllbase.cpp	146	151
+4fc40783	3	Y	DLLBase::PreOrdnanceHit	/e:/github/vsr_dll_source/missions/shared/dllbase.cpp	130	133
+4fc40786	5	Y	DLLBase::PreSnipe	/e:/github/vsr_dll_source/missions/shared/dllbase.cpp	106	111
+4fc4078b	8	Y	DLLBase::GetNextRandomVehicleODF	/e:/github/vsr_dll_source/missions/shared/dllbase.cpp	90	93
+4fc40793	27	Y	DLLBase::ObjectSniped	/e:/github/vsr_dll_source/missions/shared/dllbase.cpp	82	87
+4fc407ae	29	Y	DLLBase::ObjectKilled	/e:/github/vsr_dll_source/missions/shared/dllbase.cpp	74	79
+4fc407cb	5	Y	DLLBase::PlayerEjected	/e:/github/vsr_dll_source/missions/shared/dllbase.cpp	69	71
+4fc407d0	5	Y	DLLBase::AddPlayer	/e:/github/vsr_dll_source/missions/shared/dllbase.cpp	63	66
+4fc407d5	3	Y	DLLBase::SetRandomSeed	/e:/github/vsr_dll_source/missions/shared/dllbase.cpp	59	60
+4fc407d8	3	Y	DLLBase::ProcessCommand	/e:/github/vsr_dll_source/missions/shared/dllbase.cpp	55	56
+4fc407db	3	Y	DLLBase::SetWorld	/e:/github/vsr_dll_source/missions/shared/dllbase.cpp	51	52
+4fc407de	3	Y	DLLBase::DeletePlayer	/e:/github/vsr_dll_source/missions/shared/dllbase.cpp	47	48
+4fc407e1	1	Y	DLLBase::PostRun	/e:/github/vsr_dll_source/missions/shared/dllbase.cpp	43	44
+4fc407e2	1	Y	DLLBase::Execute	/e:/github/vsr_dll_source/missions/shared/dllbase.cpp	39	40
+4fc407e3	3	Y	DLLBase::DeleteObject	/e:/github/vsr_dll_source/missions/shared/dllbase.cpp	35	36
+4fc407e6	3	Y	DLLBase::AddObject	/e:/github/vsr_dll_source/missions/shared/dllbase.cpp	31	32
+4fc407e9	5	Y	DLLBase::PostLoad	/e:/github/vsr_dll_source/missions/shared/dllbase.cpp	26	28
+4fc407ee	5	Y	DLLBase::Load	/e:/github/vsr_dll_source/missions/shared/dllbase.cpp	21	23
+4fc407f3	5	Y	DLLBase::Save	/e:/github/vsr_dll_source/missions/shared/dllbase.cpp	16	18
+4fc407f8	1	Y	DLLBase::InitialSetup	/e:/github/vsr_dll_source/missions/shared/dllbase.cpp	12	13
+4fc407f9	76	Y	DLLUtils::GetCheckedNetworkSvar	/e:/github/vsr_dll_source/missions/shared/dllutils.cpp	49	77
+4fc40845	49	Y	DLLUtils::CountAlliedPlayers	/e:/github/vsr_dll_source/missions/shared/dllutils.cpp	26	43
+4fc40876	113	Y	DLLUtils::IsRecycler	/e:/github/vsr_dll_source/missions/shared/dllutils.cpp	9	17
+4fc408e7	58	Y	StartingVehicleManager::Load	/e:/github/vsr_dll_source/missions/shared/startingvehicles.cpp	145	154
+4fc40921	58	Y	StartingVehicleManager::Save	/e:/github/vsr_dll_source/missions/shared/startingvehicles.cpp	128	142
+4fc4095b	286	Y	StartingVehicleManager::CreateVehicles	/e:/github/vsr_dll_source/missions/shared/startingvehicles.cpp	87	124
+4fc40a79	122	Y	StartingVehicleManager::Init	/e:/github/vsr_dll_source/missions/shared/startingvehicles.cpp	42	77
+4fc40af6	2260	Y	Strategy02::ExecuteST_Capture	/e:/github/vsr_dll_source/missions/strategy02/strategy02.cpp	3607	3859
+4fc413ca	586	Y	Strategy02::ScavengerManagementCode	/e:/github/vsr_dll_source/missions/strategy02/strategy02.cpp	3465	3604
+4fc41614	206	Y	Strategy02::PreGetIn	/e:/github/vsr_dll_source/missions/strategy02/strategy02.cpp	3424	3455
+4fc416e2	84	Y	Strategy02::ObjectSniped	/e:/github/vsr_dll_source/missions/strategy02/strategy02.cpp	3349	3368
+4fc41736	98	Y	Strategy02::ObjectKilled	/e:/github/vsr_dll_source/missions/strategy02/strategy02.cpp	3326	3345
+4fc41798	79	Y	Strategy02::PlayerEjected	/e:/github/vsr_dll_source/missions/strategy02/strategy02.cpp	3306	3323
+4fc417e7	1024	Y	Strategy02::DeadObject	/e:/github/vsr_dll_source/missions/strategy02/strategy02.cpp	3158	3303
+4fc41be7	778	Y	Strategy02::RespawnPilot	/e:/github/vsr_dll_source/missions/strategy02/strategy02.cpp	3058	3154
+4fc41ef1	45	Y	Strategy02::DeletePlayer	/e:/github/vsr_dll_source/missions/strategy02/strategy02.cpp	3048	3054
+4fc41f1e	114	Y	Strategy02::AddPlayer	/e:/github/vsr_dll_source/missions/strategy02/strategy02.cpp	3022	3045
+4fc41f90	4819	Y	Strategy02::Execute	/e:/github/vsr_dll_source/missions/strategy02/strategy02.cpp	2429	3019
+4fc43263	1521	Y	Strategy02::ExecuteCheckIfGameOver	/e:/github/vsr_dll_source/missions/strategy02/strategy02.cpp	2139	2426
+4fc43854	370	Y	Strategy02::ExecuteRecyInvulnerability	/e:/github/vsr_dll_source/missions/strategy02/strategy02.cpp	2078	2136
+4fc439c6	379	Y	Strategy02::UpdateGameTime	/e:/github/vsr_dll_source/missions/strategy02/strategy02.cpp	2003	2074
+4fc43b41	2626	Y	Strategy02::Init	/e:/github/vsr_dll_source/missions/strategy02/strategy02.cpp	1634	1999
+4fc44583	2985	Y	Strategy02::SetupPlayer	/e:/github/vsr_dll_source/missions/strategy02/strategy02.cpp	1290	1630
+4fc4512c	1966	Y	Strategy02::SetupTeam	/e:/github/vsr_dll_source/missions/strategy02/strategy02.cpp	1082	1284
+4fc458da	115	Y	Strategy02::BuildStartingVehicle	/e:/github/vsr_dll_source/missions/strategy02/strategy02.cpp	1053	1069
+4fc4594d	120	Y	Strategy02::BuildStartingVehicle	/e:/github/vsr_dll_source/missions/strategy02/strategy02.cpp	1033	1049
+4fc459c5	146	Y	IsRecyclerODF	/e:/github/vsr_dll_source/missions/strategy02/strategy02.cpp	1011	1027
+4fc45a57	749	Y	Strategy02::GetSpawnpointForTeam	/e:/github/vsr_dll_source/missions/strategy02/strategy02.cpp	872	1006
+4fc45d44	129	Y	Strategy02::GetInitialRecyclerODF	/e:/github/vsr_dll_source/missions/strategy02/strategy02.cpp	834	844
+4fc45dc5	420	Y	Strategy02::GetInitialPlayerPilotODF	/e:/github/vsr_dll_source/missions/strategy02/strategy02.cpp	786	830
+4fc45f69	368	Y	Strategy02::SetCPUAIPlan	/e:/github/vsr_dll_source/missions/strategy02/strategy02.cpp	744	776
+4fc460d9	150	Y	Strategy02::DeleteObject	/e:/github/vsr_dll_source/missions/strategy02/strategy02.cpp	651	741
+4fc4616f	1472	Y	Strategy02::AddObject	/e:/github/vsr_dll_source/missions/strategy02/strategy02.cpp	332	648
+4fc4672f	51	Y	Strategy02::UpdateObjectives	/e:/github/vsr_dll_source/missions/strategy02/strategy02.cpp	323	329
+4fc46762	20	Y	Strategy02::GetNextRandomVehicleODF	/e:/github/vsr_dll_source/missions/strategy02/strategy02.cpp	318	320
+4fc46776	539	Y	Strategy02::Save	/e:/github/vsr_dll_source/missions/strategy02/strategy02.cpp	258	315
+4fc46991	143	Y	Strategy02::PostLoad	/e:/github/vsr_dll_source/missions/strategy02/strategy02.cpp	225	255
+4fc46a20	855	Y	Strategy02::Load	/e:/github/vsr_dll_source/missions/strategy02/strategy02.cpp	120	222
+4fc46d77	301	Y	Strategy02::~Strategy02	/e:/github/vsr_dll_source/missions/strategy02/strategy02.cpp	115	117
+4fc46ea4	402	Y	Strategy02::Strategy02	/e:/github/vsr_dll_source/missions/strategy02/strategy02.cpp	72	113
+4fc47036	43	Y	BuildMission	/e:/github/vsr_dll_source/missions/strategy02/strategy02.cpp	3459	3461
+4fc47061	248	Y	TRNAllies::SetupTRNAllies	/e:/github/vsr_dll_source/missions/shared/trnallies.cpp	9	53
+4fc47159	139	Y	LuaMission::CreateLuaStringTable	/e:/github/vsr_dll_source/missions/luamission/luamission.cpp	931	943
+4fc471e4	156	Y	LuaMission::GetNextRandomVehicleODF	/e:/github/vsr_dll_source/missions/luamission/luamission.cpp	823	841
+4fc47280	126	Y	LuaMission::Setup	/e:/github/vsr_dll_source/missions/luamission/luamission.cpp	53	73
+4fc472fe	210	Y	LuaMission::PreTeleport	/e:/github/vsr_dll_source/missions/luamission/luamission.cpp	947	985
+4fc473d0	143	Y	LuaMission::PostTargetChangedCallback	/e:/github/vsr_dll_source/missions/luamission/luamission.cpp	571	591
+4fc4745f	262	Y	LuaMission::PrePickupPowerup	/e:/github/vsr_dll_source/missions/luamission/luamission.cpp	528	567
+4fc47565	262	Y	LuaMission::PreGetIn	/e:/github/vsr_dll_source/missions/luamission/luamission.cpp	442	482
+4fc4766b	309	Y	LuaMission::PreSnipe	/e:/github/vsr_dll_source/missions/luamission/luamission.cpp	484	525
+4fc477a0	201	Y	LuaMission::PreOrdnanceHit	/e:/github/vsr_dll_source/missions/luamission/luamission.cpp	416	439
+4fc47869	129	Y	LuaMission::SetRandomSeed	/e:/github/vsr_dll_source/missions/luamission/luamission.cpp	912	928
+4fc478ea	129	Y	LuaMission::ProcessCommand	/e:/github/vsr_dll_source/missions/luamission/luamission.cpp	893	909
+4fc4796b	254	Y	LuaMission::ObjectSniped	/e:/github/vsr_dll_source/missions/luamission/luamission.cpp	782	820
+4fc47a69	281	Y	LuaMission::ObjectKilled	/e:/github/vsr_dll_source/missions/luamission/luamission.cpp	737	779
+4fc47b82	191	Y	LuaMission::PlayerEjected	/e:/github/vsr_dll_source/missions/luamission/luamission.cpp	702	734
+4fc47c41	129	Y	LuaMission::DeletePlayer	/e:/github/vsr_dll_source/missions/luamission/luamission.cpp	683	699
+4fc47cc2	208	Y	LuaMission::AddPlayer	/e:/github/vsr_dll_source/missions/luamission/luamission.cpp	653	680
+4fc47d92	394	Y	LuaMission::Save	/e:/github/vsr_dll_source/missions/luamission/luamission.cpp	366	413
+4fc47f1c	33	Y	LuaMission::PostLoad	/e:/github/vsr_dll_source/missions/luamission/luamission.cpp	353	363
+4fc47f3d	424	Y	LuaMission::Load	/e:/github/vsr_dll_source/missions/luamission/luamission.cpp	288	350
+4fc480e5	92	Y	LuaMission::PostRun	/e:/github/vsr_dll_source/missions/luamission/luamission.cpp	875	890
+4fc48141	128	Y	LuaMission::Execute	/e:/github/vsr_dll_source/missions/luamission/luamission.cpp	845	872
+4fc481c1	132	Y	LuaMission::DeleteObject	/e:/github/vsr_dll_source/missions/luamission/luamission.cpp	630	650
+4fc48245	234	Y	LuaMission::AddObject	/e:/github/vsr_dll_source/missions/luamission/luamission.cpp	594	627
+4fc4832f	2088	Y	LuaMission::InitialSetup	/e:/github/vsr_dll_source/missions/luamission/luamission.cpp	76	285
+4fc48b57	103	Y	LuaMission::~LuaMission	/e:/github/vsr_dll_source/missions/luamission/luamission.cpp	35	42
+4fc48bbe	189	Y	LuaMission::LuaMission	/e:/github/vsr_dll_source/missions/luamission/luamission.cpp	13	32
+4fc48c7b	220	Y	LuaBindings::GetColor	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3264	3286
+4fc48d57	49	Y	LuaBindings::NewQuaternion	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	183	188
+4fc48d88	14	Y	LuaBindings::RequireQuaternion	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	177	179
+4fc48d96	14	Y	LuaBindings::GetQuaternion	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	171	173
+4fc48da4	14	Y	LuaBindings::RequireMatrix	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	155	157
+4fc48db2	14	Y	LuaBindings::GetMatrix	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	149	151
+4fc48dc0	49	Y	LuaBindings::NewVector	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	139	144
+4fc48df1	14	Y	LuaBindings::RequireVector	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	133	135
+4fc48dff	14	Y	LuaBindings::GetVector	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	127	129
+4fc48e0d	35	Y	LuaBindings::RequireHandle	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	98	103
+4fc48e30	14	Y	LuaBindings::GetHandle	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	92	94
+4fc48e3e	86	Y	LuaBindings::Build	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1660	1666
+4fc48e94	177	Y	LuaBindings::Matrix_Mul	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	482	500
+4fc48f45	164	Y	LuaBindings::Get_WeaponGOClass	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4228	4243
+4fc48fe9	26	Y	LuaBindings::ClearNoScrapFlagByHandle	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3937	3941
+4fc49003	326	Y	LuaBindings::TerrainIsWater	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5017	5043
+4fc49149	73	Y	LuaBindings::GetPlayerODF	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3746	3752
+4fc49192	60	Y	LuaBindings::SetRate	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4894	4899
+4fc491ce	52	Y	LuaBindings::SetLifespan	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4748	4753
+4fc49202	26	Y	LuaBindings::SetTeamStratColors	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5186	5190
+4fc4921c	139	Y	LuaBindings::BuildEmptyCraftNear	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3756	3764
+4fc492a7	50	Y	LuaBindings::GetPerceivedTeam	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5504	5508
+4fc492d9	92	Y	LuaBindings::GetPortalChannel	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	6323	6327
+4fc49335	50	Y	LuaBindings::GetSafestSpawnpoint	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3781	3784
+4fc49367	43	Y	LuaBindings::MaskEmitter	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3176	3181
+4fc49392	187	Y	LuaBindings::Move	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	6032	6047
+4fc4944d	138	Y	LuaBindings::BuildOrthogonalMatrix	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	787	796
+4fc494d7	54	Y	LuaBindings::AllowRandomTracks	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5170	5174
+4fc4950d	68	Y	LuaBindings::GetRace	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1699	1707
+4fc49551	36	Y	LuaBindings::ImDedicatedServer	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3535	3538
+4fc49575	64	Y	LuaBindings::GetScavengerCurScrap	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4284	4292
+4fc495b5	307	Y	LuaBindings::SetCommand	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4944	4983
+4fc496e8	50	Y	LuaBindings::IsPerson	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2446	2450
+4fc4971a	85	Y	LuaBindings::AllLookAt	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1680	1686
+4fc4976f	50	Y	LuaBindings::GetTeamNum	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1995	1999
+4fc497a1	24	Y	LuaBindings::GetLocalUserInspectHandle	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4351	4354
+4fc497b9	130	Y	LuaBindings::LoadFile	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4765	4785
+4fc4983b	29	Y	LuaBindings::PreloadODF	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2499	2503
+4fc49858	183	Y	LuaBindings::GetGroup	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4711	4735
+4fc4990f	281	Y	LuaBindings::Vector_Transform	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	885	902
+4fc49a28	49	Y	LuaBindings::NewMatrix	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	161	166
+4fc49a59	108	Y	LuaBindings::SetPortalEffectEnd	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	6351	6357
+4fc49ac5	50	Y	LuaBindings::GetLastEnemyShot	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2133	2137
+4fc49af7	94	Y	LuaBindings::GetQueuedItem	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5856	5866
+4fc49b55	29	Y	LuaBindings::IFace_Deactivate	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2809	2813
+4fc49b72	47	Y	LuaBindings::GetTPS	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	6213	6216
+4fc49ba1	35	Y	LuaBindings::DoGameover	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4041	4045
+4fc49bc4	50	Y	LuaBindings::IsAudioMessageDone	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2207	2211
+4fc49bf6	70	Y	LuaBindings::GetMaxLocalAmmo	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5409	5414
+4fc49c3c	117	Y	LuaBindings::Vector_Neg	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	257	261
+4fc49cb1	190	Y	LuaBindings::SetVector	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	602	608
+4fc49d6f	124	Y	LuaBindings::WriteToFile	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5087	5098
+4fc49deb	152	Y	LuaBindings::CountUnitsNearObject	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3319	3330
+4fc49e83	66	Y	LuaBindings::GetCurHealth	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1885	1893
+4fc49ec5	64	Y	LuaBindings::SetTarget	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5134	5143
+4fc49f05	40	Y	LuaBindings::GetTimeStep	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	6152	6155
+4fc49f2d	48	Y	LuaBindings::GetArmoryHandle	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	6144	6148
+4fc49f5d	99	Y	LuaBindings::GetPortalDest	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	6394	6398
+4fc49fc0	86	Y	LuaBindings::GetEjectRatio	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5877	5885
+4fc4a016	64	Y	LuaBindings::GetSkill	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5603	5611
+4fc4a056	36	Y	LuaBindings::IsNetworkOn	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3521	3524
+4fc4a07a	64	Y	LuaBindings::SetOwner	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5148	5157
+4fc4a0ba	128	Y	LuaBindings::GetTeamStratColorVector	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5227	5232
+4fc4a13a	76	Y	LuaBindings::SetCurLocalAmmo	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5418	5424
+4fc4a186	93	Y	LuaBindings::KickPlayer	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5003	5009
+4fc4a1e3	26	Y	LuaBindings::MakeInert	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3693	3697
+4fc4a1fd	113	Y	LuaBindings::SetAnimation	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3149	3155
+4fc4a26e	26	Y	LuaBindings::ClearThrust	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3352	3356
+4fc4a288	43	Y	LuaBindings::AddScore	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3911	3916
+4fc4a2b3	50	Y	LuaBindings::GetActualScrapCost	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5489	5493
+4fc4a2e5	83	Y	LuaBindings::Attack	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1413	1419
+4fc4a338	53	Y	LuaBindings::CalcCRC	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2778	2782
+4fc4a36d	118	Y	LuaBindings::GetNearestPerson	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4929	4935
+4fc4a3e3	9	Y	LuaBindings::TeamplayAllies	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2156	2159
+4fc4a3ec	52	Y	LuaBindings::SetEjectRatio	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5889	5894
+4fc4a420	74	Y	LuaBindings::SetUserTarget	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2655	2668
+4fc4a46a	37	Y	LuaBindings::GetNearestBuilding	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1267	1292
+4fc4a48f	225	Y	LuaBindings::GetODFBool	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4557	4579
+4fc4a570	43	Y	LuaBindings::SetKills	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3875	3880
+4fc4a59b	29	Y	LuaBindings::IFace_ClearListBox	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2916	2920
+4fc4a5b8	9	Y	LuaBindings::HideCockpitTimer	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2408	2411
+4fc4a5c1	43	Y	LuaBindings::FlagRecover	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3968	3973
+4fc4a5ec	50	Y	LuaBindings::IsBusy	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5834	5838
+4fc4a61e	43	Y	LuaBindings::StartEmitter	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3185	3190
+4fc4a649	60	Y	LuaBindings::GetPilotClass	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5468	5477
+4fc4a685	26	Y	LuaBindings::EjectPilot	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2711	2715
+4fc4a69f	185	Y	LuaBindings::Add_Mult_Vectors	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	998	1004
+4fc4a758	425	Y	LuaBindings::ReplaceWeapons	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	6255	6310
+4fc4a901	29	Y	LuaBindings::PurgeAudioMessage	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2231	2235
+4fc4a91e	103	Y	LuaBindings::IsPortalEffectActive	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	6361	6365
+4fc4a985	9	Y	LuaBindings::IFace_ExitMenuMode	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5963	5966
+4fc4a98e	29	Y	LuaBindings::NoteGameoverWithCustomMessage	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4690	4694
+4fc4a9ab	128	Y	LuaBindings::GetTeamStratIndividualColorVector	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5324	5329
+4fc4aa2b	86	Y	LuaBindings::GetLifeSpan	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5678	5686
+4fc4aa81	48	Y	LuaBindings::Network_SetString	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4078	4083
+4fc4aab1	26	Y	LuaBindings::RemoveBirds	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3427	3431
+4fc4aacb	146	Y	LuaBindings::Damage	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1855	1873
+4fc4ab5d	97	Y	LuaBindings::IFace_GetSelectedItem	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2933	2941
+4fc4abbe	125	Y	LuaBindings::IsFollowing	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2636	2643
+4fc4ac3b	43	Y	LuaBindings::FlagScore	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3977	3982
+4fc4ac66	114	Y	LuaBindings::GetObjInfo_EntityType	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4166	4174
+4fc4acd8	50	Y	LuaBindings::GetScrap	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1115	1119
+4fc4ad0a	51	Y	LuaBindings::GetVarItemInt	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2473	2477
+4fc4ad3d	9	Y	LuaBindings::WantBotKillMessages	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4335	4338
+4fc4ad46	72	Y	LuaBindings::SetPortalDest	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	6402	6407
+4fc4ad8e	43	Y	LuaBindings::SetCurHealth	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1909	1914
+4fc4adb9	26	Y	LuaBindings::StopSoundEffect	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3493	3497
+4fc4add3	153	Y	LuaBindings::SetPortalEffectOn	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	6341	6347
+4fc4ae6c	411	Y	LuaBindings::Vector_RotateInv	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	948	965
+4fc4b007	43	Y	LuaBindings::Ally	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2163	2168
+4fc4b032	29	Y	LuaBindings::IFace_Activate	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2802	2806
+4fc4b04f	35	Y	LuaBindings::GetCurWorld	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2454	2457
+4fc4b072	281	Y	LuaBindings::Vector_Rotate	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	927	944
+4fc4b18b	50	Y	LuaBindings::IsCraftOrPerson	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5743	5747
+4fc4b1bd	48	Y	LuaBindings::GetAnimationDirection	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5923	5927
+4fc4b1ed	96	Y	LuaBindings::IsWithin	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3309	3315
+4fc4b24d	64	Y	LuaBindings::GetIndependence	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5591	5599
+4fc4b28d	34	Y	LuaBindings::SetTauntCPUName	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5981	5985
+4fc4b2af	50	Y	LuaBindings::GetLastFriendShot	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2141	2145
+4fc4b2e1	66	Y	LuaBindings::IsEmitterOn	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5947	5952
+4fc4b323	84	Y	LuaBindings::CameraPathDir	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3041	3047
+4fc4b377	105	Y	LuaBindings::StartCockpitTimer	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2381	2387
+4fc4b3e0	52	Y	LuaBindings::SelfDamage	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4326	4331
+4fc4b414	43	Y	LuaBindings::SetScavengerMaxScrap	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4317	4322
+4fc4b43f	337	Y	LuaBindings::GetTerrainHeightAndNormal	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5047	5079
+4fc4b590	48	Y	LuaBindings::IFace_SetString	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2833	2838
+4fc4b5c0	80	Y	LuaBindings::IFace_Exec	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2787	2799
+4fc4b610	45	Y	LuaBindings::EnableHighTPS	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4342	4347
+4fc4b63d	80	Y	LuaBindings::Matrix_to_QuatPos	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	841	849
+4fc4b68d	43	Y	LuaBindings::SetScavengerCurScrap	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4308	4313
+4fc4b6b8	50	Y	LuaBindings::GetKills	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3850	3854
+4fc4b6ea	43	Y	LuaBindings::Annoy	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3343	3348
+4fc4b715	35	Y	LuaBindings::GetInstantDifficulty	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2983	2986
+4fc4b738	176	Y	LuaBindings::Make_RGBA	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1061	1068
+4fc4b7e8	26	Y	LuaBindings::KillPilot	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2727	2731
+4fc4b802	169	Y	LuaBindings::GetNearestEnemy	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1297	1331
+4fc4b8ab	35	Y	LuaBindings::GetInstantMyForce	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2971	2974
+4fc4b8ce	56	Y	LuaBindings::AudioMessage	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2199	2203
+4fc4b906	118	Y	LuaBindings::Interpolate_Quaternion	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	823	829
+4fc4b97c	221	Y	LuaBindings::GetODFInt	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4419	4441
+4fc4ba59	64	Y	LuaBindings::GetScavengerMaxScrap	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4296	4304
+4fc4ba99	26	Y	LuaBindings::Deploy	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2586	2590
+4fc4bab3	50	Y	LuaBindings::GetCurrentCommand	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2695	2699
+4fc4bae5	25	Y	LuaBindings::DoTaunt	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5973	5977
+4fc4bafe	175	Y	LuaBindings::GetWindingNumber	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	6187	6205
+4fc4bbad	60	Y	LuaBindings::GetPilotOdf	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5804	5813
+4fc4bbe9	50	Y	LuaBindings::GetMaxPower	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5284	5288
+4fc4bc1b	36	Y	LuaBindings::FreeCamera	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3093	3096
+4fc4bc3f	29	Y	LuaBindings::PurgeMusicMessage	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2247	2251
+4fc4bc5c	74	Y	LuaBindings::SetMaxPower	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5302	5308
+4fc4bca6	50	Y	LuaBindings::GetCanSnipe	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5776	5780
+4fc4bcd8	46	Y	LuaBindings::IFace_SetInteger	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2863	2868
+4fc4bd06	134	Y	LuaBindings::TranslateString	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4255	4280
+4fc4bd8c	26	Y	LuaBindings::SetObjectiveOff	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3240	3244
+4fc4bda6	668	Y	LuaBindings::GetPositionNear	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3704	3742
+4fc4c042	50	Y	LuaBindings::IsAlive	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1729	1733
+4fc4c074	43	Y	LuaBindings::SetCurAmmo	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1968	1973
+4fc4c09f	118	Y	LuaBindings::GetNearestPowerup	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4919	4925
+4fc4c115	122	Y	LuaBindings::GetTeamStratIndividualColor	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5312	5321
+4fc4c18f	107	Y	LuaBindings::Vector_Add	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	265	270
+4fc4c1fa	602	Y	LuaBindings::StartAudio3D	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4792	4825
+4fc4c454	9	Y	LuaBindings::ChangeSide	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1090	1093
+4fc4c45d	290	Y	LuaBindings::Vector_Div	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	309	331
+4fc4c57f	46	Y	LuaBindings::AddIdleAnim	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3377	3382
+4fc4c5ad	164	Y	LuaBindings::Get_WeaponODF	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4209	4224
+4fc4c651	183	Y	LuaBindings::SetInterpolablePosition	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5637	5659
+4fc4c708	87	Y	LuaBindings::GetCameraPosition	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2751	2758
+4fc4c75f	50	Y	LuaBindings::IsPowered	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5931	5935
+4fc4c791	51	Y	LuaBindings::IFace_GetInteger	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2872	2876
+4fc4c7c4	50	Y	LuaBindings::IsNotDeadAndPilot	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5340	5344
+4fc4c7f6	26	Y	LuaBindings::HopOut	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2719	2723
+4fc4c810	149	Y	LuaBindings::Vector_Sub	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	274	279
+4fc4c8a5	37	Y	LuaBindings::GetNearestObject	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1207	1232
+4fc4c8ca	103	Y	LuaBindings::CalcCliffs	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3457	3471
+4fc4c931	97	Y	LuaBindings::CameraOf	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	6015	6027
+4fc4c992	101	Y	LuaBindings::SetVolume	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4875	4881
+4fc4c9f7	38	Y	LuaBindings::GetCockpitTimer	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2415	2419
+4fc4ca1d	9	Y	LuaBindings::IFace_EnterMenuMode	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5956	5959
+4fc4ca26	131	Y	LuaBindings::DotProduct	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	612	617
+4fc4caa9	26	Y	LuaBindings::ResetTeamSlot	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4365	4369
+4fc4cac3	53	Y	LuaBindings::DoesFileExist	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4757	4761
+4fc4caf8	50	Y	LuaBindings::GetCategoryType	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4381	4385
+4fc4cb2a	107	Y	LuaBindings::GetNearestVehicle	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1237	1263
+4fc4cb95	120	Y	LuaBindings::GetTeamplayRanges	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3625	3633
+4fc4cc0d	162	Y	LuaBindings::IsInfo	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2365	2377
+4fc4ccaf	86	Y	LuaBindings::GetRemainingLifespan	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5534	5542
+4fc4cd05	117	Y	LuaBindings::BuildDirectionalMatrix	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	799	808
+4fc4cd7a	54	Y	LuaBindings::GetAudioFileDuration	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4903	4907
+4fc4cdb0	9	Y	LuaBindings::StopMovie	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3115	3118
+4fc4cdb9	262	Y	LuaBindings::GetODFString	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4584	4612
+4fc4cebf	60	Y	LuaBindings::GetBuildClass	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5843	5852
+4fc4cefb	88	Y	LuaBindings::InBuilding	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1761	1773
+4fc4cf53	97	Y	LuaBindings::IFace_GetString	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2842	2850
+4fc4cfb4	838	Y	LuaBindings::LoadValue	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	6426	6547
+4fc4d2fa	53	Y	LuaBindings::PlaybackVehicle	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3141	3145
+4fc4d32f	35	Y	LuaBindings::LogFloat	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2963	2967
+4fc4d352	272	Y	LuaBindings::QuatPos_to_Matrix	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	863	881
+4fc4d462	75	Y	LuaBindings::IFace_ConsoleCmd	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4069	4074
+4fc4d4ad	50	Y	LuaBindings::IsIdle	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3386	3390
+4fc4d4df	256	Y	LuaBindings::GetODFFloat	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4473	4495
+4fc4d5df	35	Y	LuaBindings::UpdateEarthQuake	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2431	2435
+4fc4d602	11	Y	LuaBindings::luaL_optboolean	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	203	205
+4fc4d60d	42	Y	LuaBindings::Handle_ToInteger	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	117	122
+4fc4d637	114	Y	LuaBindings::GetObjInfo_CFG	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4130	4138
+4fc4d6a9	43	Y	LuaBindings::SetCanSnipe	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5767	5772
+4fc4d6d4	26	Y	LuaBindings::RemoveObject	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1374	1378
+4fc4d6ee	37	Y	LuaBindings::GetCurrentWho	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2703	2707
+4fc4d713	26	Y	LuaBindings::NoteGameoverByScore	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4010	4014
+4fc4d72d	146	Y	LuaBindings::ClearPortalDest	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	6411	6416
+4fc4d7bf	84	Y	LuaBindings::SetPortalChannel	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	6314	6319
+4fc4d813	288	Y	LuaBindings::Goto	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1437	1469
+4fc4d933	137	Y	LuaBindings::Quaternion_Index	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	522	544
+4fc4d9bc	89	Y	LuaBindings::GetFirstEmptyGroup	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1383	1400
+4fc4da15	164	Y	LuaBindings::Get_WeaponConfig	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4190	4205
+4fc4dab9	308	Y	LuaBindings::Dropoff	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1623	1656
+4fc4dbed	90	Y	LuaBindings::CountThreats	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3394	3401
+4fc4dc47	29	Y	LuaBindings::SetTimerBox	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3812	3816
+4fc4dc64	26	Y	LuaBindings::AddPilotByHandle	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2545	2549
+4fc4dc7e	50	Y	LuaBindings::IsAround	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1753	1757
+4fc4dcb0	38	Y	LuaBindings::CountPlayers	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3549	3552
+4fc4dcd6	35	Y	LuaBindings::GetInstantCompForce	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2977	2980
+4fc4dcf9	419	Y	LuaBindings::TerrainFindFloor	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2512	2541
+4fc4de9c	50	Y	LuaBindings::GetScore	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3858	3862
+4fc4dece	83	Y	LuaBindings::Follow	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1513	1519
+4fc4df21	9	Y	LuaBindings::ClearTeamColors	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3645	3648
+4fc4df2a	54	Y	LuaBindings::IsPlayingLooped	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4911	4915
+4fc4df60	164	Y	LuaBindings::SetColorFade	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3435	3445
+4fc4e004	32	Y	LuaBindings::SetPathRoundTrip	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2341	2345
+4fc4e024	93	Y	LuaBindings::FireAt	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2625	2631
+4fc4e081	62	Y	LuaBindings::IFace_SetIntegerRange	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2880	2886
+4fc4e0bf	53	Y	LuaBindings::PlayMovie	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3107	3111
+4fc4e0f4	37	Y	LuaBindings::GetTarget	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4060	4065
+4fc4e119	32	Y	LuaBindings::SetPathOneWay	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2335	2339
+4fc4e139	126	Y	LuaBindings::SetLastCurrentPosition	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5512	5530
+4fc4e1b7	56	Y	LuaBindings::HasCargo	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1167	1171
+4fc4e1ef	36	Y	LuaBindings::PanDone	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3051	3054
+4fc4e213	32	Y	LuaBindings::SetPathLoop	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2347	2351
+4fc4e233	50	Y	LuaBindings::IsPlayer	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3568	3572
+4fc4e265	37	Y	LuaBindings::HoppedOutOf	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2743	2747
+4fc4e28a	65	Y	LuaBindings::SucceedMission	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1081	1086
+4fc4e2cb	74	Y	LuaBindings::AddMaxScrap	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1123	1129
+4fc4e315	66	Y	LuaBindings::GetGroupCount	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4739	4744
+4fc4e357	43	Y	LuaBindings::SetAvoidType	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3334	3339
+4fc4e382	64	Y	LuaBindings::SetBestGroup	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4698	4706
+4fc4e3c2	46	Y	LuaBindings::SetTeamNameForStat	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5817	5822
+4fc4e3f0	290	Y	LuaBindings::Mine	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1477	1509
+4fc4e512	35	Y	LuaBindings::GetInstantFlag	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3001	3004
+4fc4e535	43	Y	LuaBindings::SetAsUser	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3920	3925
+4fc4e560	69	Y	LuaBindings::GetHandle	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	76	88
+4fc4e5a5	50	Y	LuaBindings::GetMaxScrap	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1143	1147
+4fc4e5d7	73	Y	LuaBindings::GetAnimationFrame	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3159	3164
+4fc4e620	63	Y	LuaBindings::GetOmega	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5717	5721
+4fc4e65f	50	Y	LuaBindings::GetLastAlliedTeam	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3617	3621
+4fc4e691	123	Y	LuaBindings::Interpolate_Matrix	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	812	818
+4fc4e70c	146	Y	LuaBindings::Vector_NewIndex	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	234	253
+4fc4e79e	348	Y	LuaBindings::Retreat	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1563	1595
+4fc4e8fa	26	Y	LuaBindings::SetObjectiveOn	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3232	3236
+4fc4e914	54	Y	LuaBindings::GetCVarItemStr	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2490	2495
+4fc4e94a	244	Y	LuaBindings::BuildObject	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1338	1370
+4fc4ea3e	105	Y	LuaBindings::StartCockpitTimerUp	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2391	2397
+4fc4eaa7	83	Y	LuaBindings::Pickup	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1609	1615
+4fc4eafa	76	Y	LuaBindings::GetNetworkListItem	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5428	5439
+4fc4eb46	50	Y	LuaBindings::IsFlying	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1737	1741
+4fc4eb78	79	Y	LuaBindings::DoesPathExist	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	6220	6229
+4fc4ebc7	288	Y	LuaBindings::SetTransform	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	6104	6123
+4fc4ece7	50	Y	LuaBindings::IsCraftButNotPerson	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5735	5739
+4fc4ed19	274	Y	LuaBindings::Matrix_ToString	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	504	517
+4fc4ee2b	154	Y	LuaBindings::GetPosition	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1786	1799
+4fc4eec5	50	Y	LuaBindings::GetPower	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5276	5280
+4fc4eef7	83	Y	LuaBindings::Defend2	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1532	1538
+4fc4ef4a	128	Y	LuaBindings::GetFFATeamColorVector	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5206	5211
+4fc4efca	24	Y	LuaBindings::GetMissionFilename	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5870	5873
+4fc4efe2	26	Y	LuaBindings::ClearTeamColor	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3685	3689
+4fc4effc	102	Y	LuaBindings::ShufflePortalDown	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	6386	6390
+4fc4f062	50	Y	LuaBindings::CountAllies	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3593	3597
+4fc4f094	9	Y	LuaBindings::PetWatchdogThread	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5497	5500
+4fc4f09d	36	Y	LuaBindings::CameraReady	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3023	3026
+4fc4f0c1	50	Y	LuaBindings::TurnsToSeconds	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5670	5674
+4fc4f0f3	54	Y	LuaBindings::SetAutoGroupUnits	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4995	4999
+4fc4f129	69	Y	LuaBindings::IsOdf	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1690	1695
+4fc4f16e	9	Y	LuaBindings::NoteGameoverByNoBases	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4034	4037
+4fc4f177	50	Y	LuaBindings::GetHealth	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1877	1881
+4fc4f1a9	48	Y	LuaBindings::IFace_CreateString	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2824	2829
+4fc4f1d9	9	Y	LuaBindings::ResetCameraPosition	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2771	2774
+4fc4f1e2	50	Y	LuaBindings::GetCategoryTypeOverride	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4373	4377
+4fc4f214	68	Y	LuaBindings::GetRaceOfTeam	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3556	3564
+4fc4f258	53	Y	LuaBindings::SetMPTeamRace	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4049	4056
+4fc4f28d	43	Y	LuaBindings::SetDeaths	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3866	3871
+4fc4f2b8	46	Y	LuaBindings::SetLabel	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5361	5366
+4fc4f2e6	84	Y	LuaBindings::CrossProduct	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	621	626
+4fc4f33a	74	Y	LuaBindings::Handle_ToString	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	107	113
+4fc4f384	48	Y	LuaBindings::GetWeaponMask	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5628	5632
+4fc4f3b4	114	Y	LuaBindings::GetObjInfo_GOClass	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4178	4186
+4fc4f426	36	Y	LuaBindings::CameraCancelled	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3086	3089
+4fc4f44a	169	Y	LuaBindings::IsInsideArea	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	6162	6180
+4fc4f4f3	178	Y	LuaBindings::SetPosition	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1822	1849
+4fc4f5a5	143	Y	LuaBindings::Make_RGB	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1053	1059
+4fc4f634	64	Y	LuaBindings::GetLookFront	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5898	5902
+4fc4f674	26	Y	LuaBindings::StartAnimation	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3168	3172
+4fc4f68e	102	Y	LuaBindings::ShufflePortalUp	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	6378	6382
+4fc4f6f4	53	Y	LuaBindings::DoesODFExist	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4247	4251
+4fc4f729	50	Y	LuaBindings::IsPowerup	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5759	5763
+4fc4f75b	57	Y	LuaBindings::SetAngle	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5994	5999
+4fc4f794	26	Y	LuaBindings::SetMusicIntensity	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2263	2267
+4fc4f7ae	50	Y	LuaBindings::GetNetworkListCount	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5443	5447
+4fc4f7e0	66	Y	LuaBindings::GetCurAmmo	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1944	1952
+4fc4f822	9	Y	LuaBindings::ClearObjectives	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3257	3260
+4fc4f82b	46	Y	LuaBindings::Network_SetInteger	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4087	4092
+4fc4f859	43	Y	LuaBindings::AddHealth	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1927	1932
+4fc4f884	26	Y	LuaBindings::StopAudioMessage	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2215	2219
+4fc4f89e	231	Y	LuaBindings::GetODFChar	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4527	4552
+4fc4f985	193	Y	LuaBindings::GetFacingDrection2D	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1041	1046
+4fc4fa46	50	Y	LuaBindings::GetAmmo	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1936	1940
+4fc4fa78	52	Y	LuaBindings::SetVerbose	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3360	3365
+4fc4faac	37	Y	LuaBindings::GetPlayerName	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3576	3581
+4fc4fad1	281	Y	LuaBindings::Vector_TransformInv	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	906	923
+4fc4fbea	149	Y	LuaBindings::Vector_ToString	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	344	350
+4fc4fc7f	66	Y	LuaBindings::AddScrap	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1097	1102
+4fc4fcc1	48	Y	LuaBindings::GetEmitterMask	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5939	5943
+4fc4fcf1	128	Y	LuaBindings::Distance2D	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	654	659
+4fc4fd71	29	Y	LuaBindings::IFace_CreateCommand	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2816	2820
+4fc4fd8e	32	Y	LuaBindings::GetTime	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1151	1154
+4fc4fdae	43	Y	LuaBindings::SetWeaponMask	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2602	2607
+4fc4fdd9	158	Y	LuaBindings::AddObjective	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3290	3305
+4fc4fe77	80	Y	LuaBindings::GetTransform	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	6086	6090
+4fc4fec7	76	Y	LuaBindings::AddLocalAmmo	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5399	5405
+4fc4ff13	36	Y	LuaBindings::IsTeamplayOn	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3542	3545
+4fc4ff37	70	Y	LuaBindings::GetCurLocalAmmo	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5390	5395
+4fc4ff7d	26	Y	LuaBindings::RemovePilot	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2735	2739
+4fc4ff97	159	Y	LuaBindings::SpawnBirds	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3406	3423
+4fc50036	64	Y	LuaBindings::Stop	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1542	1547
+4fc50076	48	Y	LuaBindings::GetRecyclerHandle	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	6128	6132
+4fc500a6	29	Y	LuaBindings::PreloadMusicMessage	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2239	2243
+4fc500c3	74	Y	LuaBindings::SetMaxScrap	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1133	1139
+4fc5010d	48	Y	LuaBindings::IFace_AddTextItem	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2924	2929
+4fc5013d	37	Y	LuaBindings::GetTug	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1158	1163
+4fc50162	43	Y	LuaBindings::SetMaxHealth	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1918	1923
+4fc5018d	46	Y	LuaBindings::IFace_CreateInteger	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2854	2859
+4fc501bb	108	Y	LuaBindings::SwapPortalIndex	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	6369	6374
+4fc50227	65	Y	LuaBindings::SetTap	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5380	5386
+4fc50268	70	Y	LuaBindings::FrontToRadian	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1016	1020
+4fc502ae	63	Y	LuaBindings::GetPlayerHandle	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1712	1725
+4fc502ed	50	Y	LuaBindings::IsDeployed	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2578	2582
+4fc5031f	94	Y	LuaBindings::GiveWeapon	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2612	2621
+4fc5037d	26	Y	LuaBindings::SetFFATeamColors	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5178	5182
+4fc50397	50	Y	LuaBindings::IsBuilding	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5751	5755
+4fc503c9	226	Y	LuaBindings::StartAudio2D	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4830	4839
+4fc504ab	26	Y	LuaBindings::NoteGameoverByLastWithBase	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4018	4022
+4fc504c5	406	Y	LuaBindings::BuildAxisRotationMatrix	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	740	757
+4fc5065b	35	Y	LuaBindings::GetInstantGoal	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2989	2992
+4fc5067e	43	Y	LuaBindings::SetPerceivedTeam	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2686	2691
+4fc506a9	30	Y	LuaBindings::StopAudio	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4851	4855
+4fc506c7	46	Y	LuaBindings::SetPilotClass	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5161	5166
+4fc506f5	63	Y	LuaBindings::GetSpawnpoint	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3788	3792
+4fc50734	66	Y	LuaBindings::IsAlly	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2190	2195
+4fc50776	36	Y	LuaBindings::CameraFinish	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3079	3082
+4fc5079a	63	Y	LuaBindings::GetVarItemStr	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2461	2469
+4fc507d9	65	Y	LuaBindings::FailMission	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1072	1077
+4fc5081a	66	Y	LuaBindings::SetScrap	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1106	1111
+4fc5085c	50	Y	LuaBindings::GetCommanderTeam	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3601	3605
+4fc5088e	83	Y	LuaBindings::GetRandomSpawnpoint	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3804	3808
+4fc508e1	210	Y	LuaBindings::GetCircularPos	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3768	3777
+4fc509b3	60	Y	LuaBindings::GetLabel	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5348	5357
+4fc509ef	66	Y	LuaBindings::GetMaxHealth	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1897	1905
+4fc50a31	83	Y	LuaBindings::Service	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1423	1429
+4fc50a84	50	Y	LuaBindings::GetDeaths	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3842	3846
+4fc50ab6	9	Y	LuaBindings::StopCheats	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3449	3452
+4fc50abf	36	Y	LuaBindings::ImServer	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3528	3531
+4fc50ae3	115	Y	LuaBindings::Distance2DSquared	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	663	668
+4fc50b56	428	Y	LuaBindings::BuildPositionRotationMatrix	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	760	779
+4fc50d02	62	Y	LuaBindings::SetGroup	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1404	1409
+4fc50d40	48	Y	LuaBindings::PauseAnimation	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5906	5910
+4fc50d70	83	Y	LuaBindings::GetObjectByTeamSlot	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3502	3517
+4fc50dc3	706	Y	LuaBindings::SaveValue	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	6551	6656
+4fc51085	66	Y	LuaBindings::AddPower	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5258	5263
+4fc510c7	43	Y	LuaBindings::SetSkill	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2945	2950
+4fc510f2	24	Y	LuaBindings::GetMapTRNFilename	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5333	5336
+4fc5110a	43	Y	LuaBindings::StopEmitter	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3194	3199
+4fc51135	68	Y	LuaBindings::IsNullVector	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1008	1012
+4fc51179	26	Y	LuaBindings::SetTeamColors	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5250	5254
+4fc51193	41	Y	LuaBindings::GetPosition2	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1803	1807
+4fc511bc	38	Y	LuaBindings::GetLocalPlayerTeamNumber	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3945	3948
+4fc511e2	66	Y	LuaBindings::IsTeamAllied	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2181	2186
+4fc51224	26	Y	LuaBindings::SetNoScrapFlagByHandle	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3929	3933
+4fc5123e	122	Y	LuaBindings::GetTeamStratColor	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5215	5224
+4fc512b8	76	Y	LuaBindings::FindSoundEffect	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3484	3489
+4fc51304	101	Y	LuaBindings::CameraPath	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3030	3037
+4fc51369	66	Y	LuaBindings::SetPower	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5267	5272
+4fc513ab	50	Y	LuaBindings::HasPilot	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5460	5464
+4fc513dd	48	Y	LuaBindings::GetFactoryHandle	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	6136	6140
+4fc5140d	36	Y	LuaBindings::GetTeamColorsAreFFA	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5243	5246
+4fc51431	66	Y	LuaBindings::GetCVarItemInt	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2481	2486
+4fc51473	109	Y	LuaBindings::AddToMessagesBox	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3821	3838
+4fc514e0	312	Y	LuaBindings::Build_Yaw_Matrix	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	977	994
+4fc51618	798	Y	LuaBindings::SetControls	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2022	2121
+4fc51936	43	Y	LuaBindings::UnAlly	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2172	2177
+4fc51961	43	Y	LuaBindings::FlagSteal	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3959	3964
+4fc5198c	9	Y	LuaBindings::NoteGameoverByTimelimit	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3995	3998
+4fc51995	9	Y	LuaBindings::DefaultAllies	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2149	2152
+4fc5199e	415	Y	LuaBindings::GetAllSpawnpoints	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5546	5574
+4fc51b3d	74	Y	LuaBindings::AddMaxPower	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5292	5298
+4fc51b87	264	Y	LuaBindings::Distance3D	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	672	686
+4fc51c8f	63	Y	LuaBindings::GetCurrentCommandWhere	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5690	5694
+4fc51cce	222	Y	LuaBindings::GetPathPoints	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5102	5121
+4fc51dac	37	Y	LuaBindings::WhoFollowing	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2647	2651
+4fc51dd1	66	Y	LuaBindings::Normalize	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	630	634
+4fc51e13	60	Y	LuaBindings::GetObjectiveName	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5615	5624
+4fc51e4f	66	Y	LuaBindings::GetTeamRelationship	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5451	5456
+4fc51e91	64	Y	LuaBindings::Matrix_to_Quaternion	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	852	859
+4fc51ed1	30	Y	LuaBindings::PauseAudio	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4859	4863
+4fc51eef	64	Y	LuaBindings::GetUserTarget	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2673	2682
+4fc51f2f	225	Y	LuaBindings::GetDistance	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1179	1203
+4fc52010	29	Y	LuaBindings::PrintConsoleMessage	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2553	2557
+4fc5202d	49	Y	LuaBindings::SetOmega	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5725	5731
+4fc5205e	38	Y	LuaBindings::GetLocalPlayerDPID	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3952	3955
+4fc52084	83	Y	LuaBindings::GetIn	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1599	1605
+4fc520d7	43	Y	LuaBindings::SetScore	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3884	3889
+4fc52102	9	Y	LuaBindings::SwapTeamStratColors	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5236	5239
+4fc5210b	129	Y	LuaBindings::SetTeamColor	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3666	3681
+4fc5218c	66	Y	LuaBindings::GetMaxAmmo	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1956	1964
+4fc521ce	661	Y	LuaBindings::Matrix_NewIndex	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	416	478
+4fc52463	76	Y	LuaBindings::StartSoundEffect	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3475	3480
+4fc524af	9	Y	LuaBindings::DefaultTeamColors	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3652	3655
+4fc524b8	65	Y	LuaBindings::SetGravity	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4987	4991
+4fc524f9	29	Y	LuaBindings::PreloadAudioMessage	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2223	2227
+4fc52516	336	Y	LuaBindings::GetODFLong	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4446	4468
+4fc52666	60	Y	LuaBindings::SetPan	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4885	4890
+4fc526a2	53	Y	LuaBindings::IFace_CreateFloat	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2890	2895
+4fc526d7	122	Y	LuaBindings::GetFFATeamColor	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5194	5203
+4fc52751	134	Y	LuaBindings::GetAllGameObjectHandles	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5698	5713
+4fc527d7	354	Y	LuaBindings::AddToDispatch	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	6239	6251
+4fc52939	158	Y	LuaBindings::WhoIsTargeting	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5784	5800
+4fc529d7	50	Y	LuaBindings::GetFirstAlliedTeam	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3609	3613
+4fc52a09	49	Y	LuaBindings::SetVelocity	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2012	2018
+4fc52a3a	117	Y	LuaBindings::CanCommand	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	6078	6082
+4fc52aaf	153	Y	LuaBindings::SetPortalEffectStart	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	6331	6337
+4fc52b48	128	Y	LuaBindings::Distance3DSquared	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	690	704
+4fc52bc8	35	Y	LuaBindings::StartEarthQuake	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2423	2427
+4fc52beb	249	Y	LuaBindings::GetODFDouble	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4500	4522
+4fc52ce4	26	Y	LuaBindings::NoteGameoverByLastTeamWithBase	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4026	4030
+4fc52cfe	64	Y	LuaBindings::Defend	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1523	1528
+4fc52d3e	163	Y	LuaBindings::Quaternion_ToString	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	592	598
+4fc52de1	76	Y	LuaBindings::FrontToDegrees	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1024	1028
+4fc52e2d	43	Y	LuaBindings::SetTeamNum	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2003	2008
+4fc52e58	36	Y	LuaBindings::PlayMove	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3122	3125
+4fc52e7c	404	Y	LuaBindings::ReplaceObject	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	6051	6070
+4fc53010	180	Y	LuaBindings::GetFacingDirection	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1032	1037
+4fc530c4	9	Y	LuaBindings::TeamplayTeamColors	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3659	3662
+4fc530cd	26	Y	LuaBindings::ClearIdleAnims	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3369	3373
+4fc530e7	117	Y	LuaBindings::PlayRecording	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3130	3137
+4fc5315c	126	Y	LuaBindings::GetRandomFloat	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2562	2574
+4fc531da	60	Y	LuaBindings::IsAudioPlaying	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4843	4847
+4fc53216	258	Y	LuaBindings::GetODFVector	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4644	4668
+4fc53318	46	Y	LuaBindings::LuaCheckStatus	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	49	62
+4fc53346	81	Y	LuaBindings::GetAiPaths	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2310	2322
+4fc53397	350	Y	LuaBindings::GetODFColor	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4617	4639
+4fc534f5	114	Y	LuaBindings::GetObjInfo_GOClass_gCfg	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4154	4162
+4fc53567	35	Y	LuaBindings::GetInstantType	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2995	2998
+4fc5358a	304	Y	LuaBindings::GetODFHexInt	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4392	4414
+4fc536ba	70	Y	LuaBindings::Length	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	638	642
+4fc53700	73	Y	LuaBindings::SetAIP	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2954	2959
+4fc53749	178	Y	LuaBindings::Quaternion_NewIndex	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	549	571
+4fc537fb	50	Y	LuaBindings::IsSelected	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2594	2598
+4fc5382d	60	Y	LuaBindings::GetPlan	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5578	5587
+4fc53869	43	Y	LuaBindings::AddDeaths	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3893	3898
+4fc53894	9	Y	LuaBindings::StopCockpitTimer	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2401	2404
+4fc5389d	296	Y	LuaBindings::Vector_Mul	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	283	305
+4fc539c5	43	Y	LuaBindings::AddAmmo	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1986	1991
+4fc539f0	114	Y	LuaBindings::GetObjInfo_ODF	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4142	4150
+4fc53a62	36	Y	LuaBindings::FreeFinish	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3100	3103
+4fc53a86	116	Y	LuaBindings::Vector_Eq	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	335	340
+4fc53afa	64	Y	LuaBindings::GetFront	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1811	1815
+4fc53b3a	43	Y	LuaBindings::AddKills	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3902	3907
+4fc53b65	43	Y	LuaBindings::MoneyScore	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3986	3991
+4fc53b90	350	Y	LuaBindings::Matrix_Index	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	355	411
+4fc53cee	37	Y	LuaBindings::GetSpawnpointHandle	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3796	3800
+4fc53d13	50	Y	LuaBindings::CanBuild	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5826	5830
+4fc53d45	83	Y	LuaBindings::LookAt	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1670	1676
+4fc53d98	9	Y	LuaBindings::StopEarthQuake	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2439	2442
+4fc53da1	68	Y	LuaBindings::Normalize_Quaternion	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	833	837
+4fc53de5	43	Y	LuaBindings::SetIndependence	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2355	2360
+4fc53e10	50	Y	LuaBindings::IsAliveAndPilot	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1745	1749
+4fc53e42	136	Y	LuaBindings::CameraPos	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	6003	6011
+4fc53eca	50	Y	LuaBindings::GetBaseScrapCost	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5481	5485
+4fc53efc	50	Y	LuaBindings::WhichTeamGroup	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3585	3589
+4fc53f2e	37	Y	LuaBindings::AtTerminal	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1777	1781
+4fc53f53	53	Y	LuaBindings::SetCameraPosition	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2762	2767
+4fc53f88	30	Y	LuaBindings::ResumeAudio	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4867	4871
+4fc53fa6	35	Y	LuaBindings::GetInstantMySide	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3007	3010
+4fc53fc9	24	Y	LuaBindings::GetLocalUserSelectHandle	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4358	4361
+4fc53fe1	54	Y	LuaBindings::GetTap	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5370	5376
+4fc54017	260	Y	LuaBindings::SetQuaternion	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	192	199
+4fc5411b	86	Y	LuaBindings::Patrol	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1551	1557
+4fc54171	64	Y	LuaBindings::ResumeAnimation	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5914	5919
+4fc541b1	43	Y	LuaBindings::SetMaxAmmo	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	1977	1982
+4fc541dc	37	Y	LuaBindings::GetWhoShotMe	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2125	2129
+4fc54201	95	Y	LuaBindings::LengthSquared	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	646	650
+4fc54260	29	Y	LuaBindings::LoadJukeFile	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2255	2259
+4fc5427d	53	Y	LuaBindings::IFace_GetFloat	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2908	2912
+4fc542b2	57	Y	LuaBindings::SecondsToTurns	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5663	5667
+4fc542eb	81	Y	LuaBindings::Matrix_Inverse	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	969	973
+4fc5433c	422	Y	LuaBindings::Quaternion_Mul	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	575	588
+4fc544e2	80	Y	LuaBindings::GetTransform2	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	6094	6098
+4fc54532	46	Y	LuaBindings::SetPathType	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2326	2331
+4fc54560	53	Y	LuaBindings::IFace_SetFloat	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	2899	2904
+4fc54595	251	Y	LuaBindings::CameraObject	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3059	3075
+4fc54690	46	Y	LuaBindings::SetObjectiveName	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3248	3253
+4fc546be	63	Y	LuaBindings::GetVelocity	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4096	4100
+4fc546fd	37	Y	LuaBindings::GetOwner	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	5125	5130
+4fc54722	26	Y	LuaBindings::SetRandomHeadingAngle	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	3637	3641
+4fc5473c	26	Y	LuaBindings::NoteGameoverByKillLimit	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	4002	4006
+4fc54756	932	Y	LuaBindings::SetMatrix	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	708	737
+4fc54afa	119	Y	LuaBindings::Vector_Index	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	210	229
+4fc54b71	30	Y	LuaBindings::PushHandle	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	66	71
+4fc54b8f	56	Y	LuaPanic	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	37	45
+4fc54bc7	322	Y	LuaPrint	/e:/github/vsr_dll_source/missions/luamission/luabindings.cpp	8	33
+4fc54d0a	21	N	_EH_epilog3	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/eh/i386/ehprolg3.c	530	543
+4fc54d1f	52	N	_EH_prolog3	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/eh/i386/ehprolg3.c	89	149
+4fc54d53	55	N	_EH_prolog3_catch	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/eh/i386/ehprolg3.c	202	266
+4fc54d90	22	N	_alloca_probe_16	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/misc/i386/alloca16.asm	44	54
+4fc54da6	22	N	__alloca_probe_8	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/misc/i386/alloca16.asm	59	67
+4fc54dc0	45	N	_chkstk	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/misc/i386/chkstk.asm	65	100
+4fc54df0	15	N	_ftoui3	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/helper/i386/ftol3.asm	68	72
+4fc54dff	15	N	_ftoul3	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/helper/i386/ftol3.asm	88	92
+4fc54e0e	13	N	_ftol3	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/helper/i386/ftol3.asm	107	110
+4fc54e1b	24	N	_ftol3_NaN	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/helper/i386/ftol3.asm	115	122
+4fc54e33	134	N	_ftol3_work	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/helper/i386/ftol3.asm	141	188
+4fc54eb9	194	N	_ftol3_common	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/helper/i386/ftol3.asm	204	266
+4fc54f7b	18	N	_ftol3_arg_error	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/helper/i386/ftol3.asm	281	287
+4fc54f8d	68	N	_ftol3_except	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/helper/i386/ftol3.asm	302	326
+4fc54fd1	15	N	_dtoui3	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/helper/i386/ftol3.asm	340	344
+4fc54fe0	15	N	_dtoul3	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/helper/i386/ftol3.asm	361	365
+4fc54fef	13	N	_dtol3	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/helper/i386/ftol3.asm	380	383
+4fc54ffc	29	N	_dtol3_NaN	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/helper/i386/ftol3.asm	387	394
+4fc55019	229	N	_dtol3_work	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/helper/i386/ftol3.asm	411	484
+4fc55100	55	N	_ultod3	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/helper/i386/ftol3.asm	501	519
+4fc55140	39	N	_ltod3	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/helper/i386/ftol3.asm	535	546
+4fc55170	9	N	_ftol2_sse	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/helper/i386/ftol2.asm	29	32
+4fc55179	19	N	_ftol2_pentium4	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/helper/i386/ftol2.asm	40	51
+4fc5518c	36	N	_ftol2_sse_excpt	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/helper/i386/ftol2.asm	60	70
+4fc551b0	117	N	_ftol2	/d:/agent/_work/3/s/src/vctools/crt/vcstartup/src/helper/i386/ftol2.asm	81	133
+4fc55225	6	N	setjmp3			
+4fc5522b	6	N	memchr			
+4fc55231	6	N	memcmp			
+4fc55237	6	N	memcpy			
+4fc5523d	6	N	memmove			
+4fc55243	6	N	__CIacos			
+4fc55249	6	N	__CIatan2			
+4fc5524f	6	N	__CIcosh			
+4fc55255	6	N	__CIfmod			
+4fc5525b	6	N	__CIsin			
+4fc55261	6	N	__CIsinh			
+4fc55267	6	N	__CIsqrt			
+4fc5526d	6	N	__CItanh			
+4fc55273	6	N	libm_sse2_acos_precise			
+4fc55279	6	N	libm_sse2_asin_precise			
+4fc5527f	6	N	libm_sse2_atan_precise			
+4fc55285	6	N	libm_sse2_cos_precise			
+4fc5528b	6	N	libm_sse2_exp_precise			
+4fc55291	6	N	libm_sse2_log10_precise			
+4fc55297	6	N	libm_sse2_log_precise			
+4fc5529d	6	N	libm_sse2_pow_precise			
+4fc552a3	6	N	libm_sse2_sin_precise			
+4fc552a9	6	N	libm_sse2_sqrt_precise			
+4fc552af	6	N	libm_sse2_tan_precise			
+4fc552b5	6	N	ceil			
+4fc552bb	6	N	floor			
+4fc552c1	6	N	except1			
+4fc55627	8	N	__unwindfunclet$??0Strategy02@@QAE@XZ$0			
+4fc5562f	14	N	__unwindfunclet$??0Strategy02@@QAE@XZ$1			
+4fc5563d	14	N	__unwindfunclet$??0Strategy02@@QAE@XZ$2			
+4fc5564b	14	N	__unwindfunclet$??0Strategy02@@QAE@XZ$3			
+4fc55659	14	N	__unwindfunclet$??0Strategy02@@QAE@XZ$4			
+4fc55667	14	N	__unwindfunclet$??0Strategy02@@QAE@XZ$5			
+4fc55690	16	N	__unwindfunclet$?BuildMission@@YAPAVDLLBase@@XZ$0			
+4fc556d6	8	N	__unwindfunclet$??0LuaMission@@QAE@XZ$0			
+4fc556f9	5	N	`dynamic_atexit_destructor_for_'ODFNameMap''			
+4fc556fe	5	N	`dynamic_atexit_destructor_for_'ODFNameBlackListMap''			
+4fc55703	5	N	`dynamic_atexit_destructor_for_'FileNameMap''			
+4fc55708	56	N	`dynamic_atexit_destructor_for_'TauntList''			
+4fc55740	49	N	`dynamic_atexit_destructor_for_'TempAlignBuffer''			
+4fc55771	49	N	`dynamic_atexit_destructor_for_'TempDeleteBuffer''			
+4fc557a2	10	N	`dynamic_atexit_destructor_for_'TempDeploySoundBuffer''			
+4fc557ac	10	N	`dynamic_atexit_destructor_for_'TempBuiltAtBuffer''			
+4fc557b6	10	N	`dynamic_atexit_destructor_for_'TempPowerBuffer''			
+4fc557c0	10	N	`dynamic_atexit_destructor_for_'TempUtilityShipBuffer''			
+4fc557ca	10	N	`dynamic_atexit_destructor_for_'TempMorphObjectBuffer''			
+4fc557d4	10	N	`dynamic_atexit_destructor_for_'TempCarrierBuffer''			
+4fc557de	10	N	`dynamic_atexit_destructor_for_'TempDroneBuffer''			
+4fc557e8	10	N	`dynamic_atexit_destructor_for_'TempAttacherBuffer''			
+4fc557f2	49	N	`dynamic_atexit_destructor_for_'TempUndeployBuffer''			
+4fc55823	10	N	`dynamic_atexit_destructor_for_'TempBuildingBuffer''			
+4fc5582d	10	N	`dynamic_atexit_destructor_for_'TempDispatchBuffer''			
+4fc55837	10	N	`dynamic_atexit_destructor_for_'TempVehicleBuffer''			
+4fc55841	10	N	`dynamic_atexit_destructor_for_'TempHandleBuffer''			
+4fc5584b	10	N	`dynamic_atexit_destructor_for_'TempPowerupBuffer''			
+4fc55855	49	N	`dynamic_atexit_destructor_for_'TempScrapBuffer''			
+4fc55886	10	N	`dynamic_atexit_destructor_for_'TempPortalBuffer''			
+4fc55890	10	N	`dynamic_atexit_destructor_for_'TempTeleportTargetBuffer''			

@@ -1,0 +1,4743 @@
+address	value
+4fc53a70	Unknown exception
+4fc53a70	Unknown exception
+4fc53a90	bad allocation
+4fc53a90	bad allocation
+4fc53aac	bad array new length
+4fc53aac	bad array new length
+4fc53ac4	ioflag01
+4fc53ac4	ioflag01
+4fc53ad0	iostand01
+4fc53ad0	iostand01
+4fc53adc	isuser
+4fc53adc	isuser
+4fc53ae4	base%d
+4fc53ae4	base%d
+4fc53aec	m_base%d
+4fc53aec	m_base%d
+4fc53af8	loop
+4fc53af8	loop
+4fc53b00	checkpoint%d
+4fc53b00	checkpoint%d
+4fc53b10	Defend Flag!
+4fc53b10	Defend Flag!
+4fc53b20	cfg
+4fc53b20	cfg
+4fc53b24	Capture Flag!
+4fc53b24	Capture Flag!
+4fc53b34	Wabbit!
+4fc53b34	Wabbit!
+4fc53b3c	It's wabbit hunting season. Do you feel lucky?
+4fc53b3c	It's wabbit hunting season. Do you feel lucky?
+4fc53b6c	mission
+4fc53b6c	mission
+4fc53b74	RespawnAtLowAltitude
+4fc53b74	RespawnAtLowAltitude
+4fc53b8c	DLL
+4fc53b8c	DLL
+4fc53b90	CheckpointRadius
+4fc53b90	CheckpointRadius
+4fc53ba4	FriendlySpawnpointMaxAllyRange
+4fc53ba4	FriendlySpawnpointMaxAllyRange
+4fc53bc4	FriendlySpawnpointMinEnemyRange
+4fc53bc4	FriendlySpawnpointMinEnemyRange
+4fc53be4	RandomSpawnpointMinEnemyRange
+4fc53be4	RandomSpawnpointMinEnemyRange
+4fc53c04	network.session.ivar0
+4fc53c04	network.session.ivar0
+4fc53c1c	network.session.ivar1
+4fc53c1c	network.session.ivar1
+4fc53c34	network.session.ivar7
+4fc53c34	network.session.ivar7
+4fc53c4c	network.session.ivar9
+4fc53c4c	network.session.ivar9
+4fc53c64	network.session.ivar31
+4fc53c64	network.session.ivar31
+4fc53c7c	network.session.ivar35
+4fc53c7c	network.session.ivar35
+4fc53c94	network.session.ivar32
+4fc53c94	network.session.ivar32
+4fc53cac	network.session.ivar13
+4fc53cac	network.session.ivar13
+4fc53cc4	network.session.ivar22
+4fc53cc4	network.session.ivar22
+4fc53cdc	network.session.ivar16
+4fc53cdc	network.session.ivar16
+4fc53cf4	network.session.ivar23
+4fc53cf4	network.session.ivar23
+4fc53d0c	network.session.ivar19
+4fc53d0c	network.session.ivar19
+4fc53d24	network.session.ivar25
+4fc53d24	network.session.ivar25
+4fc53d3c	network.session.ivar27
+4fc53d3c	network.session.ivar27
+4fc53d54	mcjak01
+4fc53d54	mcjak01
+4fc53d5c	Reset the rabbit... it's hunting season!
+4fc53d5c	Reset the rabbit... it's hunting season!
+4fc53d88	Lap %d/%d Completed
+4fc53d88	Lap %d/%d Completed
+4fc53d9c	Lap %d Completed
+4fc53d9c	Lap %d Completed
+4fc53db0	%s takes the lead
+4fc53db0	%s takes the lead
+4fc53dc4	Lap %d/%d completed by %s
+4fc53dc4	Lap %d/%d completed by %s
+4fc53de0	Lap %d completed by %s
+4fc53de0	Lap %d completed by %s
+4fc53df8	%s finished in 1st place
+4fc53df8	%s finished in 1st place
+4fc53e14	%s finished in 2nd place
+4fc53e14	%s finished in 2nd place
+4fc53e30	%s finished in 3rd place
+4fc53e30	%s finished in 3rd place
+4fc53e4c	%s finished in %dth place
+4fc53e4c	%s finished in %dth place
+4fc53e68	10 seconds left...
+4fc53e68	10 seconds left...
+4fc53e7c	Time Left %d:%02d:%02d\n
+4fc53e7c	Time Left %d:%02d:%02d\n
+4fc53e94	Time Left %d:%02d\n
+4fc53e94	Time Left %d:%02d\n
+4fc53ea8	Mission Time %d:%02d:%02d
+4fc53ea8	Mission Time %d:%02d:%02d
+4fc53ec4	Mission Time %d:%02d
+4fc53ec4	Mission Time %d:%02d
+4fc53edc	s
+4fc53edc	s
+4fc53ee0	%s killed the wrong target, %s\n
+4fc53ee0	%s killed the wrong target, %s\n
+4fc53f00	Rabbit kill by %s on %s\n
+4fc53f00	Rabbit kill by %s on %s\n
+4fc53f1c	Spawn kill by %s on %s\n
+4fc53f1c	Spawn kill by %s on %s\n
+4fc53f34	CLASS_TORPEDO
+4fc53f34	CLASS_TORPEDO
+4fc53f44	mpobjective_dm.otf
+4fc53f44	mpobjective_dm.otf
+4fc53f58	mpobjective_dmctf.otf
+4fc53f58	mpobjective_dmctf.otf
+4fc53f70	mpobjective_dmkoth.otf
+4fc53f70	mpobjective_dmkoth.otf
+4fc53f88	mpobjective_dmloot.otf
+4fc53f88	mpobjective_dmloot.otf
+4fc53fa0	mpobjective_dmrace.otf
+4fc53fa0	mpobjective_dmrace.otf
+4fc53fb8	Bots
+4fc53fb8	Bots
+4fc55a44	player
+4fc55a44	player
+4fc55a4c	CLASS_RECYCLERVEHICLE
+4fc55a4c	CLASS_RECYCLERVEHICLE
+4fc55a64	CLASS_RECYCLER
+4fc55a64	CLASS_RECYCLER
+4fc55a74	CLASS_RECYCLERVEHICLEH
+4fc55a74	CLASS_RECYCLERVEHICLEH
+4fc55a8c	network.session.svar%d
+4fc55a8c	network.session.svar%d
+4fc55aa4	king
+4fc55aa4	king
+4fc55aac	edge_path
+4fc55aac	edge_path
+4fc55ab8	spawntank8
+4fc55ab8	spawntank8
+4fc55ac4	spawnrocket8
+4fc55ac4	spawnrocket8
+4fc55ad4	base1
+4fc55ad4	base1
+4fc55adc	base2
+4fc55adc	base2
+4fc55ae4	path
+4fc55ae4	path
+4fc55aec	Taunts
+4fc55aec	Taunts
+4fc55af4	TauntODFFile
+4fc55af4	TauntODFFile
+4fc55b04	.odf
+4fc55b04	.odf
+4fc55b0c	Category%d
+4fc55b0c	Category%d
+4fc55b18	TauntCategories
+4fc55b18	TauntCategories
+4fc55b28	_rand
+4fc55b28	_rand
+4fc55b30	.otf
+4fc55b30	.otf
+4fc55b38	network.session.svar2
+4fc55b38	network.session.svar2
+4fc55b50	%.255s : %.*s\n
+4fc55b50	%.255s : %.*s\n
+4fc55b60	options.play.taunts
+4fc55b60	options.play.taunts
+4fc55b74	vector<T> too long
+4fc55b74	vector<T> too long
+4fc55b88	Entry%d
+4fc55b88	Entry%d
+4fc55b90	
+4fc55b90	
+4fc55b94	DefaultAllies
+4fc55b94	DefaultAllies
+4fc55ba4	CMD_NONE
+4fc55ba4	CMD_NONE
+4fc55bb0	CMD_SELECT
+4fc55bb0	CMD_SELECT
+4fc55bbc	CMD_STOP
+4fc55bbc	CMD_STOP
+4fc55bc8	CMD_GO
+4fc55bc8	CMD_GO
+4fc55bd0	CMD_ATTACK
+4fc55bd0	CMD_ATTACK
+4fc55bdc	CMD_FOLLOW
+4fc55bdc	CMD_FOLLOW
+4fc55be8	CMD_FORMATION
+4fc55be8	CMD_FORMATION
+4fc55bf8	CMD_PICKUP
+4fc55bf8	CMD_PICKUP
+4fc55c04	CMD_DROPOFF
+4fc55c04	CMD_DROPOFF
+4fc55c10	CMD_UNDEPLOY
+4fc55c10	CMD_UNDEPLOY
+4fc55c20	CMD_DEPLOY
+4fc55c20	CMD_DEPLOY
+4fc55c2c	CMD_NO_DEPLOY
+4fc55c2c	CMD_NO_DEPLOY
+4fc55c3c	CMD_GET_REPAIR
+4fc55c3c	CMD_GET_REPAIR
+4fc55c4c	CMD_GET_RELOAD
+4fc55c4c	CMD_GET_RELOAD
+4fc55c5c	CMD_GET_WEAPON
+4fc55c5c	CMD_GET_WEAPON
+4fc55c6c	CMD_GET_CAMERA
+4fc55c6c	CMD_GET_CAMERA
+4fc55c7c	CMD_GET_BOMB
+4fc55c7c	CMD_GET_BOMB
+4fc55c8c	CMD_DEFEND
+4fc55c8c	CMD_DEFEND
+4fc55c98	CMD_RESCUE
+4fc55c98	CMD_RESCUE
+4fc55ca4	CMD_RECYCLE
+4fc55ca4	CMD_RECYCLE
+4fc55cb0	CMD_SCAVENGE
+4fc55cb0	CMD_SCAVENGE
+4fc55cc0	CMD_HUNT
+4fc55cc0	CMD_HUNT
+4fc55ccc	CMD_BUILD
+4fc55ccc	CMD_BUILD
+4fc55cd8	CMD_PATROL
+4fc55cd8	CMD_PATROL
+4fc55ce4	CMD_STAGE
+4fc55ce4	CMD_STAGE
+4fc55cf0	CMD_SEND
+4fc55cf0	CMD_SEND
+4fc55cfc	CMD_GET_IN
+4fc55cfc	CMD_GET_IN
+4fc55d08	CMD_LAY_MINES
+4fc55d08	CMD_LAY_MINES
+4fc55d18	CMD_LOOK_AT
+4fc55d18	CMD_LOOK_AT
+4fc55d24	CMD_SERVICE
+4fc55d24	CMD_SERVICE
+4fc55d30	CMD_UPGRADE
+4fc55d30	CMD_UPGRADE
+4fc55d3c	CMD_DEMOLISH
+4fc55d3c	CMD_DEMOLISH
+4fc55d4c	CMD_POWER
+4fc55d4c	CMD_POWER
+4fc55d58	CMD_BACK
+4fc55d58	CMD_BACK
+4fc55d64	CMD_DONE
+4fc55d64	CMD_DONE
+4fc55d70	CMD_CANCEL
+4fc55d70	CMD_CANCEL
+4fc55d7c	CMD_SET_GROUP
+4fc55d7c	CMD_SET_GROUP
+4fc55d8c	CMD_SET_TEAM
+4fc55d8c	CMD_SET_TEAM
+4fc55d9c	CMD_SEND_GROUP
+4fc55d9c	CMD_SEND_GROUP
+4fc55dac	CMD_TARGET
+4fc55dac	CMD_TARGET
+4fc55db8	CMD_INSPECT
+4fc55db8	CMD_INSPECT
+4fc55dc4	CMD_SWITCHTEAM
+4fc55dc4	CMD_SWITCHTEAM
+4fc55dd4	CMD_INTERFACE
+4fc55dd4	CMD_INTERFACE
+4fc55de4	CMD_LOGOFF
+4fc55de4	CMD_LOGOFF
+4fc55df0	CMD_AUTOPILOT
+4fc55df0	CMD_AUTOPILOT
+4fc55e00	CMD_MESSAGE
+4fc55e00	CMD_MESSAGE
+4fc55e0c	CMD_CLOSE
+4fc55e0c	CMD_CLOSE
+4fc55e18	CMD_MORPH_SETDEPLOYED
+4fc55e18	CMD_MORPH_SETDEPLOYED
+4fc55e30	CMD_MORPH_SETUNDEPLOYED
+4fc55e30	CMD_MORPH_SETUNDEPLOYED
+4fc55e48	CMD_MORPH_UNLOCK
+4fc55e48	CMD_MORPH_UNLOCK
+4fc55e5c	CMD_BAILOUT
+4fc55e5c	CMD_BAILOUT
+4fc55e68	CMD_BUILD_ROTATE
+4fc55e68	CMD_BUILD_ROTATE
+4fc55e7c	CMD_CMDPANEL_SELECT
+4fc55e7c	CMD_CMDPANEL_SELECT
+4fc55e90	CMD_CMDPANEL_DESELECT
+4fc55e90	CMD_CMDPANEL_DESELECT
+4fc55ea8	powered
+4fc55ea8	powered
+4fc55eb0	turret
+4fc55eb0	turret
+4fc55eb8	silo
+4fc55eb8	silo
+4fc55ec0	supplydepot
+4fc55ec0	supplydepot
+4fc55ecc	barracks
+4fc55ecc	barracks
+4fc55ed8	factory
+4fc55ed8	factory
+4fc55ee0	armory
+4fc55ee0	armory
+4fc55ee8	recycler
+4fc55ee8	recycler
+4fc55ef4	shieldtower
+4fc55ef4	shieldtower
+4fc55f00	extractor
+4fc55f00	extractor
+4fc55f0c	commbunker
+4fc55f0c	commbunker
+4fc55f18	commtower
+4fc55f18	commtower
+4fc55f24	powerplant
+4fc55f24	powerplant
+4fc55f30	powerlung
+4fc55f30	powerlung
+4fc55f3c	jammer
+4fc55f3c	jammer
+4fc55f44	sensor
+4fc55f44	sensor
+4fc55f4c	techcenter
+4fc55f4c	techcenter
+4fc55f58	bomberbay
+4fc55f58	bomberbay
+4fc55f64	teleportal
+4fc55f64	teleportal
+4fc55f70	terrain
+4fc55f70	terrain
+4fc55f78	i76building
+4fc55f78	i76building
+4fc55f84	spraybomb
+4fc55f84	spraybomb
+4fc55f90	camerapod
+4fc55f90	camerapod
+4fc55f9c	daywrecker
+4fc55f9c	daywrecker
+4fc55fa8	wpnpower
+4fc55fa8	wpnpower
+4fc55fb4	ammopack
+4fc55fb4	ammopack
+4fc55fc0	repairkit
+4fc55fc0	repairkit
+4fc55fcc	servicepod
+4fc55fcc	servicepod
+4fc55fd8	TAUNTS_GameStart
+4fc55fd8	TAUNTS_GameStart
+4fc55fec	TAUNTS_NewHuman
+4fc55fec	TAUNTS_NewHuman
+4fc55ffc	TAUNTS_LeftHuman
+4fc55ffc	TAUNTS_LeftHuman
+4fc56010	TAUNTS_HumanShipDestroyed
+4fc56010	TAUNTS_HumanShipDestroyed
+4fc5602c	TAUNTS_HumanRecyDestroyed
+4fc5602c	TAUNTS_HumanRecyDestroyed
+4fc56048	TAUNTS_CPURecyDestroyed
+4fc56048	TAUNTS_CPURecyDestroyed
+4fc56060	TAUNTS_Random
+4fc56060	TAUNTS_Random
+4fc56070	TAUNTS_Category7
+4fc56070	TAUNTS_Category7
+4fc56084	TAUNTS_Category8
+4fc56084	TAUNTS_Category8
+4fc56098	TAUNTS_Category9
+4fc56098	TAUNTS_Category9
+4fc560ac	TAUNTS_Category10
+4fc560ac	TAUNTS_Category10
+4fc560c0	TAUNTS_Category11
+4fc560c0	TAUNTS_Category11
+4fc560d4	TAUNTS_Category12
+4fc560d4	TAUNTS_Category12
+4fc560e8	TAUNTS_Category13
+4fc560e8	TAUNTS_Category13
+4fc560fc	TAUNTS_Category14
+4fc560fc	TAUNTS_Category14
+4fc56110	TAUNTS_Category15
+4fc56110	TAUNTS_Category15
+4fc56124	DMSubtype_Normal
+4fc56124	DMSubtype_Normal
+4fc56138	DMSubtype_KOH
+4fc56138	DMSubtype_KOH
+4fc56148	DMSubtype_CTF
+4fc56148	DMSubtype_CTF
+4fc56158	DMSubtype_Loot
+4fc56158	DMSubtype_Loot
+4fc56168	DMSubtype_RESERVED1
+4fc56168	DMSubtype_RESERVED1
+4fc5617c	DMSubtype_Race1
+4fc5617c	DMSubtype_Race1
+4fc5618c	DMSubtype_Race2
+4fc5618c	DMSubtype_Race2
+4fc5619c	DMSubtype_Normal2
+4fc5619c	DMSubtype_Normal2
+4fc561b0	PRESNIPE_KILLPILOT
+4fc561b0	PRESNIPE_KILLPILOT
+4fc561c4	PRESNIPE_ONLYBULLETHIT
+4fc561c4	PRESNIPE_ONLYBULLETHIT
+4fc561dc	PREGETIN_DENY
+4fc561dc	PREGETIN_DENY
+4fc561ec	PREGETIN_ALLOW
+4fc561ec	PREGETIN_ALLOW
+4fc561fc	PREPICKUPPOWERUP_DENY
+4fc561fc	PREPICKUPPOWERUP_DENY
+4fc56214	PREPICKUPPOWERUP_ALLOW
+4fc56214	PREPICKUPPOWERUP_ALLOW
+4fc5622c	Randomize_None
+4fc5622c	Randomize_None
+4fc5623c	Randomize_ByRace
+4fc5623c	Randomize_ByRace
+4fc56250	Randomize_Any
+4fc56250	Randomize_Any
+4fc56260	TEAMRELATIONSHIP_INVALIDHANDLE
+4fc56260	TEAMRELATIONSHIP_INVALIDHANDLE
+4fc56280	TEAMRELATIONSHIP_SAMETEAM
+4fc56280	TEAMRELATIONSHIP_SAMETEAM
+4fc5629c	TEAMRELATIONSHIP_ALLIEDTEAM
+4fc5629c	TEAMRELATIONSHIP_ALLIEDTEAM
+4fc562b8	TEAMRELATIONSHIP_ENEMYTEAM
+4fc562b8	TEAMRELATIONSHIP_ENEMYTEAM
+4fc562d4	EJECTKILLRETCODES_DOEJECTPILOT
+4fc562d4	EJECTKILLRETCODES_DOEJECTPILOT
+4fc562f4	EJECTKILLRETCODES_DORESPAWNSAFEST
+4fc562f4	EJECTKILLRETCODES_DORESPAWNSAFEST
+4fc56318	EJECTKILLRETCODES_DLLHANDLED
+4fc56318	EJECTKILLRETCODES_DLLHANDLED
+4fc56338	EJECTKILLRETCODES_DOGAMEOVER
+4fc56338	EJECTKILLRETCODES_DOGAMEOVER
+4fc56358	BZCClasslabel
+4fc56358	BZCClasslabel
+4fc56368	GameObjectClass
+4fc56368	GameObjectClass
+4fc56378	recy
+4fc56378	recy
+4fc56380	..
+4fc56380	..
+4fc56384	:
+4fc56384	:
+4fc56388	ERROR: Invalid name format for File: '%s', ':' or '..' not allowed.
+4fc56388	ERROR: Invalid name format for File: '%s', ':' or '..' not allowed.
+4fc563f0	ERROR: Could not open File: '%s'
+4fc563f0	ERROR: Could not open File: '%s'
+4fc56414	\n
+4fc56414	\n
+4fc56418	%Y-%m-%d %H.%M.%S %p.log
+4fc56418	%Y-%m-%d %H.%M.%S %p.log
+4fc56434	%s_%s
+4fc56434	%s_%s
+4fc5643c	BZClassic_%s
+4fc5643c	BZClassic_%s
+4fc56460	%H:%M:%S
+4fc56460	%H:%M:%S
+4fc5646c	%s | %f \t| %s\n
+4fc5646c	%s | %f \t| %s\n
+4fc5647c	network.session.ivar115
+4fc5647c	network.session.ivar115
+4fc56494	network.session.civar5
+4fc56494	network.session.civar5
+4fc564ac	ERROR: Unable to open Log File! Reporting: '%s'
+4fc564ac	ERROR: Unable to open Log File! Reporting: '%s'
+4fc564dc	.txt
+4fc564dc	.txt
+4fc564e4	.inf
+4fc564e4	.inf
+4fc564ec	.des
+4fc564ec	.des
+4fc564f4	.brf
+4fc564f4	.brf
+4fc564fc	PatchData.txt
+4fc564fc	PatchData.txt
+4fc5650c	Version
+4fc5650c	Version
+4fc56514	VersionInfo
+4fc56514	VersionInfo
+4fc56520	ERROR: Weapon ODF '%s' doesn't exist! Fix DLL's GiveWeapon() call!
+4fc56520	ERROR: Weapon ODF '%s' doesn't exist! Fix DLL's GiveWeapon() call!
+4fc56564	weaponAssault%d
+4fc56564	weaponAssault%d
+4fc56574	isAssault
+4fc56574	isAssault
+4fc56580	WeaponClass
+4fc56580	WeaponClass
+4fc5658c	altName
+4fc5658c	altName
+4fc56594	PoweredByTaps
+4fc56594	PoweredByTaps
+4fc565a4	PoweredBuildingClass
+4fc565a4	PoweredBuildingClass
+4fc565bc	TurretCraftClass
+4fc565bc	TurretCraftClass
+4fc565d0	powerTap%d
+4fc565d0	powerTap%d
+4fc565dc	EngageRange
+4fc565dc	EngageRange
+4fc565e8	CraftClass
+4fc565e8	CraftClass
+4fc565f4	RangeScan
+4fc565f4	RangeScan
+4fc56600	weaponName%d
+4fc56600	weaponName%d
+4fc56610	aiRange
+4fc56610	aiRange
+4fc56618	ordName
+4fc56618	ordName
+4fc56620	shotSpeed
+4fc56620	shotSpeed
+4fc5662c	OrdnanceClass
+4fc5662c	OrdnanceClass
+4fc5663c	lifeSpan
+4fc5663c	lifeSpan
+4fc56648	11111
+4fc56648	11111
+4fc56650	weaponMask
+4fc56650	weaponMask
+4fc5665c	classlabel
+4fc5665c	classlabel
+4fc56668	objectClass
+4fc56668	objectClass
+4fc56674	DispenserClass
+4fc56674	DispenserClass
+4fc56684	TorpedoLauncherClass
+4fc56684	TorpedoLauncherClass
+4fc5669c	ammoCost
+4fc5669c	ammoCost
+4fc566a8	armorClass
+4fc566a8	armorClass
+4fc566b4	CLASS_SHIELDUP
+4fc566b4	CLASS_SHIELDUP
+4fc566c4	shieldClass
+4fc566c4	shieldClass
+4fc566d0	ShieldUpgradeClass
+4fc566d0	ShieldUpgradeClass
+4fc566e4	damageValue(A)
+4fc566e4	damageValue(A)
+4fc566f4	damageValue(D)
+4fc566f4	damageValue(D)
+4fc56704	damageValue(S)
+4fc56704	damageValue(S)
+4fc56714	damageValue(H)
+4fc56714	damageValue(H)
+4fc56724	damageValue(L)
+4fc56724	damageValue(L)
+4fc56734	damageValue(N)
+4fc56734	damageValue(N)
+4fc56744	xplBuilding
+4fc56744	xplBuilding
+4fc56750	xplVehicle
+4fc56750	xplVehicle
+4fc5675c	ExplosionClass
+4fc5675c	ExplosionClass
+4fc5676c	PositionOffset%d
+4fc5676c	PositionOffset%d
+4fc56780	RotationOffset%d
+4fc56780	RotationOffset%d
+4fc56794	%cevent.odf
+4fc56794	%cevent.odf
+4fc567a0	aevent.odf
+4fc567a0	aevent.odf
+4fc567ac	EVENT_SOUND_%d
+4fc567ac	EVENT_SOUND_%d
+4fc567bc	BettyVoice
+4fc567bc	BettyVoice
+4fc567c8	ERROR: Sound file: '%s' doesn't exist! Fix %s in ODF: '%s'
+4fc567c8	ERROR: Sound file: '%s' doesn't exist! Fix %s in ODF: '%s'
+4fc56804	CLASS_TURRET
+4fc56804	CLASS_TURRET
+4fc56814	CLASS_SCRAP
+4fc56814	CLASS_SCRAP
+4fc56820	CLASS_DEPOSIT
+4fc56820	CLASS_DEPOSIT
+4fc56830	CLASS_FACTORY
+4fc56830	CLASS_FACTORY
+4fc56840	muf
+4fc56840	muf
+4fc56844	CLASS_ARMORY
+4fc56844	CLASS_ARMORY
+4fc56854	slf
+4fc56854	slf
+4fc56858	CLASS_CONSTRUCTIONRIG
+4fc56858	CLASS_CONSTRUCTIONRIG
+4fc56870	CLASS_CONSTRUCTIONRIGT
+4fc56870	CLASS_CONSTRUCTIONRIGT
+4fc56888	CLASS_SERVICE
+4fc56888	CLASS_SERVICE
+4fc56898	CLASS_SERVICEH
+4fc56898	CLASS_SERVICEH
+4fc568a8	CLASS_WALKER
+4fc568a8	CLASS_WALKER
+4fc568b8	powerCost
+4fc568b8	powerCost
+4fc568c4	morphobject
+4fc568c4	morphobject
+4fc568d0	baseName
+4fc568d0	baseName
+4fc568dc	ERROR: '%s' cannot append '%s', Return and String2 is itself!
+4fc568dc	ERROR: '%s' cannot append '%s', Return and String2 is itself!
+4fc56920	ERROR: '%s' cannot append '%s', length too long. Make ODF Name shorter!
+4fc56920	ERROR: '%s' cannot append '%s', length too long. Make ODF Name shorter!
+4fc56968	%s%s
+4fc56968	%s%s
+4fc56970	WorldLetter
+4fc56970	WorldLetter
+4fc5697c	World
+4fc5697c	World
+4fc56984	%s%c
+4fc56984	%s%c
+4fc5698c	pilotCost
+4fc5698c	pilotCost
+4fc56998	scrapCost
+4fc56998	scrapCost
+4fc569a4	scrapValue
+4fc569a4	scrapValue
+4fc569b0	weaponHard%d
+4fc569b0	weaponHard%d
+4fc569c0	HP_
+4fc569c0	HP_
+4fc569c4	_config.odf
+4fc569c4	_config.odf
+4fc569d0	ArmoryClass
+4fc569d0	ArmoryClass
+4fc569dc	ArmoryGroup%d
+4fc569dc	ArmoryGroup%d
+4fc569ec	ConstructionRigClass
+4fc569ec	ConstructionRigClass
+4fc56a04	ConstructionRigTClass
+4fc56a04	ConstructionRigTClass
+4fc56a1c	FactoryClass
+4fc56a1c	FactoryClass
+4fc56a2c	BuildGroup%d
+4fc56a2c	BuildGroup%d
+4fc56a3c	buildItem%d
+4fc56a3c	buildItem%d
+4fc56a48	weaponName
+4fc56a48	weaponName
+4fc56a54	WeaponPowerupClass
+4fc56a54	WeaponPowerupClass
+4fc56a68	Replace Weapons: ODF: %s NewWeapons: '%s' '%s' '%s' '%s' '%s'
+4fc56a68	Replace Weapons: ODF: %s NewWeapons: '%s' '%s' '%s' '%s' '%s'
+4fc56aa8	weaponGroup%d
+4fc56aa8	weaponGroup%d
+4fc56ab8	wpnCategory
+4fc56ab8	wpnCategory
+4fc56ac8	Assault Matchs, Weapon:%d, CompareWeapon:%d, NumHardTypesS: %d, T < C Skipping S. WeaponClassT: '%d'
+4fc56ac8	Assault Matchs, Weapon:%d, CompareWeapon:%d, NumHardTypesS: %d, T < C Skipping S. WeaponClassT: '%d'
+4fc56b30	Using Groups, Groups Dont Match, S<C, or We are Ourselves, Weapon:%d, CompareWeapon:%d
+4fc56b30	Using Groups, Groups Dont Match, S<C, or We are Ourselves, Weapon:%d, CompareWeapon:%d
+4fc56b88	Assault NOT Matches,Weapon:%d, CompareWeapon:%d, NumHardTypesC: %d < NumHardTypesS: %d
+4fc56b88	Assault NOT Matches,Weapon:%d, CompareWeapon:%d, NumHardTypesC: %d < NumHardTypesS: %d
+4fc56be0	Assault Matchs, Weapon:%d, CompareWeapon:%d, NumHardTypesS: %d, NumHardTypesC: %d
+4fc56be0	Assault Matchs, Weapon:%d, CompareWeapon:%d, NumHardTypesS: %d, NumHardTypesC: %d
+4fc56c34	Weapon Class C: %d is: '%d', Weapon Class S: %d Is: '%d'
+4fc56c34	Weapon Class C: %d is: '%d', Weapon Class S: %d Is: '%d'
+4fc56c70	Build Weapons C: Weapon Class C: %d is: '%d', Weapon Class S: %d Is: '%d'
+4fc56c70	Build Weapons C: Weapon Class C: %d is: '%d', Weapon Class S: %d Is: '%d'
+4fc56cc0	Index: %d Original Weapon: '%s', New Weapon: '%s', Number of Hardpoints: %d
+4fc56cc0	Index: %d Original Weapon: '%s', New Weapon: '%s', Number of Hardpoints: %d
+4fc56d0c	Giving Weapon: '%s', index: %d
+4fc56d0c	Giving Weapon: '%s', index: %d
+4fc56d2c	Count
+4fc56d2c	Count
+4fc56d34	Size
+4fc56d34	Size
+4fc56d3c	Height
+4fc56d3c	Height
+4fc56d44	Type
+4fc56d44	Type
+4fc56d4c	TileSize
+4fc56d4c	TileSize
+4fc56d58	Depth
+4fc56d58	Depth
+4fc56d60	Team
+4fc56d60	Team
+4fc56d68	PerceivedTeam
+4fc56d68	PerceivedTeam
+4fc56d78	Position
+4fc56d78	Position
+4fc56d84	list<T> too long
+4fc56d84	list<T> too long
+4fc56d98	MAPINFO MISMATCH: Height: %f and %f
+4fc56d98	MAPINFO MISMATCH: Height: %f and %f
+4fc56dbc	MAPINFO MISMATCH: MapWidth: %f and %f
+4fc56dbc	MAPINFO MISMATCH: MapWidth: %f and %f
+4fc56de4	MAPINFO MISMATCH: MapDepth: %f and %f
+4fc56de4	MAPINFO MISMATCH: MapDepth: %f and %f
+4fc56e0c	MAPINFO MISMATCH: MPG: %f and %f
+4fc56e0c	MAPINFO MISMATCH: MPG: %f and %f
+4fc56e30	MAPINFO MISMATCH: HeightGranularity: %f and %f
+4fc56e30	MAPINFO MISMATCH: HeightGranularity: %f and %f
+4fc56e60	MAPINFO MISMATCH: MinX: %f and %f
+4fc56e60	MAPINFO MISMATCH: MinX: %f and %f
+4fc56e84	MAPINFO MISMATCH: MinZ: %f and %f
+4fc56e84	MAPINFO MISMATCH: MinZ: %f and %f
+4fc56ea8	MAPINFO MISMATCH: MaxWidth: %f and %f
+4fc56ea8	MAPINFO MISMATCH: MaxWidth: %f and %f
+4fc56ed0	MAPINFO MISMATCH: MaxDepth: %f and %f
+4fc56ed0	MAPINFO MISMATCH: MaxDepth: %f and %f
+4fc56ef8	MAPINFO MISMATCH: MinWidth: %f and %f
+4fc56ef8	MAPINFO MISMATCH: MinWidth: %f and %f
+4fc56f20	MAPINFO MISMATCH: MinDepth: %f and %f
+4fc56f20	MAPINFO MISMATCH: MinDepth: %f and %f
+4fc56f48	MAPINFO MISMATCH: Gravity: %f and %f
+4fc56f48	MAPINFO MISMATCH: Gravity: %f and %f
+4fc56f70	MAPINFO MISMATCH: GravityState: %d and %d
+4fc56f70	MAPINFO MISMATCH: GravityState: %d and %d
+4fc56f9c	MAPINFO MISMATCH: MinScrapHeight: %f and %f
+4fc56f9c	MAPINFO MISMATCH: MinScrapHeight: %f and %f
+4fc56fc8	MAPINFO MISMATCH: MaxScrapHeight: %f and %f
+4fc56fc8	MAPINFO MISMATCH: MaxScrapHeight: %f and %f
+4fc56ff4	MAPINFO MISMATCH: RestrictAllScrap: %d and %d
+4fc56ff4	MAPINFO MISMATCH: RestrictAllScrap: %d and %d
+4fc57024	MAPINFO MISMATCH: RespawnAtLowAltitude: %d and %d
+4fc57024	MAPINFO MISMATCH: RespawnAtLowAltitude: %d and %d
+4fc57058	MAPINFO MISMATCH: SpawnMinRadius: %f and %f
+4fc57058	MAPINFO MISMATCH: SpawnMinRadius: %f and %f
+4fc57084	MAPINFO MISMATCH: SpawnMaxRadius: %f and %f
+4fc57084	MAPINFO MISMATCH: SpawnMaxRadius: %f and %f
+4fc570b0	TEAMINFO MISMATCH: RealPlayer: %08x '%s' and %08x '%s'
+4fc570b0	TEAMINFO MISMATCH: RealPlayer: %08x '%s' and %08x '%s'
+4fc570e8	TEAMINFO MISMATCH: Player: %08x '%s' and %08x '%s'
+4fc570e8	TEAMINFO MISMATCH: Player: %08x '%s' and %08x '%s'
+4fc5711c	TEAMINFO MISMATCH: SatellitePlayer: %08x '%s' and %08x '%s'
+4fc5711c	TEAMINFO MISMATCH: SatellitePlayer: %08x '%s' and %08x '%s'
+4fc57158	TEAMINFO MISMATCH: Recycler: %08x '%s' and %08x '%s'
+4fc57158	TEAMINFO MISMATCH: Recycler: %08x '%s' and %08x '%s'
+4fc57190	TEAMINFO MISMATCH: Factory: %08x '%s' and %08x '%s'
+4fc57190	TEAMINFO MISMATCH: Factory: %08x '%s' and %08x '%s'
+4fc571c4	TEAMINFO MISMATCH: Armory: %08x '%s' and %08x '%s'
+4fc571c4	TEAMINFO MISMATCH: Armory: %08x '%s' and %08x '%s'
+4fc571f8	TEAMINFO MISMATCH: Constructor: %08x '%s' and %08x '%s'
+4fc571f8	TEAMINFO MISMATCH: Constructor: %08x '%s' and %08x '%s'
+4fc57230	TEAMINFO MISMATCH: BaseSlot: %d, %08x '%s' and %08x '%s'
+4fc57230	TEAMINFO MISMATCH: BaseSlot: %d, %08x '%s' and %08x '%s'
+4fc5726c	TEAMINFO MISMATCH: BaseSlotScrap: %d, %08x '%s' and %08x '%s'
+4fc5726c	TEAMINFO MISMATCH: BaseSlotScrap: %d, %08x '%s' and %08x '%s'
+4fc572ac	TEAMINFO MISMATCH: CommTower: %08x '%s' and %08x '%s'
+4fc572ac	TEAMINFO MISMATCH: CommTower: %08x '%s' and %08x '%s'
+4fc572e4	TEAMINFO MISMATCH: SatelliteOn: %08x '%s' and %08x '%s'
+4fc572e4	TEAMINFO MISMATCH: SatelliteOn: %08x '%s' and %08x '%s'
+4fc5731c	TEAMINFO MISMATCH: SatelliteOff: %08x '%s' and %08x '%s'
+4fc5731c	TEAMINFO MISMATCH: SatelliteOff: %08x '%s' and %08x '%s'
+4fc57358	TEAMINFO MISMATCH: SatelliteLock: %08x '%s' and %08x '%s'
+4fc57358	TEAMINFO MISMATCH: SatelliteLock: %08x '%s' and %08x '%s'
+4fc57398	TEAMINFO MISMATCH: SatelliteLastShooter: %08x '%s' and %08x '%s'
+4fc57398	TEAMINFO MISMATCH: SatelliteLastShooter: %08x '%s' and %08x '%s'
+4fc573dc	TEAMINFO MISMATCH: ImaPilot: %08x '%s' and %08x '%s'
+4fc573dc	TEAMINFO MISMATCH: ImaPilot: %08x '%s' and %08x '%s'
+4fc57414	TEAMINFO MISMATCH: Transport: %08x '%s' and %08x '%s'
+4fc57414	TEAMINFO MISMATCH: Transport: %08x '%s' and %08x '%s'
+4fc5744c	TEAMINFO MISMATCH: LimiterObject: %d, %08x '%s' and %08x '%s'
+4fc5744c	TEAMINFO MISMATCH: LimiterObject: %d, %08x '%s' and %08x '%s'
+4fc5748c	TEAMINFO MISMATCH: LimitPlayer: %08x '%s' and %08x '%s'
+4fc5748c	TEAMINFO MISMATCH: LimitPlayer: %08x '%s' and %08x '%s'
+4fc574c4	TEAMINFO MISMATCH: MaxPilots: %d and %d
+4fc574c4	TEAMINFO MISMATCH: MaxPilots: %d and %d
+4fc574ec	TEAMINFO MISMATCH: CurrPilots: %d and %d
+4fc574ec	TEAMINFO MISMATCH: CurrPilots: %d and %d
+4fc57518	TEAMINFO MISMATCH: m_CPUAIDifficulty: %d and %d
+4fc57518	TEAMINFO MISMATCH: m_CPUAIDifficulty: %d and %d
+4fc57548	TEAMINFO MISMATCH: m_CPUPilotCheatAmount: %d and %d
+4fc57548	TEAMINFO MISMATCH: m_CPUPilotCheatAmount: %d and %d
+4fc5757c	TEAMINFO MISMATCH: m_CPUMaxPatrolUnits: %d and %d
+4fc5757c	TEAMINFO MISMATCH: m_CPUMaxPatrolUnits: %d and %d
+4fc575b0	TEAMINFO MISMATCH: m_CPUMaxHuntUnits: %d and %d
+4fc575b0	TEAMINFO MISMATCH: m_CPUMaxHuntUnits: %d and %d
+4fc575e0	TEAMINFO MISMATCH: m_CPUMaxEscortUnits: %d and %d
+4fc575e0	TEAMINFO MISMATCH: m_CPUMaxEscortUnits: %d and %d
+4fc57614	TEAMINFO MISMATCH: m_CPUNumPatrolUnits: %d and %d
+4fc57614	TEAMINFO MISMATCH: m_CPUNumPatrolUnits: %d and %d
+4fc57648	TEAMINFO MISMATCH: m_CPUNumHuntUnits: %d and %d
+4fc57648	TEAMINFO MISMATCH: m_CPUNumHuntUnits: %d and %d
+4fc57678	TEAMINFO MISMATCH: m_CPUNumEscortUnits: %d and %d
+4fc57678	TEAMINFO MISMATCH: m_CPUNumEscortUnits: %d and %d
+4fc576ac	TEAMINFO MISMATCH: ReinforcementCount: %d and %d
+4fc576ac	TEAMINFO MISMATCH: ReinforcementCount: %d and %d
+4fc576e0	TEAMINFO MISMATCH: NumBarracks: %d and %d
+4fc576e0	TEAMINFO MISMATCH: NumBarracks: %d and %d
+4fc5770c	TEAMINFO MISMATCH: NumTeamObjects: %d and %d
+4fc5770c	TEAMINFO MISMATCH: NumTeamObjects: %d and %d
+4fc5773c	TEAMINFO MISMATCH: SatelliteViewActive: %d and %d
+4fc5773c	TEAMINFO MISMATCH: SatelliteViewActive: %d and %d
+4fc57770	TEAMINFO MISMATCH: SatelliteOutOfAmmo: %d and %d
+4fc57770	TEAMINFO MISMATCH: SatelliteOutOfAmmo: %d and %d
+4fc577a4	TEAMINFO MISMATCH: SatelliteSiteCamAmmo: %d and %d
+4fc577a4	TEAMINFO MISMATCH: SatelliteSiteCamAmmo: %d and %d
+4fc577d8	TEAMINFO MISMATCH: SatellitePrevIndependence: %d and %d
+4fc577d8	TEAMINFO MISMATCH: SatellitePrevIndependence: %d and %d
+4fc57810	TEAMINFO MISMATCH: PlayerLives: %d and %d
+4fc57810	TEAMINFO MISMATCH: PlayerLives: %d and %d
+4fc5783c	TEAMINFO MISMATCH: RespawnTime: %d and %d
+4fc5783c	TEAMINFO MISMATCH: RespawnTime: %d and %d
+4fc57868	TEAMINFO MISMATCH: DropoffRecylcers: %d and %d
+4fc57868	TEAMINFO MISMATCH: DropoffRecylcers: %d and %d
+4fc57898	TEAMINFO MISMATCH: DropoffExtractors: %d and %d
+4fc57898	TEAMINFO MISMATCH: DropoffExtractors: %d and %d
+4fc578c8	TEAMINFO MISMATCH: DropoffSilos: %d and %d
+4fc578c8	TEAMINFO MISMATCH: DropoffSilos: %d and %d
+4fc578f4	TEAMINFO MISMATCH: PlayedScrapDropVO: %d and %d
+4fc578f4	TEAMINFO MISMATCH: PlayedScrapDropVO: %d and %d
+4fc57924	TEAMINFO MISMATCH: TeamIsDead: %d and %d
+4fc57924	TEAMINFO MISMATCH: TeamIsDead: %d and %d
+4fc57950	TEAMINFO MISMATCH: RespawnPlayer: %d and %d
+4fc57950	TEAMINFO MISMATCH: RespawnPlayer: %d and %d
+4fc5797c	TEAMINFO MISMATCH: m_UsePilots: %d and %d
+4fc5797c	TEAMINFO MISMATCH: m_UsePilots: %d and %d
+4fc579a8	TEAMINFO MISMATCH: m_HadPilots: %d and %d
+4fc579a8	TEAMINFO MISMATCH: m_HadPilots: %d and %d
+4fc579d4	TEAMINFO MISMATCH: m_UseLimits: %d and %d
+4fc579d4	TEAMINFO MISMATCH: m_UseLimits: %d and %d
+4fc57a00	TEAMINFO MISMATCH: NoPlayerPilot: %d and %d
+4fc57a00	TEAMINFO MISMATCH: NoPlayerPilot: %d and %d
+4fc57a2c	TEAMINFO MISMATCH: TookControlThisTurn: %d and %d
+4fc57a2c	TEAMINFO MISMATCH: TookControlThisTurn: %d and %d
+4fc57a60	TEAMINFO MISMATCH: BaseSlotUseScrapHold:, %d, %d and %d
+4fc57a60	TEAMINFO MISMATCH: BaseSlotUseScrapHold:, %d, %d and %d
+4fc57a98	TEAMINFO MISMATCH: m_CPUUnitsCanService: %d and %d
+4fc57a98	TEAMINFO MISMATCH: m_CPUUnitsCanService: %d and %d
+4fc57acc	TEAMINFO MISMATCH: m_CPUDoDispatch: %d and %d
+4fc57acc	TEAMINFO MISMATCH: m_CPUDoDispatch: %d and %d
+4fc57afc	TEAMINFO MISMATCH: CommTowerAround: %d and %d
+4fc57afc	TEAMINFO MISMATCH: CommTowerAround: %d and %d
+4fc57b2c	TEAMINFO MISMATCH: PlayerWasPilot: %d and %d
+4fc57b2c	TEAMINFO MISMATCH: PlayerWasPilot: %d and %d
+4fc57b5c	TEAMINFO MISMATCH: GiveBackWeapons: %d and %d
+4fc57b5c	TEAMINFO MISMATCH: GiveBackWeapons: %d and %d
+4fc57b8c	TEAMINFO MISMATCH: PlayCommTowerSound: %d and %d
+4fc57b8c	TEAMINFO MISMATCH: PlayCommTowerSound: %d and %d
+4fc57bc0	TEAMINFO MISMATCH: UseSiteCamera: %d and %d
+4fc57bc0	TEAMINFO MISMATCH: UseSiteCamera: %d and %d
+4fc57bec	TEAMINFO MISMATCH: SatelliteObjectify: %d and %d
+4fc57bec	TEAMINFO MISMATCH: SatelliteObjectify: %d and %d
+4fc57c20	TEAMINFO MISMATCH: m_CPUDayWreckerChance: %f and %f
+4fc57c20	TEAMINFO MISMATCH: m_CPUDayWreckerChance: %f and %f
+4fc57c54	TEAMINFO MISMATCH: m_CPUDayWreckerInterval: %f and %f
+4fc57c54	TEAMINFO MISMATCH: m_CPUDayWreckerInterval: %f and %f
+4fc57c8c	TEAMINFO MISMATCH: m_CPUPilotCheatDelay: %d and %d
+4fc57c8c	TEAMINFO MISMATCH: m_CPUPilotCheatDelay: %d and %d
+4fc57cc0	TEAMINFO MISMATCH: m_CPUBuildingRepairChance: %d and %d
+4fc57cc0	TEAMINFO MISMATCH: m_CPUBuildingRepairChance: %d and %d
+4fc57cf8	TEAMINFO MISMATCH: m_CPUBuildingRepairInterval: %d and %d
+4fc57cf8	TEAMINFO MISMATCH: m_CPUBuildingRepairInterval: %d and %d
+4fc57d34	TEAMINFO MISMATCH: m_CPUBuildingRepairHealthRatio: %d and %d
+4fc57d34	TEAMINFO MISMATCH: m_CPUBuildingRepairHealthRatio: %d and %d
+4fc57d74	TEAMINFO MISMATCH: m_CPUBuildPodMinDelay: %d and %d
+4fc57d74	TEAMINFO MISMATCH: m_CPUBuildPodMinDelay: %d and %d
+4fc57da8	TEAMINFO MISMATCH: m_CPUBuildPodMaxDelay: %d and %d
+4fc57da8	TEAMINFO MISMATCH: m_CPUBuildPodMaxDelay: %d and %d
+4fc57ddc	TEAMINFO MISMATCH: PlayerSpawnPos: %f %f %f and %f %f %f
+4fc57ddc	TEAMINFO MISMATCH: PlayerSpawnPos: %f %f %f and %f %f %f
+4fc57e18	TEAMINFO MISMATCH: ReinforcementPos: %f %f %f and %f %f %f
+4fc57e18	TEAMINFO MISMATCH: ReinforcementPos: %f %f %f and %f %f %f
+4fc57e54	TEAMINFO MISMATCH: GoalPos: %f %f %f and %f %f %f
+4fc57e54	TEAMINFO MISMATCH: GoalPos: %f %f %f and %f %f %f
+4fc57e88	TEAMINFO MISMATCH: MaxPilots: %c and %c
+4fc57e88	TEAMINFO MISMATCH: MaxPilots: %c and %c
+4fc57eb0	TEAMINFO MISMATCH: ArmoryBuildClass: '%s' and '%s'
+4fc57eb0	TEAMINFO MISMATCH: ArmoryBuildClass: '%s' and '%s'
+4fc57ee4	TEAMINFO MISMATCH: PlayerName: '%s' and '%s'
+4fc57ee4	TEAMINFO MISMATCH: PlayerName: '%s' and '%s'
+4fc57f14	TEAMINFO MISMATCH: TeamAIPFile: '%s' and '%s'
+4fc57f14	TEAMINFO MISMATCH: TeamAIPFile: '%s' and '%s'
+4fc57f44	TEAMINFO MISMATCH: PilotWeapon: %d, '%s' and '%s'
+4fc57f44	TEAMINFO MISMATCH: PilotWeapon: %d, '%s' and '%s'
+4fc57f78	TEAMINFO MISMATCH: PlayerPilotODF: '%s' and '%s'
+4fc57f78	TEAMINFO MISMATCH: PlayerPilotODF: '%s' and '%s'
+4fc57fac	TEAMINFO MISMATCH: SatelliteODF: '%s' and '%s'
+4fc57fac	TEAMINFO MISMATCH: SatelliteODF: '%s' and '%s'
+4fc57fdc	TEAMINFO MISMATCH: BaseSlotName%d: '%s' and '%s'
+4fc57fdc	TEAMINFO MISMATCH: BaseSlotName%d: '%s' and '%s'
+4fc58010	TEAMINFO MISMATCH: BaseSlotPilotCost%d_%d: %d and %d
+4fc58010	TEAMINFO MISMATCH: BaseSlotPilotCost%d_%d: %d and %d
+4fc58048	TEAMINFO MISMATCH: BaseSlotScrapCost%d_%d: %d and %d
+4fc58048	TEAMINFO MISMATCH: BaseSlotScrapCost%d_%d: %d and %d
+4fc58080	TEAMINFO MISMATCH: ShowPilotCosts%d: %d and %d
+4fc58080	TEAMINFO MISMATCH: ShowPilotCosts%d: %d and %d
+4fc580b0	TEAMINFO MISMATCH: BaseSlotBuildCount: %d and %d
+4fc580b0	TEAMINFO MISMATCH: BaseSlotBuildCount: %d and %d
+4fc580e4	TEAMINFO MISMATCH: BaseSlotPlayingAnim: %d and %d
+4fc580e4	TEAMINFO MISMATCH: BaseSlotPlayingAnim: %d and %d
+4fc58118	TEAMINFO MISMATCH: BaseSlotAnimationFrames: %f and %f
+4fc58118	TEAMINFO MISMATCH: BaseSlotAnimationFrames: %f and %f
+4fc58150	ALIGNTERRAINREPLACE MISMATCH: AlignHandle: %08x '%s' and %08x '%s'
+4fc58150	ALIGNTERRAINREPLACE MISMATCH: AlignHandle: %08x '%s' and %08x '%s'
+4fc58194	ALIGNTERRAINREPLACE MISMATCH: NormalVec: %f %f %f and %f %f %f
+4fc58194	ALIGNTERRAINREPLACE MISMATCH: NormalVec: %f %f %f and %f %f %f
+4fc581d8	DELETEAFTERDELAYLIST MISMATCH: DeleteAfterDelayHandle: %08x '%s' and %08x '%s'
+4fc581d8	DELETEAFTERDELAYLIST MISMATCH: DeleteAfterDelayHandle: %08x '%s' and %08x '%s'
+4fc58228	DELETEAFTERDELAY MISMATCH: TurnsRemaining: %d and %d
+4fc58228	DELETEAFTERDELAY MISMATCH: TurnsRemaining: %d and %d
+4fc58260	DEPLOYSOUNDCLASS MISMATCH: ObjectHandle: %08x '%s' and %08x '%s'
+4fc58260	DEPLOYSOUNDCLASS MISMATCH: ObjectHandle: %08x '%s' and %08x '%s'
+4fc582a4	DEPLOYSOUNDCLASS MISMATCH: DoesLoop: %d and %d
+4fc582a4	DEPLOYSOUNDCLASS MISMATCH: DoesLoop: %d and %d
+4fc582d4	DEPLOYSOUNDCLASS MISMATCH: AudioHandle: %d and %d
+4fc582d4	DEPLOYSOUNDCLASS MISMATCH: AudioHandle: %d and %d
+4fc58308	DEPLOYSOUNDCLASS MISMATCH: StartDelay: %d and %d
+4fc58308	DEPLOYSOUNDCLASS MISMATCH: StartDelay: %d and %d
+4fc5833c	DEPLOYSOUNDCLASS MISMATCH: RepeatDelay: %d and %d
+4fc5833c	DEPLOYSOUNDCLASS MISMATCH: RepeatDelay: %d and %d
+4fc58370	DEPLOYSOUNDCLASS MISMATCH: AudioFileTurns: %d and %d
+4fc58370	DEPLOYSOUNDCLASS MISMATCH: AudioFileTurns: %d and %d
+4fc583a8	DEPLOYSOUNDCLASS MISMATCH: DeploySound: '%s' and '%s'
+4fc583a8	DEPLOYSOUNDCLASS MISMATCH: DeploySound: '%s' and '%s'
+4fc583e0	BUILDATCLASS MISMATCH: BuilderHandle: %08x '%s' and %08x '%s'
+4fc583e0	BUILDATCLASS MISMATCH: BuilderHandle: %08x '%s' and %08x '%s'
+4fc58420	BUILDATCLASS MISMATCH: DropoffPos: %f %f %f and %f %f %f
+4fc58420	BUILDATCLASS MISMATCH: DropoffPos: %f %f %f and %f %f %f
+4fc5845c	BUILDATCLASS MISMATCH: BuildTurn: %d and %d
+4fc5845c	BUILDATCLASS MISMATCH: BuildTurn: %d and %d
+4fc58488	BUILDATCLASS MISMATCH: Priority: %d and %d
+4fc58488	BUILDATCLASS MISMATCH: Priority: %d and %d
+4fc584b4	BUILDATCLASS MISMATCH: BuilderType: %d and %d
+4fc584b4	BUILDATCLASS MISMATCH: BuilderType: %d and %d
+4fc584e4	network.session.ivar53
+4fc584e4	network.session.ivar53
+4fc584fc	network.session.ivar12
+4fc584fc	network.session.ivar12
+4fc58514	options.instant.awarev13
+4fc58514	options.instant.awarev13
+4fc58530	MPISwitchTeams%d
+4fc58530	MPISwitchTeams%d
+4fc58544	VSR
+4fc58544	VSR
+4fc58548	VSR BZCC DLL Created by General BlackDragon
+4fc58548	VSR BZCC DLL Created by General BlackDragon
+4fc58574	vsrbasesetup.cfg
+4fc58574	vsrbasesetup.cfg
+4fc58588	Game Ended.\n
+4fc58588	Game Ended.\n
+4fc58598	MapInfo Load Mismatch
+4fc58598	MapInfo Load Mismatch
+4fc585b0	AlignTerrainReplaceList Size Mismatch! Old: %d New: %d
+4fc585b0	AlignTerrainReplaceList Size Mismatch! Old: %d New: %d
+4fc585e8	AlignTerrainReplaceList Index Mismatch: %d
+4fc585e8	AlignTerrainReplaceList Index Mismatch: %d
+4fc58614	DeleteAfterDelayList Size Mismatch! Old: %d New: %d
+4fc58614	DeleteAfterDelayList Size Mismatch! Old: %d New: %d
+4fc58648	DeleteAfterDelayList Index Mismatch: %d
+4fc58648	DeleteAfterDelayList Index Mismatch: %d
+4fc58670	DeploySoundList Size Mismatch! Old: %d New: %d
+4fc58670	DeploySoundList Size Mismatch! Old: %d New: %d
+4fc586a0	DeploySoundList Index Mismatch: %d
+4fc586a0	DeploySoundList Index Mismatch: %d
+4fc586c4	BuildAtList Size Mismatch! Old: %d New: %d
+4fc586c4	BuildAtList Size Mismatch! Old: %d New: %d
+4fc586f0	BuildAtList Index Mismatch: %d
+4fc586f0	BuildAtList Index Mismatch: %d
+4fc58710	TeamInfo Load Mismatch Team: %d
+4fc58710	TeamInfo Load Mismatch Team: %d
+4fc58730	FIXME: AddObject Skipping Duplicate: %08x, ODF: '%s', Team is: %d, Index is: %d
+4fc58730	FIXME: AddObject Skipping Duplicate: %08x, ODF: '%s', Team is: %d, Index is: %d
+4fc58780	unitName2
+4fc58780	unitName2
+4fc5878c	HeightOffset
+4fc5878c	HeightOffset
+4fc5879c	AlignToTerrain
+4fc5879c	AlignToTerrain
+4fc587ac	canDetect
+4fc587ac	canDetect
+4fc587b8	scanTeamLimit
+4fc587b8	scanTeamLimit
+4fc587c8	CanHQCPObjectify
+4fc587c8	CanHQCPObjectify
+4fc587dc	CanHQCPObjectifyDeployed
+4fc587dc	CanHQCPObjectifyDeployed
+4fc587f8	CanTeleport
+4fc587f8	CanTeleport
+4fc58804	CanBeIdleVictim
+4fc58804	CanBeIdleVictim
+4fc58814	AutoSetGroup
+4fc58814	AutoSetGroup
+4fc58824	HiddenWhenMorphed
+4fc58824	HiddenWhenMorphed
+4fc58838	MorphTankClass
+4fc58838	MorphTankClass
+4fc58848	CanAICloak
+4fc58848	CanAICloak
+4fc58854	MaxCloakEnergy
+4fc58854	MaxCloakEnergy
+4fc58864	CloakEnergyCost
+4fc58864	CloakEnergyCost
+4fc58874	AddCloakEnergy
+4fc58874	AddCloakEnergy
+4fc58884	ShowSkill
+4fc58884	ShowSkill
+4fc58890	ShowSkillTeamFilter
+4fc58890	ShowSkillTeamFilter
+4fc588a4	CanRemoteControl
+4fc588a4	CanRemoteControl
+4fc588b8	HuntIsResupply
+4fc588b8	HuntIsResupply
+4fc588c8	AIEscortPriority
+4fc588c8	AIEscortPriority
+4fc588dc	escort
+4fc588dc	escort
+4fc588e4	patrol
+4fc588e4	patrol
+4fc588ec	hunter
+4fc588ec	hunter
+4fc588f4	DeploySound
+4fc588f4	DeploySound
+4fc58900	BuildingClass
+4fc58900	BuildingClass
+4fc58910	DeploySoundStartDelay
+4fc58910	DeploySoundStartDelay
+4fc58928	DeploySoundLoop
+4fc58928	DeploySoundLoop
+4fc58938	DeploySoundRepeatDelay
+4fc58938	DeploySoundRepeatDelay
+4fc58950	DeleteOnLoad
+4fc58950	DeleteOnLoad
+4fc58960	BZCundep
+4fc58960	BZCundep
+4fc5896c	ScrapDropPoint
+4fc5896c	ScrapDropPoint
+4fc5897c	SiloClass
+4fc5897c	SiloClass
+4fc58988	ExtractorClass
+4fc58988	ExtractorClass
+4fc58998	RecyclerClass
+4fc58998	RecyclerClass
+4fc589a8	UseBZ2Pools
+4fc589a8	UseBZ2Pools
+4fc589b4	deployClass
+4fc589b4	deployClass
+4fc589c0	ScavengerClass
+4fc589c0	ScavengerClass
+4fc589d0	ScavengerHClass
+4fc589d0	ScavengerHClass
+4fc589e0	deployName
+4fc589e0	deployName
+4fc589ec	DeployBuildingClass
+4fc589ec	DeployBuildingClass
+4fc58a00	MetersPerGrid
+4fc58a00	MetersPerGrid
+4fc58a10	HeightGranularity
+4fc58a10	HeightGranularity
+4fc58a24	Width
+4fc58a24	Width
+4fc58a2c	MinX
+4fc58a2c	MinX
+4fc58a34	MinZ
+4fc58a34	MinZ
+4fc58a3c	Gravity
+4fc58a3c	Gravity
+4fc58a48	ERROR! '%s' missing [Size] section! Out of bounds area not calibrated! FIXME!
+4fc58a48	ERROR! '%s' missing [Size] section! Out of bounds area not calibrated! FIXME!
+4fc58a98	ReinforcementMinRadius
+4fc58a98	ReinforcementMinRadius
+4fc58ab0	ReinforcementMaxRadius
+4fc58ab0	ReinforcementMaxRadius
+4fc58ac8	ReinforcementCliffTolerance
+4fc58ac8	ReinforcementCliffTolerance
+4fc58ae4	MinScrapHeight
+4fc58ae4	MinScrapHeight
+4fc58af4	MaxScrapHeight
+4fc58af4	MaxScrapHeight
+4fc58b04	RestrictAllScrap
+4fc58b04	RestrictAllScrap
+4fc58b18	SpawnMinRadius
+4fc58b18	SpawnMinRadius
+4fc58b28	SpawnMaxRadius
+4fc58b28	SpawnMaxRadius
+4fc58b38	network.session.ivar60
+4fc58b38	network.session.ivar60
+4fc58b50	network.session.ivar81
+4fc58b50	network.session.ivar81
+4fc58b68	network.session.ivar5
+4fc58b68	network.session.ivar5
+4fc58b80	network.session.ivar26
+4fc58b80	network.session.ivar26
+4fc58b98	network.session.ivar89
+4fc58b98	network.session.ivar89
+4fc58bb0	network.session.ivar90
+4fc58bb0	network.session.ivar90
+4fc58bc8	network.session.ivar91
+4fc58bc8	network.session.ivar91
+4fc58be0	options.instant.bool2
+4fc58be0	options.instant.bool2
+4fc58bf8	options.instant.bool4
+4fc58bf8	options.instant.bool4
+4fc58c10	network.session.svar0
+4fc58c10	network.session.svar0
+4fc58c28	Game Started on map: '%s' by %s. Version: %d\n
+4fc58c28	Game Started on map: '%s' by %s. Version: %d\n
+4fc58c58	MPIVSRCheck.odf
+4fc58c58	MPIVSRCheck.odf
+4fc58c68	STvsrcheck.odf
+4fc58c68	STvsrcheck.odf
+4fc58c78	aip_VSR.autoreg
+4fc58c78	aip_VSR.autoreg
+4fc58c88	vsra.txt
+4fc58c88	vsra.txt
+4fc58c94	evlegs_vsr.odf
+4fc58c94	evlegs_vsr.odf
+4fc58ca4	BZCundep1.odf
+4fc58ca4	BZCundep1.odf
+4fc58cb4	BZCundep2.odf
+4fc58cb4	BZCundep2.odf
+4fc58cc4	ivcamr_vsr.odf
+4fc58cc4	ivcamr_vsr.odf
+4fc58cd4	hbport_vsr.odf
+4fc58cd4	hbport_vsr.odf
+4fc58ce4	evmine_vsr.odf
+4fc58ce4	evmine_vsr.odf
+4fc58cf4	BZCNullCube.msh
+4fc58cf4	BZCNullCube.msh
+4fc58d04	apserv_vsr.odf
+4fc58d04	apserv_vsr.odf
+4fc58d14	ivrbomb_vsr.inf
+4fc58d14	ivrbomb_vsr.inf
+4fc58d24	vsr_bh_e_new_e6_0.aip
+4fc58d24	vsr_bh_e_new_e6_0.aip
+4fc58d3c	apvsrbldg.odf
+4fc58d3c	apvsrbldg.odf
+4fc58d4c	iweapon_12svsr.odf
+4fc58d4c	iweapon_12svsr.odf
+4fc58d60	fweapon_12xvsr.odf
+4fc58d60	fweapon_12xvsr.odf
+4fc58d74	aplmg.inf
+4fc58d74	aplmg.inf
+4fc58d80	racename_e.txt
+4fc58d80	racename_e.txt
+4fc58d90	evscout00_s.dds
+4fc58d90	evscout00_s.dds
+4fc58da0	evscav00_s.dds
+4fc58da0	evscav00_s.dds
+4fc58db0	evcons00_s.dds
+4fc58db0	evcons00_s.dds
+4fc58dc0	ivscout12smartvsr.odf
+4fc58dc0	ivscout12smartvsr.odf
+4fc58dd8	-- Aborting!
+4fc58dd8	-- Aborting!
+4fc58de8	instantl.txt
+4fc58de8	instantl.txt
+4fc58df8	%dMLay%d
+4fc58df8	%dMLay%d
+4fc58e04	%dPatrol%d
+4fc58e04	%dPatrol%d
+4fc58e10	Switching Player TeamInfo from Team: %d to Team: %d
+4fc58e10	Switching Player TeamInfo from Team: %d to Team: %d
+4fc58e44	TeamFilter
+4fc58e44	TeamFilter
+4fc58e50	SniperShellClass
+4fc58e50	SniperShellClass
+4fc58e64	bouncebomb
+4fc58e64	bouncebomb
+4fc58e70	allowMDMCollisionDetonation
+4fc58e70	allowMDMCollisionDetonation
+4fc58e8c	ExplodeOnHit
+4fc58e8c	ExplodeOnHit
+4fc58e9c	SprayBombClass
+4fc58e9c	SprayBombClass
+4fc58eac	HitExplodeTypes
+4fc58eac	HitExplodeTypes
+4fc58ebc	script.dll.escape.active
+4fc58ebc	script.dll.escape.active
+4fc58ed8	script.dll.repeataudio
+4fc58ed8	script.dll.repeataudio
+4fc58ef0	mission.escape
+4fc58ef0	mission.escape
+4fc58f00	script.dll.pilotcost%d
+4fc58f00	script.dll.pilotcost%d
+4fc58f18	script.dll.base%dhull
+4fc58f18	script.dll.base%dhull
+4fc58f30	script.dll.basename%d
+4fc58f30	script.dll.basename%d
+4fc58f48	P
+4fc58f48	P
+4fc58f4c	%d
+4fc58f4c	%d
+4fc58f50	CommandPanel.Command%d.Item.Cost.PilotCostDisabled
+4fc58f50	CommandPanel.Command%d.Item.Cost.PilotCostDisabled
+4fc58f84	CommandPanel.Command0.Item.Cost.PilotCostDisabled
+4fc58f84	CommandPanel.Command0.Item.Cost.PilotCostDisabled
+4fc58fb8	CommandPanel.Command%d.Item.Cost.PilotCost
+4fc58fb8	CommandPanel.Command%d.Item.Cost.PilotCost
+4fc58fe4	CommandPanel.Command0.Item.Cost.PilotCost
+4fc58fe4	CommandPanel.Command0.Item.Cost.PilotCost
+4fc59010	script.dll.currpilots
+4fc59010	script.dll.currpilots
+4fc59028	script.dll.maxpilots
+4fc59028	script.dll.maxpilots
+4fc59040	Pilot
+4fc59040	Pilot
+4fc59048	script.dll.pilotname
+4fc59048	script.dll.pilotname
+4fc59060	Power
+4fc59060	Power
+4fc59068	script.dll.hull2
+4fc59068	script.dll.hull2
+4fc5907c	script.dll.ammo2
+4fc5907c	script.dll.ammo2
+4fc59090	script.dll.gauge
+4fc59090	script.dll.gauge
+4fc590a4	script.dll.cloak
+4fc590a4	script.dll.cloak
+4fc590b8	Clouds
+4fc590b8	Clouds
+4fc590c0	Name%d_%d
+4fc590c0	Name%d_%d
+4fc590cc	Name%d
+4fc590cc	Name%d
+4fc590d4	Height%d
+4fc590d4	Height%d
+4fc590e0	Team%d
+4fc590e0	Team%d
+4fc590e8	Total Clouds: %d, TileCountX: %d, TileCountZ: %d, Difference: %d, DiffX: %d DiffZ: %d, DiffType: %d
+4fc590e8	Total Clouds: %d, TileCountX: %d, TileCountZ: %d, Difference: %d, DiffX: %d DiffZ: %d, DiffType: %d
+4fc59150	ERROR: Too many Clouds: (%d > %d), Count Per Tile: %d. Correcting to: %d, %d Per Tile.
+4fc59150	ERROR: Too many Clouds: (%d > %d), Count Per Tile: %d. Correcting to: %d, %d Per Tile.
+4fc591a8	Placing Cloud: Random is: %d Cloud ODF is: '%s'
+4fc591a8	Placing Cloud: Random is: %d Cloud ODF is: '%s'
+4fc591d8	Map Width Is: %f
+4fc591d8	Map Width Is: %f
+4fc591ec	Map Depth Is: %f
+4fc591ec	Map Depth Is: %f
+4fc59200	Clouds Specified Are: %d
+4fc59200	Clouds Specified Are: %d
+4fc5921c	Cloud Count Per Type is: %d
+4fc5921c	Cloud Count Per Type is: %d
+4fc59238	Cloud Type Count is: %d
+4fc59238	Cloud Type Count is: %d
+4fc59250	Total Clouds are: %d
+4fc59250	Total Clouds are: %d
+4fc59268	pilotAmount
+4fc59268	pilotAmount
+4fc59274	Cheat
+4fc59274	Cheat
+4fc5927c	pilotDelay
+4fc5927c	pilotDelay
+4fc59288	Difficulty
+4fc59288	Difficulty
+4fc59294	Start
+4fc59294	Start
+4fc5929c	UnitsService
+4fc5929c	UnitsService
+4fc592ac	DoDLLDispatch
+4fc592ac	DoDLLDispatch
+4fc592bc	IdleDispatcher
+4fc592bc	IdleDispatcher
+4fc592cc	MaxPatrolUnits
+4fc592cc	MaxPatrolUnits
+4fc592dc	MaxHuntUnits
+4fc592dc	MaxHuntUnits
+4fc592ec	MaxEscortUnits
+4fc592ec	MaxEscortUnits
+4fc592fc	BuildingRepairChance
+4fc592fc	BuildingRepairChance
+4fc59314	BuildingRepairInterval
+4fc59314	BuildingRepairInterval
+4fc5932c	BuildingRepairHealthRatio
+4fc5932c	BuildingRepairHealthRatio
+4fc59348	BuildPodMinDelay
+4fc59348	BuildPodMinDelay
+4fc5935c	BuildPodMaxDelay
+4fc5935c	BuildPodMaxDelay
+4fc59370	DayWreckerChance
+4fc59370	DayWreckerChance
+4fc59384	DayWreckerInterval
+4fc59384	DayWreckerInterval
+4fc59398	CloakFailSound
+4fc59398	CloakFailSound
+4fc593a8	requireCount
+4fc593a8	requireCount
+4fc593b8	requireName%d
+4fc593b8	requireName%d
+4fc593c8	provideCount
+4fc593c8	provideCount
+4fc593d8	provideName%d
+4fc593d8	provideName%d
+4fc593e8	DestroyTapsWithParent
+4fc593e8	DestroyTapsWithParent
+4fc59400	ERROR: ReplaceODF '%s' doesn't exist! Fix DLLs!
+4fc59400	ERROR: ReplaceODF '%s' doesn't exist! Fix DLLs!
+4fc59504	AMBIENTAUDIOCLASS MISMATCH: AudioHandle: %d and %d
+4fc59504	AMBIENTAUDIOCLASS MISMATCH: AudioHandle: %d and %d
+4fc59538	AMBIENTAUDIOCLASS MISMATCH: AudioFile: '%s' and '%s'
+4fc59538	AMBIENTAUDIOCLASS MISMATCH: AudioFile: '%s' and '%s'
+4fc59570	AMBIENTAUDIOCLASS MISMATCH: MinDelay: %d and %d
+4fc59570	AMBIENTAUDIOCLASS MISMATCH: MinDelay: %d and %d
+4fc595a0	AMBIENTAUDIOCLASS MISMATCH: MaxDelay: %d and %d
+4fc595a0	AMBIENTAUDIOCLASS MISMATCH: MaxDelay: %d and %d
+4fc595d0	AMBIENTAUDIOCLASS MISMATCH: IsMusic: %d and %d
+4fc595d0	AMBIENTAUDIOCLASS MISMATCH: IsMusic: %d and %d
+4fc59600	AMBIENTAUDIOCLASS MISMATCH: BasePan: %f and %f
+4fc59600	AMBIENTAUDIOCLASS MISMATCH: BasePan: %f and %f
+4fc59630	AMBIENTAUDIOCLASS MISMATCH: PanVariance: %f and %f
+4fc59630	AMBIENTAUDIOCLASS MISMATCH: PanVariance: %f and %f
+4fc59664	AMBIENTAUDIOCLASS MISMATCH: Rate: %f and %f
+4fc59664	AMBIENTAUDIOCLASS MISMATCH: Rate: %f and %f
+4fc59690	AMBIENTAUDIOCLASS MISMATCH: TriggerTurn: %d and %d
+4fc59690	AMBIENTAUDIOCLASS MISMATCH: TriggerTurn: %d and %d
+4fc596c4	AMBIENTAUDIOCLASS MISMATCH: AudioLength: %d and %d
+4fc596c4	AMBIENTAUDIOCLASS MISMATCH: AudioLength: %d and %d
+4fc596f8	AMBIENTAUDIOCLASS MISMATCH: Position: %f %f %f and %f %f %f
+4fc596f8	AMBIENTAUDIOCLASS MISMATCH: Position: %f %f %f and %f %f %f
+4fc59734	AmbientAudioInfo Load Mismatch Index: %d
+4fc59734	AmbientAudioInfo Load Mismatch Index: %d
+4fc59760	AmbientSound%d
+4fc59760	AmbientSound%d
+4fc59770	Audio
+4fc59770	Audio
+4fc59778	Position%d
+4fc59778	Position%d
+4fc59784	IsMusic%d
+4fc59784	IsMusic%d
+4fc59790	MinDelay%d
+4fc59790	MinDelay%d
+4fc5979c	MaxDelay%d
+4fc5979c	MaxDelay%d
+4fc597a8	BasePan%d
+4fc597a8	BasePan%d
+4fc597b4	PanVariance%d
+4fc597b4	PanVariance%d
+4fc597c4	Rate%d
+4fc597c4	Rate%d
+4fc597cc	POWERCLASS MISMATCH: ObjectHandle: %08x '%s' and %08x '%s'
+4fc597cc	POWERCLASS MISMATCH: ObjectHandle: %08x '%s' and %08x '%s'
+4fc59808	POWERCLASS MISMATCH: WasDemolished: %d and %d
+4fc59808	POWERCLASS MISMATCH: WasDemolished: %d and %d
+4fc59838	POWERCLASS MISMATCH: DoBettyLost: %d and %d
+4fc59838	POWERCLASS MISMATCH: DoBettyLost: %d and %d
+4fc59864	POWERCLASS MISMATCH: IsPowered: %d and %d
+4fc59864	POWERCLASS MISMATCH: IsPowered: %d and %d
+4fc59890	POWERCLASS MISMATCH: PowerTeam: %d and %d
+4fc59890	POWERCLASS MISMATCH: PowerTeam: %d and %d
+4fc598bc	POWERCLASS MISMATCH: PowerRange: %f and %f
+4fc598bc	POWERCLASS MISMATCH: PowerRange: %f and %f
+4fc598e8	POWERCLASS MISMATCH: PowerMask: %d and %d
+4fc598e8	POWERCLASS MISMATCH: PowerMask: %d and %d
+4fc59914	POWERCLASS MISMATCH: PowerMatch: %d and %d
+4fc59914	POWERCLASS MISMATCH: PowerMatch: %d and %d
+4fc59940	POWERCLASS MISMATCH: PowerProvide: %d and %d
+4fc59940	POWERCLASS MISMATCH: PowerProvide: %d and %d
+4fc59970	POWERCLASS MISMATCH: Position: %f %f %f and %f %f %f
+4fc59970	POWERCLASS MISMATCH: Position: %f %f %f and %f %f %f
+4fc599a8	PowerList Size Mismatch! Old: %d New: %d
+4fc599a8	PowerList Size Mismatch! Old: %d New: %d
+4fc599d4	PowerList Index Mismatch: %d
+4fc599d4	PowerList Index Mismatch: %d
+4fc599f4	DoBettyLost
+4fc599f4	DoBettyLost
+4fc59a00	powerRadius
+4fc59a00	powerRadius
+4fc59a0c	PowerPlantClass
+4fc59a0c	PowerPlantClass
+4fc59a1c	powerRange
+4fc59a1c	powerRange
+4fc59a28	PowerClassMask
+4fc59a28	PowerClassMask
+4fc59a38	PowerClassMatch
+4fc59a38	PowerClassMatch
+4fc59a48	PowerClassProvides
+4fc59a48	PowerClassProvides
+4fc59a5c	BUILDINGCLASS MISMATCH: Position: %f %f %f and %f %f %f
+4fc59a5c	BUILDINGCLASS MISMATCH: Position: %f %f %f and %f %f %f
+4fc59a98	UTILITYSHIPCLASS MISMATCH: UtilityShipObject: %08x '%s' and %08x '%s'
+4fc59a98	UTILITYSHIPCLASS MISMATCH: UtilityShipObject: %08x '%s' and %08x '%s'
+4fc59ae0	UTILITYSHIPCLASS MISMATCH: DoDrop: %d and %d
+4fc59ae0	UTILITYSHIPCLASS MISMATCH: DoDrop: %d and %d
+4fc59b10	UTILITYSHIPCLASS MISMATCH: ServiceAllies: %d and %d
+4fc59b10	UTILITYSHIPCLASS MISMATCH: ServiceAllies: %d and %d
+4fc59b44	UTILITYSHIPCLASS MISMATCH: DoDLLDispatch: %d and %d
+4fc59b44	UTILITYSHIPCLASS MISMATCH: DoDLLDispatch: %d and %d
+4fc59b78	UTILITYSHIPCLASS MISMATCH: ObjClassHash: %d and %d
+4fc59b78	UTILITYSHIPCLASS MISMATCH: ObjClassHash: %d and %d
+4fc59bac	UTILITYSHIPCLASS MISMATCH: CurTeamNum: %d and %d
+4fc59bac	UTILITYSHIPCLASS MISMATCH: CurTeamNum: %d and %d
+4fc59be0	UTILITYSHIPCLASS MISMATCH: ScrapAmount: %d and %d
+4fc59be0	UTILITYSHIPCLASS MISMATCH: ScrapAmount: %d and %d
+4fc59c14	UTILITYSHIPCLASS MISMATCH: EscortPriority: %d and %d
+4fc59c14	UTILITYSHIPCLASS MISMATCH: EscortPriority: %d and %d
+4fc59c4c	UTILITYSHIPCLASS MISMATCH: DropClassMask: %d and %d
+4fc59c4c	UTILITYSHIPCLASS MISMATCH: DropClassMask: %d and %d
+4fc59c80	UtilityShipList Size Mismatch! Old: %d New: %d
+4fc59c80	UtilityShipList Size Mismatch! Old: %d New: %d
+4fc59cb0	UtilityShipList Index Mismatch: %d
+4fc59cb0	UtilityShipList Index Mismatch: %d
+4fc59cd4	doDrop
+4fc59cd4	doDrop
+4fc59cdc	doDropRecycler
+4fc59cdc	doDropRecycler
+4fc59cec	doDropExtractor
+4fc59cec	doDropExtractor
+4fc59cfc	doDropSilo
+4fc59cfc	doDropSilo
+4fc59d08	ServiceAllies
+4fc59d08	ServiceAllies
+4fc59d18	ServiceTruckH
+4fc59d18	ServiceTruckH
+4fc59d28	ServiceSTs
+4fc59d28	ServiceSTs
+4fc59d34	serviceCraft
+4fc59d34	serviceCraft
+4fc59d44	serviceBuildings
+4fc59d44	serviceBuildings
+4fc59d58	servicePilots
+4fc59d58	servicePilots
+4fc59d68	serviceOther
+4fc59d68	serviceOther
+4fc59d78	ServiceTruck
+4fc59d78	ServiceTruck
+4fc59d88	user3Msg
+4fc59d88	user3Msg
+4fc59d94	GRAVITYINFO MISMATCH: TranPeriod: %f and %f
+4fc59d94	GRAVITYINFO MISMATCH: TranPeriod: %f and %f
+4fc59dc0	GRAVITYINFO MISMATCH: OnPeriod: %f and %f
+4fc59dc0	GRAVITYINFO MISMATCH: OnPeriod: %f and %f
+4fc59dec	GRAVITYINFO MISMATCH: Gravitation: %f and %f
+4fc59dec	GRAVITYINFO MISMATCH: Gravitation: %f and %f
+4fc59e1c	GRAVITYINFO MISMATCH: Gravity: %f and %f
+4fc59e1c	GRAVITYINFO MISMATCH: Gravity: %f and %f
+4fc59e48	GRAVITYINFO MISMATCH: OnCounter: %d and %d
+4fc59e48	GRAVITYINFO MISMATCH: OnCounter: %d and %d
+4fc59e74	GravityHelper Load Mismatch Index: %d
+4fc59e74	GravityHelper Load Mismatch Index: %d
+4fc59e9c	Gravity%d
+4fc59e9c	Gravity%d
+4fc59ea8	OnPeriod%d
+4fc59ea8	OnPeriod%d
+4fc59eb4	TranPeriod%d
+4fc59eb4	TranPeriod%d
+4fc59ec8	Gravity: %d NextGravity: %d, CurGravity: %f, NextGravity: %f, Gravitation is: %f, TranPeriod is: %f
+4fc59ec8	Gravity: %d NextGravity: %d, CurGravity: %f, NextGravity: %f, Gravitation is: %f, TranPeriod is: %f
+4fc59f2c	Gravity State over, next Gravity State: %d
+4fc59f2c	Gravity State over, next Gravity State: %d
+4fc59f58	MORPHOBJECTCLASS MISMATCH: MorphObject: %08x '%s' and %08x '%s'
+4fc59f58	MORPHOBJECTCLASS MISMATCH: MorphObject: %08x '%s' and %08x '%s'
+4fc59f98	MORPHOBJECTCLASS MISMATCH: CurrentWho: %08x '%s' and %08x '%s'
+4fc59f98	MORPHOBJECTCLASS MISMATCH: CurrentWho: %08x '%s' and %08x '%s'
+4fc59fd8	MORPHOBJECTCLASS MISMATCH: WeaponActive: %d and %d
+4fc59fd8	MORPHOBJECTCLASS MISMATCH: WeaponActive: %d and %d
+4fc5a00c	MORPHOBJECTCLASS MISMATCH: ObjectSwitch: %d and %d
+4fc5a00c	MORPHOBJECTCLASS MISMATCH: ObjectSwitch: %d and %d
+4fc5a040	MORPHOBJECTCLASS MISMATCH: CanFire: %d and %d
+4fc5a040	MORPHOBJECTCLASS MISMATCH: CanFire: %d and %d
+4fc5a070	MORPHOBJECTCLASS MISMATCH: IsCloaker: %d and %d
+4fc5a070	MORPHOBJECTCLASS MISMATCH: IsCloaker: %d and %d
+4fc5a0a0	MORPHOBJECTCLASS MISMATCH: IdleTime: %d and %d
+4fc5a0a0	MORPHOBJECTCLASS MISMATCH: IdleTime: %d and %d
+4fc5a0d0	MORPHOBJECTCLASS MISMATCH: NormalAmmo: %d and %d
+4fc5a0d0	MORPHOBJECTCLASS MISMATCH: NormalAmmo: %d and %d
+4fc5a104	MORPHOBJECTCLASS MISMATCH: MaxAmmo: %d and %d
+4fc5a104	MORPHOBJECTCLASS MISMATCH: MaxAmmo: %d and %d
+4fc5a134	MORPHOBJECTCLASS MISMATCH: Command: %d and %d
+4fc5a134	MORPHOBJECTCLASS MISMATCH: Command: %d and %d
+4fc5a164	MORPHOBJECTCLASS MISMATCH: PTeam: %d and %d
+4fc5a164	MORPHOBJECTCLASS MISMATCH: PTeam: %d and %d
+4fc5a190	MORPHOBJECTCLASS MISMATCH: LocalAmmo%d: %f and %f
+4fc5a190	MORPHOBJECTCLASS MISMATCH: LocalAmmo%d: %f and %f
+4fc5a1c4	MORPHOBJECTCLASS MISMATCH: EngageRange: %f and %f
+4fc5a1c4	MORPHOBJECTCLASS MISMATCH: EngageRange: %f and %f
+4fc5a1f8	MORPHOBJECTCLASS MISMATCH: CloakChance%d: %f and %f
+4fc5a1f8	MORPHOBJECTCLASS MISMATCH: CloakChance%d: %f and %f
+4fc5a22c	MORPHOBJECTCLASS MISMATCH: CurrentWhere: %f %f %f and %f %f %f
+4fc5a22c	MORPHOBJECTCLASS MISMATCH: CurrentWhere: %f %f %f and %f %f %f
+4fc5a26c	MORPHOBJECTCLASS MISMATCH: BlockDeploy: %d and %d
+4fc5a26c	MORPHOBJECTCLASS MISMATCH: BlockDeploy: %d and %d
+4fc5a2a0	MORPHOBJECTCLASS MISMATCH: CloakMaxEnergy: %d and %d
+4fc5a2a0	MORPHOBJECTCLASS MISMATCH: CloakMaxEnergy: %d and %d
+4fc5a2d8	MORPHOBJECTCLASS MISMATCH: CloakCurEnergy: %d and %d
+4fc5a2d8	MORPHOBJECTCLASS MISMATCH: CloakCurEnergy: %d and %d
+4fc5a310	MORPHOBJECTCLASS MISMATCH: CloakCostEnergy: %d and %d
+4fc5a310	MORPHOBJECTCLASS MISMATCH: CloakCostEnergy: %d and %d
+4fc5a348	MORPHOBJECTCLASS MISMATCH: CloakAddEnergy: %d and %d
+4fc5a348	MORPHOBJECTCLASS MISMATCH: CloakAddEnergy: %d and %d
+4fc5a380	MORPHOBJECTCLASS MISMATCH: CloakCurEnergyRemainder: %f and %f
+4fc5a380	MORPHOBJECTCLASS MISMATCH: CloakCurEnergyRemainder: %f and %f
+4fc5a3c0	MorphObjectList Size Mismatch! Old: %d New: %d
+4fc5a3c0	MorphObjectList Size Mismatch! Old: %d New: %d
+4fc5a3f0	MorphObjectList Index Mismatch: %d
+4fc5a3f0	MorphObjectList Index Mismatch: %d
+4fc5a414	CloakChance
+4fc5a414	CloakChance
+4fc5a420	SwitchODF
+4fc5a420	SwitchODF
+4fc5a42c	MorphObjectClass
+4fc5a42c	MorphObjectClass
+4fc5a440	CanFireWhenSwitched
+4fc5a440	CanFireWhenSwitched
+4fc5a454	SwitchAllWeapons
+4fc5a454	SwitchAllWeapons
+4fc5a468	MorphObjecttoggle
+4fc5a468	MorphObjecttoggle
+4fc5a47c	soundDeploy
+4fc5a47c	soundDeploy
+4fc5a488	DeployableClass
+4fc5a488	DeployableClass
+4fc5a498	soundUndeploy
+4fc5a498	soundUndeploy
+4fc5a4a8	ERROR: Morph Object SoundDeploy '%s' Doesn't Exist! FIX ODFs!
+4fc5a4a8	ERROR: Morph Object SoundDeploy '%s' Doesn't Exist! FIX ODFs!
+4fc5a4e8	ERROR: SwitchODF '%s' does not exist. Fix ODFs!
+4fc5a4e8	ERROR: SwitchODF '%s' does not exist. Fix ODFs!
+4fc5a518	MorphObjectToggle
+4fc5a518	MorphObjectToggle
+4fc5a538	CARRIERCLASS MISMATCH: CarrierObject: %08x '%s' and %08x '%s'
+4fc5a538	CARRIERCLASS MISMATCH: CarrierObject: %08x '%s' and %08x '%s'
+4fc5a578	CARRIERCLASS MISMATCH: DroneControlRange: %f and %f
+4fc5a578	CARRIERCLASS MISMATCH: DroneControlRange: %f and %f
+4fc5a5ac	CARRIERCLASS MISMATCH: DroneRepairRange: %f and %f
+4fc5a5ac	CARRIERCLASS MISMATCH: DroneRepairRange: %f and %f
+4fc5a5e0	CARRIERCLASS MISMATCH: DroneDefendRange: %f and %f
+4fc5a5e0	CARRIERCLASS MISMATCH: DroneDefendRange: %f and %f
+4fc5a614	CARRIERCLASS MISMATCH: DroneRecallRange: %f and %f
+4fc5a614	CARRIERCLASS MISMATCH: DroneRecallRange: %f and %f
+4fc5a648	CARRIERCLASS MISMATCH: MaxDrones: %d and %d
+4fc5a648	CARRIERCLASS MISMATCH: MaxDrones: %d and %d
+4fc5a674	CARRIERCLASS MISMATCH: CurDrones: %d and %d
+4fc5a674	CARRIERCLASS MISMATCH: CurDrones: %d and %d
+4fc5a6a0	CARRIERCLASS MISMATCH: HealthRepairAmount: %d and %d
+4fc5a6a0	CARRIERCLASS MISMATCH: HealthRepairAmount: %d and %d
+4fc5a6d8	CARRIERCLASS MISMATCH: AmmoRepairAmount: %d and %d
+4fc5a6d8	CARRIERCLASS MISMATCH: AmmoRepairAmount: %d and %d
+4fc5a70c	CARRIERCLASS MISMATCH: ServiceAllies: %d and %d
+4fc5a70c	CARRIERCLASS MISMATCH: ServiceAllies: %d and %d
+4fc5a73c	DRONECLASS MISMATCH: DroneObject: %08x '%s' and %08x '%s'
+4fc5a73c	DRONECLASS MISMATCH: DroneObject: %08x '%s' and %08x '%s'
+4fc5a778	DRONECLASS MISMATCH: DroneTarget: %08x '%s' and %08x '%s'
+4fc5a778	DRONECLASS MISMATCH: DroneTarget: %08x '%s' and %08x '%s'
+4fc5a7b4	DRONECLASS MISMATCH: UseLocalAmmo: %d and %d
+4fc5a7b4	DRONECLASS MISMATCH: UseLocalAmmo: %d and %d
+4fc5a7e4	DRONECLASS MISMATCH: DroneState: %d and %d
+4fc5a7e4	DRONECLASS MISMATCH: DroneState: %d and %d
+4fc5a810	DRONECLASS MISMATCH: CarrierIndex: %d and %d
+4fc5a810	DRONECLASS MISMATCH: CarrierIndex: %d and %d
+4fc5a840	DRONECLASS MISMATCH: CarrierWeaponSlot: %d and %d
+4fc5a840	DRONECLASS MISMATCH: CarrierWeaponSlot: %d and %d
+4fc5a874	DRONECLASS MISMATCH: RandomTargetDist: %f and %f
+4fc5a874	DRONECLASS MISMATCH: RandomTargetDist: %f and %f
+4fc5a8a8	DRONECLASS MISMATCH: Position: %f %f %f and %f %f %f
+4fc5a8a8	DRONECLASS MISMATCH: Position: %f %f %f and %f %f %f
+4fc5a8e0	CarrierList Size Mismatch! Old: %d New: %d
+4fc5a8e0	CarrierList Size Mismatch! Old: %d New: %d
+4fc5a90c	CarrierList Index Mismatch: %d
+4fc5a90c	CarrierList Index Mismatch: %d
+4fc5a92c	DroneList Size Mismatch! Old: %d New: %d
+4fc5a92c	DroneList Size Mismatch! Old: %d New: %d
+4fc5a958	DroneList Index Mismatch: %d
+4fc5a958	DroneList Index Mismatch: %d
+4fc5a978	localAmmo
+4fc5a978	localAmmo
+4fc5a984	RandomTargetRange
+4fc5a984	RandomTargetRange
+4fc5a998	DroneClass
+4fc5a998	DroneClass
+4fc5a9a4	canSwitchCarrier
+4fc5a9a4	canSwitchCarrier
+4fc5a9b8	controlRange
+4fc5a9b8	controlRange
+4fc5a9c8	CarrierClass
+4fc5a9c8	CarrierClass
+4fc5a9d8	defendRange
+4fc5a9d8	defendRange
+4fc5a9e4	recallRange
+4fc5a9e4	recallRange
+4fc5a9f0	droneIdleTime
+4fc5a9f0	droneIdleTime
+4fc5aa00	maxDrones
+4fc5aa00	maxDrones
+4fc5aa0c	minAttackForce
+4fc5aa0c	minAttackForce
+4fc5aa1c	repairRange
+4fc5aa1c	repairRange
+4fc5aa28	healthRepairAmount
+4fc5aa28	healthRepairAmount
+4fc5aa3c	ammoRepairAmount
+4fc5aa3c	ammoRepairAmount
+4fc5aa50	serviceAllies
+4fc5aa50	serviceAllies
+4fc5aa60	Drone %08x '%s' Set to DroneState: %d, Carrier Dead or Outside of Range
+4fc5aa60	Drone %08x '%s' Set to DroneState: %d, Carrier Dead or Outside of Range
+4fc5aaa8	Drone %08x '%s' INACTIVE: Set to DroneState: %d, Reassigned to Carrier: %08x '%s'
+4fc5aaa8	Drone %08x '%s' INACTIVE: Set to DroneState: %d, Reassigned to Carrier: %08x '%s'
+4fc5ab00	Drone %08x '%s' IDLE: Set to DroneState %d, Target: %08x '%s', Carrier: %08x '%s'
+4fc5ab00	Drone %08x '%s' IDLE: Set to DroneState %d, Target: %08x '%s', Carrier: %08x '%s'
+4fc5ab54	Drone %08x '%s' IDLE: Set to DroneState %d, Carrier: %08x '%s'
+4fc5ab54	Drone %08x '%s' IDLE: Set to DroneState %d, Carrier: %08x '%s'
+4fc5ab94	Drone %08x '%s' IDLE: Drone Recalled, Carrier: %08x '%s'
+4fc5ab94	Drone %08x '%s' IDLE: Drone Recalled, Carrier: %08x '%s'
+4fc5abd0	Drone %08x '%s' ATTACKING: Set to DroneState %d, Carrier: %08x '%s'
+4fc5abd0	Drone %08x '%s' ATTACKING: Set to DroneState %d, Carrier: %08x '%s'
+4fc5ac18	Drone %08x '%s' DEFENDING: Set to DroneState %d, Target: %08x '%s', Carrier: %08x '%s'
+4fc5ac18	Drone %08x '%s' DEFENDING: Set to DroneState %d, Target: %08x '%s', Carrier: %08x '%s'
+4fc5ac70	Drone %08x '%s' DEFENDING: Set to DroneState %d, Carrier: %08x '%s'
+4fc5ac70	Drone %08x '%s' DEFENDING: Set to DroneState %d, Carrier: %08x '%s'
+4fc5acb8	Drone %08x '%s' PREORDNANCEHIT: Set to DroneState: %d, Carrier: %08x '%s'
+4fc5acb8	Drone %08x '%s' PREORDNANCEHIT: Set to DroneState: %d, Carrier: %08x '%s'
+4fc5ad04	true
+4fc5ad04	true
+4fc5ad0c	false
+4fc5ad0c	false
+4fc5ad14	Drone %08x '%s' PACKUP: Set to Recall to Carrier: %08x '%s'
+4fc5ad14	Drone %08x '%s' PACKUP: Set to Recall to Carrier: %08x '%s'
+4fc5ad60	ATTACHERCLASS MISMATCH: AttacherObject: %08x '%s' and %08x '%s'
+4fc5ad60	ATTACHERCLASS MISMATCH: AttacherObject: %08x '%s' and %08x '%s'
+4fc5ada0	ATTACHERCLASS MISMATCH: NumberOfTaps: %d and %d
+4fc5ada0	ATTACHERCLASS MISMATCH: NumberOfTaps: %d and %d
+4fc5add0	ATTACHERCLASS MISMATCH: IsCerberus: %d and %d
+4fc5add0	ATTACHERCLASS MISMATCH: IsCerberus: %d and %d
+4fc5ae00	ATTACHERTAPCLASS MISMATCH: Tap%d TapObject: %08x '%s' and %08x '%s'
+4fc5ae00	ATTACHERTAPCLASS MISMATCH: Tap%d TapObject: %08x '%s' and %08x '%s'
+4fc5ae44	ATTACHERTAPCLASS MISMATCH: Tap%d TapIndependance: %d and %d
+4fc5ae44	ATTACHERTAPCLASS MISMATCH: Tap%d TapIndependance: %d and %d
+4fc5ae80	ATTACHERTAPCLASS MISMATCH: Tap%d TapIsAttacking: %d and %d
+4fc5ae80	ATTACHERTAPCLASS MISMATCH: Tap%d TapIsAttacking: %d and %d
+4fc5aebc	ATTACHERTAPCLASS MISMATCH: Tap%d BuiltAttacherTap: %d and %d
+4fc5aebc	ATTACHERTAPCLASS MISMATCH: Tap%d BuiltAttacherTap: %d and %d
+4fc5aefc	ATTACHERTAPCLASS MISMATCH: Tap%d TapShutOff: %d and %d
+4fc5aefc	ATTACHERTAPCLASS MISMATCH: Tap%d TapShutOff: %d and %d
+4fc5af34	ATTACHERTAPCLASS MISMATCH: Tap%d TapCoordinateFire: %d and %d
+4fc5af34	ATTACHERTAPCLASS MISMATCH: Tap%d TapCoordinateFire: %d and %d
+4fc5af74	ATTACHERTAPCLASS MISMATCH: Tap%d PDSMode: %d and %d
+4fc5af74	ATTACHERTAPCLASS MISMATCH: Tap%d PDSMode: %d and %d
+4fc5afa8	ATTACHERTAPCLASS MISMATCH: Tap%d IsHostDeployed: %d and %d
+4fc5afa8	ATTACHERTAPCLASS MISMATCH: Tap%d IsHostDeployed: %d and %d
+4fc5afe4	ATTACHERTAPCLASS MISMATCH: Tap%d TapDeployBehavior: %d and %d
+4fc5afe4	ATTACHERTAPCLASS MISMATCH: Tap%d TapDeployBehavior: %d and %d
+4fc5b024	ATTACHERTAPCLASS MISMATCH: Tap%d TapEngageRange: %f and %f
+4fc5b024	ATTACHERTAPCLASS MISMATCH: Tap%d TapEngageRange: %f and %f
+4fc5b060	ATTACHERTAPCLASS MISMATCH: Tap%d TapOffset: %f %f %f and %f %f %f
+4fc5b060	ATTACHERTAPCLASS MISMATCH: Tap%d TapOffset: %f %f %f and %f %f %f
+4fc5b0a8	ATTACHERTAPCLASS MISMATCH: Tap%d TapRotation: %f %f %f and %f %f %f
+4fc5b0a8	ATTACHERTAPCLASS MISMATCH: Tap%d TapRotation: %f %f %f and %f %f %f
+4fc5b0f0	ATTACHERTAPCLASS MISMATCH: Tap%d TapWeaponSymmetryMask: '%s' and '%s'
+4fc5b0f0	ATTACHERTAPCLASS MISMATCH: Tap%d TapWeaponSymmetryMask: '%s' and '%s'
+4fc5b138	ATTACHERTAPCLASS MISMATCH: Tap%d IsCerberusTail: %d and %d
+4fc5b138	ATTACHERTAPCLASS MISMATCH: Tap%d IsCerberusTail: %d and %d
+4fc5b178	ATTACHERTAPCLASS MISMATCH: Tap%d IsCerberusTailAnimated: %d and %d
+4fc5b178	ATTACHERTAPCLASS MISMATCH: Tap%d IsCerberusTailAnimated: %d and %d
+4fc5b1bc	ATTACHERTAPCLASS MISMATCH: Tap%d CerbTailSwinging: %d and %d
+4fc5b1bc	ATTACHERTAPCLASS MISMATCH: Tap%d CerbTailSwinging: %d and %d
+4fc5b1fc	ATTACHERTAPCLASS MISMATCH: Tap%d CerbTailConeAngle: %f and %f
+4fc5b1fc	ATTACHERTAPCLASS MISMATCH: Tap%d CerbTailConeAngle: %f and %f
+4fc5b23c	ATTACHERTAPCLASS MISMATCH: Tap%d CerbAnimLength: %f and %f
+4fc5b23c	ATTACHERTAPCLASS MISMATCH: Tap%d CerbAnimLength: %f and %f
+4fc5b278	REPLACEONDEATHCLASS MISMATCH: Tap%d TapPosition Front: %f %f %f and %f %f %f, Tap%d TapPosition Right: %f %f %f and %f %f %f, Tap%d TapPosition Up: %f %f %f and %f %f %f, Tap%d TapPosition Posit: %f %f %f and %f %f %f
+4fc5b278	REPLACEONDEATHCLASS MISMATCH: Tap%d TapPosition Front: %f %f %f and %f %f %f, Tap%d TapPosition Right: %f %f %f and %f %f %f, Tap%d TapPosition Up: %f %f %f and %f %f %f, Tap%d TapPosition Posit: %f %f %f and %f %f %f
+4fc5b354	AttacherList Size Mismatch! Old: %d New: %d
+4fc5b354	AttacherList Size Mismatch! Old: %d New: %d
+4fc5b380	AttacherList Index Mismatch: %d
+4fc5b380	AttacherList Index Mismatch: %d
+4fc5b3a0	AttachedObject1
+4fc5b3a0	AttachedObject1
+4fc5b3b0	AttachedObject%d
+4fc5b3b0	AttachedObject%d
+4fc5b3c8	ERROR: ODF '%s', '%s' attempted to attach itself, preventing infinite loop.
+4fc5b3c8	ERROR: ODF '%s', '%s' attempted to attach itself, preventing infinite loop.
+4fc5b414	AttachedIndependent%d
+4fc5b414	AttachedIndependent%d
+4fc5b42c	AttachedCoordinateFire%d
+4fc5b42c	AttachedCoordinateFire%d
+4fc5b448	AttachedDeployState%d
+4fc5b448	AttachedDeployState%d
+4fc5b460	AttachedPDSMode%d
+4fc5b460	AttachedPDSMode%d
+4fc5b474	AttachedWeaponSymmetryMask%d
+4fc5b474	AttachedWeaponSymmetryMask%d
+4fc5b494	00000
+4fc5b494	00000
+4fc5b49c	AttachedOffset%d
+4fc5b49c	AttachedOffset%d
+4fc5b4b0	AttachedRotation%d
+4fc5b4b0	AttachedRotation%d
+4fc5b4c4	CerbTailFireAngle
+4fc5b4c4	CerbTailFireAngle
+4fc5b4d8	animCount
+4fc5b4d8	animCount
+4fc5b4e4	animName%d
+4fc5b4e4	animName%d
+4fc5b4f0	CerbTailIdle
+4fc5b4f0	CerbTailIdle
+4fc5b500	CerbTailLeft
+4fc5b500	CerbTailLeft
+4fc5b510	CerbTailRight
+4fc5b510	CerbTailRight
+4fc5b520	Playing Tail Loop Anim
+4fc5b520	Playing Tail Loop Anim
+4fc5b538	ERROR: Attacher ODF '%s' Doesn't Exist!
+4fc5b538	ERROR: Attacher ODF '%s' Doesn't Exist!
+4fc5b560	Tap %x Attacking Host Target: %08x '%s'
+4fc5b560	Tap %x Attacking Host Target: %08x '%s'
+4fc5b588	Tap %x Switching to own AI control
+4fc5b588	Tap %x Switching to own AI control
+4fc5b5ac	Tap %x Set to Attack %08x '%s'
+4fc5b5ac	Tap %x Set to Attack %08x '%s'
+4fc5b5cc	Tap %d Target: %08x '%s', picking new target...
+4fc5b5cc	Tap %d Target: %08x '%s', picking new target...
+4fc5b600	Tap: %d Target %08x '%s' matches existing Target, Tap %d Target: %08x '%s'
+4fc5b600	Tap: %d Target %08x '%s' matches existing Target, Tap %d Target: %08x '%s'
+4fc5b64c	Tap %d Targeting New Target: %08x '%s'
+4fc5b64c	Tap %d Targeting New Target: %08x '%s'
+4fc5b674	Playing Tail Swing Anim
+4fc5b674	Playing Tail Swing Anim
+4fc5b68c	Playing Tail Idle Anim
+4fc5b68c	Playing Tail Idle Anim
+4fc5b6a4	deploy
+4fc5b6a4	deploy
+4fc5b6ac	undeploy
+4fc5b6ac	undeploy
+4fc5b6b8	shellName
+4fc5b6b8	shellName
+4fc5b6c4	Recycler
+4fc5b6c4	Recycler
+4fc5b6d0	Factory
+4fc5b6d0	Factory
+4fc5b6d8	Armory
+4fc5b6d8	Armory
+4fc5b6e0	Constructor
+4fc5b6e0	Constructor
+4fc5b6ec	Satellite
+4fc5b6ec	Satellite
+4fc5b6f8	ScrapHold
+4fc5b6f8	ScrapHold
+4fc5b704	base%dshold
+4fc5b704	base%dshold
+4fc5b710	UseBZ1Limits
+4fc5b710	UseBZ1Limits
+4fc5b720	UseBZ1Pilots
+4fc5b720	UseBZ1Pilots
+4fc5b730	NoPlayerPilot
+4fc5b730	NoPlayerPilot
+4fc5b740	ShowPilotCosts
+4fc5b740	ShowPilotCosts
+4fc5b750	build
+4fc5b750	build
+4fc5b758	BZCLoop
+4fc5b758	BZCLoop
+4fc5b760	UndeployClass
+4fc5b760	UndeployClass
+4fc5b770	Team Slot: %d building Undeploy: %s
+4fc5b770	Team Slot: %d building Undeploy: %s
+4fc5b794	BaseSlot Qued Item: BuildClass: '%s', Count is: %d
+4fc5b794	BaseSlot Qued Item: BuildClass: '%s', Count is: %d
+4fc5b7c8	BaseSlot Done, ArmoryBuildClass: '%s', BaseSlotCount is: %d
+4fc5b7c8	BaseSlot Done, ArmoryBuildClass: '%s', BaseSlotCount is: %d
+4fc5b804	BZCloop
+4fc5b804	BZCloop
+4fc5b80c	ammoSound
+4fc5b80c	ammoSound
+4fc5b818	repaSound
+4fc5b818	repaSound
+4fc5b824	navSound
+4fc5b824	navSound
+4fc5b830	weaponSound
+4fc5b830	weaponSound
+4fc5b83c	bombSound
+4fc5b83c	bombSound
+4fc5b848	rescueMsg
+4fc5b848	rescueMsg
+4fc5b854	Sound Is: '%s'
+4fc5b854	Sound Is: '%s'
+4fc5b864	ERROR: Sound file: '%s' doesn't exist! Fix ODF: '%s'
+4fc5b864	ERROR: Sound file: '%s' doesn't exist! Fix ODF: '%s'
+4fc5b89c	reloadMsg
+4fc5b89c	reloadMsg
+4fc5b8a8	UNDEPLOYCLASS MISMATCH: UndeployingObject: %08x '%s' and %08x '%s'
+4fc5b8a8	UNDEPLOYCLASS MISMATCH: UndeployingObject: %08x '%s' and %08x '%s'
+4fc5b8ec	UNDEPLOYCLASS MISMATCH: IsAnimated: %d and %d
+4fc5b8ec	UNDEPLOYCLASS MISMATCH: IsAnimated: %d and %d
+4fc5b91c	UNDEPLOYCLASS MISMATCH: UndeployTime: %d and %d
+4fc5b91c	UNDEPLOYCLASS MISMATCH: UndeployTime: %d and %d
+4fc5b94c	UNDEPLOYCLASS MISMATCH: UndeployFrames: %f and %f
+4fc5b94c	UNDEPLOYCLASS MISMATCH: UndeployFrames: %f and %f
+4fc5b980	UndeployList Size Mismatch! Old: %d New: %d
+4fc5b980	UndeployList Size Mismatch! Old: %d New: %d
+4fc5b9ac	UndeployList Index Mismatch: %d
+4fc5b9ac	UndeployList Index Mismatch: %d
+4fc5b9cc	control.command.cancel
+4fc5b9cc	control.command.cancel
+4fc5b9e4	timeUndeploy
+4fc5b9e4	timeUndeploy
+4fc5b9f4	TrackedDeployableClass
+4fc5b9f4	TrackedDeployableClass
+4fc5ba0c	Adding UndeployObject: '%s', Class: '%s', Time: %d, Frames: %f
+4fc5ba0c	Adding UndeployObject: '%s', Class: '%s', Time: %d, Frames: %f
+4fc5ba4c	UnbdeployObject %08d '%s' UndeployFrames: %f, CurrFrame: %f
+4fc5ba4c	UnbdeployObject %08d '%s' UndeployFrames: %f, CurrFrame: %f
+4fc5ba88	AddScrapHoldToTotal
+4fc5ba88	AddScrapHoldToTotal
+4fc5ba9c	ERROR: ODF '%s' Doesn't Exist! Cannot Undeploy!
+4fc5ba9c	ERROR: ODF '%s' Doesn't Exist! Cannot Undeploy!
+4fc5bacc	ERROR: No Free Group! Cannot Undeploy!
+4fc5bacc	ERROR: No Free Group! Cannot Undeploy!
+4fc5baf4	-- Can't Undeploy, No Free Groups.
+4fc5baf4	-- Can't Undeploy, No Free Groups.
+4fc5bb18	BUILDINGCLASS MISMATCH: BuildingObject: %08x '%s' and %08x '%s'
+4fc5bb18	BUILDINGCLASS MISMATCH: BuildingObject: %08x '%s' and %08x '%s'
+4fc5bb58	BUILDINGCLASS MISMATCH: BuildingTap%d: %08x '%s' and %08x '%s'
+4fc5bb58	BUILDINGCLASS MISMATCH: BuildingTap%d: %08x '%s' and %08x '%s'
+4fc5bb98	BUILDINGCLASS MISMATCH: TapAnimated%d: %d and %d
+4fc5bb98	BUILDINGCLASS MISMATCH: TapAnimated%d: %d and %d
+4fc5bbcc	BUILDINGCLASS MISMATCH: PlayTapAnim%d: %d and %d
+4fc5bbcc	BUILDINGCLASS MISMATCH: PlayTapAnim%d: %d and %d
+4fc5bc00	BUILDINGCLASS MISMATCH: TapOffsetMatrix%d Front: %f %f %f and %f %f %f, TapOffsetMatrix%d Right: %f %f %f and %f %f %f, TapOffsetMatrix%d Up: %f %f %f and %f %f %f, TapOffsetMatrix%d Posit: %f %f %f and %f %f %f
+4fc5bc00	BUILDINGCLASS MISMATCH: TapOffsetMatrix%d Front: %f %f %f and %f %f %f, TapOffsetMatrix%d Right: %f %f %f and %f %f %f, TapOffsetMatrix%d Up: %f %f %f and %f %f %f, TapOffsetMatrix%d Posit: %f %f %f and %f %f %f
+4fc5bcd4	BUILDINGCLASS MISMATCH: IsPowered: %d and %d
+4fc5bcd4	BUILDINGCLASS MISMATCH: IsPowered: %d and %d
+4fc5bd04	BUILDINGCLASS MISMATCH: IsAnimated: %d and %d
+4fc5bd04	BUILDINGCLASS MISMATCH: IsAnimated: %d and %d
+4fc5bd34	BUILDINGCLASS MISMATCH: PlayAnim: %d and %d
+4fc5bd34	BUILDINGCLASS MISMATCH: PlayAnim: %d and %d
+4fc5bd60	BUILDINGCLASS MISMATCH: CanCollide: %d and %d
+4fc5bd60	BUILDINGCLASS MISMATCH: CanCollide: %d and %d
+4fc5bd90	BUILDINGCLASS MISMATCH: CanBeIdleVictim: %d and %d
+4fc5bd90	BUILDINGCLASS MISMATCH: CanBeIdleVictim: %d and %d
+4fc5bdc4	BUILDINGCLASS MISMATCH: IsAPCRefill: %d and %d
+4fc5bdc4	BUILDINGCLASS MISMATCH: IsAPCRefill: %d and %d
+4fc5bdf4	BUILDINGCLASS MISMATCH: IsRecyclePoint: %d and %d
+4fc5bdf4	BUILDINGCLASS MISMATCH: IsRecyclePoint: %d and %d
+4fc5be28	BUILDINGCLASS MISMATCH: GunTowerOff: %d and %d
+4fc5be28	BUILDINGCLASS MISMATCH: GunTowerOff: %d and %d
+4fc5be58	BUILDINGCLASS MISMATCH: CanDemolish: %d and %d
+4fc5be58	BUILDINGCLASS MISMATCH: CanDemolish: %d and %d
+4fc5be88	BUILDINGCLASS MISMATCH: PoweredByTaps: %d and %d
+4fc5be88	BUILDINGCLASS MISMATCH: PoweredByTaps: %d and %d
+4fc5bebc	BUILDINGCLASS MISMATCH: OwnsTerrain: %d and %d
+4fc5bebc	BUILDINGCLASS MISMATCH: OwnsTerrain: %d and %d
+4fc5beec	BUILDINGCLASS MISMATCH: ObjClassHash: %d and %d
+4fc5beec	BUILDINGCLASS MISMATCH: ObjClassHash: %d and %d
+4fc5bf1c	BUILDINGCLASS MISMATCH: ODFNameHash: %d and %d
+4fc5bf1c	BUILDINGCLASS MISMATCH: ODFNameHash: %d and %d
+4fc5bf4c	BUILDINGCLASS MISMATCH: PowerType: %d and %d
+4fc5bf4c	BUILDINGCLASS MISMATCH: PowerType: %d and %d
+4fc5bf7c	BUILDINGCLASS MISMATCH: AnimDir: %d and %d
+4fc5bf7c	BUILDINGCLASS MISMATCH: AnimDir: %d and %d
+4fc5bfa8	BUILDINGCLASS MISMATCH: TapNumber: %d and %d
+4fc5bfa8	BUILDINGCLASS MISMATCH: TapNumber: %d and %d
+4fc5bfd8	BUILDINGCLASS MISMATCH: PowerState: %d and %d
+4fc5bfd8	BUILDINGCLASS MISMATCH: PowerState: %d and %d
+4fc5c008	BUILDINGCLASS MISMATCH: PowerMask: %d and %d
+4fc5c008	BUILDINGCLASS MISMATCH: PowerMask: %d and %d
+4fc5c038	BUILDINGCLASS MISMATCH: PowerMatch: %d and %d
+4fc5c038	BUILDINGCLASS MISMATCH: PowerMatch: %d and %d
+4fc5c068	BUILDINGCLASS MISMATCH: PowerProvide: %d and %d
+4fc5c068	BUILDINGCLASS MISMATCH: PowerProvide: %d and %d
+4fc5c098	BUILDINGCLASS MISMATCH: PowerupAcceptMask: %d and %d
+4fc5c098	BUILDINGCLASS MISMATCH: PowerupAcceptMask: %d and %d
+4fc5c0d0	BUILDINGCLASS MISMATCH: CurTeamNum: %d and %d
+4fc5c0d0	BUILDINGCLASS MISMATCH: CurTeamNum: %d and %d
+4fc5c100	BUILDINGCLASS MISMATCH: PTeam: %d and %d
+4fc5c100	BUILDINGCLASS MISMATCH: PTeam: %d and %d
+4fc5c12c	BUILDINGCLASS MISMATCH: MaxHealth: %d and %d
+4fc5c12c	BUILDINGCLASS MISMATCH: MaxHealth: %d and %d
+4fc5c15c	BUILDINGCLASS MISMATCH: MaxAmmo: %d and %d
+4fc5c15c	BUILDINGCLASS MISMATCH: MaxAmmo: %d and %d
+4fc5c188	BUILDINGCLASS MISMATCH: TerrainSizeRatio%d: %d and %d
+4fc5c188	BUILDINGCLASS MISMATCH: TerrainSizeRatio%d: %d and %d
+4fc5c1c0	BUILDINGCLASS MISMATCH: BuildSupport: %d and %d
+4fc5c1c0	BUILDINGCLASS MISMATCH: BuildSupport: %d and %d
+4fc5c1f0	BUILDINGCLASS MISMATCH: CollisionRadius: %f and %f
+4fc5c1f0	BUILDINGCLASS MISMATCH: CollisionRadius: %f and %f
+4fc5c224	BUILDINGCLASS MISMATCH: UpgradeName: '%s' and '%s'
+4fc5c224	BUILDINGCLASS MISMATCH: UpgradeName: '%s' and '%s'
+4fc5c258	BUILDINGCLASS MISMATCH: WeaponNames%d: '%s' and '%s'
+4fc5c258	BUILDINGCLASS MISMATCH: WeaponNames%d: '%s' and '%s'
+4fc5c290	BUILDINGCLASS MISMATCH: BuildingFront: %f %f %f and %f %f %f
+4fc5c290	BUILDINGCLASS MISMATCH: BuildingFront: %f %f %f and %f %f %f
+4fc5c2d0	OBJECTLIST MISMATCH: HealthRate: %f and %f
+4fc5c2d0	OBJECTLIST MISMATCH: HealthRate: %f and %f
+4fc5c2fc	OBJECTLIST MISMATCH: AmmoRate: %f and %f
+4fc5c2fc	OBJECTLIST MISMATCH: AmmoRate: %f and %f
+4fc5c328	OBJECTLIST MISMATCH: LocalAmmoRate: %f and %f
+4fc5c328	OBJECTLIST MISMATCH: LocalAmmoRate: %f and %f
+4fc5c358	OBJECTLIST MISMATCH: ServiceRate: %f and %f
+4fc5c358	OBJECTLIST MISMATCH: ServiceRate: %f and %f
+4fc5c384	OBJECTLIST MISMATCH: ServiceCraft: %d and %d
+4fc5c384	OBJECTLIST MISMATCH: ServiceCraft: %d and %d
+4fc5c3b4	BuildingList Size Mismatch! Old: %d New: %d
+4fc5c3b4	BuildingList Size Mismatch! Old: %d New: %d
+4fc5c3e0	BuildingList Index Mismatch: %d
+4fc5c3e0	BuildingList Index Mismatch: %d
+4fc5c400	RequirePowerMask
+4fc5c400	RequirePowerMask
+4fc5c414	autoBuildTaps
+4fc5c414	autoBuildTaps
+4fc5c424	canDemolish
+4fc5c424	canDemolish
+4fc5c430	GameObjectClassPowerMask
+4fc5c430	GameObjectClassPowerMask
+4fc5c44c	GameObjectClassPowerMatch
+4fc5c44c	GameObjectClassPowerMatch
+4fc5c468	GameObjectClassPowerProvides
+4fc5c468	GameObjectClassPowerProvides
+4fc5c488	CollisionRadius
+4fc5c488	CollisionRadius
+4fc5c498	CanCollide
+4fc5c498	CanCollide
+4fc5c4a4	ownsTerrain
+4fc5c4a4	ownsTerrain
+4fc5c4b0	CanAcceptPowerups
+4fc5c4b0	CanAcceptPowerups
+4fc5c4c4	AcceptPowerupMask
+4fc5c4c4	AcceptPowerupMask
+4fc5c4d8	SizeRatioX
+4fc5c4d8	SizeRatioX
+4fc5c4e4	SizeRatioZ
+4fc5c4e4	SizeRatioZ
+4fc5c4f0	buildSupport
+4fc5c4f0	buildSupport
+4fc5c500	upgradeName
+4fc5c500	upgradeName
+4fc5c50c	APCRefillPoint
+4fc5c50c	APCRefillPoint
+4fc5c51c	RecyclePoint
+4fc5c51c	RecyclePoint
+4fc5c52c	healthRate
+4fc5c52c	healthRate
+4fc5c538	SupplyDepotClass
+4fc5c538	SupplyDepotClass
+4fc5c54c	ammoRate
+4fc5c54c	ammoRate
+4fc5c558	localAmmoRate
+4fc5c558	localAmmoRate
+4fc5c568	supplyRate
+4fc5c568	supplyRate
+4fc5c574	IsAnimated
+4fc5c574	IsAnimated
+4fc5c580	Tap Not Matching Host: %08x %s! Current Tap: %08x '%s' Old Offset: %f %f %f New Offset: %f %f %f, Old Building Front: %f %f %f New Building Front: %f %f %f
+4fc5c580	Tap Not Matching Host: %08x %s! Current Tap: %08x '%s' Old Offset: %f %f %f New Offset: %f %f %f, Old Building Front: %f %f %f New Building Front: %f %f %f
+4fc5c620	POWERUP ACCEPTED: '%s' on Team %d at: %f %f %f w/ ColRad: %f Accepted Powerup: '%s' at: %f %f %f
+4fc5c620	POWERUP ACCEPTED: '%s' on Team %d at: %f %f %f w/ ColRad: %f Accepted Powerup: '%s' at: %f %f %f
+4fc5c690	DISPATCHCLASS MISMATCH: DispatchObject: %08x '%s' and %08x '%s'
+4fc5c690	DISPATCHCLASS MISMATCH: DispatchObject: %08x '%s' and %08x '%s'
+4fc5c6d0	DISPATCHCLASS MISMATCH: DispatchTarget: %08x '%s' and %08x '%s'
+4fc5c6d0	DISPATCHCLASS MISMATCH: DispatchTarget: %08x '%s' and %08x '%s'
+4fc5c710	DISPATCHCLASS MISMATCH: FleeTarget: %08x '%s' and %08x '%s'
+4fc5c710	DISPATCHCLASS MISMATCH: FleeTarget: %08x '%s' and %08x '%s'
+4fc5c74c	DISPATCHCLASS MISMATCH: DispatchSpot: %f %f %f and %f %f %f
+4fc5c74c	DISPATCHCLASS MISMATCH: DispatchSpot: %f %f %f and %f %f %f
+4fc5c788	DISPATCHCLASS MISMATCH: CurrTeam: %d and %d
+4fc5c788	DISPATCHCLASS MISMATCH: CurrTeam: %d and %d
+4fc5c7b4	DISPATCHCLASS MISMATCH: DispatchType: %d and %d
+4fc5c7b4	DISPATCHCLASS MISMATCH: DispatchType: %d and %d
+4fc5c7e4	DISPATCHCLASS MISMATCH: DispatchState: %d and %d
+4fc5c7e4	DISPATCHCLASS MISMATCH: DispatchState: %d and %d
+4fc5c818	DISPATCHCLASS MISMATCH: SkipAIPCheck: %d and %d
+4fc5c818	DISPATCHCLASS MISMATCH: SkipAIPCheck: %d and %d
+4fc5c848	DISPATCHCLASS MISMATCH: IsCloaker: %d and %d
+4fc5c848	DISPATCHCLASS MISMATCH: IsCloaker: %d and %d
+4fc5c878	DISPATCHCLASS MISMATCH: IsMorpher: %d and %d
+4fc5c878	DISPATCHCLASS MISMATCH: IsMorpher: %d and %d
+4fc5c8a8	DISPATCHCLASS MISMATCH: CanFlee: %d and %d
+4fc5c8a8	DISPATCHCLASS MISMATCH: CanFlee: %d and %d
+4fc5c8d4	DISPATCHCLASS MISMATCH: CanGetReload: %d and %d
+4fc5c8d4	DISPATCHCLASS MISMATCH: CanGetReload: %d and %d
+4fc5c904	DISPATCHCLASS MISMATCH: CanGetRepair: %d and %d
+4fc5c904	DISPATCHCLASS MISMATCH: CanGetRepair: %d and %d
+4fc5c934	DISPATCHCLASS MISMATCH: MorphIsAssault: %d and %d
+4fc5c934	DISPATCHCLASS MISMATCH: MorphIsAssault: %d and %d
+4fc5c968	DISPATCHCLASS MISMATCH: IsCloaked: %d and %d
+4fc5c968	DISPATCHCLASS MISMATCH: IsCloaked: %d and %d
+4fc5c998	DISPATCHCLASS MISMATCH: CloakLocked: %d and %d
+4fc5c998	DISPATCHCLASS MISMATCH: CloakLocked: %d and %d
+4fc5c9c8	DISPATCHCLASS MISMATCH: CloakNextTick: %d and %d
+4fc5c9c8	DISPATCHCLASS MISMATCH: CloakNextTick: %d and %d
+4fc5c9fc	DISPATCHCLASS MISMATCH: DecloakNextTick: %d and %d
+4fc5c9fc	DISPATCHCLASS MISMATCH: DecloakNextTick: %d and %d
+4fc5ca30	DISPATCHCLASS MISMATCH: IdleTime: %d and %d
+4fc5ca30	DISPATCHCLASS MISMATCH: IdleTime: %d and %d
+4fc5ca5c	DISPATCHCLASS MISMATCH: CloakIdleTime: %d and %d
+4fc5ca5c	DISPATCHCLASS MISMATCH: CloakIdleTime: %d and %d
+4fc5ca90	DISPATCHCLASS MISMATCH: DeployTimer: %d and %d
+4fc5ca90	DISPATCHCLASS MISMATCH: DeployTimer: %d and %d
+4fc5cac0	DISPATCHCLASS MISMATCH: ServiceTimer: %d and %d
+4fc5cac0	DISPATCHCLASS MISMATCH: ServiceTimer: %d and %d
+4fc5caf0	DISPATCHCLASS MISMATCH: RandomDist: %f and %f
+4fc5caf0	DISPATCHCLASS MISMATCH: RandomDist: %f and %f
+4fc5cb20	DISPATCHCLASS MISMATCH: EngageRange: %f and %f
+4fc5cb20	DISPATCHCLASS MISMATCH: EngageRange: %f and %f
+4fc5cb50	DISPATCHCLASS MISMATCH: TimeDeploy: %f and %f
+4fc5cb50	DISPATCHCLASS MISMATCH: TimeDeploy: %f and %f
+4fc5cb80	DISPATCHCLASS MISMATCH: CloakChance%d: %f and %f
+4fc5cb80	DISPATCHCLASS MISMATCH: CloakChance%d: %f and %f
+4fc5cbb4	DISPATCHCLASS MISMATCH: FleeHealthRatio: %f and %f
+4fc5cbb4	DISPATCHCLASS MISMATCH: FleeHealthRatio: %f and %f
+4fc5cbe8	DISPATCHCLASS MISMATCH: GetRepairRatio: %f and %f
+4fc5cbe8	DISPATCHCLASS MISMATCH: GetRepairRatio: %f and %f
+4fc5cc1c	DISPATCHCLASS MISMATCH: ServiceChance: %f and %f
+4fc5cc1c	DISPATCHCLASS MISMATCH: ServiceChance: %f and %f
+4fc5cc50	DISPATCHCLASS MISMATCH: MinFireAmmo: %d and %d
+4fc5cc50	DISPATCHCLASS MISMATCH: MinFireAmmo: %d and %d
+4fc5cc80	DISPATCHCLASS MISMATCH: MaxHealth: %d and %d
+4fc5cc80	DISPATCHCLASS MISMATCH: MaxHealth: %d and %d
+4fc5ccb0	DISPATCHCLASS MISMATCH: MaxAmmo: %d and %d
+4fc5ccb0	DISPATCHCLASS MISMATCH: MaxAmmo: %d and %d
+4fc5ccdc	DISPATCHCLASS MISMATCH: Command: %d and %d
+4fc5ccdc	DISPATCHCLASS MISMATCH: Command: %d and %d
+4fc5cd08	DISPATCHCLASS MISMATCH: FleeHealthValue: %d and %d
+4fc5cd08	DISPATCHCLASS MISMATCH: FleeHealthValue: %d and %d
+4fc5cd3c	DISPATCHCLASS MISMATCH: CloakPriority: %d and %d
+4fc5cd3c	DISPATCHCLASS MISMATCH: CloakPriority: %d and %d
+4fc5cd70	DispatchList Size Mismatch! Old: %d New: %d
+4fc5cd70	DispatchList Size Mismatch! Old: %d New: %d
+4fc5cd9c	DispatchList Index Mismatch: %d
+4fc5cd9c	DispatchList Index Mismatch: %d
+4fc5cdbc	nodispatch
+4fc5cdbc	nodispatch
+4fc5cdc8	EasyWeaponSlot%d
+4fc5cdc8	EasyWeaponSlot%d
+4fc5cddc	MediumWeaponSlot%d
+4fc5cddc	MediumWeaponSlot%d
+4fc5cdf0	HardWeaponSlot%d
+4fc5cdf0	HardWeaponSlot%d
+4fc5ce04	ExtremeWeaponSlot%d
+4fc5ce04	ExtremeWeaponSlot%d
+4fc5ce18	AIHuntChance
+4fc5ce18	AIHuntChance
+4fc5ce28	AIPatrolChance
+4fc5ce28	AIPatrolChance
+4fc5ce38	AISniperChance
+4fc5ce38	AISniperChance
+4fc5ce48	AIEscortChance
+4fc5ce48	AIEscortChance
+4fc5ce58	AIRepairHealthRatio
+4fc5ce58	AIRepairHealthRatio
+4fc5ce6c	AIServiceChance
+4fc5ce6c	AIServiceChance
+4fc5ce7c	CloakChances
+4fc5ce7c	CloakChances
+4fc5ce8c	%csuser
+4fc5ce8c	%csuser
+4fc5ce94	timeDeploy
+4fc5ce94	timeDeploy
+4fc5cea0	CanAIFlee
+4fc5cea0	CanAIFlee
+4fc5ceac	AIFleeHealthRatio
+4fc5ceac	AIFleeHealthRatio
+4fc5cec0	CanAIRepair
+4fc5cec0	CanAIRepair
+4fc5cecc	CanAIReload
+4fc5cecc	CanAIReload
+4fc5ced8	MorphIsAssault
+4fc5ced8	MorphIsAssault
+4fc5cee8	Index is: %d, DispatchMode is: %d, DispatchMethod is: %d, RandomTargetTeam: %d
+4fc5cee8	Index is: %d, DispatchMode is: %d, DispatchMethod is: %d, RandomTargetTeam: %d
+4fc5cf38	Index is: %d Mode is: %d Method is: %d Spot is: %f %f %f Target Is: '%s'
+4fc5cf38	Index is: %d Mode is: %d Method is: %d Spot is: %f %f %f Target Is: '%s'
+4fc5cf88	Index is: %d Mode is: %d Method is: %d No Valid Target, IdleTime: %d
+4fc5cf88	Index is: %d Mode is: %d Method is: %d No Valid Target, IdleTime: %d
+4fc5cfd0	Index is: %d Mode is: %d Method is: %d Spot is: %f %f %f
+4fc5cfd0	Index is: %d Mode is: %d Method is: %d Spot is: %f %f %f
+4fc5d010	Pathing Failed, using random object. Index is: %d Mode is: %d Method is: %d Spot is: %f %f %f.
+4fc5d010	Pathing Failed, using random object. Index is: %d Mode is: %d Method is: %d Spot is: %f %f %f.
+4fc5d070	Index: %d sent to Patrol path: '%s', TurnCount: %d
+4fc5d070	Index: %d sent to Patrol path: '%s', TurnCount: %d
+4fc5d0a8	Index: %d sent to Dynamic Patrol Near Handle: %08x, ODF: '%s', Position: %f %f %f
+4fc5d0a8	Index: %d sent to Dynamic Patrol Near Handle: %08x, ODF: '%s', Position: %f %f %f
+4fc5d0fc	Index: %d sent to Lay Mines at path: '%s'
+4fc5d0fc	Index: %d sent to Lay Mines at path: '%s'
+4fc5d128	Index: %d sent to Dynamic Minelaying, DispatchState: %d, Position: %f %f %f
+4fc5d128	Index: %d sent to Dynamic Minelaying, DispatchState: %d, Position: %f %f %f
+4fc5d174	Index is: %d Minelayer No Valid Target, IdleTime: %d
+4fc5d174	Index is: %d Minelayer No Valid Target, IdleTime: %d
+4fc5d1b0	Index: %d Hunt Task Starting, Hunt Command issued. IdleTime: %d
+4fc5d1b0	Index: %d Hunt Task Starting, Hunt Command issued. IdleTime: %d
+4fc5d1f0	Index: %d Escort Task Starting, Target: '%s'
+4fc5d1f0	Index: %d Escort Task Starting, Target: '%s'
+4fc5d220	Index: %d Turret Encountered an Enemy on Team: %d Distance Is: %f, Return is: %d
+4fc5d220	Index: %d Turret Encountered an Enemy on Team: %d Distance Is: %f, Return is: %d
+4fc5d274	Index is: %d Spot is: %f %f %f
+4fc5d274	Index is: %d Spot is: %f %f %f
+4fc5d294	Index is: %d Turret Encountered an Enemy, IdleTime: %d
+4fc5d294	Index is: %d Turret Encountered an Enemy, IdleTime: %d
+4fc5d2d0	Patrol Unit %d interrupted, resetting idle timer. TurnCount: %d, IdleTime: %d
+4fc5d2d0	Patrol Unit %d interrupted, resetting idle timer. TurnCount: %d, IdleTime: %d
+4fc5d320	Index: %d sent to Dynamic Patrol Reset, Cmd == CMD_NONE
+4fc5d320	Index: %d sent to Dynamic Patrol Reset, Cmd == CMD_NONE
+4fc5d358	Index: %d Minelayer reached Spot: %f %f %f, laying mines..., IdleTime: %d
+4fc5d358	Index: %d Minelayer reached Spot: %f %f %f, laying mines..., IdleTime: %d
+4fc5d3a8	Index: %d Hunt Task Continuing, Re-Issueing Hunt Command. IdleTime: %d
+4fc5d3a8	Index: %d Hunt Task Continuing, Re-Issueing Hunt Command. IdleTime: %d
+4fc5d3f0	Index: %d Escort Target lost, picking new Target: '%s'
+4fc5d3f0	Index: %d Escort Target lost, picking new Target: '%s'
+4fc5d428	Index: %d Escort Target lost, Going Bezerk!
+4fc5d428	Index: %d Escort Target lost, Going Bezerk!
+4fc5d454	Index: %d Unit: '%s' Rearmed/Repaired, resuming duties
+4fc5d454	Index: %d Unit: '%s' Rearmed/Repaired, resuming duties
+4fc5d48c	Index is: %d Repair/Repaid finished, IdleTime: %d
+4fc5d48c	Index is: %d Repair/Repaid finished, IdleTime: %d
+4fc5d4c0	Index: %d Flee State Ending. Last Target: '%s', IdleTime: %d
+4fc5d4c0	Index: %d Flee State Ending. Last Target: '%s', IdleTime: %d
+4fc5d500	Index is: %d Deployable Waiting for Repair Powerup to land, IdleTime: %d
+4fc5d500	Index is: %d Deployable Waiting for Repair Powerup to land, IdleTime: %d
+4fc5d54c	Index: %d Unit: '%s' going to get Repair
+4fc5d54c	Index: %d Unit: '%s' going to get Repair
+4fc5d578	Index is: %d Unit going to Repair Service, IdleTime: %d
+4fc5d578	Index is: %d Unit going to Repair Service, IdleTime: %d
+4fc5d5b0	Index is: %d Deployable Waiting for Reload Powerup to land, IdleTime: %d
+4fc5d5b0	Index is: %d Deployable Waiting for Reload Powerup to land, IdleTime: %d
+4fc5d5fc	Index: %d Unit: '%s' going to get Reload
+4fc5d5fc	Index: %d Unit: '%s' going to get Reload
+4fc5d628	Index is: %d Unit going to Reload Service, IdleTime: %d
+4fc5d628	Index is: %d Unit going to Reload Service, IdleTime: %d
+4fc5d660	Index: %d Cloaking Activating, Time: %d, DeployTimer: %d, DeployTime: %f
+4fc5d660	Index: %d Cloaking Activating, Time: %d, DeployTimer: %d, DeployTime: %f
+4fc5d6b0	Index: %d AI Attempting to Cloak unit, Chance: %f, CloakCommand: %d Chance: %f
+4fc5d6b0	Index: %d AI Attempting to Cloak unit, Chance: %f, CloakCommand: %d Chance: %f
+4fc5d700	Index: %d AI Cloak Successful
+4fc5d700	Index: %d AI Cloak Successful
+4fc5d720	Index: %d Unit is Cloaked, Enemy detected, Unlocking Cloak
+4fc5d720	Index: %d Unit is Cloaked, Enemy detected, Unlocking Cloak
+4fc5d75c	Index: %d Unit is Cloaked, Target In Range, Decloaking
+4fc5d75c	Index: %d Unit is Cloaked, Target In Range, Decloaking
+4fc5d798	Index: %d Command Identicle, setting CloakIdle time for 15 seconds.
+4fc5d798	Index: %d Command Identicle, setting CloakIdle time for 15 seconds.
+4fc5d7dc	Index: %d Command Different, Setting CloakIdle time for NOW.
+4fc5d7dc	Index: %d Command Different, Setting CloakIdle time for NOW.
+4fc5d820	Index: %d Unit was not cloaked! DeployTimer: %d, Time: %d, DeployTime: %f, Time: %d
+4fc5d820	Index: %d Unit was not cloaked! DeployTimer: %d, Time: %d, DeployTime: %f, Time: %d
+4fc5d874	Index is: %d Turret Shot, Deploying, IdleTime: %d
+4fc5d874	Index is: %d Turret Shot, Deploying, IdleTime: %d
+4fc5d8a8	Index is: %d Minelayer Shot, Mining, IdleTime: %d
+4fc5d8a8	Index is: %d Minelayer Shot, Mining, IdleTime: %d
+4fc5d8dc	RetargetOnStrafe
+4fc5d8dc	RetargetOnStrafe
+4fc5d8f0	Flee Target Shot, Target is: '%s', IdleTime: %d
+4fc5d8f0	Flee Target Shot, Target is: '%s', IdleTime: %d
+4fc5d920	Cloak Command Given, Time: %d
+4fc5d920	Cloak Command Given, Time: %d
+4fc5d940	VEHICLELIST MISMATCH: ObjectHandle: %08x '%s' and %08x '%s'
+4fc5d940	VEHICLELIST MISMATCH: ObjectHandle: %08x '%s' and %08x '%s'
+4fc5d97c	VEHICLELIST MISMATCH: ODFNameHash: %d and %d
+4fc5d97c	VEHICLELIST MISMATCH: ODFNameHash: %d and %d
+4fc5d9ac	VEHICLELIST MISMATCH: ObjClassHash: %d and %d
+4fc5d9ac	VEHICLELIST MISMATCH: ObjClassHash: %d and %d
+4fc5d9dc	VEHICLELIST MISMATCH: BZCClassHash: %d and %d
+4fc5d9dc	VEHICLELIST MISMATCH: BZCClassHash: %d and %d
+4fc5da0c	VEHICLELIST MISMATCH: LastCommand: %d and %d
+4fc5da0c	VEHICLELIST MISMATCH: LastCommand: %d and %d
+4fc5da3c	VEHICLELIST MISMATCH: MaxHealth: %d and %d
+4fc5da3c	VEHICLELIST MISMATCH: MaxHealth: %d and %d
+4fc5da68	VEHICLELIST MISMATCH: ShowSkill: %d and %d
+4fc5da68	VEHICLELIST MISMATCH: ShowSkill: %d and %d
+4fc5da94	VEHICLELIST MISMATCH: BlockDeploy: %d and %d
+4fc5da94	VEHICLELIST MISMATCH: BlockDeploy: %d and %d
+4fc5dac4	VEHICLELIST MISMATCH: AllowRemoteControl: %d and %d
+4fc5dac4	VEHICLELIST MISMATCH: AllowRemoteControl: %d and %d
+4fc5daf8	VEHICLELIST MISMATCH: CanBeIdleVictim: %d and %d
+4fc5daf8	VEHICLELIST MISMATCH: CanBeIdleVictim: %d and %d
+4fc5db2c	VEHICLELIST MISMATCH: ShowSkillTeamFilter: %d and %d
+4fc5db2c	VEHICLELIST MISMATCH: ShowSkillTeamFilter: %d and %d
+4fc5db64	VEHICLELIST MISMATCH: ShowSkillTimer: %d and %d
+4fc5db64	VEHICLELIST MISMATCH: ShowSkillTimer: %d and %d
+4fc5db94	VEHICLELIST MISMATCH: CurTeamNum: %d and %d
+4fc5db94	VEHICLELIST MISMATCH: CurTeamNum: %d and %d
+4fc5dbc0	VEHICLELIST MISMATCH: PTeam: %d and %d
+4fc5dbc0	VEHICLELIST MISMATCH: PTeam: %d and %d
+4fc5dbe8	VEHICLELIST MISMATCH: CloakMaxEnergy: %d and %d
+4fc5dbe8	VEHICLELIST MISMATCH: CloakMaxEnergy: %d and %d
+4fc5dc18	VEHICLELIST MISMATCH: CloakCurEnergy: %d and %d
+4fc5dc18	VEHICLELIST MISMATCH: CloakCurEnergy: %d and %d
+4fc5dc48	VEHICLELIST MISMATCH: CloakCostEnergy: %d and %d
+4fc5dc48	VEHICLELIST MISMATCH: CloakCostEnergy: %d and %d
+4fc5dc7c	VEHICLELIST MISMATCH: CloakAddEnergy: %d and %d
+4fc5dc7c	VEHICLELIST MISMATCH: CloakAddEnergy: %d and %d
+4fc5dcac	VEHICLELIST MISMATCH: EngageRange: %f and %f
+4fc5dcac	VEHICLELIST MISMATCH: EngageRange: %f and %f
+4fc5dcdc	VEHICLELIST MISMATCH: Position: %f %f %f and %f %f %f
+4fc5dcdc	VEHICLELIST MISMATCH: Position: %f %f %f and %f %f %f
+4fc5dd14	VehicleList Size Mismatch! Old: %d New: %d
+4fc5dd14	VehicleList Size Mismatch! Old: %d New: %d
+4fc5dd40	VehicleList Index Mismatch: %d
+4fc5dd40	VehicleList Index Mismatch: %d
+4fc5dd60	CLASS_ARTIFACT
+4fc5dd60	CLASS_ARTIFACT
+4fc5dd70	user2Msg
+4fc5dd70	user2Msg
+4fc5dd7c	OBJECTLIST MISMATCH: ObjectHandle: %08x '%s' and %08x '%s'
+4fc5dd7c	OBJECTLIST MISMATCH: ObjectHandle: %08x '%s' and %08x '%s'
+4fc5ddb8	OBJECTLIST MISMATCH: ODFNameHash: %d and %d
+4fc5ddb8	OBJECTLIST MISMATCH: ODFNameHash: %d and %d
+4fc5dde4	OBJECTLIST MISMATCH: ObjClassHash: %d and %d
+4fc5dde4	OBJECTLIST MISMATCH: ObjClassHash: %d and %d
+4fc5de14	OBJECTLIST MISMATCH: BZCClassHash: %d and %d
+4fc5de14	OBJECTLIST MISMATCH: BZCClassHash: %d and %d
+4fc5de44	OBJECTLIST MISMATCH: CategoryID: %d and %d
+4fc5de44	OBJECTLIST MISMATCH: CategoryID: %d and %d
+4fc5de70	OBJECTLIST MISMATCH: CanObjectify: %d and %d
+4fc5de70	OBJECTLIST MISMATCH: CanObjectify: %d and %d
+4fc5dea0	OBJECTLIST MISMATCH: CanObjectifyDeployed: %d and %d
+4fc5dea0	OBJECTLIST MISMATCH: CanObjectifyDeployed: %d and %d
+4fc5ded8	OBJECTLIST MISMATCH: CanTeleport: %d and %d
+4fc5ded8	OBJECTLIST MISMATCH: CanTeleport: %d and %d
+4fc5df04	OBJECTLIST MISMATCH: CanBeIdleVictim: %d and %d
+4fc5df04	OBJECTLIST MISMATCH: CanBeIdleVictim: %d and %d
+4fc5df34	OBJECTLIST MISMATCH: OriginalTeam: %d and %d
+4fc5df34	OBJECTLIST MISMATCH: OriginalTeam: %d and %d
+4fc5df64	OBJECTLIST MISMATCH: CurTeamNum: %d and %d
+4fc5df64	OBJECTLIST MISMATCH: CurTeamNum: %d and %d
+4fc5df90	OBJECTLIST MISMATCH: PTeam: %d and %d
+4fc5df90	OBJECTLIST MISMATCH: PTeam: %d and %d
+4fc5dfb8	OBJECTLIST MISMATCH: EngageRange: %f and %f
+4fc5dfb8	OBJECTLIST MISMATCH: EngageRange: %f and %f
+4fc5dfe4	OBJECTLIST MISMATCH: IsObjectified%d: %d and %d
+4fc5dfe4	OBJECTLIST MISMATCH: IsObjectified%d: %d and %d
+4fc5e014	OBJECTLIST MISMATCH: IsBeingJammed%d: %d and %d
+4fc5e014	OBJECTLIST MISMATCH: IsBeingJammed%d: %d and %d
+4fc5e044	OBJECTLIST MISMATCH: Position: %f %f %f and %f %f %f
+4fc5e044	OBJECTLIST MISMATCH: Position: %f %f %f and %f %f %f
+4fc5e07c	OBJECTLIST MISMATCH: MaxHealth: %d and %d
+4fc5e07c	OBJECTLIST MISMATCH: MaxHealth: %d and %d
+4fc5e0a8	OBJECTLIST MISMATCH: MaxAmmo: %d and %d
+4fc5e0a8	OBJECTLIST MISMATCH: MaxAmmo: %d and %d
+4fc5e0d0	HandleList Size Mismatch! Old: %d New: %d
+4fc5e0d0	HandleList Size Mismatch! Old: %d New: %d
+4fc5e0fc	HandleList Index Mismatch: %d
+4fc5e0fc	HandleList Index Mismatch: %d
+4fc5e120	POWERUPCLASS MISMATCH: RepairPowerupObject: %08x '%s' and %08x '%s'
+4fc5e120	POWERUPCLASS MISMATCH: RepairPowerupObject: %08x '%s' and %08x '%s'
+4fc5e164	POWERUPCLASS MISMATCH: ObjClassHash: %d and %d
+4fc5e164	POWERUPCLASS MISMATCH: ObjClassHash: %d and %d
+4fc5e194	POWERUPCLASS MISMATCH: HealthUp: %d and %d
+4fc5e194	POWERUPCLASS MISMATCH: HealthUp: %d and %d
+4fc5e1c0	POWERUPCLASS MISMATCH: AmmoUp: %d and %d
+4fc5e1c0	POWERUPCLASS MISMATCH: AmmoUp: %d and %d
+4fc5e1ec	POWERUPCLASS MISMATCH: LocalAmmoUp: %d and %d
+4fc5e1ec	POWERUPCLASS MISMATCH: LocalAmmoUp: %d and %d
+4fc5e21c	POWERUPCLASS MISMATCH: WeaponUp: '%s' and '%s'
+4fc5e21c	POWERUPCLASS MISMATCH: WeaponUp: '%s' and '%s'
+4fc5e24c	POWERUPCLASS MISMATCH: SoundPickup: '%s' and '%s'
+4fc5e24c	POWERUPCLASS MISMATCH: SoundPickup: '%s' and '%s'
+4fc5e280	POWERUPCLASS MISMATCH: SoundReject: '%s' and '%s'
+4fc5e280	POWERUPCLASS MISMATCH: SoundReject: '%s' and '%s'
+4fc5e2b4	POWERUPCLASS MISMATCH: DelayTime: %d and %d
+4fc5e2b4	POWERUPCLASS MISMATCH: DelayTime: %d and %d
+4fc5e2e0	PowerupList Size Mismatch! Old: %d New: %d
+4fc5e2e0	PowerupList Size Mismatch! Old: %d New: %d
+4fc5e30c	PowerupList Index Mismatch: %d
+4fc5e30c	PowerupList Index Mismatch: %d
+4fc5e32c	healthUp
+4fc5e32c	healthUp
+4fc5e338	HealthPowerupClass
+4fc5e338	HealthPowerupClass
+4fc5e34c	serviceUp
+4fc5e34c	serviceUp
+4fc5e358	ServicePowerupClass
+4fc5e358	ServicePowerupClass
+4fc5e36c	AmmoPowerupClass
+4fc5e36c	AmmoPowerupClass
+4fc5e380	localAmmoUp
+4fc5e380	localAmmoUp
+4fc5e38c	soundPickup
+4fc5e38c	soundPickup
+4fc5e398	PowerUpClass
+4fc5e398	PowerUpClass
+4fc5e3a8	soundReject
+4fc5e3a8	soundReject
+4fc5e3b4	HitMask
+4fc5e3b4	HitMask
+4fc5e3bc	MaxVelocityOffset
+4fc5e3bc	MaxVelocityOffset
+4fc5e3d0	MinVelocityOffset
+4fc5e3d0	MinVelocityOffset
+4fc5e3e4	Powerup Vel: %f %f %f, OffSet: %f %f %f, NewVel: %f %f %f
+4fc5e3e4	Powerup Vel: %f %f %f, OffSet: %f %f %f, NewVel: %f %f %f
+4fc5e420	AIWeaponHelper: ODF: '%s', Team: %d, Config ODF: '%s'
+4fc5e420	AIWeaponHelper: ODF: '%s', Team: %d, Config ODF: '%s'
+4fc5e458	AIWeaponHelper: Opened ODF: '%s', Difficulty: %d
+4fc5e458	AIWeaponHelper: Opened ODF: '%s', Difficulty: %d
+4fc5e48c	AIWeaponHelper: HardPoint %d Choosing Slot: '%s'
+4fc5e48c	AIWeaponHelper: HardPoint %d Choosing Slot: '%s'
+4fc5e4c0	WeaponName%d
+4fc5e4c0	WeaponName%d
+4fc5e4d0	WeaponMask%d
+4fc5e4d0	WeaponMask%d
+4fc5e4e0	MinWeaponMask
+4fc5e4e0	MinWeaponMask
+4fc5e4f0	SkipRequirements
+4fc5e4f0	SkipRequirements
+4fc5e504	HardpointOverride
+4fc5e504	HardpointOverride
+4fc5e518	AIWeaponHelper: Number Of Weapons for HardPoint %d is: %d, Choice: %d WeaponName: '%s'
+4fc5e518	AIWeaponHelper: Number Of Weapons for HardPoint %d is: %d, Choice: %d WeaponName: '%s'
+4fc5e570	ERROR: '%s' Weapon '%s' does not exist. Fix ODFs!
+4fc5e570	ERROR: '%s' Weapon '%s' does not exist. Fix ODFs!
+4fc5e5a4	SCRAPCLASS MISMATCH: ScrapObject: %08x '%s' and %08x '%s'
+4fc5e5a4	SCRAPCLASS MISMATCH: ScrapObject: %08x '%s' and %08x '%s'
+4fc5e5e0	ScrapList Size Mismatch! Old: %d New: %d
+4fc5e5e0	ScrapList Size Mismatch! Old: %d New: %d
+4fc5e60c	ScrapList Index Mismatch: %d
+4fc5e60c	ScrapList Index Mismatch: %d
+4fc5e62c	RestrictHeight
+4fc5e62c	RestrictHeight
+4fc5e63c	ScrapClass
+4fc5e63c	ScrapClass
+4fc5e648	RestrictSlope
+4fc5e648	RestrictSlope
+4fc5e658	WARNING: Too many objects on map! Deleting oldest scrap!
+4fc5e658	WARNING: Too many objects on map! Deleting oldest scrap!
+4fc5e698	PORTALCLASS MISMATCH: TeleporterObject: %08x '%s' and %08x '%s'
+4fc5e698	PORTALCLASS MISMATCH: TeleporterObject: %08x '%s' and %08x '%s'
+4fc5e6d8	PORTALCLASS MISMATCH: TeleporterDestination: %08x '%s' and %08x '%s'
+4fc5e6d8	PORTALCLASS MISMATCH: TeleporterDestination: %08x '%s' and %08x '%s'
+4fc5e720	PORTALCLASS MISMATCH: TeleporterEffectSlot: %d and %d
+4fc5e720	PORTALCLASS MISMATCH: TeleporterEffectSlot: %d and %d
+4fc5e758	PORTALCLASS MISMATCH: PortalMineHost: %08x '%s' and %08x '%s'
+4fc5e758	PORTALCLASS MISMATCH: PortalMineHost: %08x '%s' and %08x '%s'
+4fc5e798	PORTALCLASS MISMATCH: CanEnter: %d and %d
+4fc5e798	PORTALCLASS MISMATCH: CanEnter: %d and %d
+4fc5e7c4	PORTALCLASS MISMATCH: CanExit: %d and %d
+4fc5e7c4	PORTALCLASS MISMATCH: CanExit: %d and %d
+4fc5e7f0	PORTALCLASS MISMATCH: MatchTypeUsesChannels: %d and %d
+4fc5e7f0	PORTALCLASS MISMATCH: MatchTypeUsesChannels: %d and %d
+4fc5e828	PORTALCLASS MISMATCH: ExitForwardOnly: %d and %d
+4fc5e828	PORTALCLASS MISMATCH: ExitForwardOnly: %d and %d
+4fc5e85c	PORTALCLASS MISMATCH: ShowChannel: %d and %d
+4fc5e85c	PORTALCLASS MISMATCH: ShowChannel: %d and %d
+4fc5e88c	PORTALCLASS MISMATCH: NameFlash: %d and %d
+4fc5e88c	PORTALCLASS MISMATCH: NameFlash: %d and %d
+4fc5e8b8	PORTALCLASS MISMATCH: UseCenter: %d and %d
+4fc5e8b8	PORTALCLASS MISMATCH: UseCenter: %d and %d
+4fc5e8e4	PORTALCLASS MISMATCH: KickAI: %d and %d
+4fc5e8e4	PORTALCLASS MISMATCH: KickAI: %d and %d
+4fc5e90c	PORTALCLASS MISMATCH: ContinuousFx: %d and %d
+4fc5e90c	PORTALCLASS MISMATCH: ContinuousFx: %d and %d
+4fc5e93c	PORTALCLASS MISMATCH: EnterGotoIsExit: %d and %d
+4fc5e93c	PORTALCLASS MISMATCH: EnterGotoIsExit: %d and %d
+4fc5e970	PORTALCLASS MISMATCH: ScriptOverrideDest: %d and %d
+4fc5e970	PORTALCLASS MISMATCH: ScriptOverrideDest: %d and %d
+4fc5e9a4	PORTALCLASS MISMATCH: FxOnVehicle: %d and %d
+4fc5e9a4	PORTALCLASS MISMATCH: FxOnVehicle: %d and %d
+4fc5e9d4	PORTALCLASS MISMATCH: MatchType: %d and %d
+4fc5e9d4	PORTALCLASS MISMATCH: MatchType: %d and %d
+4fc5ea00	PORTALCLASS MISMATCH: MatchCycleIndex: %d and %d
+4fc5ea00	PORTALCLASS MISMATCH: MatchCycleIndex: %d and %d
+4fc5ea34	PORTALCLASS MISMATCH: Channel: %d and %d
+4fc5ea34	PORTALCLASS MISMATCH: Channel: %d and %d
+4fc5ea60	PORTALCLASS MISMATCH: DestTeamFilter: %d and %d
+4fc5ea60	PORTALCLASS MISMATCH: DestTeamFilter: %d and %d
+4fc5ea90	PORTALCLASS MISMATCH: TargetTeamFilter: %d and %d
+4fc5ea90	PORTALCLASS MISMATCH: TargetTeamFilter: %d and %d
+4fc5eac4	PORTALCLASS MISMATCH: TeleportFilter: %d and %d
+4fc5eac4	PORTALCLASS MISMATCH: TeleportFilter: %d and %d
+4fc5eaf4	PORTALCLASS MISMATCH: EffectType: %d and %d
+4fc5eaf4	PORTALCLASS MISMATCH: EffectType: %d and %d
+4fc5eb20	PORTALCLASS MISMATCH: EffectNumber: %d and %d
+4fc5eb20	PORTALCLASS MISMATCH: EffectNumber: %d and %d
+4fc5eb50	PORTALCLASS MISMATCH: EffectState: %d and %d
+4fc5eb50	PORTALCLASS MISMATCH: EffectState: %d and %d
+4fc5eb80	PORTALCLASS MISMATCH: EffectTimer[%d]: %d and %d
+4fc5eb80	PORTALCLASS MISMATCH: EffectTimer[%d]: %d and %d
+4fc5ebb4	PORTALCLASS MISMATCH: EnterRange: %f and %f
+4fc5ebb4	PORTALCLASS MISMATCH: EnterRange: %f and %f
+4fc5ebe0	PORTALCLASS MISMATCH: ExitSpeed: %f and %f
+4fc5ebe0	PORTALCLASS MISMATCH: ExitSpeed: %f and %f
+4fc5ec0c	PORTALCLASS MISMATCH: DestMinRange: %f and %f
+4fc5ec0c	PORTALCLASS MISMATCH: DestMinRange: %f and %f
+4fc5ec3c	PORTALCLASS MISMATCH: DestMaxRange: %f and %f
+4fc5ec3c	PORTALCLASS MISMATCH: DestMaxRange: %f and %f
+4fc5ec6c	PORTALCLASS MISMATCH: CollisionRadius: %f and %f
+4fc5ec6c	PORTALCLASS MISMATCH: CollisionRadius: %f and %f
+4fc5eca0	PORTALCLASS MISMATCH: Position: %f %f %f and %f %f %f
+4fc5eca0	PORTALCLASS MISMATCH: Position: %f %f %f and %f %f %f
+4fc5ecd8	PORTALCLASS MISMATCH: GotoPoint: %f %f %f and %f %f %f
+4fc5ecd8	PORTALCLASS MISMATCH: GotoPoint: %f %f %f and %f %f %f
+4fc5ed10	PORTALCLASS MISMATCH: ExitPoint Front: %f %f %f and %f %f %f, ExitPoint Right: %f %f %f and %f %f %f, ExitPoint Up: %f %f %f and %f %f %f, ExitPoint Posit: %f %f %f and %f %f %f
+4fc5ed10	PORTALCLASS MISMATCH: ExitPoint Front: %f %f %f and %f %f %f, ExitPoint Right: %f %f %f and %f %f %f, ExitPoint Up: %f %f %f and %f %f %f, ExitPoint Posit: %f %f %f and %f %f %f
+4fc5edc4	PORTALCLASS MISMATCH: DestinationIndex: %d and %d
+4fc5edc4	PORTALCLASS MISMATCH: DestinationIndex: %d and %d
+4fc5edf8	PORTALCLASS MISMATCH: InEffect: %d and %d
+4fc5edf8	PORTALCLASS MISMATCH: InEffect: %d and %d
+4fc5ee24	PORTALCLASS MISMATCH: OutEffect: %d and %d
+4fc5ee24	PORTALCLASS MISMATCH: OutEffect: %d and %d
+4fc5ee50	PORTALCLASS MISMATCH: OnEffect: %d and %d
+4fc5ee50	PORTALCLASS MISMATCH: OnEffect: %d and %d
+4fc5ee7c	PORTALCLASS MISMATCH: VehInEffect: %d and %d
+4fc5ee7c	PORTALCLASS MISMATCH: VehInEffect: %d and %d
+4fc5eeac	PORTALCLASS MISMATCH: VehOutEffect: %d and %d
+4fc5eeac	PORTALCLASS MISMATCH: VehOutEffect: %d and %d
+4fc5eedc	PORTALCLASS MISMATCH: ContinuousFxRange: %f and %f
+4fc5eedc	PORTALCLASS MISMATCH: ContinuousFxRange: %f and %f
+4fc5ef10	PORTALCLASS MISMATCH: TeleporterName: '%s' and '%s'
+4fc5ef10	PORTALCLASS MISMATCH: TeleporterName: '%s' and '%s'
+4fc5ef44	PORTALCLASS MISMATCH: EffectBaseODF: '%s' and '%s'
+4fc5ef44	PORTALCLASS MISMATCH: EffectBaseODF: '%s' and '%s'
+4fc5ef78	PORTALCLASS MISMATCH: EffectHardLifeTime[%d]: %d and %d
+4fc5ef78	PORTALCLASS MISMATCH: EffectHardLifeTime[%d]: %d and %d
+4fc5efb0	PORTALCLASS MISMATCH: TooFarSound: '%s' and '%s'
+4fc5efb0	PORTALCLASS MISMATCH: TooFarSound: '%s' and '%s'
+4fc5efe4	PORTALCLASS MISMATCH: TooCloseSound: '%s' and '%s'
+4fc5efe4	PORTALCLASS MISMATCH: TooCloseSound: '%s' and '%s'
+4fc5f018	PORTALCLASS MISMATCH: ActivateSound: '%s' and '%s'
+4fc5f018	PORTALCLASS MISMATCH: ActivateSound: '%s' and '%s'
+4fc5f04c	PORTALCLASS MISMATCH: DeactivateSound: '%s' and '%s'
+4fc5f04c	PORTALCLASS MISMATCH: DeactivateSound: '%s' and '%s'
+4fc5f084	PORTALCLASS MISMATCH: SoundHandle: %d and %d
+4fc5f084	PORTALCLASS MISMATCH: SoundHandle: %d and %d
+4fc5f0b8	TELEPORTTARGETCLASS MISMATCH: TeleportTarget: %08x '%s' and %08x '%s'
+4fc5f0b8	TELEPORTTARGETCLASS MISMATCH: TeleportTarget: %08x '%s' and %08x '%s'
+4fc5f100	TELEPORTTARGETCLASS MISMATCH: TeleportTargetDestination: %08x '%s' and %08x '%s'
+4fc5f100	TELEPORTTARGETCLASS MISMATCH: TeleportTargetDestination: %08x '%s' and %08x '%s'
+4fc5f154	TELEPORTTARGETCLASS MISMATCH: DestinationIndex: %d and %d
+4fc5f154	TELEPORTTARGETCLASS MISMATCH: DestinationIndex: %d and %d
+4fc5f190	TELEPORTTARGETCLASS MISMATCH: DestEnterRange: %f and %f
+4fc5f190	TELEPORTTARGETCLASS MISMATCH: DestEnterRange: %f and %f
+4fc5f1c8	TELEPORTTARGETCLASS MISMATCH: DistanceFromDestination: %f and %f
+4fc5f1c8	TELEPORTTARGETCLASS MISMATCH: DistanceFromDestination: %f and %f
+4fc5f20c	PortalList Size Mismatch! Old: %d New: %d
+4fc5f20c	PortalList Size Mismatch! Old: %d New: %d
+4fc5f238	PortalList Index Mismatch: %d
+4fc5f238	PortalList Index Mismatch: %d
+4fc5f258	TeleportTargetList Size Mismatch! Old: %d New: %d
+4fc5f258	TeleportTargetList Size Mismatch! Old: %d New: %d
+4fc5f28c	TeleportTargetList Index Mismatch: %d
+4fc5f28c	TeleportTargetList Index Mismatch: %d
+4fc5f2b4	PortalChannel
+4fc5f2b4	PortalChannel
+4fc5f2c4	TeleportalSwitchClass
+4fc5f2c4	TeleportalSwitchClass
+4fc5f2dc	PortalEffect
+4fc5f2dc	PortalEffect
+4fc5f2ec	TeleportalClass
+4fc5f2ec	TeleportalClass
+4fc5f2fc	InEffect
+4fc5f2fc	InEffect
+4fc5f308	OutEffect
+4fc5f308	OutEffect
+4fc5f314	OnEffect
+4fc5f314	OnEffect
+4fc5f320	VehInEffect
+4fc5f320	VehInEffect
+4fc5f32c	VehOutEffect
+4fc5f32c	VehOutEffect
+4fc5f33c	FxOnVehicle
+4fc5f33c	FxOnVehicle
+4fc5f348	soundActivate
+4fc5f348	soundActivate
+4fc5f358	soundDeactivate
+4fc5f358	soundDeactivate
+4fc5f368	effectsMask
+4fc5f368	effectsMask
+4fc5f374	EffectName%d
+4fc5f374	EffectName%d
+4fc5f384	%s.odf
+4fc5f384	%s.odf
+4fc5f38c	lifeTime
+4fc5f38c	lifeTime
+4fc5f398	TeleporterChannel
+4fc5f398	TeleporterChannel
+4fc5f3ac	ShowChannel
+4fc5f3ac	ShowChannel
+4fc5f3b8	CanEnter
+4fc5f3b8	CanEnter
+4fc5f3c4	CanExit
+4fc5f3c4	CanExit
+4fc5f3cc	MatchType
+4fc5f3cc	MatchType
+4fc5f3d8	MatchTypeUsesChannels
+4fc5f3d8	MatchTypeUsesChannels
+4fc5f3f0	ContinuousFx
+4fc5f3f0	ContinuousFx
+4fc5f400	ContinuousFxRange
+4fc5f400	ContinuousFxRange
+4fc5f414	TeleportColorFade
+4fc5f414	TeleportColorFade
+4fc5f428	TeleportFilter
+4fc5f428	TeleportFilter
+4fc5f438	ExitVelocity
+4fc5f438	ExitVelocity
+4fc5f448	ExitForwardOnly
+4fc5f448	ExitForwardOnly
+4fc5f458	ExitKickAI
+4fc5f458	ExitKickAI
+4fc5f464	ExitUsesCenter
+4fc5f464	ExitUsesCenter
+4fc5f474	EnterGotoIsExit
+4fc5f474	EnterGotoIsExit
+4fc5f484	EnterRange
+4fc5f484	EnterRange
+4fc5f490	DestinationMinRange
+4fc5f490	DestinationMinRange
+4fc5f4a4	DestinationMaxRange
+4fc5f4a4	DestinationMaxRange
+4fc5f4b8	TeleportTeamFilter
+4fc5f4b8	TeleportTeamFilter
+4fc5f4cc	DestinationTeamFilter
+4fc5f4cc	DestinationTeamFilter
+4fc5f4e4	TooFarSound
+4fc5f4e4	TooFarSound
+4fc5f4f0	TeleportalMineClass
+4fc5f4f0	TeleportalMineClass
+4fc5f504	TooCloseSound
+4fc5f504	TooCloseSound
+4fc5f514	channel_
+4fc5f514	channel_
+4fc5f520	Portal
+4fc5f520	Portal
+4fc5f528	AllowOnlyTwo
+4fc5f528	AllowOnlyTwo
+4fc5f538	Channel %d
+4fc5f538	Channel %d
+4fc5f548	Clearing Portal FX: Mode PortalType_NONE Slot: %d, EmitterMask: %d
+4fc5f548	Clearing Portal FX: Mode PortalType_NONE Slot: %d, EmitterMask: %d
+4fc5f590	Clearing Portal FX: Mode PortalType_Closing, Slot: %d, EffectMask: %d
+4fc5f590	Clearing Portal FX: Mode PortalType_Closing, Slot: %d, EffectMask: %d
+4fc5f5d8	Teleporter Target Index: %d Just Teleported, Distnace is: %f
+4fc5f5d8	Teleporter Target Index: %d Just Teleported, Distnace is: %f
+4fc5f618	Locking onto Object: %08x, ODF: '%s', Distance is: %f
+4fc5f618	Locking onto Object: %08x, ODF: '%s', Distance is: %f
+4fc5f650	Entrance Front Vector Is %f %f %f
+4fc5f650	Entrance Front Vector Is %f %f %f
+4fc5f674	Exit Front Vector Is %f %f %f
+4fc5f674	Exit Front Vector Is %f %f %f
+4fc5f694	Player Front Vector Is %f %f %f
+4fc5f694	Player Front Vector Is %f %f %f
+4fc5f6b4	Player Up Vector Is %f %f %f
+4fc5f6b4	Player Up Vector Is %f %f %f
+4fc5f6d4	Player Right Vector Is %f %f %f
+4fc5f6d4	Player Right Vector Is %f %f %f
+4fc5f6f4	Player Velocity Vector Is %f %f %f
+4fc5f6f4	Player Velocity Vector Is %f %f %f
+4fc5f718	New Front Vector Is %f %f %f
+4fc5f718	New Front Vector Is %f %f %f
+4fc5f738	New Up Vector Is %f %f %f
+4fc5f738	New Up Vector Is %f %f %f
+4fc5f754	New Right Vector Is %f %f %f
+4fc5f754	New Right Vector Is %f %f %f
+4fc5f774	New Velocity Vector Is %f %f %f
+4fc5f774	New Velocity Vector Is %f %f %f
+4fc5f798	Teleporter on Team: %d Index: %d Aquired Target on Team: %d Handle: %08x Label: %s Distance is: %f
+4fc5f798	Teleporter on Team: %d Index: %d Aquired Target on Team: %d Handle: %08x Label: %s Distance is: %f
+4fc5f800	PortalFx_Start FxNum: %d, Type: %d, EffectHard%d, LifeTime: %d, EffectMask: %d
+4fc5f800	PortalFx_Start FxNum: %d, Type: %d, EffectHard%d, LifeTime: %d, EffectMask: %d
+4fc5f850	PortalFx_On FxNum: %d, Type: %d, EffectHard%d, LifeTime: %d, EffectMask: %d
+4fc5f850	PortalFx_On FxNum: %d, Type: %d, EffectHard%d, LifeTime: %d, EffectMask: %d
+4fc5f8a0	PortalFx_End FxNum: %d, Type: %d, EffectHard%d, LifeTime: %d, EffectMask: %d
+4fc5f8a0	PortalFx_End FxNum: %d, Type: %d, EffectHard%d, LifeTime: %d, EffectMask: %d
+4fc5f8f0	%s%dEnd
+4fc5f8f0	%s%dEnd
+4fc5f8f8	Render
+4fc5f8f8	Render
+4fc5f900	Teleport Effect '%s' does not exist. Fix ODFs!
+4fc5f900	Teleport Effect '%s' does not exist. Fix ODFs!
+4fc5f930	Teleport Effect ODF '%s' is too long. Fix ODFs!
+4fc5f930	Teleport Effect ODF '%s' is too long. Fix ODFs!
+4fc5f960	ERROR: Portal SoundActivate '%s' Doesn't Exist! FIX ODFs!
+4fc5f960	ERROR: Portal SoundActivate '%s' Doesn't Exist! FIX ODFs!
+4fc5f99c	ERROR: Portal SoundDeactivate '%s' Doesn't Exist! FIX ODFs!
+4fc5f99c	ERROR: Portal SoundDeactivate '%s' Doesn't Exist! FIX ODFs!
+4fc5fa40	GetHandle
+4fc5fa40	GetHandle
+4fc5fa4c	Make_RGB
+4fc5fa4c	Make_RGB
+4fc5fa58	Make_RGBA
+4fc5fa58	Make_RGBA
+4fc5fa64	FailMission
+4fc5fa64	FailMission
+4fc5fa70	SucceedMission
+4fc5fa70	SucceedMission
+4fc5fa80	ChangeSide
+4fc5fa80	ChangeSide
+4fc5fa8c	AddScrap
+4fc5fa8c	AddScrap
+4fc5fa98	SetScrap
+4fc5fa98	SetScrap
+4fc5faa4	GetScrap
+4fc5faa4	GetScrap
+4fc5fab0	GetMaxScrap
+4fc5fab0	GetMaxScrap
+4fc5fabc	GetTime
+4fc5fabc	GetTime
+4fc5fac4	GetTug
+4fc5fac4	GetTug
+4fc5facc	HasCargo
+4fc5facc	HasCargo
+4fc5fad8	GetDistance
+4fc5fad8	GetDistance
+4fc5fae4	GetNearestObject
+4fc5fae4	GetNearestObject
+4fc5faf8	GetNearestVehicle
+4fc5faf8	GetNearestVehicle
+4fc5fb0c	GetNearestBuilding
+4fc5fb0c	GetNearestBuilding
+4fc5fb20	GetNearestEnemy
+4fc5fb20	GetNearestEnemy
+4fc5fb30	BuildObject
+4fc5fb30	BuildObject
+4fc5fb3c	RemoveObject
+4fc5fb3c	RemoveObject
+4fc5fb4c	GetFirstEmptyGroup
+4fc5fb4c	GetFirstEmptyGroup
+4fc5fb60	SetGroup
+4fc5fb60	SetGroup
+4fc5fb6c	Attack
+4fc5fb6c	Attack
+4fc5fb74	Service
+4fc5fb74	Service
+4fc5fb7c	Goto
+4fc5fb7c	Goto
+4fc5fb84	Mine
+4fc5fb84	Mine
+4fc5fb8c	Follow
+4fc5fb8c	Follow
+4fc5fb94	Defend
+4fc5fb94	Defend
+4fc5fb9c	Defend2
+4fc5fb9c	Defend2
+4fc5fba4	Stop
+4fc5fba4	Stop
+4fc5fbac	Patrol
+4fc5fbac	Patrol
+4fc5fbb4	Retreat
+4fc5fbb4	Retreat
+4fc5fbbc	GetIn
+4fc5fbbc	GetIn
+4fc5fbc4	Pickup
+4fc5fbc4	Pickup
+4fc5fbcc	Dropoff
+4fc5fbcc	Dropoff
+4fc5fbd4	Build
+4fc5fbd4	Build
+4fc5fbdc	LookAt
+4fc5fbdc	LookAt
+4fc5fbe4	AllLookAt
+4fc5fbe4	AllLookAt
+4fc5fbf0	IsOdf
+4fc5fbf0	IsOdf
+4fc5fbf8	GetRace
+4fc5fbf8	GetRace
+4fc5fc00	GetPlayerHandle
+4fc5fc00	GetPlayerHandle
+4fc5fc10	IsAlive
+4fc5fc10	IsAlive
+4fc5fc18	IsFlying
+4fc5fc18	IsFlying
+4fc5fc24	IsAliveAndPilot
+4fc5fc24	IsAliveAndPilot
+4fc5fc34	IsAround
+4fc5fc34	IsAround
+4fc5fc40	InBuilding
+4fc5fc40	InBuilding
+4fc5fc4c	AtTerminal
+4fc5fc4c	AtTerminal
+4fc5fc58	GetPosition
+4fc5fc58	GetPosition
+4fc5fc64	GetPosition2
+4fc5fc64	GetPosition2
+4fc5fc74	GetFront
+4fc5fc74	GetFront
+4fc5fc80	SetPosition
+4fc5fc80	SetPosition
+4fc5fc8c	Damage
+4fc5fc8c	Damage
+4fc5fc94	GetHealth
+4fc5fc94	GetHealth
+4fc5fca0	GetCurHealth
+4fc5fca0	GetCurHealth
+4fc5fcb0	GetMaxHealth
+4fc5fcb0	GetMaxHealth
+4fc5fcc0	SetCurHealth
+4fc5fcc0	SetCurHealth
+4fc5fcd0	SetMaxHealth
+4fc5fcd0	SetMaxHealth
+4fc5fce0	AddHealth
+4fc5fce0	AddHealth
+4fc5fcec	GetAmmo
+4fc5fcec	GetAmmo
+4fc5fcf4	GetCurAmmo
+4fc5fcf4	GetCurAmmo
+4fc5fd00	GetMaxAmmo
+4fc5fd00	GetMaxAmmo
+4fc5fd0c	SetCurAmmo
+4fc5fd0c	SetCurAmmo
+4fc5fd18	SetMaxAmmo
+4fc5fd18	SetMaxAmmo
+4fc5fd24	AddAmmo
+4fc5fd24	AddAmmo
+4fc5fd2c	GetTeamNum
+4fc5fd2c	GetTeamNum
+4fc5fd38	SetTeamNum
+4fc5fd38	SetTeamNum
+4fc5fd44	SetVelocity
+4fc5fd44	SetVelocity
+4fc5fd50	SetControls
+4fc5fd50	SetControls
+4fc5fd5c	GetWhoShotMe
+4fc5fd5c	GetWhoShotMe
+4fc5fd6c	GetLastEnemyShot
+4fc5fd6c	GetLastEnemyShot
+4fc5fd80	GetLastFriendShot
+4fc5fd80	GetLastFriendShot
+4fc5fd94	TeamplayAllies
+4fc5fd94	TeamplayAllies
+4fc5fda4	Ally
+4fc5fda4	Ally
+4fc5fdac	UnAlly
+4fc5fdac	UnAlly
+4fc5fdb4	IsTeamAllied
+4fc5fdb4	IsTeamAllied
+4fc5fdc4	IsAlly
+4fc5fdc4	IsAlly
+4fc5fdcc	AudioMessage
+4fc5fdcc	AudioMessage
+4fc5fddc	IsAudioMessageDone
+4fc5fddc	IsAudioMessageDone
+4fc5fdf0	StopAudioMessage
+4fc5fdf0	StopAudioMessage
+4fc5fe04	PreloadAudioMessage
+4fc5fe04	PreloadAudioMessage
+4fc5fe18	PurgeAudioMessage
+4fc5fe18	PurgeAudioMessage
+4fc5fe2c	PreloadMusicMessage
+4fc5fe2c	PreloadMusicMessage
+4fc5fe40	PurgeMusicMessage
+4fc5fe40	PurgeMusicMessage
+4fc5fe54	LoadJukeFile
+4fc5fe54	LoadJukeFile
+4fc5fe64	SetMusicIntensity
+4fc5fe64	SetMusicIntensity
+4fc5fe78	GetAiPaths
+4fc5fe78	GetAiPaths
+4fc5fe84	SetPathType
+4fc5fe84	SetPathType
+4fc5fe90	SetIndependence
+4fc5fe90	SetIndependence
+4fc5fea0	IsInfo
+4fc5fea0	IsInfo
+4fc5fea8	StartCockpitTimer
+4fc5fea8	StartCockpitTimer
+4fc5febc	StartCockpitTimerUp
+4fc5febc	StartCockpitTimerUp
+4fc5fed0	StopCockpitTimer
+4fc5fed0	StopCockpitTimer
+4fc5fee4	HideCockpitTimer
+4fc5fee4	HideCockpitTimer
+4fc5fef8	GetCockpitTimer
+4fc5fef8	GetCockpitTimer
+4fc5ff08	StartEarthQuake
+4fc5ff08	StartEarthQuake
+4fc5ff18	UpdateEarthQuake
+4fc5ff18	UpdateEarthQuake
+4fc5ff2c	StopEarthQuake
+4fc5ff2c	StopEarthQuake
+4fc5ff3c	IsPerson
+4fc5ff3c	IsPerson
+4fc5ff48	GetCurWorld
+4fc5ff48	GetCurWorld
+4fc5ff54	GetVarItemStr
+4fc5ff54	GetVarItemStr
+4fc5ff64	GetVarItemInt
+4fc5ff64	GetVarItemInt
+4fc5ff74	GetCVarItemInt
+4fc5ff74	GetCVarItemInt
+4fc5ff84	GetCVarItemStr
+4fc5ff84	GetCVarItemStr
+4fc5ff94	PreloadODF
+4fc5ff94	PreloadODF
+4fc5ffa0	TerrainFindFloor
+4fc5ffa0	TerrainFindFloor
+4fc5ffb4	AddPilotByHandle
+4fc5ffb4	AddPilotByHandle
+4fc5ffc8	PrintConsoleMessage
+4fc5ffc8	PrintConsoleMessage
+4fc5ffdc	GetRandomFloat
+4fc5ffdc	GetRandomFloat
+4fc5ffec	IsDeployed
+4fc5ffec	IsDeployed
+4fc5fff8	Deploy
+4fc5fff8	Deploy
+4fc60000	IsSelected
+4fc60000	IsSelected
+4fc6000c	SetWeaponMask
+4fc6000c	SetWeaponMask
+4fc6001c	GiveWeapon
+4fc6001c	GiveWeapon
+4fc60028	FireAt
+4fc60028	FireAt
+4fc60030	IsFollowing
+4fc60030	IsFollowing
+4fc6003c	WhoFollowing
+4fc6003c	WhoFollowing
+4fc6004c	SetUserTarget
+4fc6004c	SetUserTarget
+4fc6005c	GetUserTarget
+4fc6005c	GetUserTarget
+4fc6006c	SetPerceivedTeam
+4fc6006c	SetPerceivedTeam
+4fc60080	GetCurrentCommand
+4fc60080	GetCurrentCommand
+4fc60094	GetCurrentWho
+4fc60094	GetCurrentWho
+4fc600a4	EjectPilot
+4fc600a4	EjectPilot
+4fc600b0	HopOut
+4fc600b0	HopOut
+4fc600b8	KillPilot
+4fc600b8	KillPilot
+4fc600c4	RemovePilot
+4fc600c4	RemovePilot
+4fc600d0	HoppedOutOf
+4fc600d0	HoppedOutOf
+4fc600dc	GetCameraPosition
+4fc600dc	GetCameraPosition
+4fc600f0	SetCameraPosition
+4fc600f0	SetCameraPosition
+4fc60104	ResetCameraPosition
+4fc60104	ResetCameraPosition
+4fc60118	CalcCRC
+4fc60118	CalcCRC
+4fc60120	IFace_Exec
+4fc60120	IFace_Exec
+4fc6012c	IFace_Activate
+4fc6012c	IFace_Activate
+4fc6013c	IFace_Deactivate
+4fc6013c	IFace_Deactivate
+4fc60150	IFace_CreateCommand
+4fc60150	IFace_CreateCommand
+4fc60164	IFace_CreateString
+4fc60164	IFace_CreateString
+4fc60178	IFace_SetString
+4fc60178	IFace_SetString
+4fc60188	IFace_GetString
+4fc60188	IFace_GetString
+4fc60198	IFace_CreateInteger
+4fc60198	IFace_CreateInteger
+4fc601ac	IFace_SetInteger
+4fc601ac	IFace_SetInteger
+4fc601c0	IFace_GetInteger
+4fc601c0	IFace_GetInteger
+4fc601d4	IFace_SetIntegerRange
+4fc601d4	IFace_SetIntegerRange
+4fc601ec	IFace_CreateFloat
+4fc601ec	IFace_CreateFloat
+4fc60200	IFace_SetFloat
+4fc60200	IFace_SetFloat
+4fc60210	IFace_GetFloat
+4fc60210	IFace_GetFloat
+4fc60220	IFace_ClearListBox
+4fc60220	IFace_ClearListBox
+4fc60234	IFace_AddTextItem
+4fc60234	IFace_AddTextItem
+4fc60248	IFace_GetSelectedItem
+4fc60248	IFace_GetSelectedItem
+4fc60260	SetSkill
+4fc60260	SetSkill
+4fc6026c	SetAIP
+4fc6026c	SetAIP
+4fc60274	LogFloat
+4fc60274	LogFloat
+4fc60280	GetInstantMyForce
+4fc60280	GetInstantMyForce
+4fc60294	GetInstantCompForce
+4fc60294	GetInstantCompForce
+4fc602a8	GetInstantDifficulty
+4fc602a8	GetInstantDifficulty
+4fc602c0	GetInstantGoal
+4fc602c0	GetInstantGoal
+4fc602d0	GetInstantType
+4fc602d0	GetInstantType
+4fc602e0	GetInstantFlag
+4fc602e0	GetInstantFlag
+4fc602f0	GetInstantMySide
+4fc602f0	GetInstantMySide
+4fc60304	CameraReady
+4fc60304	CameraReady
+4fc60310	CameraPath
+4fc60310	CameraPath
+4fc6031c	CameraPathDir
+4fc6031c	CameraPathDir
+4fc6032c	PanDone
+4fc6032c	PanDone
+4fc60334	CameraObject
+4fc60334	CameraObject
+4fc60344	CameraFinish
+4fc60344	CameraFinish
+4fc60354	CameraCancelled
+4fc60354	CameraCancelled
+4fc60364	FreeCamera
+4fc60364	FreeCamera
+4fc60370	FreeFinish
+4fc60370	FreeFinish
+4fc6037c	PlayMovie
+4fc6037c	PlayMovie
+4fc60388	StopMovie
+4fc60388	StopMovie
+4fc60394	PlayMove
+4fc60394	PlayMove
+4fc603a0	PlayRecording
+4fc603a0	PlayRecording
+4fc603b0	PlaybackVehicle
+4fc603b0	PlaybackVehicle
+4fc603c0	SetAnimation
+4fc603c0	SetAnimation
+4fc603d0	GetAnimationFrame
+4fc603d0	GetAnimationFrame
+4fc603e4	StartAnimation
+4fc603e4	StartAnimation
+4fc603f4	MaskEmitter
+4fc603f4	MaskEmitter
+4fc60400	StartEmitter
+4fc60400	StartEmitter
+4fc60410	StopEmitter
+4fc60410	StopEmitter
+4fc6041c	SetObjectiveOn
+4fc6041c	SetObjectiveOn
+4fc6042c	SetObjectiveOff
+4fc6042c	SetObjectiveOff
+4fc6043c	SetObjectiveName
+4fc6043c	SetObjectiveName
+4fc60450	ClearObjectives
+4fc60450	ClearObjectives
+4fc60460	AddObjective
+4fc60460	AddObjective
+4fc60470	IsWithin
+4fc60470	IsWithin
+4fc6047c	CountUnitsNearObject
+4fc6047c	CountUnitsNearObject
+4fc60494	SetAvoidType
+4fc60494	SetAvoidType
+4fc604a4	Annoy
+4fc604a4	Annoy
+4fc604ac	ClearThrust
+4fc604ac	ClearThrust
+4fc604b8	SetVerbose
+4fc604b8	SetVerbose
+4fc604c4	ClearIdleAnims
+4fc604c4	ClearIdleAnims
+4fc604d4	AddIdleAnim
+4fc604d4	AddIdleAnim
+4fc604e0	IsIdle
+4fc604e0	IsIdle
+4fc604e8	CountThreats
+4fc604e8	CountThreats
+4fc604f8	SpawnBirds
+4fc604f8	SpawnBirds
+4fc60504	RemoveBirds
+4fc60504	RemoveBirds
+4fc60510	SetColorFade
+4fc60510	SetColorFade
+4fc60520	StopCheats
+4fc60520	StopCheats
+4fc6052c	CalcCliffs
+4fc6052c	CalcCliffs
+4fc60538	StartSoundEffect
+4fc60538	StartSoundEffect
+4fc6054c	FindSoundEffect
+4fc6054c	FindSoundEffect
+4fc6055c	StopSoundEffect
+4fc6055c	StopSoundEffect
+4fc6056c	GetObjectByTeamSlot
+4fc6056c	GetObjectByTeamSlot
+4fc60580	IsNetworkOn
+4fc60580	IsNetworkOn
+4fc6058c	ImServer
+4fc6058c	ImServer
+4fc60598	ImDedicatedServer
+4fc60598	ImDedicatedServer
+4fc605ac	IsTeamplayOn
+4fc605ac	IsTeamplayOn
+4fc605bc	CountPlayers
+4fc605bc	CountPlayers
+4fc605cc	GetRaceOfTeam
+4fc605cc	GetRaceOfTeam
+4fc605dc	IsPlayer
+4fc605dc	IsPlayer
+4fc605e8	GetPlayerName
+4fc605e8	GetPlayerName
+4fc605f8	WhichTeamGroup
+4fc605f8	WhichTeamGroup
+4fc60608	CountAllies
+4fc60608	CountAllies
+4fc60614	GetCommanderTeam
+4fc60614	GetCommanderTeam
+4fc60628	GetFirstAlliedTeam
+4fc60628	GetFirstAlliedTeam
+4fc6063c	GetLastAlliedTeam
+4fc6063c	GetLastAlliedTeam
+4fc60650	GetTeamplayRanges
+4fc60650	GetTeamplayRanges
+4fc60664	SetRandomHeadingAngle
+4fc60664	SetRandomHeadingAngle
+4fc6067c	ClearTeamColors
+4fc6067c	ClearTeamColors
+4fc6068c	DefaultTeamColors
+4fc6068c	DefaultTeamColors
+4fc606a0	TeamplayTeamColors
+4fc606a0	TeamplayTeamColors
+4fc606b4	SetTeamColor
+4fc606b4	SetTeamColor
+4fc606c4	ClearTeamColor
+4fc606c4	ClearTeamColor
+4fc606d4	MakeInert
+4fc606d4	MakeInert
+4fc606e0	GetPositionNear
+4fc606e0	GetPositionNear
+4fc606f0	GetPlayerODF
+4fc606f0	GetPlayerODF
+4fc60700	BuildEmptyCraftNear
+4fc60700	BuildEmptyCraftNear
+4fc60714	GetCircularPos
+4fc60714	GetCircularPos
+4fc60724	GetSafestSpawnpoint
+4fc60724	GetSafestSpawnpoint
+4fc60738	GetSpawnpoint
+4fc60738	GetSpawnpoint
+4fc60748	GetSpawnpointHandle
+4fc60748	GetSpawnpointHandle
+4fc6075c	GetRandomSpawnpoint
+4fc6075c	GetRandomSpawnpoint
+4fc60770	SetTimerBox
+4fc60770	SetTimerBox
+4fc6077c	AddToMessagesBox
+4fc6077c	AddToMessagesBox
+4fc60790	GetDeaths
+4fc60790	GetDeaths
+4fc6079c	GetKills
+4fc6079c	GetKills
+4fc607a8	GetScore
+4fc607a8	GetScore
+4fc607b4	SetDeaths
+4fc607b4	SetDeaths
+4fc607c0	SetKills
+4fc607c0	SetKills
+4fc607cc	SetScore
+4fc607cc	SetScore
+4fc607d8	AddDeaths
+4fc607d8	AddDeaths
+4fc607e4	AddKills
+4fc607e4	AddKills
+4fc607f0	AddScore
+4fc607f0	AddScore
+4fc607fc	SetAsUser
+4fc607fc	SetAsUser
+4fc60808	SetNoScrapFlagByHandle
+4fc60808	SetNoScrapFlagByHandle
+4fc60820	ClearNoScrapFlagByHandle
+4fc60820	ClearNoScrapFlagByHandle
+4fc6083c	GetLocalPlayerTeamNumber
+4fc6083c	GetLocalPlayerTeamNumber
+4fc60858	GetLocalPlayerDPID
+4fc60858	GetLocalPlayerDPID
+4fc6086c	FlagSteal
+4fc6086c	FlagSteal
+4fc60878	FlagRecover
+4fc60878	FlagRecover
+4fc60884	FlagScore
+4fc60884	FlagScore
+4fc60890	MoneyScore
+4fc60890	MoneyScore
+4fc6089c	NoteGameoverByTimelimit
+4fc6089c	NoteGameoverByTimelimit
+4fc608b4	NoteGameoverByKillLimit
+4fc608b4	NoteGameoverByKillLimit
+4fc608cc	NoteGameoverByScore
+4fc608cc	NoteGameoverByScore
+4fc608e0	NoteGameoverByLastWithBase
+4fc608e0	NoteGameoverByLastWithBase
+4fc608fc	NoteGameoverByLastTeamWithBase
+4fc608fc	NoteGameoverByLastTeamWithBase
+4fc6091c	NoteGameoverByNoBases
+4fc6091c	NoteGameoverByNoBases
+4fc60934	DoGameover
+4fc60934	DoGameover
+4fc60940	SetMPTeamRace
+4fc60940	SetMPTeamRace
+4fc60950	GetTarget
+4fc60950	GetTarget
+4fc6095c	IFace_ConsoleCmd
+4fc6095c	IFace_ConsoleCmd
+4fc60970	Network_SetString
+4fc60970	Network_SetString
+4fc60984	Network_SetInteger
+4fc60984	Network_SetInteger
+4fc60998	GetVelocity
+4fc60998	GetVelocity
+4fc609a4	GetCfg
+4fc609a4	GetCfg
+4fc609ac	GetOdf
+4fc609ac	GetOdf
+4fc609b4	GetBase
+4fc609b4	GetBase
+4fc609bc	GetClassSig
+4fc609bc	GetClassSig
+4fc609c8	GetClassLabel
+4fc609c8	GetClassLabel
+4fc609d8	GetWeaponConfig
+4fc609d8	GetWeaponConfig
+4fc609e8	GetWeaponODF
+4fc609e8	GetWeaponODF
+4fc609f8	GetWeaponGOClass
+4fc609f8	GetWeaponGOClass
+4fc60a0c	DoesODFExist
+4fc60a0c	DoesODFExist
+4fc60a1c	TranslateString
+4fc60a1c	TranslateString
+4fc60a2c	GetScavengerCurScrap
+4fc60a2c	GetScavengerCurScrap
+4fc60a44	GetScavengerMaxScrap
+4fc60a44	GetScavengerMaxScrap
+4fc60a5c	SetScavengerCurScrap
+4fc60a5c	SetScavengerCurScrap
+4fc60a74	SetScavengerMaxScrap
+4fc60a74	SetScavengerMaxScrap
+4fc60a8c	SelfDamage
+4fc60a8c	SelfDamage
+4fc60a98	WantBotKillMessages
+4fc60a98	WantBotKillMessages
+4fc60aac	EnableHighTPS
+4fc60aac	EnableHighTPS
+4fc60abc	GetLocalUserInspectHandle
+4fc60abc	GetLocalUserInspectHandle
+4fc60ad8	GetLocalUserSelectHandle
+4fc60ad8	GetLocalUserSelectHandle
+4fc60af4	ResetTeamSlot
+4fc60af4	ResetTeamSlot
+4fc60b04	GetCategoryTypeOverride
+4fc60b04	GetCategoryTypeOverride
+4fc60b1c	GetCategoryType
+4fc60b1c	GetCategoryType
+4fc60b2c	GetODFHexInt
+4fc60b2c	GetODFHexInt
+4fc60b3c	GetODFInt
+4fc60b3c	GetODFInt
+4fc60b48	GetODFLong
+4fc60b48	GetODFLong
+4fc60b54	GetODFFloat
+4fc60b54	GetODFFloat
+4fc60b60	GetODFDouble
+4fc60b60	GetODFDouble
+4fc60b70	GetODFChar
+4fc60b70	GetODFChar
+4fc60b7c	GetODFBool
+4fc60b7c	GetODFBool
+4fc60b88	GetODFString
+4fc60b88	GetODFString
+4fc60b98	GetODFColor
+4fc60b98	GetODFColor
+4fc60ba4	GetODFVector
+4fc60ba4	GetODFVector
+4fc60bb4	NoteGameoverWithCustomMessage
+4fc60bb4	NoteGameoverWithCustomMessage
+4fc60bd4	SetBestGroup
+4fc60bd4	SetBestGroup
+4fc60be4	GetGroup
+4fc60be4	GetGroup
+4fc60bf0	GetGroupCount
+4fc60bf0	GetGroupCount
+4fc60c00	SetLifespan
+4fc60c00	SetLifespan
+4fc60c0c	DoesFileExist
+4fc60c0c	DoesFileExist
+4fc60c1c	LoadFile
+4fc60c1c	LoadFile
+4fc60c28	StartAudio3D
+4fc60c28	StartAudio3D
+4fc60c38	StartAudio2D
+4fc60c38	StartAudio2D
+4fc60c48	IsAudioPlaying
+4fc60c48	IsAudioPlaying
+4fc60c58	StopAudio
+4fc60c58	StopAudio
+4fc60c64	PauseAudio
+4fc60c64	PauseAudio
+4fc60c70	ResumeAudio
+4fc60c70	ResumeAudio
+4fc60c7c	SetVolume
+4fc60c7c	SetVolume
+4fc60c88	SetPan
+4fc60c88	SetPan
+4fc60c90	SetRate
+4fc60c90	SetRate
+4fc60c98	GetAudioFileDuration
+4fc60c98	GetAudioFileDuration
+4fc60cb0	IsPlayingLooped
+4fc60cb0	IsPlayingLooped
+4fc60cc0	GetNearestPowerup
+4fc60cc0	GetNearestPowerup
+4fc60cd4	GetNearestPerson
+4fc60cd4	GetNearestPerson
+4fc60ce8	SetCommand
+4fc60ce8	SetCommand
+4fc60cf4	SetGravity
+4fc60cf4	SetGravity
+4fc60d00	SetAutoGroupUnits
+4fc60d00	SetAutoGroupUnits
+4fc60d14	KickPlayer
+4fc60d14	KickPlayer
+4fc60d20	TerrainIsWater
+4fc60d20	TerrainIsWater
+4fc60d30	GetTerrainHeightAndNormal
+4fc60d30	GetTerrainHeightAndNormal
+4fc60d4c	WriteToFile
+4fc60d4c	WriteToFile
+4fc60d58	GetPathPoints
+4fc60d58	GetPathPoints
+4fc60d68	GetOwner
+4fc60d68	GetOwner
+4fc60d74	SetTarget
+4fc60d74	SetTarget
+4fc60d80	SetOwner
+4fc60d80	SetOwner
+4fc60d8c	SetPilotClass
+4fc60d8c	SetPilotClass
+4fc60d9c	AllowRandomTracks
+4fc60d9c	AllowRandomTracks
+4fc60db0	SetFFATeamColors
+4fc60db0	SetFFATeamColors
+4fc60dc4	SetTeamStratColors
+4fc60dc4	SetTeamStratColors
+4fc60dd8	GetFFATeamColor
+4fc60dd8	GetFFATeamColor
+4fc60de8	GetFFATeamColorVector
+4fc60de8	GetFFATeamColorVector
+4fc60e00	GetTeamStratColor
+4fc60e00	GetTeamStratColor
+4fc60e14	GetTeamStratColorVector
+4fc60e14	GetTeamStratColorVector
+4fc60e2c	SwapTeamStratColors
+4fc60e2c	SwapTeamStratColors
+4fc60e40	GetTeamColorsAreFFA
+4fc60e40	GetTeamColorsAreFFA
+4fc60e54	SetTeamColors
+4fc60e54	SetTeamColors
+4fc60e64	AddPower
+4fc60e64	AddPower
+4fc60e70	SetPower
+4fc60e70	SetPower
+4fc60e7c	GetPower
+4fc60e7c	GetPower
+4fc60e88	GetMaxPower
+4fc60e88	GetMaxPower
+4fc60e94	AddMaxPower
+4fc60e94	AddMaxPower
+4fc60ea0	AddMaxScrap
+4fc60ea0	AddMaxScrap
+4fc60eac	SetMaxScrap
+4fc60eac	SetMaxScrap
+4fc60eb8	SetMaxPower
+4fc60eb8	SetMaxPower
+4fc60ec4	GetTeamStratIndividualColor
+4fc60ec4	GetTeamStratIndividualColor
+4fc60ee0	GetTeamStratIndividualColorVector
+4fc60ee0	GetTeamStratIndividualColorVector
+4fc60f04	GetMapTRNFilename
+4fc60f04	GetMapTRNFilename
+4fc60f18	IsNotDeadAndPilot
+4fc60f18	IsNotDeadAndPilot
+4fc60f2c	GetLabel
+4fc60f2c	GetLabel
+4fc60f38	SetLabel
+4fc60f38	SetLabel
+4fc60f44	GetTap
+4fc60f44	GetTap
+4fc60f4c	SetTap
+4fc60f4c	SetTap
+4fc60f54	GetCurLocalAmmo
+4fc60f54	GetCurLocalAmmo
+4fc60f64	AddLocalAmmo
+4fc60f64	AddLocalAmmo
+4fc60f74	GetMaxLocalAmmo
+4fc60f74	GetMaxLocalAmmo
+4fc60f84	SetCurLocalAmmo
+4fc60f84	SetCurLocalAmmo
+4fc60f94	GetNetworkListItem
+4fc60f94	GetNetworkListItem
+4fc60fa8	GetNetworkListCount
+4fc60fa8	GetNetworkListCount
+4fc60fbc	GetTeamRelationship
+4fc60fbc	GetTeamRelationship
+4fc60fd0	HasPilot
+4fc60fd0	HasPilot
+4fc60fdc	GetPilotClass
+4fc60fdc	GetPilotClass
+4fc60fec	GetBaseScrapCost
+4fc60fec	GetBaseScrapCost
+4fc61000	GetActualScrapCost
+4fc61000	GetActualScrapCost
+4fc61014	PetWatchdogThread
+4fc61014	PetWatchdogThread
+4fc61028	GetPerceivedTeam
+4fc61028	GetPerceivedTeam
+4fc6103c	SetLastCurrentPosition
+4fc6103c	SetLastCurrentPosition
+4fc61054	GetRemainingLifespan
+4fc61054	GetRemainingLifespan
+4fc6106c	GetAllSpawnpoints
+4fc6106c	GetAllSpawnpoints
+4fc61080	GetPlan
+4fc61080	GetPlan
+4fc61088	GetIndependence
+4fc61088	GetIndependence
+4fc61098	GetSkill
+4fc61098	GetSkill
+4fc610a4	GetObjectiveName
+4fc610a4	GetObjectiveName
+4fc610b8	GetWeaponMask
+4fc610b8	GetWeaponMask
+4fc610c8	SetInterpolablePosition
+4fc610c8	SetInterpolablePosition
+4fc610e0	SecondsToTurns
+4fc610e0	SecondsToTurns
+4fc610f0	TurnsToSeconds
+4fc610f0	TurnsToSeconds
+4fc61100	GetLifeSpan
+4fc61100	GetLifeSpan
+4fc6110c	GetCurrentCommandWhere
+4fc6110c	GetCurrentCommandWhere
+4fc61124	GetAllGameObjectHandles
+4fc61124	GetAllGameObjectHandles
+4fc6113c	GetOmega
+4fc6113c	GetOmega
+4fc61148	SetOmega
+4fc61148	SetOmega
+4fc61154	IsCraftButNotPerson
+4fc61154	IsCraftButNotPerson
+4fc61168	IsCraftOrPerson
+4fc61168	IsCraftOrPerson
+4fc61178	IsBuilding
+4fc61178	IsBuilding
+4fc61184	IsPowerup
+4fc61184	IsPowerup
+4fc61190	SetCanSnipe
+4fc61190	SetCanSnipe
+4fc6119c	GetCanSnipe
+4fc6119c	GetCanSnipe
+4fc611a8	WhoIsTargeting
+4fc611a8	WhoIsTargeting
+4fc611b8	GetPilotOdf
+4fc611b8	GetPilotOdf
+4fc611c4	SetTeamNameForStat
+4fc611c4	SetTeamNameForStat
+4fc611d8	CanBuild
+4fc611d8	CanBuild
+4fc611e4	IsBusy
+4fc611e4	IsBusy
+4fc611ec	GetBuildClass
+4fc611ec	GetBuildClass
+4fc611fc	GetQueuedItem
+4fc611fc	GetQueuedItem
+4fc6120c	GetMissionFilename
+4fc6120c	GetMissionFilename
+4fc61220	GetEjectRatio
+4fc61220	GetEjectRatio
+4fc61230	SetEjectRatio
+4fc61230	SetEjectRatio
+4fc61240	GetLookFront
+4fc61240	GetLookFront
+4fc61250	PauseAnimation
+4fc61250	PauseAnimation
+4fc61260	ResumeAnimation
+4fc61260	ResumeAnimation
+4fc61270	GetAnimationDirection
+4fc61270	GetAnimationDirection
+4fc61288	IsPowered
+4fc61288	IsPowered
+4fc61294	GetEmitterMask
+4fc61294	GetEmitterMask
+4fc612a4	IsEmitterOn
+4fc612a4	IsEmitterOn
+4fc612b0	IFace_EnterMenuMode
+4fc612b0	IFace_EnterMenuMode
+4fc612c4	IFace_ExitMenuMode
+4fc612c4	IFace_ExitMenuMode
+4fc612d8	DoTaunt
+4fc612d8	DoTaunt
+4fc612e0	SetTauntCPUTeamName
+4fc612e0	SetTauntCPUTeamName
+4fc612f4	SetAngle
+4fc612f4	SetAngle
+4fc61300	CameraPos
+4fc61300	CameraPos
+4fc6130c	CameraOf
+4fc6130c	CameraOf
+4fc61318	Move
+4fc61318	Move
+4fc61320	ReplaceObject
+4fc61320	ReplaceObject
+4fc61330	IsValid
+4fc61330	IsValid
+4fc61338	GetAIP
+4fc61338	GetAIP
+4fc61340	GetFloorHeightAndNormal
+4fc61340	GetFloorHeightAndNormal
+4fc61358	GetWeaponClass
+4fc61358	GetWeaponClass
+4fc61368	GetTeamSlot
+4fc61368	GetTeamSlot
+4fc61374	IsNetGame
+4fc61374	IsNetGame
+4fc61380	IsHosting
+4fc61380	IsHosting
+4fc6138c	CanCommand
+4fc6138c	CanCommand
+4fc61398	SetPathOneWay
+4fc61398	SetPathOneWay
+4fc613a8	SetPathRoundTrip
+4fc613a8	SetPathRoundTrip
+4fc613bc	SetPathLoop
+4fc613bc	SetPathLoop
+4fc613c8	SetTransform
+4fc613c8	SetTransform
+4fc613d8	GetTransform
+4fc613d8	GetTransform
+4fc613e8	GetTransform2
+4fc613e8	GetTransform2
+4fc613f8	GetRecyclerHandle
+4fc613f8	GetRecyclerHandle
+4fc6140c	GetFactoryHandle
+4fc6140c	GetFactoryHandle
+4fc61420	GetArmoryHandle
+4fc61420	GetArmoryHandle
+4fc61430	GetTimeStep
+4fc61430	GetTimeStep
+4fc6143c	IsInsideArea
+4fc6143c	IsInsideArea
+4fc6144c	GetWindingNumber
+4fc6144c	GetWindingNumber
+4fc61460	GetTPS
+4fc61460	GetTPS
+4fc61468	DoesPathExist
+4fc61468	DoesPathExist
+4fc61478	SetVector
+4fc61478	SetVector
+4fc61484	DotProduct
+4fc61484	DotProduct
+4fc61490	CrossProduct
+4fc61490	CrossProduct
+4fc614a0	Normalize
+4fc614a0	Normalize
+4fc614ac	Length
+4fc614ac	Length
+4fc614b4	LengthSquared
+4fc614b4	LengthSquared
+4fc614c4	Distance2D
+4fc614c4	Distance2D
+4fc614d0	Distance2DSquared
+4fc614d0	Distance2DSquared
+4fc614e4	Distance3D
+4fc614e4	Distance3D
+4fc614f0	Distance3DSquared
+4fc614f0	Distance3DSquared
+4fc61504	SetMatrix
+4fc61504	SetMatrix
+4fc61510	BuildAxisRotationMatrix
+4fc61510	BuildAxisRotationMatrix
+4fc61528	BuildPositionRotationMatrix
+4fc61528	BuildPositionRotationMatrix
+4fc61544	BuildOrthogonalMatrix
+4fc61544	BuildOrthogonalMatrix
+4fc6155c	BuildDirectionalMatrix
+4fc6155c	BuildDirectionalMatrix
+4fc61574	Build_Yaw_Matrix
+4fc61574	Build_Yaw_Matrix
+4fc61588	Interpolate_Matrix
+4fc61588	Interpolate_Matrix
+4fc6159c	SetQuaternion
+4fc6159c	SetQuaternion
+4fc615ac	Interpolate_Quaternion
+4fc615ac	Interpolate_Quaternion
+4fc615c4	Normalize_Quaternion
+4fc615c4	Normalize_Quaternion
+4fc615dc	Matrix_to_QuatPos
+4fc615dc	Matrix_to_QuatPos
+4fc615f0	Matrix_to_Quaternion
+4fc615f0	Matrix_to_Quaternion
+4fc61608	QuatPos_to_Matrix
+4fc61608	QuatPos_to_Matrix
+4fc6161c	Vector_Transform
+4fc6161c	Vector_Transform
+4fc61630	Vector_TransformInv
+4fc61630	Vector_TransformInv
+4fc61644	Vector_Rotate
+4fc61644	Vector_Rotate
+4fc61654	Vector_RotateInv
+4fc61654	Vector_RotateInv
+4fc61668	Matrix_Inverse
+4fc61668	Matrix_Inverse
+4fc61678	Add_Mult_Vectors
+4fc61678	Add_Mult_Vectors
+4fc6168c	IsNullVector
+4fc6168c	IsNullVector
+4fc6169c	FrontToRadian
+4fc6169c	FrontToRadian
+4fc616ac	FrontToDegrees
+4fc616ac	FrontToDegrees
+4fc616bc	GetFacingDirection
+4fc616bc	GetFacingDirection
+4fc616d0	GetFacingDrection2D
+4fc616d0	GetFacingDrection2D
+4fc616e4	AddToDispatch
+4fc616e4	AddToDispatch
+4fc616f4	ReplaceWeapons
+4fc616f4	ReplaceWeapons
+4fc61704	SetPortalChannel
+4fc61704	SetPortalChannel
+4fc61718	GetPortalChannel
+4fc61718	GetPortalChannel
+4fc6172c	SetPortalEffectStart
+4fc6172c	SetPortalEffectStart
+4fc61744	SetPortalEffectOn
+4fc61744	SetPortalEffectOn
+4fc61758	SetPortalEffectEnd
+4fc61758	SetPortalEffectEnd
+4fc6176c	IsPortalEffectActive
+4fc6176c	IsPortalEffectActive
+4fc61784	SwapPortalIndex
+4fc61784	SwapPortalIndex
+4fc61794	ShufflePortalUp
+4fc61794	ShufflePortalUp
+4fc617a4	ShufflePortalDown
+4fc617a4	ShufflePortalDown
+4fc617b8	GetPortalDest
+4fc617b8	GetPortalDest
+4fc617c8	SetPortalDest
+4fc617c8	SetPortalDest
+4fc617d8	ClearPortalDest
+4fc617d8	ClearPortalDest
+4fc617e8	Lua script Start error: %s
+4fc617e8	Lua script Start error: %s
+4fc61804	.lua
+4fc61804	.lua
+4fc6180c	No Lua script: '%s'
+4fc6180c	No Lua script: '%s'
+4fc61820	io
+4fc61820	io
+4fc61824	os
+4fc61824	os
+4fc61828	print
+4fc61828	print
+4fc61830	Handle
+4fc61830	Handle
+4fc61838	__type
+4fc61838	__type
+4fc61840	__tostring
+4fc61840	__tostring
+4fc6184c	__tosinteger
+4fc6184c	__tosinteger
+4fc6185c	Vector
+4fc6185c	Vector
+4fc61864	__index
+4fc61864	__index
+4fc6186c	__newindex
+4fc6186c	__newindex
+4fc61878	__unm
+4fc61878	__unm
+4fc61880	__add
+4fc61880	__add
+4fc61888	__sub
+4fc61888	__sub
+4fc61890	__mul
+4fc61890	__mul
+4fc61898	__div
+4fc61898	__div
+4fc618a0	__eq
+4fc618a0	__eq
+4fc618a8	Matrix
+4fc618a8	Matrix
+4fc618b0	Quaternion
+4fc618b0	Quaternion
+4fc618bc	IdentityMatrix
+4fc618bc	IdentityMatrix
+4fc618cc	AiCommand
+4fc618cc	AiCommand
+4fc618d8	TauntTypes
+4fc618d8	TauntTypes
+4fc618e4	DMSubGameTypes
+4fc618e4	DMSubGameTypes
+4fc618f4	PreSnipeReturnValues
+4fc618f4	PreSnipeReturnValues
+4fc6190c	PreGetInReturnValues
+4fc6190c	PreGetInReturnValues
+4fc61924	PrePickupPowerupReturnValues
+4fc61924	PrePickupPowerupReturnValues
+4fc61944	RandomizeTypes
+4fc61944	RandomizeTypes
+4fc61954	TeamRelationshipTypes
+4fc61954	TeamRelationshipTypes
+4fc6196c	EjectKillRetCodes
+4fc6196c	EjectKillRetCodes
+4fc61980	LuaMissionVersion
+4fc61980	LuaMissionVersion
+4fc61994	Lua script load error: %s
+4fc61994	Lua script load error: %s
+4fc619b0	Lua script run error: %s
+4fc619b0	Lua script run error: %s
+4fc619cc	Lua script: '%s' loaded
+4fc619cc	Lua script: '%s' loaded
+4fc619e4	InitialSetup
+4fc619e4	InitialSetup
+4fc619f4	Lua script InitialSetup error: %s
+4fc619f4	Lua script InitialSetup error: %s
+4fc61a18	Load
+4fc61a18	Load
+4fc61a20	Lua script Load error: %s
+4fc61a20	Lua script Load error: %s
+4fc61a3c	Save
+4fc61a3c	Save
+4fc61a44	Lua script Save error: %s
+4fc61a44	Lua script Save error: %s
+4fc61a60	PreOrdnanceHit
+4fc61a60	PreOrdnanceHit
+4fc61a70	Lua script PreOrdnanceHit error: %s
+4fc61a70	Lua script PreOrdnanceHit error: %s
+4fc61a94	PreGetIn
+4fc61a94	PreGetIn
+4fc61aa0	Lua script PreGetIn error: %s
+4fc61aa0	Lua script PreGetIn error: %s
+4fc61ac0	Lua script PreGetIn error: invalid return param.
+4fc61ac0	Lua script PreGetIn error: invalid return param.
+4fc61af4	PreSnipe
+4fc61af4	PreSnipe
+4fc61b00	Lua script PreSnipe error: %s
+4fc61b00	Lua script PreSnipe error: %s
+4fc61b20	Lua script PreSnipe error: invalid return param.
+4fc61b20	Lua script PreSnipe error: invalid return param.
+4fc61b54	PrePickupPowerup
+4fc61b54	PrePickupPowerup
+4fc61b68	Lua script PrePickupPowerup error: %s
+4fc61b68	Lua script PrePickupPowerup error: %s
+4fc61b90	Lua script PrePickupPowerup error: invalid return param.
+4fc61b90	Lua script PrePickupPowerup error: invalid return param.
+4fc61bcc	PostTargetChangedCallback
+4fc61bcc	PostTargetChangedCallback
+4fc61be8	Lua script PostTargetChangeCallback error: %s
+4fc61be8	Lua script PostTargetChangeCallback error: %s
+4fc61c18	CreateObject
+4fc61c18	CreateObject
+4fc61c28	Lua script CreateObject error: %s
+4fc61c28	Lua script CreateObject error: %s
+4fc61c4c	AddObject
+4fc61c4c	AddObject
+4fc61c58	Lua script AddObject error: %s
+4fc61c58	Lua script AddObject error: %s
+4fc61c78	DeleteObject
+4fc61c78	DeleteObject
+4fc61c88	Lua script DeleteObject error: %s
+4fc61c88	Lua script DeleteObject error: %s
+4fc61cac	AddPlayer
+4fc61cac	AddPlayer
+4fc61cb8	Lua script AddPlayer error: %s
+4fc61cb8	Lua script AddPlayer error: %s
+4fc61cd8	DeletePlayer
+4fc61cd8	DeletePlayer
+4fc61ce8	Lua script DeletePlayer error: %s
+4fc61ce8	Lua script DeletePlayer error: %s
+4fc61d0c	PlayerEjected
+4fc61d0c	PlayerEjected
+4fc61d1c	Lua script PlayerEjected error: %s
+4fc61d1c	Lua script PlayerEjected error: %s
+4fc61d40	Lua script PlayerEjected error: invalid return param.
+4fc61d40	Lua script PlayerEjected error: invalid return param.
+4fc61d78	ObjectKilled
+4fc61d78	ObjectKilled
+4fc61d88	Lua script ObjectKilled error: %s
+4fc61d88	Lua script ObjectKilled error: %s
+4fc61dac	Lua script ObjectKilled error: invalid return param.
+4fc61dac	Lua script ObjectKilled error: invalid return param.
+4fc61de4	ObjectSniped
+4fc61de4	ObjectSniped
+4fc61df4	Lua script ObjectSniped error: %s
+4fc61df4	Lua script ObjectSniped error: %s
+4fc61e18	Lua script ObjectSniped error: invalid return param.
+4fc61e18	Lua script ObjectSniped error: invalid return param.
+4fc61e50	GetNextRandomVehicleODF
+4fc61e50	GetNextRandomVehicleODF
+4fc61e68	Lua script GetNextRandomVehicleODF error: %s
+4fc61e68	Lua script GetNextRandomVehicleODF error: %s
+4fc61e98	Update
+4fc61e98	Update
+4fc61ea0	Lua script Update error: %s
+4fc61ea0	Lua script Update error: %s
+4fc61ebc	PostRun
+4fc61ebc	PostRun
+4fc61ec4	Lua script PostRun error: '%s'
+4fc61ec4	Lua script PostRun error: '%s'
+4fc61ee4	ProcessCommand
+4fc61ee4	ProcessCommand
+4fc61ef4	Lua script ProcessCommand error: '%s'
+4fc61ef4	Lua script ProcessCommand error: '%s'
+4fc61f1c	SetRandomSeed
+4fc61f1c	SetRandomSeed
+4fc61f2c	Lua script SetRandomSeed error: '%s'
+4fc61f2c	Lua script SetRandomSeed error: '%s'
+4fc61f54	PreTeleport
+4fc61f54	PreTeleport
+4fc61f60	Lua script PreTeleport error: %s
+4fc61f60	Lua script PreTeleport error: %s
+4fc61f84	Lua script PreTeleport error: invalid return param.
+4fc61f84	Lua script PreTeleport error: invalid return param.
+4fc61fb8	tostring
+4fc61fb8	tostring
+4fc61fc4	'tostring' must return a string to 'print'
+4fc61fc4	'tostring' must return a string to 'print'
+4fc61ff0	Lua panic: %s
+4fc61ff0	Lua panic: %s
+4fc62000	%08x
+4fc62000	%08x
+4fc62008	{x=%f, y=%f, z=%f}
+4fc62008	{x=%f, y=%f, z=%f}
+4fc62020	{right_x=%f, right_y=%f, right_z=%f, up_x=%f, up_y=%f, up_z=%f, front_x=%f, front_y=%f, front_z=%f, posit_x=%f, posit_y=%f, posit_z=%f}
+4fc62020	{right_x=%f, right_y=%f, right_z=%f, up_x=%f, up_y=%f, up_z=%f, front_x=%f, front_y=%f, front_z=%f, posit_x=%f, posit_y=%f, posit_z=%f}
+4fc620a8	{s=%f, x=%f, y=%f, z=%f}
+4fc620a8	{s=%f, x=%f, y=%f, z=%f}
+4fc620c4	braccel
+4fc620c4	braccel
+4fc620cc	steer
+4fc620cc	steer
+4fc620d4	pitch
+4fc620d4	pitch
+4fc620dc	strafe
+4fc620dc	strafe
+4fc620e4	jump
+4fc620e4	jump
+4fc620ec	eject
+4fc620ec	eject
+4fc620f4	abandon
+4fc620f4	abandon
+4fc620fc	fire
+4fc620fc	fire
+4fc62104	WHITE
+4fc62104	WHITE
+4fc6210c	LAVACOLOR
+4fc6210c	LAVACOLOR
+4fc62118	ScriptUtils
+4fc62118	ScriptUtils
+4fc62124	%s
+4fc62124	%s
+4fc62128	DistanceToClosestTeamZero
+4fc62128	DistanceToClosestTeamZero
+4fc62144	DistanceToClosestSameTeam
+4fc62144	DistanceToClosestSameTeam
+4fc62160	DistanceToClosestAlly
+4fc62160	DistanceToClosestAlly
+4fc62178	DistanceToClosestEnemy
+4fc62178	DistanceToClosestEnemy
+4fc62190	C API - attempt to push a signaling NaN
+4fc62190	C API - attempt to push a signaling NaN
+4fc621b8	?
+4fc621b8	?
+4fc621bc	.
+4fc621bc	.
+4fc621c0	f
+4fc621c0	f
+4fc621c4	function '%s'
+4fc621c4	function '%s'
+4fc621d4	main chunk
+4fc621d4	main chunk
+4fc621e0	function <%s:%d>
+4fc621e0	function <%s:%d>
+4fc621f4	%s\n
+4fc621f4	%s\n
+4fc621f8	stack traceback:
+4fc621f8	stack traceback:
+4fc6220c	\n\t...
+4fc6220c	\n\t...
+4fc62214	Slnt
+4fc62214	Slnt
+4fc6221c	\n\t%s:
+4fc6221c	\n\t%s:
+4fc62224	%d:
+4fc62224	%d:
+4fc62228	 in 
+4fc62228	 in 
+4fc62230	\n\t(...tail calls...)
+4fc62230	\n\t(...tail calls...)
+4fc62248	bad argument #%d (%s)
+4fc62248	bad argument #%d (%s)
+4fc62260	n
+4fc62260	n
+4fc6226c	calling '%s' on bad self (%s)
+4fc6226c	calling '%s' on bad self (%s)
+4fc6228c	bad argument #%d to '%s' (%s)
+4fc6228c	bad argument #%d to '%s' (%s)
+4fc622ac	%s expected, got %s
+4fc622ac	%s expected, got %s
+4fc622c0	Sl
+4fc622c0	Sl
+4fc622c4	%s:%d: 
+4fc622c4	%s:%d: 
+4fc622cc	%s: %s
+4fc622cc	%s: %s
+4fc622d4	exit
+4fc622d4	exit
+4fc622dc	invalid option '%s'
+4fc622dc	invalid option '%s'
+4fc622f0	stack overflow (%s)
+4fc622f0	stack overflow (%s)
+4fc62304	stack overflow
+4fc62304	stack overflow
+4fc62314	value expected
+4fc62314	value expected
+4fc62324	buffer too large
+4fc62324	buffer too large
+4fc62338	cannot %s %s: %s
+4fc62338	cannot %s %s: %s
+4fc62350	=stdin
+4fc62350	=stdin
+4fc62358	@%s
+4fc62358	@%s
+4fc6235c	r
+4fc6235c	r
+4fc62360	open
+4fc62360	open
+4fc62368	rb
+4fc62368	rb
+4fc6236c	reopen
+4fc6236c	reopen
+4fc62374	read
+4fc62374	read
+4fc6237c	object length is not a number
+4fc6237c	object length is not a number
+4fc6239c	nil
+4fc6239c	nil
+4fc623a0	%s: %p
+4fc623a0	%s: %p
+4fc623a8	too many upvalues
+4fc623a8	too many upvalues
+4fc623bc	_LOADED
+4fc623bc	_LOADED
+4fc623c4	PANIC: unprotected error in call to Lua API (%s)\n
+4fc623c4	PANIC: unprotected error in call to Lua API (%s)\n
+4fc623f8	multiple Lua VMs detected
+4fc623f8	multiple Lua VMs detected
+4fc62414	version mismatch: app. needs %f, Lua core provides %f
+4fc62414	version mismatch: app. needs %f, Lua core provides %f
+4fc62450	bad conversion number->int; must recompile Lua with proper settings
+4fc62450	bad conversion number->int; must recompile Lua with proper settings
+4fc62494	not enough memory
+4fc62494	not enough memory
+4fc624a8	_G
+4fc624a8	_G
+4fc624ac	package
+4fc624ac	package
+4fc624b4	coroutine
+4fc624b4	coroutine
+4fc624c0	table
+4fc624c0	table
+4fc624c8	string
+4fc624c8	string
+4fc624d0	bit32
+4fc624d0	bit32
+4fc624d8	math
+4fc624d8	math
+4fc624e0	debug
+4fc624e0	debug
+4fc624e8	_PRELOAD
+4fc624e8	_PRELOAD
+4fc624f4	invalid key to 'next'
+4fc624f4	invalid key to 'next'
+4fc6250c	table overflow
+4fc6250c	table overflow
+4fc6251c	table index is nil
+4fc6251c	table index is nil
+4fc62530	table index is NaN
+4fc62530	table index is NaN
+4fc62544	%.14g
+4fc62544	%.14g
+4fc6254c	index
+4fc6254c	index
+4fc62554	loop in gettable
+4fc62554	loop in gettable
+4fc62568	loop in settable
+4fc62568	loop in settable
+4fc6257c	string length overflow
+4fc6257c	string length overflow
+4fc62594	get length of
+4fc62594	get length of
+4fc625a4	'for' initial value must be a number
+4fc625a4	'for' initial value must be a number
+4fc625cc	'for' limit must be a number
+4fc625cc	'for' limit must be a number
+4fc625ec	'for' step must be a number
+4fc625ec	'for' step must be a number
+4fc62608	error in error handling
+4fc62608	error in error handling
+4fc62620	call
+4fc62620	call
+4fc62628	C stack overflow
+4fc62628	C stack overflow
+4fc6263c	cannot resume non-suspended coroutine
+4fc6263c	cannot resume non-suspended coroutine
+4fc62664	cannot resume dead coroutine
+4fc62664	cannot resume dead coroutine
+4fc62684	attempt to yield across a C-call boundary
+4fc62684	attempt to yield across a C-call boundary
+4fc626b0	attempt to yield from outside a coroutine
+4fc626b0	attempt to yield from outside a coroutine
+4fc626dc	attempt to load a %s chunk (mode is '%s')
+4fc626dc	attempt to load a %s chunk (mode is '%s')
+4fc62708	binary
+4fc62708	binary
+4fc62710	text
+4fc62710	text
+4fc62718	no message
+4fc62718	no message
+4fc62724	error in __gc metamethod (%s)
+4fc62724	error in __gc metamethod (%s)
+4fc62744	(*vararg)
+4fc62744	(*vararg)
+4fc62750	(*temporary)
+4fc62750	(*temporary)
+4fc62760	=[C]
+4fc62760	=[C]
+4fc62768	C
+4fc62768	C
+4fc6276c	=?
+4fc6276c	=?
+4fc62770	main
+4fc62770	main
+4fc62778	Lua
+4fc62778	Lua
+4fc6277c	local
+4fc6277c	local
+4fc6278c	global
+4fc6278c	global
+4fc62794	field
+4fc62794	field
+4fc6279c	upvalue
+4fc6279c	upvalue
+4fc627a4	constant
+4fc627a4	constant
+4fc627b0	for iterator
+4fc627b0	for iterator
+4fc627c0	metamethod
+4fc627c0	metamethod
+4fc627cc	attempt to %s %s '%s' (a %s value)
+4fc627cc	attempt to %s %s '%s' (a %s value)
+4fc627f0	attempt to %s a %s value
+4fc627f0	attempt to %s a %s value
+4fc6280c	concatenate
+4fc6280c	concatenate
+4fc62818	perform arithmetic on
+4fc62818	perform arithmetic on
+4fc62830	attempt to compare two %s values
+4fc62830	attempt to compare two %s values
+4fc62854	attempt to compare %s with %s
+4fc62854	attempt to compare %s with %s
+4fc62874	%s:%d: %s
+4fc62874	%s:%d: %s
+4fc62880	nN
+4fc62880	nN
+4fc62884	xX
+4fc62884	xX
+4fc62890	%p
+4fc62890	%p
+4fc62894	%
+4fc62894	%
+4fc62898	invalid option '%%%c' to 'lua_pushfstring'
+4fc62898	invalid option '%%%c' to 'lua_pushfstring'
+4fc628d8	no value
+4fc628d8	no value
+4fc628e4	boolean
+4fc628e4	boolean
+4fc628ec	number
+4fc628ec	number
+4fc628f4	function
+4fc628f4	function
+4fc62900	thread
+4fc62900	thread
+4fc62908	proto
+4fc62908	proto
+4fc62910	upval
+4fc62910	upval
+4fc62918	__gc
+4fc62918	__gc
+4fc62920	__mode
+4fc62920	__mode
+4fc62928	__len
+4fc62928	__len
+4fc62930	__mod
+4fc62930	__mod
+4fc62938	__pow
+4fc62938	__pow
+4fc62940	__lt
+4fc62940	__lt
+4fc62948	__le
+4fc62948	__le
+4fc62950	__concat
+4fc62950	__concat
+4fc6295c	__call
+4fc6295c	__call
+4fc62964	too many %s (limit is %d)
+4fc62964	too many %s (limit is %d)
+4fc62980	memory allocation error: block too big
+4fc62980	memory allocation error: block too big
+4fc629a8	and
+4fc629a8	and
+4fc629ac	break
+4fc629ac	break
+4fc629b4	do
+4fc629b4	do
+4fc629b8	else
+4fc629b8	else
+4fc629c0	elseif
+4fc629c0	elseif
+4fc629c8	end
+4fc629c8	end
+4fc629cc	for
+4fc629cc	for
+4fc629d0	goto
+4fc629d0	goto
+4fc629d8	if
+4fc629d8	if
+4fc629dc	in
+4fc629dc	in
+4fc629e0	not
+4fc629e0	not
+4fc629e4	or
+4fc629e4	or
+4fc629e8	repeat
+4fc629e8	repeat
+4fc629f0	return
+4fc629f0	return
+4fc629f8	then
+4fc629f8	then
+4fc62a00	until
+4fc62a00	until
+4fc62a08	while
+4fc62a08	while
+4fc62a10	==
+4fc62a10	==
+4fc62a14	>=
+4fc62a14	>=
+4fc62a18	<=
+4fc62a18	<=
+4fc62a1c	~=
+4fc62a1c	~=
+4fc62a20	::
+4fc62a20	::
+4fc62a24	<eof>
+4fc62a24	<eof>
+4fc62a2c	<number>
+4fc62a2c	<number>
+4fc62a38	<name>
+4fc62a38	<name>
+4fc62a40	<string>
+4fc62a40	<string>
+4fc62a4c	lexical element too long
+4fc62a4c	lexical element too long
+4fc62a68	'%c'
+4fc62a68	'%c'
+4fc62a70	char(%d)
+4fc62a70	char(%d)
+4fc62a7c	'%s'
+4fc62a7c	'%s'
+4fc62a84	%s near %s
+4fc62a84	%s near %s
+4fc62a90	chunk has too many lines
+4fc62a90	chunk has too many lines
+4fc62aac	malformed number
+4fc62aac	malformed number
+4fc62ac0	Ee
+4fc62ac0	Ee
+4fc62ac4	Xx
+4fc62ac4	Xx
+4fc62ac8	Pp
+4fc62ac8	Pp
+4fc62acc	+-
+4fc62acc	+-
+4fc62ad0	unfinished long string
+4fc62ad0	unfinished long string
+4fc62ae8	unfinished long comment
+4fc62ae8	unfinished long comment
+4fc62b00	hexadecimal digit expected
+4fc62b00	hexadecimal digit expected
+4fc62b1c	decimal escape too large
+4fc62b1c	decimal escape too large
+4fc62b38	unfinished string
+4fc62b38	unfinished string
+4fc62b4c	invalid escape sequence
+4fc62b4c	invalid escape sequence
+4fc62b64	invalid long string delimiter
+4fc62b64	invalid long string delimiter
+4fc62b84	position out of bounds
+4fc62b84	position out of bounds
+4fc62b9c	wrong number of arguments to 'insert'
+4fc62b9c	wrong number of arguments to 'insert'
+4fc62bc4	invalid value (%s) at index %d in table for 'concat'
+4fc62bc4	invalid value (%s) at index %d in table for 'concat'
+4fc62bfc	too many results to unpack
+4fc62bfc	too many results to unpack
+4fc62c18	invalid order function for sorting
+4fc62c18	invalid order function for sorting
+4fc62c3c	concat
+4fc62c3c	concat
+4fc62c44	insert
+4fc62c44	insert
+4fc62c4c	pack
+4fc62c4c	pack
+4fc62c54	unpack
+4fc62c54	unpack
+4fc62c5c	remove
+4fc62c5c	remove
+4fc62c64	sort
+4fc62c64	sort
+4fc62c6c	\t
+4fc62c6c	\t
+4fc62c70	base out of range
+4fc62c70	base out of range
+4fc62c84	 \n\r\t
+4fc62c84	 \n\r\t
+4fc62c8c	__metatable
+4fc62c8c	__metatable
+4fc62c98	nil or table expected
+4fc62c98	nil or table expected
+4fc62cb0	cannot change a protected metatable
+4fc62cb0	cannot change a protected metatable
+4fc62cd4	table or string expected
+4fc62cd4	table or string expected
+4fc62cf0	stop
+4fc62cf0	stop
+4fc62cf8	restart
+4fc62cf8	restart
+4fc62d00	collect
+4fc62d00	collect
+4fc62d08	count
+4fc62d08	count
+4fc62d10	step
+4fc62d10	step
+4fc62d18	setpause
+4fc62d18	setpause
+4fc62d24	setstepmul
+4fc62d24	setstepmul
+4fc62d30	setmajorinc
+4fc62d30	setmajorinc
+4fc62d3c	isrunning
+4fc62d3c	isrunning
+4fc62d48	generational
+4fc62d48	generational
+4fc62d58	incremental
+4fc62d58	incremental
+4fc62d64	__pairs
+4fc62d64	__pairs
+4fc62d6c	__ipairs
+4fc62d6c	__ipairs
+4fc62d78	too many nested functions
+4fc62d78	too many nested functions
+4fc62d94	reader function must return a string
+4fc62d94	reader function must return a string
+4fc62dbc	bt
+4fc62dbc	bt
+4fc62dc0	=(load)
+4fc62dc0	=(load)
+4fc62dc8	assertion failed!
+4fc62dc8	assertion failed!
+4fc62ddc	index out of range
+4fc62ddc	index out of range
+4fc62df0	assert
+4fc62df0	assert
+4fc62df8	collectgarbage
+4fc62df8	collectgarbage
+4fc62e08	dofile
+4fc62e08	dofile
+4fc62e10	error
+4fc62e10	error
+4fc62e18	getmetatable
+4fc62e18	getmetatable
+4fc62e28	ipairs
+4fc62e28	ipairs
+4fc62e30	loadfile
+4fc62e30	loadfile
+4fc62e3c	load
+4fc62e3c	load
+4fc62e44	next
+4fc62e44	next
+4fc62e4c	pairs
+4fc62e4c	pairs
+4fc62e54	pcall
+4fc62e54	pcall
+4fc62e5c	rawequal
+4fc62e5c	rawequal
+4fc62e68	rawlen
+4fc62e68	rawlen
+4fc62e70	rawget
+4fc62e70	rawget
+4fc62e78	rawset
+4fc62e78	rawset
+4fc62e80	select
+4fc62e80	select
+4fc62e88	setmetatable
+4fc62e88	setmetatable
+4fc62e98	tonumber
+4fc62e98	tonumber
+4fc62ea4	type
+4fc62ea4	type
+4fc62eac	xpcall
+4fc62eac	xpcall
+4fc62eb4	Lua 5.2
+4fc62eb4	Lua 5.2
+4fc62ebc	_VERSION
+4fc62ebc	_VERSION
+4fc62ec8	unable to get ModuleFileName
+4fc62ec8	unable to get ModuleFileName
+4fc62ee8	!
+4fc62ee8	!
+4fc62eec	system error %d\n
+4fc62eec	system error %d\n
+4fc62f00	_CLIBS
+4fc62f00	_CLIBS
+4fc62f08	init
+4fc62f08	init
+4fc62f10	\n\tno file '%s'
+4fc62f10	\n\tno file '%s'
+4fc62f20	\\
+4fc62f20	\\
+4fc62f24	'package.%s' must be a string
+4fc62f24	'package.%s' must be a string
+4fc62f44	error loading module '%s' from file '%s':\n\t%s
+4fc62f44	error loading module '%s' from file '%s':\n\t%s
+4fc62f74	_
+4fc62f74	_
+4fc62f78	luaopen_%s
+4fc62f78	luaopen_%s
+4fc62f84	cpath
+4fc62f84	cpath
+4fc62f8c	\n\tno module '%s' in file '%s'
+4fc62f8c	\n\tno module '%s' in file '%s'
+4fc62fac	\n\tno field package.preload['%s']
+4fc62fac	\n\tno field package.preload['%s']
+4fc62fd0	searchers
+4fc62fd0	searchers
+4fc62fdc	'package.searchers' must be a table
+4fc62fdc	'package.searchers' must be a table
+4fc63000	module '%s' not found:%s
+4fc63000	module '%s' not found:%s
+4fc6301c	LUA_NOENV
+4fc6301c	LUA_NOENV
+4fc63028	;;
+4fc63028	;;
+4fc6302c	;;
+4fc6302c	;;
+4fc63030	
+4fc63030	
+4fc63034	loadlib
+4fc63034	loadlib
+4fc6303c	searchpath
+4fc6303c	searchpath
+4fc63048	require
+4fc63048	require
+4fc63050	!\\lua\\?.lua;!\\lua\\?\\init.lua;!\\?.lua;!\\?\\init.lua;.\\?.lua
+4fc63050	!\\lua\\?.lua;!\\lua\\?\\init.lua;!\\?.lua;!\\?\\init.lua;.\\?.lua
+4fc6308c	LUA_PATH
+4fc6308c	LUA_PATH
+4fc63098	LUA_PATH_5_2
+4fc63098	LUA_PATH_5_2
+4fc630a8	!\\?.dll;!\\loadall.dll;.\\?.dll
+4fc630a8	!\\?.dll;!\\loadall.dll;.\\?.dll
+4fc630c8	LUA_CPATH
+4fc630c8	LUA_CPATH
+4fc630d4	LUA_CPATH_5_2
+4fc630d4	LUA_CPATH_5_2
+4fc630e4	\\\n;\n?\n!\n-\n
+4fc630e4	\\\n;\n?\n!\n-\n
+4fc630f0	config
+4fc630f0	config
+4fc630f8	loaded
+4fc630f8	loaded
+4fc63100	preload
+4fc63100	preload
+4fc63108	unable to generate a unique filename
+4fc63108	unable to generate a unique filename
+4fc63130	field '%s' missing in date table
+4fc63130	field '%s' missing in date table
+4fc63154	aAbBcdHIjmMpSUwWxXyYz%
+4fc63154	aAbBcdHIjmMpSUwWxXyYz%
+4fc6316c	invalid conversion specifier '%%%s'
+4fc6316c	invalid conversion specifier '%%%s'
+4fc63190	%c
+4fc63190	%c
+4fc63194	sec
+4fc63194	sec
+4fc63198	min
+4fc63198	min
+4fc6319c	hour
+4fc6319c	hour
+4fc631a4	day
+4fc631a4	day
+4fc631a8	month
+4fc631a8	month
+4fc631b0	year
+4fc631b0	year
+4fc631b8	wday
+4fc631b8	wday
+4fc631c0	yday
+4fc631c0	yday
+4fc631c8	isdst
+4fc631c8	isdst
+4fc631d0	all
+4fc631d0	all
+4fc631d4	collate
+4fc631d4	collate
+4fc631dc	ctype
+4fc631dc	ctype
+4fc631e4	monetary
+4fc631e4	monetary
+4fc631f0	numeric
+4fc631f0	numeric
+4fc631f8	time
+4fc631f8	time
+4fc63200	clock
+4fc63200	clock
+4fc63208	date
+4fc63208	date
+4fc63210	difftime
+4fc63210	difftime
+4fc6321c	execute
+4fc6321c	execute
+4fc63224	getenv
+4fc63224	getenv
+4fc6322c	rename
+4fc6322c	rename
+4fc63234	setlocale
+4fc63234	setlocale
+4fc63240	tmpname
+4fc63240	tmpname
+4fc63248	resulting string too large
+4fc63248	resulting string too large
+4fc63264	string slice too long
+4fc63264	string slice too long
+4fc6327c	value out of range
+4fc6327c	value out of range
+4fc63290	unable to dump given function
+4fc63290	unable to dump given function
+4fc632b0	invalid capture index %%%d
+4fc632b0	invalid capture index %%%d
+4fc632cc	invalid pattern capture
+4fc632cc	invalid pattern capture
+4fc632e4	malformed pattern (ends with '%%')
+4fc632e4	malformed pattern (ends with '%%')
+4fc63308	malformed pattern (missing ']')
+4fc63308	malformed pattern (missing ']')
+4fc63328	malformed pattern (missing arguments to '%%b')
+4fc63328	malformed pattern (missing arguments to '%%b')
+4fc63358	too many captures
+4fc63358	too many captures
+4fc6336c	pattern too complex
+4fc6336c	pattern too complex
+4fc63380	missing '[' after '%%f' in pattern
+4fc63380	missing '[' after '%%f' in pattern
+4fc633a4	invalid capture index
+4fc633a4	invalid capture index
+4fc633bc	unfinished capture
+4fc633bc	unfinished capture
+4fc633d0	^$*+?.([%-
+4fc633d0	^$*+?.([%-
+4fc633dc	invalid use of '%c' in replacement string
+4fc633dc	invalid use of '%c' in replacement string
+4fc63408	invalid replacement value (a %s)
+4fc63408	invalid replacement value (a %s)
+4fc6342c	string/function/table expected
+4fc6342c	string/function/table expected
+4fc6344c	\\%d
+4fc6344c	\\%d
+4fc63450	\\%03d
+4fc63450	\\%03d
+4fc63458	-+ #0
+4fc63458	-+ #0
+4fc63460	invalid format (repeated flags)
+4fc63460	invalid format (repeated flags)
+4fc63480	invalid format (width or precision too long)
+4fc63480	invalid format (width or precision too long)
+4fc634b0	not a number in proper range
+4fc634b0	not a number in proper range
+4fc634d0	l
+4fc634d0	l
+4fc634d4	not a non-negative number in proper range
+4fc634d4	not a non-negative number in proper range
+4fc63500	invalid option '%%%c' to 'format'
+4fc63500	invalid option '%%%c' to 'format'
+4fc63524	byte
+4fc63524	byte
+4fc6352c	char
+4fc6352c	char
+4fc63534	dump
+4fc63534	dump
+4fc6353c	find
+4fc6353c	find
+4fc63544	format
+4fc63544	format
+4fc6354c	gmatch
+4fc6354c	gmatch
+4fc63554	gsub
+4fc63554	gsub
+4fc6355c	len
+4fc6355c	len
+4fc63560	lower
+4fc63560	lower
+4fc63568	match
+4fc63568	match
+4fc63570	rep
+4fc63570	rep
+4fc63574	reverse
+4fc63574	reverse
+4fc6357c	sub
+4fc6357c	sub
+4fc63580	upper
+4fc63580	upper
+4fc63588	interval is empty
+4fc63588	interval is empty
+4fc6359c	wrong number of arguments
+4fc6359c	wrong number of arguments
+4fc635b8	abs
+4fc635b8	abs
+4fc635bc	acos
+4fc635bc	acos
+4fc635c4	asin
+4fc635c4	asin
+4fc635cc	atan2
+4fc635cc	atan2
+4fc635d4	atan
+4fc635d4	atan
+4fc635dc	ceil
+4fc635dc	ceil
+4fc635e4	cosh
+4fc635e4	cosh
+4fc635ec	cos
+4fc635ec	cos
+4fc635f0	deg
+4fc635f0	deg
+4fc635f4	exp
+4fc635f4	exp
+4fc635f8	floor
+4fc635f8	floor
+4fc63600	fmod
+4fc63600	fmod
+4fc63608	frexp
+4fc63608	frexp
+4fc63610	ldexp
+4fc63610	ldexp
+4fc63618	log
+4fc63618	log
+4fc6361c	max
+4fc6361c	max
+4fc63620	modf
+4fc63620	modf
+4fc63628	pow
+4fc63628	pow
+4fc6362c	rad
+4fc6362c	rad
+4fc63630	random
+4fc63630	random
+4fc63638	randomseed
+4fc63638	randomseed
+4fc63644	sinh
+4fc63644	sinh
+4fc6364c	sin
+4fc6364c	sin
+4fc63650	sqrt
+4fc63650	sqrt
+4fc63658	tanh
+4fc63658	tanh
+4fc63660	tan
+4fc63660	tan
+4fc63664	pi
+4fc63664	pi
+4fc63668	huge
+4fc63668	huge
+4fc63670	FILE*
+4fc63670	FILE*
+4fc63678	closed file
+4fc63678	closed file
+4fc63684	file
+4fc63684	file
+4fc6368c	file (closed)
+4fc6368c	file (closed)
+4fc6369c	file (%p)
+4fc6369c	file (%p)
+4fc636a8	attempt to use a closed file
+4fc636a8	attempt to use a closed file
+4fc636c8	_IO_output
+4fc636c8	_IO_output
+4fc636d4	cannot open file '%s' (%s)
+4fc636d4	cannot open file '%s' (%s)
+4fc636f0	rwa
+4fc636f0	rwa
+4fc636f4	invalid mode
+4fc636f4	invalid mode
+4fc63704	standard %s file is closed
+4fc63704	standard %s file is closed
+4fc63720	_IO_input
+4fc63720	_IO_input
+4fc6372c	w
+4fc6372c	w
+4fc63730	too many options
+4fc63730	too many options
+4fc63744	%lf
+4fc63744	%lf
+4fc63748	too many arguments
+4fc63748	too many arguments
+4fc6375c	invalid option
+4fc6375c	invalid option
+4fc6376c	invalid format
+4fc6376c	invalid format
+4fc6377c	file is already closed
+4fc6377c	file is already closed
+4fc63794	set
+4fc63794	set
+4fc63798	cur
+4fc63798	cur
+4fc6379c	not an integer in proper range
+4fc6379c	not an integer in proper range
+4fc637bc	no
+4fc637bc	no
+4fc637c0	full
+4fc637c0	full
+4fc637c8	line
+4fc637c8	line
+4fc637d0	close
+4fc637d0	close
+4fc637d8	flush
+4fc637d8	flush
+4fc637e0	input
+4fc637e0	input
+4fc637e8	lines
+4fc637e8	lines
+4fc637f0	output
+4fc637f0	output
+4fc637f8	popen
+4fc637f8	popen
+4fc63800	tmpfile
+4fc63800	tmpfile
+4fc63808	write
+4fc63808	write
+4fc63810	seek
+4fc63810	seek
+4fc63818	setvbuf
+4fc63818	setvbuf
+4fc63820	cannot close standard file
+4fc63820	cannot close standard file
+4fc6383c	stdin
+4fc6383c	stdin
+4fc63844	stdout
+4fc63844	stdout
+4fc6384c	stderr
+4fc6384c	stderr
+4fc63854	full userdata expected, got light userdata
+4fc63854	full userdata expected, got light userdata
+4fc63880	flnStu
+4fc63880	flnStu
+4fc63888	>%s
+4fc63888	>%s
+4fc6388c	function or level expected
+4fc6388c	function or level expected
+4fc638a8	source
+4fc638a8	source
+4fc638b0	short_src
+4fc638b0	short_src
+4fc638bc	linedefined
+4fc638bc	linedefined
+4fc638c8	lastlinedefined
+4fc638c8	lastlinedefined
+4fc638d8	what
+4fc638d8	what
+4fc638e0	currentline
+4fc638e0	currentline
+4fc638ec	nups
+4fc638ec	nups
+4fc638f4	nparams
+4fc638f4	nparams
+4fc638fc	isvararg
+4fc638fc	isvararg
+4fc63908	name
+4fc63908	name
+4fc63910	namewhat
+4fc63910	namewhat
+4fc6391c	istailcall
+4fc6391c	istailcall
+4fc63928	activelines
+4fc63928	activelines
+4fc63934	func
+4fc63934	func
+4fc6393c	level out of range
+4fc6393c	level out of range
+4fc63950	>u
+4fc63950	>u
+4fc63954	invalid upvalue index
+4fc63954	invalid upvalue index
+4fc6396c	Lua function expected
+4fc6396c	Lua function expected
+4fc63984	tail call
+4fc63984	tail call
+4fc63990	_HKEY
+4fc63990	_HKEY
+4fc63998	k
+4fc63998	k
+4fc6399c	external hook
+4fc6399c	external hook
+4fc639ac	lua_debug> 
+4fc639ac	lua_debug> 
+4fc639c0	=(debug command)
+4fc639c0	=(debug command)
+4fc639d4	getuservalue
+4fc639d4	getuservalue
+4fc639e4	gethook
+4fc639e4	gethook
+4fc639ec	getinfo
+4fc639ec	getinfo
+4fc639f4	getlocal
+4fc639f4	getlocal
+4fc63a00	getregistry
+4fc63a00	getregistry
+4fc63a0c	getupvalue
+4fc63a0c	getupvalue
+4fc63a18	upvaluejoin
+4fc63a18	upvaluejoin
+4fc63a24	upvalueid
+4fc63a24	upvalueid
+4fc63a30	setuservalue
+4fc63a30	setuservalue
+4fc63a40	sethook
+4fc63a40	sethook
+4fc63a48	setlocal
+4fc63a48	setlocal
+4fc63a54	setupvalue
+4fc63a54	setupvalue
+4fc63a60	traceback
+4fc63a60	traceback
+4fc63a6c	too many arguments to resume
+4fc63a6c	too many arguments to resume
+4fc63a8c	too many results to resume
+4fc63a8c	too many results to resume
+4fc63aa8	coroutine expected
+4fc63aa8	coroutine expected
+4fc63abc	running
+4fc63abc	running
+4fc63ac4	suspended
+4fc63ac4	suspended
+4fc63ad0	normal
+4fc63ad0	normal
+4fc63ad8	dead
+4fc63ad8	dead
+4fc63ae0	create
+4fc63ae0	create
+4fc63ae8	resume
+4fc63ae8	resume
+4fc63af0	status
+4fc63af0	status
+4fc63af8	wrap
+4fc63af8	wrap
+4fc63b00	yield
+4fc63b00	yield
+4fc63b08	field cannot be negative
+4fc63b08	field cannot be negative
+4fc63b24	width must be positive
+4fc63b24	width must be positive
+4fc63b3c	trying to access non-existent bits
+4fc63b3c	trying to access non-existent bits
+4fc63b60	arshift
+4fc63b60	arshift
+4fc63b68	band
+4fc63b68	band
+4fc63b70	bnot
+4fc63b70	bnot
+4fc63b78	bor
+4fc63b78	bor
+4fc63b7c	bxor
+4fc63b7c	bxor
+4fc63b84	btest
+4fc63b84	btest
+4fc63b8c	extract
+4fc63b8c	extract
+4fc63b94	lrotate
+4fc63b94	lrotate
+4fc63b9c	lshift
+4fc63b9c	lshift
+4fc63ba4	replace
+4fc63ba4	replace
+4fc63bac	rrotate
+4fc63bac	rrotate
+4fc63bb4	rshift
+4fc63bb4	rshift
+4fc63bbc	%s: %s precompiled chunk
+4fc63bbc	%s: %s precompiled chunk
+4fc63bd8	truncated
+4fc63bd8	truncated
+4fc63be4	corrupted
+4fc63be4	corrupted
+4fc63bf0	not a
+4fc63bf0	not a
+4fc63bf8	version mismatch in
+4fc63bf8	version mismatch in
+4fc63c0c	incompatible
+4fc63c0c	incompatible
+4fc63c1c	binary string
+4fc63c1c	binary string
+4fc63c34	%s expected
+4fc63c34	%s expected
+4fc63c40	main function
+4fc63c40	main function
+4fc63c50	function at line %d
+4fc63c50	function at line %d
+4fc63c64	too many %s (limit is %d) in %s
+4fc63c64	too many %s (limit is %d) in %s
+4fc63c84	%s expected (to close %s at line %d)
+4fc63c84	%s expected (to close %s at line %d)
+4fc63cac	local variables
+4fc63cac	local variables
+4fc63cbc	upvalues
+4fc63cbc	upvalues
+4fc63cc8	C levels
+4fc63cc8	C levels
+4fc63cd4	<goto %s> at line %d jumps into the scope of local '%s'
+4fc63cd4	<goto %s> at line %d jumps into the scope of local '%s'
+4fc63d0c	labels/gotos
+4fc63d0c	labels/gotos
+4fc63d1c	<%s> at line %d not inside a loop
+4fc63d1c	<%s> at line %d not inside a loop
+4fc63d40	no visible label '%s' for <goto> at line %d
+4fc63d40	no visible label '%s' for <goto> at line %d
+4fc63d6c	functions
+4fc63d6c	functions
+4fc63d78	items in a constructor
+4fc63d78	items in a constructor
+4fc63d90	<name> or '...' expected
+4fc63d90	<name> or '...' expected
+4fc63dac	self
+4fc63dac	self
+4fc63db4	function arguments expected
+4fc63db4	function arguments expected
+4fc63dd0	unexpected symbol
+4fc63dd0	unexpected symbol
+4fc63de4	cannot use '...' outside a vararg function
+4fc63de4	cannot use '...' outside a vararg function
+4fc63e10	syntax error
+4fc63e10	syntax error
+4fc63e20	label '%s' already defined on line %d
+4fc63e20	label '%s' already defined on line %d
+4fc63e48	(for index)
+4fc63e48	(for index)
+4fc63e54	(for limit)
+4fc63e54	(for limit)
+4fc63e60	(for step)
+4fc63e60	(for step)
+4fc63e6c	(for generator)
+4fc63e6c	(for generator)
+4fc63e7c	(for state)
+4fc63e7c	(for state)
+4fc63e88	(for control)
+4fc63e88	(for control)
+4fc63e98	'=' or 'in' expected
+4fc63e98	'=' or 'in' expected
+4fc63eb0	control structure too long
+4fc63eb0	control structure too long
+4fc63ecc	opcodes
+4fc63ecc	opcodes
+4fc63ed4	function or expression too complex
+4fc63ed4	function or expression too complex
+4fc63ef8	constants
+4fc63ef8	constants
+4fc63f04	constructor too long
+4fc63f04	constructor too long
+4fc657b2	deathmatch01.dll
+4fc657c3	GetMisnAPI
+4fc7b060	<?xml version='1.0' encoding='UTF-8' standalone='yes'?>\r\n<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>\r\n  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">\r\n    <security>\r\n      <requestedPrivileges>\r\n        <requestedExecutionLevel level='asInvoker' uiAccess='false' />\r\n      </requestedPrivileges>\r\n    </security>\r\n  </trustInfo>\r\n</assembly>\r\n
+4fc7b060	<?xml version='1.0' encoding='UTF-8' standalone='yes'?>\r\n<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>\r\n  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">\r\n    <security>\r\n      <requestedPrivileges>\r\n        <requestedExecutionLevel level='asInvoker' uiAccess='false' />\r\n      </requestedPrivileges>\r\n    </security>\r\n  </trustInfo>\r\n</assembly>\r\n

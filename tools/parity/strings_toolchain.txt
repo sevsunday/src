@@ -1,0 +1,8 @@
+# tools/check_strings.py - regex per line; strings both toolchains emit differently (never GBD's own literals)
+# STL exception texts: VS2017 15.9 (GBD) vs VS2022 (ours) word them differently.
+^list<T> too long$
+^vector too long$
+^unordered_map/set too long$
+^invalid hash bucket count$
+# Linker section-name string emitted by the VS2022 CRT (volatile metadata).
+^\.rdata\$voltmd$

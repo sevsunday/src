@@ -1,0 +1,145 @@
+From 644e79f05d2c6ed4d52889ec1402d446d7edb230 Mon Sep 17 00:00:00 2001
+From: BlackDragon <rebelion3@gmail.com>
+Date: Sun, 22 Mar 2026 13:42:01 -0500
+Subject: [PATCH] Test Variant
+
+---
+ Upload/VSR/Autoreg/ivrecy_vsrT.autoreg        | 15 +++++++++++
+ Upload/VSR/Config/Shell/RecDescFFA.txt        |  9 +++++++
+ .../Cerberi/Vehicles/Recycler/cvrecy_vsrT.odf | 25 +++++++++++++++++++
+ .../TEST/Hadean/Vehicles/evrecy_vsrT.odf      | 15 +++++++++++
+ .../TEST/ISDF/Vehicles/ivrecy_vsrT.odf        | 10 ++++++++
+ .../TEST/Scion/Vehicles/fvrecy_vsrT.odf       |  8 ++++++
+ 6 files changed, 82 insertions(+)
+ create mode 100644 Upload/VSR/Autoreg/ivrecy_vsrT.autoreg
+ create mode 100644 Upload/VSR/Recycler Variants/TEST/Cerberi/Vehicles/Recycler/cvrecy_vsrT.odf
+ create mode 100644 Upload/VSR/Recycler Variants/TEST/Hadean/Vehicles/evrecy_vsrT.odf
+ create mode 100644 Upload/VSR/Recycler Variants/TEST/ISDF/Vehicles/ivrecy_vsrT.odf
+ create mode 100644 Upload/VSR/Recycler Variants/TEST/Scion/Vehicles/fvrecy_vsrT.odf
+
+diff --git a/Upload/VSR/Autoreg/ivrecy_vsrT.autoreg b/Upload/VSR/Autoreg/ivrecy_vsrT.autoreg
+new file mode 100644
+index 0000000..26c3233
+--- /dev/null
++++ b/Upload/VSR/Autoreg/ivrecy_vsrT.autoreg
+@@ -0,0 +1,15 @@
++[RecyclerList]
++ODFName="ivrecy_vsrT"
++Description="VSR BZCC (TEST)"
++
++[RecyclerListFFA]
++ODFName="ivrecy_vsrT"
++Description="VSR BZCC (TEST)"
++
++[RecyclerListMPI]
++ODFName="ivrecy_vsrT"
++Description="VSR BZCC (TEST)"
++
++[IAHumanRecyclerList]
++ODFName="ivrecy_vsrT"
++Description="VSR BZCC (TEST)"
+diff --git a/Upload/VSR/Config/Shell/RecDescFFA.txt b/Upload/VSR/Config/Shell/RecDescFFA.txt
+index 29b1cad..0ac45cb 100644
+--- a/Upload/VSR/Config/Shell/RecDescFFA.txt
++++ b/Upload/VSR/Config/Shell/RecDescFFA.txt
+@@ -17,6 +17,15 @@ VSR "Standard" Variant: This includes the most basic balance and physics improve
+ 
+ ------------------------------------------------------------------------------------
+ 
++"VSR TEST"
++**Default Test Variant**
++
++VSR "Standard" Variant, plus the following active test changes:
++
++- 
++
++------------------------------------------------------------------------------------
++
+ "VSR BZCC (Plus)"
+ 
+ VSR "Plus" Variant: Includes everything in "Standard" PLUS:
+diff --git a/Upload/VSR/Recycler Variants/TEST/Cerberi/Vehicles/Recycler/cvrecy_vsrT.odf b/Upload/VSR/Recycler Variants/TEST/Cerberi/Vehicles/Recycler/cvrecy_vsrT.odf
+new file mode 100644
+index 0000000..23a6105
+--- /dev/null
++++ b/Upload/VSR/Recycler Variants/TEST/Cerberi/Vehicles/Recycler/cvrecy_vsrT.odf	
+@@ -0,0 +1,25 @@
++[GameObjectClass]
++classLabel = "cvrecy02"
++
++startingVariant = "_vsr"
++pilotRespawnWithSniper = "csuser"
++pilotRespawnWithOutSniper = "csuser_m"
++
++[CraftClass]
++
++damageEffect1 = "dmgvhcl_c1"
++damageEffect2 = "dmgvhcl_c2"
++damageEffect3 = "dmgvhcl_c3"
++damageEffect4 = "dmgvhcl_c4"
++
++[TrackedVehicleClass]
++velocReverse = 10.0
++accelThrust = 50.0
++omegaSpin = 2.0
++
++[TrackedDeployableClass]
++
++[DeployBuildingClass]
++deployName = "cbrecy_vsr"
++
++[RecyclerVehicleClass]
+diff --git a/Upload/VSR/Recycler Variants/TEST/Hadean/Vehicles/evrecy_vsrT.odf b/Upload/VSR/Recycler Variants/TEST/Hadean/Vehicles/evrecy_vsrT.odf
+new file mode 100644
+index 0000000..b98fb4a
+--- /dev/null
++++ b/Upload/VSR/Recycler Variants/TEST/Hadean/Vehicles/evrecy_vsrT.odf	
+@@ -0,0 +1,15 @@
++[GameObjectClass]
++classLabel="evrecy_vsr"
++
++// DLL
++startingVariant="_vsr"
++
++[CraftClass]
++
++damageEffect1 = "dmgvhcl_e1"
++damageEffect2 = "dmgvhcl_e2"
++damageEffect3 = "dmgvhcl_e3"
++damageEffect4 = "dmgvhcl_e4"
++
++[DeployBuildingClass]
++deployName="ebrecy_vsr"
+diff --git a/Upload/VSR/Recycler Variants/TEST/ISDF/Vehicles/ivrecy_vsrT.odf b/Upload/VSR/Recycler Variants/TEST/ISDF/Vehicles/ivrecy_vsrT.odf
+new file mode 100644
+index 0000000..a86b110
+--- /dev/null
++++ b/Upload/VSR/Recycler Variants/TEST/ISDF/Vehicles/ivrecy_vsrT.odf	
+@@ -0,0 +1,10 @@
++[GameObjectClass]
++classLabel="ivrecy_vsr"
++
++// DLL
++startingVariant="_vsr"
++pilotRespawnWithSniper="isuser" 
++pilotRespawnWithOutSniper="isuser_m"
++
++[DeployBuildingClass]
++deployName="ibrecy_vsr"
+diff --git a/Upload/VSR/Recycler Variants/TEST/Scion/Vehicles/fvrecy_vsrT.odf b/Upload/VSR/Recycler Variants/TEST/Scion/Vehicles/fvrecy_vsrT.odf
+new file mode 100644
+index 0000000..81721e6
+--- /dev/null
++++ b/Upload/VSR/Recycler Variants/TEST/Scion/Vehicles/fvrecy_vsrT.odf	
+@@ -0,0 +1,8 @@
++[GameObjectClass]
++classLabel="fvrecy_vsr"
++
++// DLL
++startingVariant="_vsr"
++
++[DeployBuildingClass]
++deployName="fbrecy_vsr"
+-- 
+2.51.0.windows.2
+

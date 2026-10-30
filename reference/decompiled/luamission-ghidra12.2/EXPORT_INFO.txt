@@ -1,0 +1,10 @@
+program: LuaMission.dll
+image_base: 4fc00000
+executable_md5: 8959ce12d29b5ec4bdb615d8c086d55e
+executable_sha256: a7097e937761f2ef81d84693ef537c0102cc359ad3d6a7aa1d7d01a6b98a5a2a
+ghidra: 12.2
+source_map_api: yes
+functions: 1866 (user 901)
+decompiled: 901 failed: 0
+files: 44
+globals: 13973

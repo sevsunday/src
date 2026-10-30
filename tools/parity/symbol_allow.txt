@@ -1,0 +1,73 @@
+# tools/check_symbol_parity.py allow list - one qualified function name per line
+# (differences that are explained in STATUS.md and accepted)
+#
+# Both builds use /O1 /Ob2 /GL + /LTCG /OPT:REF /OPT:ICF; the roster differs only where the
+# VS2017 15.9 and VS2022 inliners decided differently. Every function below exists in our
+# source with the PDB signature; the question is only whether an out-of-line copy survived.
+#
+# A. Header inlines GBD's compiler emitted out of line (remove_if predicates passed by pointer,
+#    accessors, Vector/Matrix wrappers, the Lua stack helpers); ours inlined every use so /OPT:REF
+#    dropped the copy. Also the "moved" entries: an inline's surviving copy lands in whichever
+#    object the linker kept (close_enough, Hash, GetDistance3DSquared, Matrix::Matrix).
+BZ1Helper::ShouldRemoveAlignTerrainReplace
+BZ1Helper::ShouldRemoveDeleteAfterDelay
+BuildingHelper::ShouldRemoveBuilding
+CarrierHelper::ShouldRemoveCarrier
+CarrierHelper::ShouldRemoveDrone
+DispatchHelper::ShouldRemoveDispatch
+MorphObjectHelper::ShouldRemoveMorphObject
+ObjectHelper::ShouldRemoveObject
+PowerupHelper::ShouldRemovePowerup
+ScrapHelper::ShouldRemoveScrap
+UndeployHelper::ShouldRemoveUndeployObject
+UtilityShipHelper::ShouldRemoveUtilityShip
+VehicleHelper::ShouldRemoveVehicle
+BuildingHelper::GetNumBuildingObjects
+ObjectHelper::GetNumHandles
+ScrapHelper::GetNumScrapObjects
+IsEmpty
+close_enough
+GetPositionNearOrFar
+GetDistance3DSquared
+GetDistance
+GetPosition
+GetLength3D
+IsNullVector
+CameraObject
+FrontToRadian
+TerrainFindFloor
+StartAudio3D
+Hash
+Matrix::Matrix
+LuaBindings::GetHandle
+LuaBindings::GetMatrix
+LuaBindings::GetQuaternion
+LuaBindings::GetVector
+LuaBindings::RequireMatrix
+LuaBindings::RequireQuaternion
+LuaBindings::RequireVector
+#
+# B. Single-call-site functions. Ours inlined these into their one caller (missing in our PDB):
+SetTauntCPUName
+StartingVehicleManager::Load
+StartingVehicleManager::Save
+DLLUtils::CountAlliedPlayers
+PUPMgr::PostLoad
+Deathmatch01::GetCanEject
+Deathmatch01::GetInitialFlagStandODF
+#    GBD's LTCG inlined these into BZ1Helper::Load / ~BZ1Helper and ours kept them (extra in our PDB):
+AttacherHelper::Load
+BuildingHelper::Load
+DispatchHelper::Load
+MorphObjectHelper::Load
+ObjectHelper::Load
+PowerHelper::Load
+PowerupHelper::Load
+UtilityShipHelper::Load
+VehicleHelper::Load
+PortalHelper::~PortalHelper
+#
+# C. The PDB's type record for this member lists (int, Matrix, int, int) but the compiled code
+#    reads Index, FxNumber, unused, Matrix from the stack (LuaMission.dll @4fc3e17b: [esp+58h] is
+#    the %d of "%s%dEnd", [esp+60h] the Matrix passed to BuildObject); ours follows the code.
+PortalHelper::SetPortalEffectVeh_Internal

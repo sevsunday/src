@@ -1,0 +1,70 @@
+# COMMITS — full metadata for the preserved branch commits of BlackDragonN001/VSR_Workshop
+# Exported 2026-10-28 from a clone fetched the same day. Hashes verified against git ls-remote.
+
+==============================================================================
+branch: Lua-Stock-Missions
+parent (merge-base with master): 93248a9157825e2ca0e7d111483e78936a7e5cf9
+
+commit ea4173fbddbeba2b2f97e499bea87967bfbdc147
+Author:     BlackDragon <rebelion3@gmail.com>
+AuthorDate: Tue Mar 3 17:17:00 2026 -0600
+Commit:     BlackDragon <rebelion3@gmail.com>
+CommitDate: Tue Mar 3 17:17:00 2026 -0600
+
+    Lua versions of Strategy/Deathmatch/Instant with some test maps.
+
+ Upload/VSR/Missions/Instant/Stock Maps/CHILLI/chilli.bzn                    |  Bin 12970 -> 32512 bytes
+ Upload/VSR/Missions/Instant/Stock Maps/CHILLI/chilli.lua                    |    3 +
+ Upload/VSR/Missions/Instant/Stock Maps/DUNESI/dunesi.bzn                    |  Bin 31706 -> 113980 bytes
+ Upload/VSR/Missions/Instant/Stock Maps/DUNESI/dunesi.lua                    |    3 +
+ .../VSR/Missions/Multiplayer/Custom Maps/Appel/Red Slope/STRedSlopevsr.bzn  |    2 +-
+ .../VSR/Missions/Multiplayer/Custom Maps/Appel/Red Slope/STRedSlopevsr.lua  |    3 +
+ Upload/VSR/Missions/Multiplayer/Custom Maps/Appel/Terron/vsrterron.bzn      |    2 +-
+ Upload/VSR/Missions/Multiplayer/Custom Maps/Appel/Terron/vsrterron.lua      |    3 +
+ .../VSR/Missions/Multiplayer/Custom Maps/MalevolencE/Mojave/vsrMojave.bzn   |    2 +-
+ .../VSR/Missions/Multiplayer/Custom Maps/MalevolencE/Mojave/vsrMojave.lua   |    3 +
+ Upload/VSR/Missions/Multiplayer/Stock Maps/Deathmatch/DMpyramid/pyramid.bzn |    2 +-
+ Upload/VSR/Missions/Multiplayer/Stock Maps/Deathmatch/DMpyramid/pyramid.lua |    3 +
+ Upload/VSR/Missions/Multiplayer/Stock Maps/Deathmatch/dmcubes/dmcubes.bzn   |    2 +-
+ Upload/VSR/Missions/Multiplayer/Stock Maps/Deathmatch/dmcubes/dmcubes.lua   |    3 +
+ Upload/VSR/Missions/Scripts/Deathmatch.lua                                  | 1943 ++++++++++++++++++++++++
+ Upload/VSR/Missions/Scripts/Helpers/_AICmd.lua                              |   60 +
+ Upload/VSR/Missions/Scripts/Helpers/_DLLUtils.lua                           |  480 +++++-
+ Upload/VSR/Missions/Scripts/Helpers/_GlobalHandler.lua                      |   37 +
+ Upload/VSR/Missions/Scripts/Helpers/_GlobalVariables.lua                    |   92 +-
+ Upload/VSR/Missions/Scripts/Helpers/_PUPMgr.lua                             |  173 ++-
+ Upload/VSR/Missions/Scripts/Helpers/_StartingVehicles.lua                   |   65 +
+ Upload/VSR/Missions/Scripts/InstantMission.lua                              |  979 ++++++++++++
+ Upload/VSR/Missions/Scripts/Main/_AnimalController.lua                      |    4 +-
+ Upload/VSR/Missions/Scripts/Strategy.lua                                    | 2811 +++++++++++++++++++++++++++++++++++
+ 24 files changed, 6559 insertions(+), 116 deletions(-)
+
+==============================================================================
+branch: Test_Variant
+parent (merge-base with master): 80f058ddcbf5522673b9c7965db51ac0148dcf29
+
+commit 644e79f05d2c6ed4d52889ec1402d446d7edb230
+Author:     BlackDragon <rebelion3@gmail.com>
+AuthorDate: Sun Mar 22 13:42:01 2026 -0500
+Commit:     BlackDragon <rebelion3@gmail.com>
+CommitDate: Sun Mar 22 13:42:01 2026 -0500
+
+    Test Variant
+
+ Upload/VSR/Autoreg/ivrecy_vsrT.autoreg                                      | 15 +++++++++++++++
+ Upload/VSR/Config/Shell/RecDescFFA.txt                                      |  9 +++++++++
+ Upload/VSR/Recycler Variants/TEST/Cerberi/Vehicles/Recycler/cvrecy_vsrT.odf | 25 +++++++++++++++++++++++++
+ Upload/VSR/Recycler Variants/TEST/Hadean/Vehicles/evrecy_vsrT.odf           | 15 +++++++++++++++
+ Upload/VSR/Recycler Variants/TEST/ISDF/Vehicles/ivrecy_vsrT.odf             | 10 ++++++++++
+ Upload/VSR/Recycler Variants/TEST/Scion/Vehicles/fvrecy_vsrT.odf            |  8 ++++++++
+ 6 files changed, 82 insertions(+)
+
+==============================================================================
+master at export time:
+commit 58a5f56c308c152ab25acb8470429351c44eb713
+Author:     BlackDragon <rebelion3@gmail.com>
+AuthorDate: Sun Oct 18 14:00:48 2026 -0500
+Commit:     BlackDragon <rebelion3@gmail.com>
+CommitDate: Sun Oct 18 14:00:48 2026 -0500
+
+    Moved a text file from game loaded resources to documents folder.

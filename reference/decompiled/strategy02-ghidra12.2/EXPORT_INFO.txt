@@ -1,0 +1,10 @@
+program: Strategy02.dll
+image_base: 4fc00000
+executable_md5: 3161984a4876905edede6ce9f72732ac
+executable_sha256: a4b3ce223fc305df88507b07d1e0790ced781df5147ccce4886d776c45c0b6bb
+ghidra: 12.2
+source_map_api: yes
+functions: 1925 (user 953)
+decompiled: 952 failed: 1
+files: 48
+globals: 14912
