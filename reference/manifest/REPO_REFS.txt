@@ -1,6 +1,12 @@
-# REPO_REFS — every ref and hash of the full-history preservation mirrors
-# Mirrors made 2026-10-28 with 'git clone --mirror'. Kept outside this repository.
+# REPO_REFS — every ref and hash of the upstream repositories this project pins
+# Recorded 2026-10-28 (D1, D3, D4) and 2026-10-30 (D11) from 'git clone --mirror' / 'git clone'.
 # Pinned commits used by this project are marked PIN.
+#
+# Everything the reconstruction uses from these repositories is already inside this
+# repository, byte-exact and hashed (original/, reference/ancestor-*/). This file is the
+# verification path if an upstream is ever re-fetched: clone it again and check the refs and
+# commit hashes below. Full-history mirrors may exist outside the repository; nothing here
+# depends on them.
 
 ==============================================================================
 D1  VSR_Workshop.git
@@ -50,6 +56,22 @@ pinned commits:
   6fda4f5ab3c2f2aae882ebe22b9ef6180e42f744 2015-11-27T19:17:15-06:00 Nielk1  More CLeanup
 
 ==============================================================================
+D11 vsr_dll_lua.git
+remote: https://github.com/BlackDragonN001/vsr_dll_lua.git
+fetched 2026-10-30 with 'git clone' (one commit; no mirror kept)
+commits (all refs): 1
+
+refs:
+  873669df40e82344923f175c56611da5a5746f5f refs/heads/main 2025-08-02T16:12:40-05:00  PIN
+
+pinned commits:
+  873669df40e82344923f175c56611da5a5746f5f 2025-08-02T16:12:40-05:00 BlackDragon  Initial Strategy02 Conversion, WIP. Spent 5 hours on this...
+
+blobs:
+  d7fe3fb99ef7596f6e990eca343a3c286786e204 Lua/Strategy.lua  -> original/lua/vsr_dll_lua_873669d/Lua/Strategy.lua
+
+==============================================================================
+Re-check a pin is upstream:  git ls-remote <remote>
+Re-fetch and verify:         git clone --mirror <remote> <mirror>; git -C <mirror> rev-parse <PIN>
 Verify a mirror is intact:   git -C <mirror> fsck --full
 Refresh a mirror:            git -C <mirror> remote update --prune
-Re-check a pin is upstream:  git ls-remote <remote>

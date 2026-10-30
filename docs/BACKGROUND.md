@@ -38,8 +38,11 @@ layout are read from the PDBs (`reference/manifest/pdb/*.types.md`, Tier B).
    and `luamission` descend; Nielk1's repository holds the 2015 BZ1Helper family
    (`reference/ancestor-bz1helper-2015/`, Tier A′) from which 14 of the 20 `vsrcore/` files descend.
    `reference/manifest/FILE_MAP.md` pairs every VSR file with its seed and the size delta.
-3. **GBD's Lua port exists** (`original/lua/`, Tier A): his own rewrite of the three mission files in Lua, a
-   second, independent statement of the same logic to check the C++ against.
+3. **GBD's Lua ports exist** (`original/lua/`, Tier A): his finished rewrite of the three mission files in Lua
+   (`Lua-Stock-Missions`), a second, independent statement of the same logic to check the C++ against — and
+   his abandoned first attempt (`vsr_dll_lua_873669d/`), whose lines 776-3652 are the C++ of `Strategy02.cpp`
+   itself under a mechanical search-and-replace: GBD's identifiers, comments and statement order for that one
+   file (`../STATUS.md`, "GBD-text cross-check").
 4. **The decompile is reproducible** (Tier B): `tools/ghidra/` regenerates the PDB-symbolized decompile;
    the regenerated roster matches the received copy function for function
    (`reference/decompiled/strategy02-ghidra12.2/DIFF_vs_strategy02-attempt2.md`).

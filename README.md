@@ -7,7 +7,7 @@ Battlezone: Combat Commander (BZCC).
 
 | Path | Contents | Trust tier |
 |---|---|---|
-| `original/` | The shipped DLLs and PDBs, GBD's Lua port of the three mission files, VSR documents and Workshop metadata — byte-exact, append-only | A |
+| `original/` | The shipped DLLs and PDBs, GBD's two Lua artifacts (the finished port of the three mission files; his first Strategy02 conversion, whose second half is the C++ text), the VSR lobby shell pages, VSR documents and Workshop metadata — byte-exact, append-only | A |
 | `reference/ancestor-1.3/` | The BZ2 1.3.7.2 stock mission-DLL source pack from GBD's public repository | A |
 | `reference/ancestor-bz1helper-2015/` | The 2015 `BZ1Helper` helper family (GBD / Nielk1) that VSR's `vsrcore/` grew from | A′ |
 | `reference/decompiled/` | PDB-symbolized Ghidra decompile of the shipped DLLs, regenerated here | B |
@@ -18,7 +18,7 @@ Battlezone: Combat Commander (BZCC).
 | `release/<date>/` | The four built DLLs with PDBs and `SHA256SUMS.txt`, for running without building; each folder's `README.md` states what was tested | — |
 | `build/build.cmd` | The only build entry point; mirrors GBD's link structure | — |
 | `tools/` | Scaffolder, layout-assert generator, parity gates, Ghidra runbook | — |
-| `docs/` | Background, recovery status, netvar reference | — |
+| `docs/` | Background, recovery status, netvar reference, behaviour reference (function by function, helper by helper) | — |
 
 Trust tiers are defined in `PROVENANCE.md`. Every file under `source/` carries
 a `// PROVENANCE:` header naming its ancestor, the decompile range it was

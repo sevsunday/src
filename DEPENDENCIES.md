@@ -16,6 +16,7 @@ given before relying on a fresh fetch.
 | D8 | Existing Strategy02 decompile | B (pending regeneration) | `reference/decompiled/strategy02-attempt2/` |
 | D9 | Parity-test Workshop content | — | Steam Workshop items listed below, installed |
 | D10 | Third-party engine reference | C | `BZ_REA` documentation (`reference/engine/`); VRV mod (not copied) |
+| D11 | GBD's first Strategy02 Lua conversion (C++ text) | A | `BlackDragonN001/vsr_dll_lua` — `main` `873669df40e82344923f175c56611da5a5746f5f` (the only commit); `original/lua/vsr_dll_lua_873669d/` |
 
 ## D1 — VSR Workshop repository
 
@@ -26,6 +27,9 @@ given before relying on a fresh fetch.
   - `refs/heads/Test_Variant` `644e79f05d2c6ed4d52889ec1402d446d7edb230` (2026-03-22)
 - No tags. 341 commits across all refs.
 - Latest DLL build commit: `d0f63c6` 2026-02-20 "Fixed bug in Service Truck AI Dispatch code".
+- Exported from `master` into this repository: the DLLs + PDBs (D2), `Upload/VSR Documents/` and the Workshop item
+  files (`original/docs/`), and the 47 `Upload/VSR/Config/Shell/bzshell_multi*` lobby pages (`original/shell/`,
+  `SHA256SUMS.txt`); from the two branches, their changed files (`original/lua/`).
 - Verify: `git ls-remote https://github.com/BlackDragonN001/VSR_Workshop.git`
 - Full-history mirror kept outside this repository (see `reference/manifest/REPO_REFS.txt`).
 
@@ -154,6 +158,21 @@ These are exactly the `assetDependencies` of `1325933293.ini`.
 
 - `BZ_REA` engine documentation for 2.0.185 — copied into `reference/engine/` with `SOURCES.md`. Checklists only; no code.
 - The VRV mod source (`https://gitlab.com/vacuum34/vrv.git`, `main`) — not copied. Its stock-1.3 copies are modified and are superseded by D3.
+
+## D11 — GBD's first Strategy02 Lua conversion
+
+- Remote: `https://github.com/BlackDragonN001/vsr_dll_lua.git` ("VSR CPP Lua conversions")
+- Ref / commit (verified `git clone` 2026-10-30): `refs/heads/main` `873669df40e82344923f175c56611da5a5746f5f`
+  (2025-08-02, "Initial Strategy02 Conversion, WIP. Spent 5 hours on this..."). One commit, one file.
+- File: `Lua/Strategy.lua`, 132,453 bytes, blob `d7fe3fb99ef7596f6e990eca343a3c286786e204`, SHA-256
+  `28657155E66C1DF8448198053F8141F0FF3045B190295C728D6FF991A607F75C`; kept byte-exact at
+  `original/lua/vsr_dll_lua_873669d/Lua/Strategy.lua`.
+- Why it is pinned: lines 776-3652 are the C++ of GBD's `Strategy02.cpp` with a mechanical search-and-replace
+  applied (`original/lua/README.md`) — the only GBD-authored text of that file in public, and the text
+  cross-check recorded in `STATUS.md` ("GBD-text cross-check"). The finished Lua port (D1
+  `Lua-Stock-Missions`) is a separate, later rewrite.
+- Verify: `git ls-remote https://github.com/BlackDragonN001/vsr_dll_lua.git` and
+  `git hash-object --no-filters original/lua/vsr_dll_lua_873669d/Lua/Strategy.lua` (expect `d7fe3fb9…`).
 
 ## Dead ends (recorded so nobody re-walks them)
 

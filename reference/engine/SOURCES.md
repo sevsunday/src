@@ -28,7 +28,7 @@ DLLs run against. Its procedure-level claims come from a decrypted capture of th
 | `bz_rea/OBJECT-STATE.md` | 17,719 | `d322d71a1c6a7cab…` | Object state, handle gates and native SDK behavior | `GetTeamNum`, health getters, `SetTeamNum` refusal for MP players — context for the helpers' per-object code |
 | `bz_rea/OBJECT-CLASS-LOAD.md` | 8,606 | `23a7efb7db674436…` | GameObjectClass construction and ODF inheritance | ODF defaults the engine applies when a key is missing (`customCost`, `customTime`, `aiAddHealth`…) |
 | `bz_rea/ODF.md` | 30,118 | `d70d3a969f2889fe…` | ODF access: public 2.0.185 interface and native wrappers | typed-getter coercions, 15-char inline value claim, key hashing — checklist for every `GetODF*` call the port writes |
-| `bz_rea/NETWORK-VARIABLES.md` | 20,042 | `9ddf5a18a2bd0dae…` | Network variable keys, remapping and replication | `ivar` / `svar` storage and remapping — context for `VSR_NETVARS.md` |
+| `bz_rea/NETWORK-VARIABLES.md` | 20,042 | `9ddf5a18a2bd0dae…` | Network variable keys, remapping and replication | `ivar` / `svar` storage and remapping — context for `docs/NETVARS.md` |
 
 The other 36 files (`NETWORK-*.md`, `API-REFERENCE.md`, `object-model.json`, …) stay in the local
 `BZ_REA` checkout and are cited by name where a cross-check used them.

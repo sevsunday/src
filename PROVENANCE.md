@@ -16,6 +16,11 @@ team) for VSR itself.
   (`VSR_Workshop` branch `Lua-Stock-Missions`, commit `ea4173f`;
   `original/lua/`).
 - The `Test_Variant` branch content (commit `644e79f`; `original/lua/`).
+- GBD's first, abandoned Strategy02 conversion (`BlackDragonN001/vsr_dll_lua`,
+  commit `873669d`; `original/lua/vsr_dll_lua_873669d/`) — from line 776 on it
+  is the C++ of his `Strategy02.cpp` under a mechanical search-and-replace.
+- The VSR shell pages (`Upload/VSR/Config/Shell/bzshell_multi*.cfg` at
+  `58a5f56`; `original/shell/`) that bind the lobby options to the netvars.
 - `VSR Documents/` (changelogs, developer notes, `vsr-netvars.txt`, map info),
   the Workshop item `.ini` / `.cfg` / `.des` files (`original/docs/`).
 - The BZ2 1.3.7.2-b132L mission-DLL source pack in GBD's public

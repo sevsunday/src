@@ -16,7 +16,7 @@ Sources and how they are cited:
 | Tag | Source | Tier |
 |---|---|---|
 | `N:<line>` | `original/docs/VSR Documents/Developer Notes/vsr-netvars.txt` (GBD's spec; 287 lines) | A |
-| `S:<cfg>:<line>` | `Upload/VSR/Config/Shell/bzshell_multi_*.cfg` in GBD's Workshop repository at `58a5f56` (what the lobby UI binds; not copied here — see `reference/manifest/REPO_REFS.txt`) | A |
+| `S:<cfg>:<line>` | `Upload/VSR/Config/Shell/bzshell_multi_*.cfg` in GBD's Workshop repository at `58a5f56` (what the lobby UI binds) — copied byte-exact to `../original/shell/` | A |
 | `D:<file> <orig lines>` (+ `a2:<line>` = line in `reference/decompiled/strategy02-attempt2/src/missions/.../<file>.decomp.c`) | the decompile; original source line ranges come from the PDB (`reference/manifest/strategy02-attempt2/functions.tsv`) and are stable across regenerations | B |
 | `13:vars.txt` | `reference/ancestor-1.3/Source/network/vars.txt` | A′ |
 | `P:<file>:<line>` | the ported source under `source/missions/{strategy02,deathmatch01,vsrcore,shared}/` | B |

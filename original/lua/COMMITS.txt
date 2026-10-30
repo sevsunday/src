@@ -60,6 +60,23 @@ CommitDate: Sun Mar 22 13:42:01 2026 -0500
  6 files changed, 82 insertions(+)
 
 ==============================================================================
+repository: BlackDragonN001/vsr_dll_lua  (https://github.com/BlackDragonN001/vsr_dll_lua.git)
+branch: main (the only ref; the only commit). Fetched 2026-10-30.
+
+commit 873669df40e82344923f175c56611da5a5746f5f
+Author:     BlackDragon <rebelion3@gmail.com>
+AuthorDate: Sat Aug 2 16:12:40 2025 -0500
+Commit:     BlackDragon <rebelion3@gmail.com>
+CommitDate: Sat Aug 2 16:12:40 2025 -0500
+
+    Initial Strategy02 Conversion, WIP. Spent 5 hours on this...
+
+ Lua/Strategy.lua | 3652 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 3652 insertions(+)
+
+ blob d7fe3fb99ef7596f6e990eca343a3c286786e204  Lua/Strategy.lua  (132,453 bytes)
+
+==============================================================================
 master at export time:
 commit 58a5f56c308c152ab25acb8470429351c44eb713
 Author:     BlackDragon <rebelion3@gmail.com>

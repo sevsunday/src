@@ -28,7 +28,7 @@ tier 3 `bz1helper` and the large helpers (`dispatchhelper` last) → tier 4 `lua
 
 | Stage | State |
 |---|---|
-| Preservation (originals, documents, Lua port, ancestor trees, repository mirrors) | complete, hashed, blob-verified |
+| Preservation (originals, documents, both Lua ports, the VSR shell pages, ancestor trees) | complete, hashed, blob-verified; the upstream refs and hashes are in `reference/manifest/REPO_REFS.txt` |
 | Toolchain (`build/build.cmd`, GBD's recorded flags, stub load test in the game) | complete — `build/stub/LOADTEST.md` |
 | PDB-derived manifests (layouts, methods, enums, build environment, membership) | complete, regenerable (`tools/pdb_*.py`) |
 | Scaffold (66 files, PDB-true declarations, 1,205 stubs, 387 ancestor seeds) | complete; all four DLLs build with zero warnings, every layout assert passes |
@@ -54,6 +54,7 @@ tier 3 `bz1helper` and the large helpers (`dispatchhelper` last) → tier 4 `lua
 | D8 | the received decompile | `reference/decompiled/strategy02-attempt2/` |
 | D9 | Workshop items for parity tests | `1325933293` + its eight asset packs |
 | D10 | third-party engine notes (Tier C, no code) | `reference/engine/SOURCES.md` |
+| D11 | GBD's first Strategy02 conversion (C++ text from line 776) | `873669df40e82344923f175c56611da5a5746f5f` |
 
 ## Corrections made to the original plan
 
